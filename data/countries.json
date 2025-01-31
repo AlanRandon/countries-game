@@ -20,7 +20,7 @@
     },
     {
       "capitals": [
-        "Porto-Novo",
+        "Porto-Novo (constitutional capital)",
         "Cotonou (seat of government)"
       ],
       "name": "Benin"
@@ -233,7 +233,9 @@
     },
     {
       "capitals": [
-        "Pretoria"
+        "Pretoria (administrative capital)",
+        "Cape Town (legislative capital)",
+        "Bloemfontein (judicial capital)"
       ],
       "name": "South Africa"
     },
@@ -1319,7 +1321,8 @@
     },
     {
       "capitals": [
-        "La Paz"
+        "La Paz (administrative capital)",
+        "Sucre (constitutional [legislative and judicial] capital)"
       ],
       "name": "Bolivia"
     },

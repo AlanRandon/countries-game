@@ -17,7 +17,7 @@
 		capitals: (
 			if $capital and ($capital | startswith("no official") | not) then
 				$capital
-				| sub("(; note.*|is the.*|; located in.*|in Romanian.*| \\(.*?(continues|on).*?\\)| \\(city\\))"; ""; "g")
+				| sub("(; note.*|is the.*|; located in.*|in Romanian.*| \\(Kiev.*?\\)| \\(.*?continues.*?\\)| \\(city\\)| \\(on.*?\\)| \\(located on.*?\\))"; ""; "g")
 				| sub("Washington, DC"; "Washington DC")
 				| sub("; "; ", "; "g")
 				| split(",(?=[^\\)]*(?:\\(|$))"; "g")
