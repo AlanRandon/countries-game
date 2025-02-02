@@ -65,8 +65,16 @@ export class Quiz extends LitElementNoShadow {
 
 const OPTION_COUNT = 6;
 
-const QUESTION_WHICH_CITY = 0 as const;
-const QUESTION_WHICH_COUNTRY = 1 as const;
+const QUESTION_HAS_WHICH_CAPITAL = 0 as const;
+const QUESTION_CAPITAL_IN_WHICH_COUNTRY = 1 as const;
+const QUESTION_FLAG_FOR_WHICH_COUNTRY = 2 as const;
+
+const MAX_QUESTION_KIND = QUESTION_FLAG_FOR_WHICH_COUNTRY;
+
+type QuestionKind =
+  | typeof QUESTION_HAS_WHICH_CAPITAL
+  | typeof QUESTION_CAPITAL_IN_WHICH_COUNTRY
+  | typeof QUESTION_FLAG_FOR_WHICH_COUNTRY;
 
 type Country = (typeof data.countries)[0];
 
@@ -83,17 +91,17 @@ function shuffle<T>(arr: Array<T>): Array<T> {
 export class Question extends LitElementNoShadow {
   choices: Country[];
   correct: number;
-  kind: typeof QUESTION_WHICH_CITY | typeof QUESTION_WHICH_COUNTRY;
+  kind: QuestionKind;
 
   constructor() {
     super();
     this.style.display = "contents";
 
-    const kind =
-      Math.random() > 0.5 ? QUESTION_WHICH_CITY : QUESTION_WHICH_COUNTRY;
-
+    const kind = Math.floor(
+      Math.random() * (MAX_QUESTION_KIND + 1),
+    ) as QuestionKind;
     switch (kind) {
-      case QUESTION_WHICH_CITY:
+      case QUESTION_HAS_WHICH_CAPITAL:
         this.choices = shuffle(
           Array.from(withCapitals).map((i) => data.countries[i]),
         ).slice(0, OPTION_COUNT);
@@ -101,7 +109,7 @@ export class Question extends LitElementNoShadow {
         this.correct = Math.floor(Math.random() * OPTION_COUNT);
 
         break;
-      case QUESTION_WHICH_COUNTRY:
+      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
         let choices = shuffle(
           data.countries.map((country, originalIndex) => ({
             country,
@@ -124,6 +132,9 @@ export class Question extends LitElementNoShadow {
         this.choices = shuffledChoices.map((choice) => choice.choice.country);
 
         break;
+      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
+        this.choices = shuffle(data.countries).slice(0, OPTION_COUNT);
+        this.correct = Math.floor(Math.random() * this.choices.length);
     }
 
     this.kind = kind;
@@ -131,11 +142,13 @@ export class Question extends LitElementNoShadow {
 
   getChoiceText(country: Country): string {
     switch (this.kind) {
-      case QUESTION_WHICH_CITY:
+      case QUESTION_HAS_WHICH_CAPITAL:
         return country.capitals[
           Math.floor(Math.random() * country.capitals.length)
         ];
-      case QUESTION_WHICH_COUNTRY:
+      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
+        return country.name;
+      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
         return country.name;
     }
   }
@@ -143,12 +156,14 @@ export class Question extends LitElementNoShadow {
   getQuestionText(): string {
     const country = this.choices[this.correct];
     switch (this.kind) {
-      case QUESTION_WHICH_CITY:
-        return `Which is a capital of <b>${country.name}</b>?`;
-      case QUESTION_WHICH_COUNTRY:
-        return `<b>${
+      case QUESTION_HAS_WHICH_CAPITAL:
+        return `<span>Which is a capital of <b>${country.name}</b>?</span>`;
+      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
+        return `<span><b>${
           country.capitals[Math.floor(Math.random() * country.capitals.length)]
-        }</b> is a capital of which country?`;
+        }</b> is a capital of which country?</span>`;
+      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
+        return `<span>Which country has the following flag?</span><img src="${country.flag}" class="h-8">`;
     }
   }
 
@@ -188,7 +203,10 @@ export class Question extends LitElementNoShadow {
     });
 
     return html`<div class="grid place-items-center">
-      <div .innerHTML=${this.getQuestionText()}></div>
+      <div
+        .innerHTML=${this.getQuestionText()}
+        class="grid place-items-center"
+      ></div>
       <div class="flex flex-col items-center justify-center gap-2 m-2 min-w-64">
         ${choices}
       </div>

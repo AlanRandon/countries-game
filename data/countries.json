@@ -4,232 +4,308 @@
       "capitals": [
         "Algiers"
       ],
-      "name": "Algeria"
+      "name": "Algeria",
+      "code": "ag",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AG-flag.jpg"
     },
     {
       "capitals": [
         "Luanda"
       ],
-      "name": "Angola"
+      "name": "Angola",
+      "code": "ao",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AO-flag.jpg"
     },
     {
       "capitals": [
         "Gaborone"
       ],
-      "name": "Botswana"
+      "name": "Botswana",
+      "code": "bc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BC-flag.jpg"
     },
     {
       "capitals": [
         "Porto-Novo (constitutional capital)",
         "Cotonou (seat of government)"
       ],
-      "name": "Benin"
+      "name": "Benin",
+      "code": "bn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BN-flag.jpg"
     },
     {
       "capitals": [
         "Gitega (political capital)",
         "Bujumbura (commercial capital)"
       ],
-      "name": "Burundi"
+      "name": "Burundi",
+      "code": "by",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BY-flag.jpg"
     },
     {
       "capitals": [
         "N'Djamena"
       ],
-      "name": "Chad"
+      "name": "Chad",
+      "code": "cd",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CD-flag.jpg"
     },
     {
       "capitals": [
         "Brazzaville"
       ],
-      "name": "Congo"
+      "name": "Congo",
+      "code": "cf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CF-flag.jpg"
     },
     {
       "capitals": [
         "Kinshasa"
       ],
-      "name": "DRC"
+      "name": "DRC",
+      "code": "cg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CG-flag.jpg"
     },
     {
       "capitals": [
         "Yaounde"
       ],
-      "name": "Cameroon"
+      "name": "Cameroon",
+      "code": "cm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CM-flag.jpg"
     },
     {
       "capitals": [
         "Moroni"
       ],
-      "name": "Comoros"
+      "name": "Comoros",
+      "code": "cn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CN-flag.jpg"
     },
     {
       "capitals": [
         "Praia"
       ],
-      "name": "Cabo Verde"
+      "name": "Cabo Verde",
+      "code": "cv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CV-flag.jpg"
     },
     {
       "capitals": [
         "Djibouti"
       ],
-      "name": "Djibouti"
+      "name": "Djibouti",
+      "code": "dj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/DJ-flag.jpg"
     },
     {
       "capitals": [
         "Cairo"
       ],
-      "name": "Egypt"
+      "name": "Egypt",
+      "code": "eg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EG-flag.jpg"
     },
     {
       "capitals": [
         "Malabo"
       ],
-      "name": "Equatorial Guinea"
+      "name": "Equatorial Guinea",
+      "code": "ek",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EK-flag.jpg"
     },
     {
       "capitals": [
         "Asmara"
       ],
-      "name": "Eritrea"
+      "name": "Eritrea",
+      "code": "er",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ER-flag.jpg"
     },
     {
       "capitals": [
         "Addis Ababa"
       ],
-      "name": "Ethiopia"
+      "name": "Ethiopia",
+      "code": "et",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ET-flag.jpg"
     },
     {
       "capitals": [
         "Banjul"
       ],
-      "name": "The Gambia"
+      "name": "The Gambia",
+      "code": "ga",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GA-flag.jpg"
     },
     {
       "capitals": [
         "Libreville"
       ],
-      "name": "Gabon"
+      "name": "Gabon",
+      "code": "gb",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GB-flag.jpg"
     },
     {
       "capitals": [
         "Accra"
       ],
-      "name": "Ghana"
+      "name": "Ghana",
+      "code": "gh",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GH-flag.jpg"
     },
     {
       "capitals": [
         "Conakry"
       ],
-      "name": "Guinea"
+      "name": "Guinea",
+      "code": "gv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GV-flag.jpg"
     },
     {
       "capitals": [
         "Yamoussoukro (legislative capital)",
         "Abidjan (administrative capital)"
       ],
-      "name": "C&ocirc;te d'Ivoire"
+      "name": "C&ocirc;te d'Ivoire",
+      "code": "iv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IV-flag.jpg"
     },
     {
       "capitals": [
         "Nairobi"
       ],
-      "name": "Kenya"
+      "name": "Kenya",
+      "code": "ke",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KE-flag.jpg"
     },
     {
       "capitals": [
         "Monrovia"
       ],
-      "name": "Liberia"
+      "name": "Liberia",
+      "code": "li",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LI-flag.jpg"
     },
     {
       "capitals": [
         "Maseru"
       ],
-      "name": "Lesotho"
+      "name": "Lesotho",
+      "code": "lt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LT-flag.jpg"
     },
     {
       "capitals": [
         "Tripoli (Tarabulus)"
       ],
-      "name": "Libya"
+      "name": "Libya",
+      "code": "ly",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LY-flag.jpg"
     },
     {
       "capitals": [
         "Antananarivo"
       ],
-      "name": "Madagascar"
+      "name": "Madagascar",
+      "code": "ma",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MA-flag.jpg"
     },
     {
       "capitals": [
         "Lilongwe"
       ],
-      "name": "Malawi"
+      "name": "Malawi",
+      "code": "mi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MI-flag.jpg"
     },
     {
       "capitals": [
         "Bamako"
       ],
-      "name": "Mali"
+      "name": "Mali",
+      "code": "ml",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ML-flag.jpg"
     },
     {
       "capitals": [
         "Rabat"
       ],
-      "name": "Morocco"
+      "name": "Morocco",
+      "code": "mo",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MO-flag.jpg"
     },
     {
       "capitals": [
         "Port Louis"
       ],
-      "name": "Mauritius"
+      "name": "Mauritius",
+      "code": "mp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MP-flag.jpg"
     },
     {
       "capitals": [
         "Nouakchott"
       ],
-      "name": "Mauritania"
+      "name": "Mauritania",
+      "code": "mr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MR-flag.jpg"
     },
     {
       "capitals": [
         "Maputo"
       ],
-      "name": "Mozambique"
+      "name": "Mozambique",
+      "code": "mz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MZ-flag.jpg"
     },
     {
       "capitals": [
         "Niamey"
       ],
-      "name": "Niger"
+      "name": "Niger",
+      "code": "ng",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NG-flag.jpg"
     },
     {
       "capitals": [
         "Abuja"
       ],
-      "name": "Nigeria"
+      "name": "Nigeria",
+      "code": "ni",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NI-flag.jpg"
     },
     {
       "capitals": [
         "Juba"
       ],
-      "name": "South Sudan"
+      "name": "South Sudan",
+      "code": "od",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/OD-flag.jpg"
     },
     {
       "capitals": [
         "Bissau"
       ],
-      "name": "Guinea-Bissau"
+      "name": "Guinea-Bissau",
+      "code": "pu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PU-flag.jpg"
     },
     {
       "capitals": [
         "Kigali"
       ],
-      "name": "Rwanda"
+      "name": "Rwanda",
+      "code": "rw",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RW-flag.jpg"
     },
     {
       "capitals": [
         "Victoria"
       ],
-      "name": "Seychelles"
+      "name": "Seychelles",
+      "code": "se",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SE-flag.jpg"
     },
     {
       "capitals": [
@@ -237,1213 +313,1629 @@
         "Cape Town (legislative capital)",
         "Bloemfontein (judicial capital)"
       ],
-      "name": "South Africa"
+      "name": "South Africa",
+      "code": "sf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SF-flag.jpg"
     },
     {
       "capitals": [
         "Dakar"
       ],
-      "name": "Senegal"
+      "name": "Senegal",
+      "code": "sg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SG-flag.jpg"
     },
     {
       "capitals": [
         "Freetown"
       ],
-      "name": "Sierra Leone"
+      "name": "Sierra Leone",
+      "code": "sl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SL-flag.jpg"
     },
     {
       "capitals": [
         "Mogadishu"
       ],
-      "name": "Somalia"
+      "name": "Somalia",
+      "code": "so",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SO-flag.jpg"
     },
     {
       "capitals": [
         "Khartoum"
       ],
-      "name": "Sudan"
+      "name": "Sudan",
+      "code": "su",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SU-flag.jpg"
     },
     {
       "capitals": [
         "Lome"
       ],
-      "name": "Togo"
+      "name": "Togo",
+      "code": "to",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TO-flag.jpg"
     },
     {
       "capitals": [
         "Sao Tome"
       ],
-      "name": "Sao Tome and Principe"
+      "name": "Sao Tome and Principe",
+      "code": "tp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TP-flag.jpg"
     },
     {
       "capitals": [
         "Tunis"
       ],
-      "name": "Tunisia"
+      "name": "Tunisia",
+      "code": "ts",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TS-flag.jpg"
     },
     {
       "capitals": [
         "Dodoma"
       ],
-      "name": "Tanzania"
+      "name": "Tanzania",
+      "code": "tz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TZ-flag.jpg"
     },
     {
       "capitals": [
         "Kampala"
       ],
-      "name": "Uganda"
+      "name": "Uganda",
+      "code": "ug",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UG-flag.jpg"
     },
     {
       "capitals": [
         "Ouagadougou"
       ],
-      "name": "Burkina Faso"
+      "name": "Burkina Faso",
+      "code": "uv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UV-flag.jpg"
     },
     {
       "capitals": [
         "Windhoek"
       ],
-      "name": "Namibia"
+      "name": "Namibia",
+      "code": "wa",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WA-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Western Sahara"
+      "name": "Western Sahara",
+      "code": "wi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WI-flag.jpg"
     },
     {
       "capitals": [
         "Mbabane (administrative capital)",
         "Lobamba (royal and legislative capital)"
       ],
-      "name": "Eswatini"
+      "name": "Eswatini",
+      "code": "wz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WZ-flag.jpg"
     },
     {
       "capitals": [
         "Lusaka"
       ],
-      "name": "Zambia"
+      "name": "Zambia",
+      "code": "za",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ZA-flag.jpg"
     },
     {
       "capitals": [
         "Harare"
       ],
-      "name": "Zimbabwe"
+      "name": "Zimbabwe",
+      "code": "zi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ZI-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Antarctica"
+      "name": "Antarctica",
+      "code": "ay",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AY-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Bouvet Island"
+      "name": "Bouvet Island",
+      "code": "bv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BV-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "French Southern and Antarctic Lands"
+      "name": "French Southern and Antarctic Lands",
+      "code": "fs",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FS-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Heard Island and McDonald Islands"
+      "name": "Heard Island and McDonald Islands",
+      "code": "hm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HM-flag.jpg"
     },
     {
       "capitals": [
         "Pago Pago"
       ],
-      "name": "American Samoa"
+      "name": "American Samoa",
+      "code": "aq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AQ-flag.jpg"
     },
     {
       "capitals": [
         "Canberra"
       ],
-      "name": "Australia"
+      "name": "Australia",
+      "code": "as",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AS-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Ashmore and Cartier Islands"
+      "name": "Ashmore and Cartier Islands",
+      "code": "at",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AT-flag.jpg"
     },
     {
       "capitals": [
         "Honiara"
       ],
-      "name": "Solomon Islands"
+      "name": "Solomon Islands",
+      "code": "bp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BP-flag.jpg"
     },
     {
       "capitals": [
         "West Island"
       ],
-      "name": "Cocos Islands"
+      "name": "Cocos Islands",
+      "code": "ck",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CK-flag.jpg"
     },
     {
       "capitals": [
         "Saipan"
       ],
-      "name": "Northern Mariana Islands"
+      "name": "Northern Mariana Islands",
+      "code": "cq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CQ-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Coral Sea Islands"
+      "name": "Coral Sea Islands",
+      "code": "cr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CR-flag.jpg"
     },
     {
       "capitals": [
         "Avarua"
       ],
-      "name": "Cook Islands"
+      "name": "Cook Islands",
+      "code": "cw",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CW-flag.jpg"
     },
     {
       "capitals": [
         "Suva"
       ],
-      "name": "Fiji"
+      "name": "Fiji",
+      "code": "fj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FJ-flag.jpg"
     },
     {
       "capitals": [
         "Papeete"
       ],
-      "name": "French Polynesia"
+      "name": "French Polynesia",
+      "code": "fp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FP-flag.jpg"
     },
     {
       "capitals": [
         "Hagatna (Agana)"
       ],
-      "name": "Guam"
+      "name": "Guam",
+      "code": "gq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GQ-flag.jpg"
     },
     {
       "capitals": [
         "Tarawa"
       ],
-      "name": "Kiribati"
+      "name": "Kiribati",
+      "code": "kr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KR-flag.jpg"
     },
     {
       "capitals": [
         "The Settlement (Flying Fish Cove)"
       ],
-      "name": "Christmas Island"
+      "name": "Christmas Island",
+      "code": "kt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KT-flag.jpg"
     },
     {
       "capitals": [
         "Noumea"
       ],
-      "name": "New Caledonia"
+      "name": "New Caledonia",
+      "code": "nc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NC-flag.jpg"
     },
     {
       "capitals": [
         "Alofi"
       ],
-      "name": "Niue"
+      "name": "Niue",
+      "code": "ne",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NE-flag.jpg"
     },
     {
       "capitals": [
         "Kingston"
       ],
-      "name": "Norfolk Island"
+      "name": "Norfolk Island",
+      "code": "nf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NF-flag.jpg"
     },
     {
       "capitals": [
         "Port-Vila"
       ],
-      "name": "Vanuatu"
+      "name": "Vanuatu",
+      "code": "nh",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NH-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Nauru"
+      "name": "Nauru",
+      "code": "nr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NR-flag.jpg"
     },
     {
       "capitals": [
         "Wellington"
       ],
-      "name": "New Zealand"
+      "name": "New Zealand",
+      "code": "nz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NZ-flag.jpg"
     },
     {
       "capitals": [
         "Adamstown"
       ],
-      "name": "Pitcairn Islands"
+      "name": "Pitcairn Islands",
+      "code": "pc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PC-flag.jpg"
     },
     {
       "capitals": [
         "Ngerulmud"
       ],
-      "name": "Palau"
+      "name": "Palau",
+      "code": "ps",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PS-flag.jpg"
     },
     {
       "capitals": [
         "Majuro"
       ],
-      "name": "Marshall Islands"
+      "name": "Marshall Islands",
+      "code": "rm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RM-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Tokelau"
+      "name": "Tokelau",
+      "code": "tl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TL-flag.jpg"
     },
     {
       "capitals": [
         "Nuku'alofa"
       ],
-      "name": "Tonga"
+      "name": "Tonga",
+      "code": "tn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TN-flag.jpg"
     },
     {
       "capitals": [
         "Funafuti"
       ],
-      "name": "Tuvalu"
+      "name": "Tuvalu",
+      "code": "tv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TV-flag.jpg"
     },
     {
       "capitals": [
         "Mata-Utu"
       ],
-      "name": "Wallis and Futuna"
+      "name": "Wallis and Futuna",
+      "code": "wf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WF-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Wake Island"
+      "name": "Wake Island",
+      "code": "wq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WQ-flag.jpg"
     },
     {
       "capitals": [
         "Apia"
       ],
-      "name": "Samoa"
+      "name": "Samoa",
+      "code": "ws",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WS-flag.jpg"
     },
     {
       "capitals": [
         "Oranjestad"
       ],
-      "name": "Aruba"
+      "name": "Aruba",
+      "code": "aa",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AA-flag.jpg"
     },
     {
       "capitals": [
         "Saint John's"
       ],
-      "name": "Antigua and Barbuda"
+      "name": "Antigua and Barbuda",
+      "code": "ac",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AC-flag.jpg"
     },
     {
       "capitals": [
         "The Valley"
       ],
-      "name": "Anguilla"
+      "name": "Anguilla",
+      "code": "av",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AV-flag.jpg"
     },
     {
       "capitals": [
         "Bridgetown"
       ],
-      "name": "Barbados"
+      "name": "Barbados",
+      "code": "bb",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BB-flag.jpg"
     },
     {
       "capitals": [
         "Nassau"
       ],
-      "name": "The Bahamas"
+      "name": "The Bahamas",
+      "code": "bf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BF-flag.jpg"
     },
     {
       "capitals": [
         "Belmopan"
       ],
-      "name": "Belize"
+      "name": "Belize",
+      "code": "bh",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BH-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Navassa Island"
+      "name": "Navassa Island",
+      "code": "bq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BQ-flag.jpg"
     },
     {
       "capitals": [
         "George Town"
       ],
-      "name": "Cayman Islands"
+      "name": "Cayman Islands",
+      "code": "cj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CJ-flag.jpg"
     },
     {
       "capitals": [
         "San Jos&eacute;"
       ],
-      "name": "Costa Rica"
+      "name": "Costa Rica",
+      "code": "cs",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CS-flag.jpg"
     },
     {
       "capitals": [
         "Havana"
       ],
-      "name": "Cuba"
+      "name": "Cuba",
+      "code": "cu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CU-flag.jpg"
     },
     {
       "capitals": [
         "Roseau"
       ],
-      "name": "Dominica"
+      "name": "Dominica",
+      "code": "do",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/DO-flag.jpg"
     },
     {
       "capitals": [
         "Santo Domingo"
       ],
-      "name": "The Dominican"
+      "name": "The Dominican",
+      "code": "dr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/DR-flag.jpg"
     },
     {
       "capitals": [
         "San Salvador"
       ],
-      "name": "El Salvador"
+      "name": "El Salvador",
+      "code": "es",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ES-flag.jpg"
     },
     {
       "capitals": [
         "Saint George's"
       ],
-      "name": "Grenada"
+      "name": "Grenada",
+      "code": "gj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GJ-flag.jpg"
     },
     {
       "capitals": [
         "Guatemala City"
       ],
-      "name": "Guatemala"
+      "name": "Guatemala",
+      "code": "gt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GT-flag.jpg"
     },
     {
       "capitals": [
         "Port-au-Prince"
       ],
-      "name": "Haiti"
+      "name": "Haiti",
+      "code": "ha",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HA-flag.jpg"
     },
     {
       "capitals": [
         "Tegucigalpa"
       ],
-      "name": "Honduras"
+      "name": "Honduras",
+      "code": "ho",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HO-flag.jpg"
     },
     {
       "capitals": [
         "Kingston"
       ],
-      "name": "Jamaica"
+      "name": "Jamaica",
+      "code": "jm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/JM-flag.jpg"
     },
     {
       "capitals": [
         "Plymouth"
       ],
-      "name": "Montserrat"
+      "name": "Montserrat",
+      "code": "mh",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MH-flag.jpg"
     },
     {
       "capitals": [
         "Philipsburg"
       ],
-      "name": "Sint Maarten"
+      "name": "Sint Maarten",
+      "code": "nn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NN-flag.jpg"
     },
     {
       "capitals": [
         "Managua"
       ],
-      "name": "Nicaragua"
+      "name": "Nicaragua",
+      "code": "nu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NU-flag.jpg"
     },
     {
       "capitals": [
         "Panama City"
       ],
-      "name": "Panama"
+      "name": "Panama",
+      "code": "pm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PM-flag.jpg"
     },
     {
       "capitals": [
         "Marigot"
       ],
-      "name": "Saint Martin"
+      "name": "Saint Martin",
+      "code": "rn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RN-flag.jpg"
     },
     {
       "capitals": [
         "San Juan"
       ],
-      "name": "Puerto Rico"
+      "name": "Puerto Rico",
+      "code": "rq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RQ-flag.jpg"
     },
     {
       "capitals": [
         "Basseterre"
       ],
-      "name": "Saint Kitts and Nevis"
+      "name": "Saint Kitts and Nevis",
+      "code": "sc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SC-flag.jpg"
     },
     {
       "capitals": [
         "Castries"
       ],
-      "name": "Saint Lucia"
+      "name": "Saint Lucia",
+      "code": "st",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ST-flag.jpg"
     },
     {
       "capitals": [
         "Gustavia"
       ],
-      "name": "Saint Barthelemy"
+      "name": "Saint Barthelemy",
+      "code": "tb",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TB-flag.jpg"
     },
     {
       "capitals": [
         "Port of Spain"
       ],
-      "name": "Trinidad and Tobago"
+      "name": "Trinidad and Tobago",
+      "code": "td",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TD-flag.jpg"
     },
     {
       "capitals": [
         "Grand Turk (Cockburn Town)"
       ],
-      "name": "Turks and Caicos Islands"
+      "name": "Turks and Caicos Islands",
+      "code": "tk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TK-flag.jpg"
     },
     {
       "capitals": [
         "Willemstad"
       ],
-      "name": "Curacao"
+      "name": "Curacao",
+      "code": "uc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UC-flag.jpg"
     },
     {
       "capitals": [
         "Kingstown"
       ],
-      "name": "Saint Vincent and the Grenadines"
+      "name": "Saint Vincent and the Grenadines",
+      "code": "vc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VC-flag.jpg"
     },
     {
       "capitals": [
         "Road Town"
       ],
-      "name": "British Virgin Islands"
+      "name": "British Virgin Islands",
+      "code": "vi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VI-flag.jpg"
     },
     {
       "capitals": [
         "Charlotte Amalie"
       ],
-      "name": "Virgin Islands"
+      "name": "Virgin Islands",
+      "code": "vq",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VQ-flag.jpg"
     },
     {
       "capitals": [
         "Bishkek"
       ],
-      "name": "Kyrgyzstan"
+      "name": "Kyrgyzstan",
+      "code": "kg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KG-flag.jpg"
     },
     {
       "capitals": [
         "Astana"
       ],
-      "name": "Kazakhstan"
+      "name": "Kazakhstan",
+      "code": "kz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KZ-flag.jpg"
     },
     {
       "capitals": [
         "Moscow"
       ],
-      "name": "Russia"
+      "name": "Russia",
+      "code": "rs",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RS-flag.jpg"
     },
     {
       "capitals": [
         "Dushanbe"
       ],
-      "name": "Tajikistan"
+      "name": "Tajikistan",
+      "code": "ti",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TI-flag.jpg"
     },
     {
       "capitals": [
         "Ashgabat (Ashkhabad)"
       ],
-      "name": "Turkmenistan"
+      "name": "Turkmenistan",
+      "code": "tx",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TX-flag.jpg"
     },
     {
       "capitals": [
         "Tashkent (Toshkent)"
       ],
-      "name": "Uzbekistan"
+      "name": "Uzbekistan",
+      "code": "uz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UZ-flag.jpg"
     },
     {
       "capitals": [
         "Rangoon",
         "Nay Pyi Taw"
       ],
-      "name": "Burma"
+      "name": "Burma",
+      "code": "bm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BM-flag.jpg"
     },
     {
       "capitals": [
         "Bandar Seri Begawan"
       ],
-      "name": "Brunei"
+      "name": "Brunei",
+      "code": "bx",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BX-flag.jpg"
     },
     {
       "capitals": [
         "Phnom Penh"
       ],
-      "name": "Cambodia"
+      "name": "Cambodia",
+      "code": "cb",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CB-flag.jpg"
     },
     {
       "capitals": [
         "Beijing"
       ],
-      "name": "China"
+      "name": "China",
+      "code": "ch",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CH-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Hong Kong"
+      "name": "Hong Kong",
+      "code": "hk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HK-flag.jpg"
     },
     {
       "capitals": [
         "Jakarta"
       ],
-      "name": "Indonesia"
+      "name": "Indonesia",
+      "code": "id",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/ID-flag.jpg"
     },
     {
       "capitals": [
         "Tokyo"
       ],
-      "name": "Japan"
+      "name": "Japan",
+      "code": "ja",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/JA-flag.jpg"
     },
     {
       "capitals": [
         "Pyongyang"
       ],
-      "name": "North Korea"
+      "name": "North Korea",
+      "code": "kn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KN-flag.jpg"
     },
     {
       "capitals": [
         "Seoul"
       ],
-      "name": "South Korea"
+      "name": "South Korea",
+      "code": "ks",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KS-flag.jpg"
     },
     {
       "capitals": [
         "Vientiane (Viangchan)"
       ],
-      "name": "Laos&nbsp;"
+      "name": "Laos&nbsp;",
+      "code": "la",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LA-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Macau"
+      "name": "Macau",
+      "code": "mc",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MC-flag.jpg"
     },
     {
       "capitals": [
         "Ulaanbaatar"
       ],
-      "name": "Mongolia"
+      "name": "Mongolia",
+      "code": "mg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MG-flag.jpg"
     },
     {
       "capitals": [
         "Kuala Lumpur"
       ],
-      "name": "Malaysia"
+      "name": "Malaysia",
+      "code": "my",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MY-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Paracel Islands"
+      "name": "Paracel Islands",
+      "code": "pf",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PF-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Spratly Islands"
+      "name": "Spratly Islands",
+      "code": "pg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PG-flag.jpg"
     },
     {
       "capitals": [
         "Port Moresby"
       ],
-      "name": "Papua New Guinea"
+      "name": "Papua New Guinea",
+      "code": "pp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PP-flag.jpg"
     },
     {
       "capitals": [
         "Manila"
       ],
-      "name": "Philippines"
+      "name": "Philippines",
+      "code": "rp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RP-flag.jpg"
     },
     {
       "capitals": [
         "Singapore"
       ],
-      "name": "Singapore"
+      "name": "Singapore",
+      "code": "sn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SN-flag.jpg"
     },
     {
       "capitals": [
         "Bangkok"
       ],
-      "name": "Thailand"
+      "name": "Thailand",
+      "code": "th",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TH-flag.jpg"
     },
     {
       "capitals": [
         "Dili"
       ],
-      "name": "Timor-Leste"
+      "name": "Timor-Leste",
+      "code": "tt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TT-flag.jpg"
     },
     {
       "capitals": [
         "Taipei"
       ],
-      "name": "Taiwan"
+      "name": "Taiwan",
+      "code": "tw",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TW-flag.jpg"
     },
     {
       "capitals": [
         "Hanoi (Ha Noi)"
       ],
-      "name": "Vietnam"
+      "name": "Vietnam",
+      "code": "vm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VM-flag.jpg"
     },
     {
       "capitals": [
         "Tirana (Tirane)"
       ],
-      "name": "Albania"
+      "name": "Albania",
+      "code": "al",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AL-flag.jpg"
     },
     {
       "capitals": [
         "Andorra la Vella"
       ],
-      "name": "Andorra"
+      "name": "Andorra",
+      "code": "an",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AN-flag.jpg"
     },
     {
       "capitals": [
         "Vienna"
       ],
-      "name": "Austria"
+      "name": "Austria",
+      "code": "au",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AU-flag.jpg"
     },
     {
       "capitals": [
         "Brussels"
       ],
-      "name": "Belgium"
+      "name": "Belgium",
+      "code": "be",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BE-flag.jpg"
     },
     {
       "capitals": [
         "Sarajevo"
       ],
-      "name": "Bosnia and Herzegovina"
+      "name": "Bosnia and Herzegovina",
+      "code": "bk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BK-flag.jpg"
     },
     {
       "capitals": [
         "Minsk"
       ],
-      "name": "Belarus"
+      "name": "Belarus",
+      "code": "bo",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BO-flag.jpg"
     },
     {
       "capitals": [
         "Sofia"
       ],
-      "name": "Bulgaria"
+      "name": "Bulgaria",
+      "code": "bu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BU-flag.jpg"
     },
     {
       "capitals": [
         "Nicosia (Lefkosia/Lefkosa)"
       ],
-      "name": "Cyprus"
+      "name": "Cyprus",
+      "code": "cy",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CY-flag.jpg"
     },
     {
       "capitals": [
         "Copenhagen"
       ],
-      "name": "Denmark"
+      "name": "Denmark",
+      "code": "da",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/DA-flag.jpg"
     },
     {
       "capitals": [
         "Dublin"
       ],
-      "name": "Ireland"
+      "name": "Ireland",
+      "code": "ei",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EI-flag.jpg"
     },
     {
       "capitals": [
         "Tallinn"
       ],
-      "name": "Estonia"
+      "name": "Estonia",
+      "code": "en",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EN-flag.jpg"
     },
     {
       "capitals": [
         "Prague"
       ],
-      "name": "Czechia"
+      "name": "Czechia",
+      "code": "ez",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EZ-flag.jpg"
     },
     {
       "capitals": [
         "Helsinki"
       ],
-      "name": "Finland"
+      "name": "Finland",
+      "code": "fi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FI-flag.jpg"
     },
     {
       "capitals": [
         "Torshavn"
       ],
-      "name": "Faroe Islands"
+      "name": "Faroe Islands",
+      "code": "fo",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FO-flag.jpg"
     },
     {
       "capitals": [
         "Paris"
       ],
-      "name": "France"
+      "name": "France",
+      "code": "fr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FR-flag.jpg"
     },
     {
       "capitals": [
         "Gibraltar"
       ],
-      "name": "Gibraltar"
+      "name": "Gibraltar",
+      "code": "gi",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GI-flag.jpg"
     },
     {
       "capitals": [
         "Saint Peter Port"
       ],
-      "name": "Guernsey"
+      "name": "Guernsey",
+      "code": "gk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GK-flag.jpg"
     },
     {
       "capitals": [
         "Berlin"
       ],
-      "name": "Germany"
+      "name": "Germany",
+      "code": "gm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GM-flag.jpg"
     },
     {
       "capitals": [
         "Athens"
       ],
-      "name": "Greece"
+      "name": "Greece",
+      "code": "gr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GR-flag.jpg"
     },
     {
       "capitals": [
         "Zagreb"
       ],
-      "name": "Croatia"
+      "name": "Croatia",
+      "code": "hr",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HR-flag.jpg"
     },
     {
       "capitals": [
         "Budapest"
       ],
-      "name": "Hungary"
+      "name": "Hungary",
+      "code": "hu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/HU-flag.jpg"
     },
     {
       "capitals": [
         "Reykjavik"
       ],
-      "name": "Iceland"
+      "name": "Iceland",
+      "code": "ic",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IC-flag.jpg"
     },
     {
       "capitals": [
         "Douglas"
       ],
-      "name": "Isle of Man"
+      "name": "Isle of Man",
+      "code": "im",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IM-flag.jpg"
     },
     {
       "capitals": [
         "Rome"
       ],
-      "name": "Italy"
+      "name": "Italy",
+      "code": "it",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IT-flag.jpg"
     },
     {
       "capitals": [
         "Saint Helier"
       ],
-      "name": "Jersey"
+      "name": "Jersey",
+      "code": "je",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/JE-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Jan Mayen"
+      "name": "Jan Mayen",
+      "code": "jn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/JN-flag.jpg"
     },
     {
       "capitals": [
         "Pristina (Prishtine, Prishtina)"
       ],
-      "name": "Kosovo"
+      "name": "Kosovo",
+      "code": "kv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KV-flag.jpg"
     },
     {
       "capitals": [
         "Riga"
       ],
-      "name": "Latvia"
+      "name": "Latvia",
+      "code": "lg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LG-flag.jpg"
     },
     {
       "capitals": [
         "Vilnius"
       ],
-      "name": "Lithuania"
+      "name": "Lithuania",
+      "code": "lh",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LH-flag.jpg"
     },
     {
       "capitals": [
         "Bratislava"
       ],
-      "name": "Slovakia"
+      "name": "Slovakia",
+      "code": "lo",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LO-flag.jpg"
     },
     {
       "capitals": [
         "Vaduz"
       ],
-      "name": "Liechtenstein"
+      "name": "Liechtenstein",
+      "code": "ls",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LS-flag.jpg"
     },
     {
       "capitals": [
         "Luxembourg"
       ],
-      "name": "Luxembourg"
+      "name": "Luxembourg",
+      "code": "lu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LU-flag.jpg"
     },
     {
       "capitals": [
         "Chisinau"
       ],
-      "name": "Moldova"
+      "name": "Moldova",
+      "code": "md",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MD-flag.jpg"
     },
     {
       "capitals": [
         "Podgorica"
       ],
-      "name": "Montenegro"
+      "name": "Montenegro",
+      "code": "mj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MJ-flag.jpg"
     },
     {
       "capitals": [
         "Skopje"
       ],
-      "name": "North Macedonia"
+      "name": "North Macedonia",
+      "code": "mk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MK-flag.jpg"
     },
     {
       "capitals": [
         "Monaco"
       ],
-      "name": "Monaco"
+      "name": "Monaco",
+      "code": "mn",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MN-flag.jpg"
     },
     {
       "capitals": [
         "Valletta"
       ],
-      "name": "Malta"
+      "name": "Malta",
+      "code": "mt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MT-flag.jpg"
     },
     {
       "capitals": [
         "Amsterdam"
       ],
-      "name": "Netherlands"
+      "name": "Netherlands",
+      "code": "nl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NL-flag.jpg"
     },
     {
       "capitals": [
         "Oslo"
       ],
-      "name": "Norway"
+      "name": "Norway",
+      "code": "no",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NO-flag.jpg"
     },
     {
       "capitals": [
         "Warsaw"
       ],
-      "name": "Poland"
+      "name": "Poland",
+      "code": "pl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PL-flag.jpg"
     },
     {
       "capitals": [
         "Lisbon"
       ],
-      "name": "Portugal"
+      "name": "Portugal",
+      "code": "po",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PO-flag.jpg"
     },
     {
       "capitals": [
         "Belgrade (Beograd)"
       ],
-      "name": "Serbia"
+      "name": "Serbia",
+      "code": "ri",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RI-flag.jpg"
     },
     {
       "capitals": [
         "Bucharest"
       ],
-      "name": "Romania"
+      "name": "Romania",
+      "code": "ro",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/RO-flag.jpg"
     },
     {
       "capitals": [
         "Ljubljana"
       ],
-      "name": "Slovenia"
+      "name": "Slovenia",
+      "code": "si",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SI-flag.jpg"
     },
     {
       "capitals": [
         "San Marino"
       ],
-      "name": "San Marino"
+      "name": "San Marino",
+      "code": "sm",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SM-flag.jpg"
     },
     {
       "capitals": [
         "Madrid"
       ],
-      "name": "Spain"
+      "name": "Spain",
+      "code": "sp",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SP-flag.jpg"
     },
     {
       "capitals": [
         "Longyearbyen"
       ],
-      "name": "Svalbard"
+      "name": "Svalbard",
+      "code": "sv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SV-flag.jpg"
     },
     {
       "capitals": [
         "Stockholm"
       ],
-      "name": "Sweden"
+      "name": "Sweden",
+      "code": "sw",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SW-flag.jpg"
     },
     {
       "capitals": [
         "Bern"
       ],
-      "name": "Switzerland"
+      "name": "Switzerland",
+      "code": "sz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SZ-flag.jpg"
     },
     {
       "capitals": [
         "London"
       ],
-      "name": "United Kingdom"
+      "name": "United Kingdom",
+      "code": "uk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UK-flag.jpg"
     },
     {
       "capitals": [
         "Kyiv"
       ],
-      "name": "Ukraine"
+      "name": "Ukraine",
+      "code": "up",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UP-flag.jpg"
     },
     {
       "capitals": [
         "Vatican City"
       ],
-      "name": "Holy See"
+      "name": "Holy See",
+      "code": "vt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VT-flag.jpg"
     },
     {
       "capitals": [
         "Baku (Baki, Baky)"
       ],
-      "name": "Azerbaijan"
+      "name": "Azerbaijan",
+      "code": "aj",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AJ-flag.jpg"
     },
     {
       "capitals": [
         "Yerevan"
       ],
-      "name": "Armenia"
+      "name": "Armenia",
+      "code": "am",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AM-flag.jpg"
     },
     {
       "capitals": [
         "Manama"
       ],
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "code": "ba",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BA-flag.jpg"
     },
     {
       "capitals": [
         "Tbilisi"
       ],
-      "name": "Georgia"
+      "name": "Georgia",
+      "code": "gg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GG-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Gaza, Gaza Strip"
+      "name": "Gaza, Gaza Strip",
+      "code": "gz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GZ-flag.jpg"
     },
     {
       "capitals": [
         "Tehran"
       ],
-      "name": "Iran"
+      "name": "Iran",
+      "code": "ir",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IR-flag.jpg"
     },
     {
       "capitals": [
         "Jerusalem"
       ],
-      "name": "Israel"
+      "name": "Israel",
+      "code": "is",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IS-flag.jpg"
     },
     {
       "capitals": [
         "Baghdad"
       ],
-      "name": "Iraq"
+      "name": "Iraq",
+      "code": "iz",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IZ-flag.jpg"
     },
     {
       "capitals": [
         "Amman"
       ],
-      "name": "Jordan"
+      "name": "Jordan",
+      "code": "jo",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/JO-flag.jpg"
     },
     {
       "capitals": [
         "Kuwait City"
       ],
-      "name": "Kuwait"
+      "name": "Kuwait",
+      "code": "ku",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/KU-flag.jpg"
     },
     {
       "capitals": [
         "Beirut"
       ],
-      "name": "Lebanon"
+      "name": "Lebanon",
+      "code": "le",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/LE-flag.jpg"
     },
     {
       "capitals": [
         "Muscat"
       ],
-      "name": "Oman"
+      "name": "Oman",
+      "code": "mu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MU-flag.jpg"
     },
     {
       "capitals": [
         "Doha"
       ],
-      "name": "Qatar"
+      "name": "Qatar",
+      "code": "qa",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/QA-flag.jpg"
     },
     {
       "capitals": [
         "Riyadh"
       ],
-      "name": "Saudi Arabia"
+      "name": "Saudi Arabia",
+      "code": "sa",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SA-flag.jpg"
     },
     {
       "capitals": [
         "Damascus"
       ],
-      "name": "Syria"
+      "name": "Syria",
+      "code": "sy",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SY-flag.jpg"
     },
     {
       "capitals": [
         "Ankara"
       ],
-      "name": "Turkey"
+      "name": "Turkey",
+      "code": "tu",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/TU-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "West Bank"
+      "name": "West Bank",
+      "code": "we",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/WE-flag.jpg"
     },
     {
       "capitals": [
         "Sanaa"
       ],
-      "name": "Yemen"
+      "name": "Yemen",
+      "code": "ym",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/YM-flag.jpg"
     },
     {
       "capitals": [
         "Hamilton"
       ],
-      "name": "Bermuda"
+      "name": "Bermuda",
+      "code": "bd",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BD-flag.jpg"
     },
     {
       "capitals": [
         "Ottawa"
       ],
-      "name": "Canada"
+      "name": "Canada",
+      "code": "ca",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CA-flag.jpg"
     },
     {
       "capitals": [
         "Nuuk"
       ],
-      "name": "Greenland"
+      "name": "Greenland",
+      "code": "gl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GL-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "Clipperton Island"
+      "name": "Clipperton Island",
+      "code": "ip",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IP-flag.jpg"
     },
     {
       "capitals": [
         "Mexico City (Ciudad de Mexico)"
       ],
-      "name": "Mexico"
+      "name": "Mexico",
+      "code": "mx",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MX-flag.jpg"
     },
     {
       "capitals": [
         "Saint-Pierre"
       ],
-      "name": "Saint Pierre and Miquelon"
+      "name": "Saint Pierre and Miquelon",
+      "code": "sb",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SB-flag.jpg"
     },
     {
       "capitals": [
         "Washington DC"
       ],
-      "name": "United States"
+      "name": "United States",
+      "code": "us",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg"
     },
     {
       "capitals": [
         "Buenos Aires"
       ],
-      "name": "Argentina"
+      "name": "Argentina",
+      "code": "ar",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AR-flag.jpg"
     },
     {
       "capitals": [
         "La Paz (administrative capital)",
         "Sucre (constitutional [legislative and judicial] capital)"
       ],
-      "name": "Bolivia"
+      "name": "Bolivia",
+      "code": "bl",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BL-flag.jpg"
     },
     {
       "capitals": [
         "Bras&iacute;lia"
       ],
-      "name": "Brazil"
+      "name": "Brazil",
+      "code": "br",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BR-flag.jpg"
     },
     {
       "capitals": [
         "Santiago"
       ],
-      "name": "Chile"
+      "name": "Chile",
+      "code": "ci",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CI-flag.jpg"
     },
     {
       "capitals": [
         "Bogot&aacute;"
       ],
-      "name": "Colombia"
+      "name": "Colombia",
+      "code": "co",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CO-flag.jpg"
     },
     {
       "capitals": [
         "Quito"
       ],
-      "name": "Ecuador"
+      "name": "Ecuador",
+      "code": "ec",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/EC-flag.jpg"
     },
     {
       "capitals": [
         "Stanley"
       ],
-      "name": "Falkland Islands"
+      "name": "Falkland Islands",
+      "code": "fk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/FK-flag.jpg"
     },
     {
       "capitals": [
         "Georgetown"
       ],
-      "name": "Guyana"
+      "name": "Guyana",
+      "code": "gy",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/GY-flag.jpg"
     },
     {
       "capitals": [
         "Paramaribo"
       ],
-      "name": "Suriname"
+      "name": "Suriname",
+      "code": "ns",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NS-flag.jpg"
     },
     {
       "capitals": [
         "Asunci&oacute;n"
       ],
-      "name": "Paraguay"
+      "name": "Paraguay",
+      "code": "pa",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PA-flag.jpg"
     },
     {
       "capitals": [
         "Lima"
       ],
-      "name": "Peru"
+      "name": "Peru",
+      "code": "pe",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PE-flag.jpg"
     },
     {
       "capitals": [],
-      "name": "South Georgia and South Sandwich Islands"
+      "name": "South Georgia and South Sandwich Islands",
+      "code": "sx",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/SX-flag.jpg"
     },
     {
       "capitals": [
         "Montevideo"
       ],
-      "name": "Uruguay"
+      "name": "Uruguay",
+      "code": "uy",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/UY-flag.jpg"
     },
     {
       "capitals": [
         "Caracas"
       ],
-      "name": "Venezuela"
+      "name": "Venezuela",
+      "code": "ve",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/VE-flag.jpg"
     },
     {
       "capitals": [
         "Kabul"
       ],
-      "name": "Afghanistan"
+      "name": "Afghanistan",
+      "code": "af",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/AF-flag.jpg"
     },
     {
       "capitals": [
         "Dhaka"
       ],
-      "name": "Bangladesh"
+      "name": "Bangladesh",
+      "code": "bg",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BG-flag.jpg"
     },
     {
       "capitals": [
         "Thimphu"
       ],
-      "name": "Bhutan"
+      "name": "Bhutan",
+      "code": "bt",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/BT-flag.jpg"
     },
     {
       "capitals": [
         "Colombo (commercial capital)",
         "Sri Jayewardenepura Kotte (legislative capital)"
       ],
-      "name": "Sri Lanka"
+      "name": "Sri Lanka",
+      "code": "ce",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/CE-flag.jpg"
     },
     {
       "capitals": [
         "New Delhi"
       ],
-      "name": "India"
+      "name": "India",
+      "code": "in",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/IN-flag.jpg"
     },
     {
       "capitals": [
         "Male"
       ],
-      "name": "Maldives"
+      "name": "Maldives",
+      "code": "mv",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/MV-flag.jpg"
     },
     {
       "capitals": [
         "Kathmandu"
       ],
-      "name": "Nepal"
+      "name": "Nepal",
+      "code": "np",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/NP-flag.jpg"
     },
     {
       "capitals": [
         "Islamabad"
       ],
-      "name": "Pakistan"
+      "name": "Pakistan",
+      "code": "pk",
+      "flag": "https://www.cia.gov/the-world-factbook/static/flags/PK-flag.jpg"
     }
   ],
   "withCapitals": [

@@ -2,10 +2,12 @@
 
 [ ! -d data ] && mkdir data
 [ ! -d data/factbook.json ] && git clone https://github.com/factbook/factbook.json data/factbook.json
-[ ! -d data/countries.json ] && fd ".*\.json" data/factbook.json | while read f; do cat $f; done | jq -s '
+[ ! -d data/countries.json ] && fd ".*\.json" data/factbook.json \
+	| while read f; do jq "{data:.,code:\"$(basename $f .json)\"}" $f; done \
+	| jq -s '
 	[.[]
-	| .Government["Country name"]["conventional short form"].text as $name
-	| .Government.Capital.name.text as $capital
+	| .data.Government["Country name"]["conventional short form"].text as $name
+	| .data.Government.Capital.name.text as $capital
 	| select(
 		$name != null
 		and $name != "none"
@@ -24,6 +26,8 @@
 			else [] end | map(sub("^ *| *$"; ""; "g"))
 		),
 		name: $name | sub(" \\(.*\\)"; ""; "g"),
+		code,
+		flag: "https://www.cia.gov/the-world-factbook/static/flags/\(.code | ascii_upcase)-flag.jpg"
 	}] as $countries
 	| {
 		countries: $countries,
