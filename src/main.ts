@@ -1,5 +1,5 @@
 import data from "../data/countries.json";
-import { LitElement, html } from "lit";
+import { LitElement, TemplateResult, html } from "lit";
 import { customElement, query, state } from "lit/decorators.js";
 import { createRef, ref } from "lit/directives/ref.js";
 
@@ -44,6 +44,8 @@ export class Quiz extends LitElementNoShadow {
       this.score = 0;
       this.replaceQuestion();
     });
+
+    this.addEventListener("skip-question", this.replaceQuestion);
   }
 
   render() {
@@ -153,17 +155,32 @@ export class Question extends LitElementNoShadow {
     }
   }
 
-  getQuestionText(): string {
+  getQuestionText(): TemplateResult {
     const country = this.choices[this.correct];
     switch (this.kind) {
       case QUESTION_HAS_WHICH_CAPITAL:
-        return `<span>Which is a capital of <b>${country.name}</b>?</span>`;
+        return html`<span
+          >Which is a capital of <b .innerHTML=${country.name}></b>?</span
+        >`;
       case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
-        return `<span><b>${
-          country.capitals[Math.floor(Math.random() * country.capitals.length)]
-        }</b> is a capital of which country?</span>`;
+        return html`<span
+          ><b
+            .innerHTML=${country.capitals[
+              Math.floor(Math.random() * country.capitals.length)
+            ]}
+          ></b>
+          is a capital of which country?</span
+        >`;
       case QUESTION_FLAG_FOR_WHICH_COUNTRY:
-        return `<span>Which country has the following flag?</span><img src="${country.flag}" class="h-8">`;
+        return html`<span>Which country has the following flag?</span
+          ><img
+            src="${country.flag}"
+            class="h-8"
+            @error=${() =>
+              this.dispatchEvent(
+                new CustomEvent("skip-question", { bubbles: true }),
+              )}
+          />`;
     }
   }
 
@@ -197,18 +214,24 @@ export class Question extends LitElementNoShadow {
             500,
           );
         }}
-        .innerHTML=${this.getChoiceText(country)}
         ${ref(button)}
+        .innerHTML=${this.getChoiceText(country)}
       ></button>`;
     });
 
     return html`<div class="grid place-items-center">
-      <div
-        .innerHTML=${this.getQuestionText()}
-        class="grid place-items-center"
-      ></div>
+      <div class="grid place-items-center">${this.getQuestionText()}</div>
       <div class="flex flex-col items-center justify-center gap-2 m-2 min-w-64">
         ${choices}
+        <button
+          class="border-2 border-slate-400 text-slate-400 rounded-full px-4 w-full transition-colors hover:bg-slate-400 hover:text-slate-900"
+          @click=${() =>
+            this.dispatchEvent(
+              new CustomEvent("skip-question", { bubbles: true }),
+            )}
+        >
+          Skip
+        </button>
       </div>
     </div>`;
   }
