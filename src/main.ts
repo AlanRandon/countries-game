@@ -213,8 +213,13 @@ export class Question extends LitElementNoShadow {
           is a capital of which country?</span
         >`;
       case QUESTION_FLAG_FOR_WHICH_COUNTRY:
+        const src =
+          document.location.hostname == "alanrandon.github.io"
+            ? `https://alanrandon.github.io/countries-game${country.flag}`
+            : country.flag;
+
         return html`<span>Which country has the following flag?</span
-          ><img src="${country.flag}" class="h-8" />`;
+          ><img src="${src}" class="h-8" />`;
     }
   }
 
