@@ -80,13 +80,61 @@ type QuestionKind =
 
 type Country = (typeof data.countries)[0];
 
-const withCapitals = new Set(data.withCapitals);
+type CountryFilter = (country: Country) => boolean;
+type CountryComparibleFilter = (country: Country) => CountryFilter;
+
+const hasCapital: CountryFilter = (country) => country.capitals.length > 0;
+const hasFlag: CountryFilter = (country) => typeof country.flag !== "undefined";
+const isCountryFlagComparible: CountryComparibleFilter = (countryA) => {
+  const repeats = new Set(countryA.flagRepeats);
+  return (countryB) => !repeats.has(countryB.code);
+};
+
+const requirementSets = {
+  capitals: new Set(data.countries.filter(hasCapital)),
+  flags: new Set(data.countries.filter(hasFlag)),
+} as const;
 
 function shuffle<T>(arr: Array<T>): Array<T> {
   return arr
     .map((value) => ({ value, sort: Math.random() }))
     .toSorted((a, b) => a.sort - b.sort)
     .map((value) => value.value);
+}
+
+function countryCorrectMatchesFilter(
+  filter: CountryFilter,
+  comparibleFilter: CountryComparibleFilter,
+): {
+  correct: number;
+  choices: Country[];
+} {
+  const choices = shuffle(
+    data.countries.map((country, originalIndex) => ({
+      country,
+      originalIndex,
+    })),
+  );
+
+  const start = choices.findIndex((choice) => filter(choice.country));
+
+  const comparibleFilterInstance = comparibleFilter(choices[start].country);
+
+  const shuffledChoices = shuffle(
+    choices
+      .slice(start, -1)
+      .filter((choice) => comparibleFilterInstance(choice.country))
+      .slice(0, OPTION_COUNT)
+      .map((choice, index) => ({
+        choice,
+        correct: index == 0,
+      })),
+  );
+
+  return {
+    correct: shuffledChoices.findIndex((choice) => choice.correct),
+    choices: shuffledChoices.map((choice) => choice.choice.country),
+  };
 }
 
 @customElement("x-question")
@@ -102,41 +150,34 @@ export class Question extends LitElementNoShadow {
     const kind = Math.floor(
       Math.random() * (MAX_QUESTION_KIND + 1),
     ) as QuestionKind;
+
     switch (kind) {
-      case QUESTION_HAS_WHICH_CAPITAL:
-        this.choices = shuffle(
-          Array.from(withCapitals).map((i) => data.countries[i]),
-        ).slice(0, OPTION_COUNT);
-
+      case QUESTION_HAS_WHICH_CAPITAL: {
+        this.choices = shuffle(Array.from(requirementSets.capitals)).slice(
+          0,
+          OPTION_COUNT,
+        );
         this.correct = Math.floor(Math.random() * OPTION_COUNT);
-
         break;
-      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
-        let choices = shuffle(
-          data.countries.map((country, originalIndex) => ({
-            country,
-            originalIndex,
-          })),
+      }
+      case QUESTION_CAPITAL_IN_WHICH_COUNTRY: {
+        const question = countryCorrectMatchesFilter(
+          hasCapital,
+          (_) => (_) => true,
         );
-
-        const start = choices.findIndex((choice) =>
-          withCapitals.has(choice.originalIndex),
-        );
-
-        let shuffledChoices = shuffle(
-          choices.slice(start, start + OPTION_COUNT).map((choice, index) => ({
-            choice,
-            correct: index == 0,
-          })),
-        );
-
-        this.correct = shuffledChoices.findIndex((choice) => choice.correct);
-        this.choices = shuffledChoices.map((choice) => choice.choice.country);
-
+        this.choices = question.choices;
+        this.correct = question.correct;
         break;
-      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
-        this.choices = shuffle(data.countries).slice(0, OPTION_COUNT);
-        this.correct = Math.floor(Math.random() * this.choices.length);
+      }
+      case QUESTION_FLAG_FOR_WHICH_COUNTRY: {
+        const question = countryCorrectMatchesFilter(
+          hasFlag,
+          isCountryFlagComparible,
+        );
+        this.choices = question.choices;
+        this.correct = question.correct;
+        break;
+      }
     }
 
     this.kind = kind;
@@ -173,14 +214,7 @@ export class Question extends LitElementNoShadow {
         >`;
       case QUESTION_FLAG_FOR_WHICH_COUNTRY:
         return html`<span>Which country has the following flag?</span
-          ><img
-            src="${country.flag}"
-            class="h-8"
-            @error=${() =>
-              this.dispatchEvent(
-                new CustomEvent("skip-question", { bubbles: true }),
-              )}
-          />`;
+          ><img src="${country.flag}" class="h-8" />`;
     }
   }
 
@@ -223,16 +257,17 @@ export class Question extends LitElementNoShadow {
       <div class="grid place-items-center">${this.getQuestionText()}</div>
       <div class="flex flex-col items-center justify-center gap-2 m-2 min-w-64">
         ${choices}
-        <button
-          class="border-2 border-slate-400 text-slate-400 rounded-full px-4 w-full transition-colors hover:bg-slate-400 hover:text-slate-900"
-          @click=${() =>
-            this.dispatchEvent(
-              new CustomEvent("skip-question", { bubbles: true }),
-            )}
-        >
-          Skip
-        </button>
       </div>
     </div>`;
+
+    // <button
+    //   class="border-2 border-slate-400 text-slate-400 rounded-full px-4 w-full transition-colors hover:bg-slate-400 hover:text-slate-900"
+    //   @click=${() =>
+    //     this.dispatchEvent(
+    //       new CustomEvent("skip-question", { bubbles: true }),
+    //     )}
+    // >
+    //   Skip
+    // </button>
   }
 }
