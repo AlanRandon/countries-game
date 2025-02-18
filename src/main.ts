@@ -1,6 +1,6 @@
 import data from "../data/countries.json";
-import { LitElement, TemplateResult, html } from "lit";
-import { customElement, query, state } from "lit/decorators.js";
+import { LitElement, html } from "lit";
+import { customElement, property, query, state } from "lit/decorators.js";
 import { createRef, ref } from "lit/directives/ref.js";
 
 class LitElementNoShadow extends LitElement {
@@ -9,16 +9,21 @@ class LitElementNoShadow extends LitElement {
   }
 }
 
+const MAX_LIVES = 3;
+
 @customElement("x-quiz")
 export class Quiz extends LitElementNoShadow {
   @query("x-question")
   question!: Question;
 
   @state()
-  score: number;
+  score: number = 0;
 
   @state()
-  highScore: number;
+  highScore: number = +(localStorage.getItem("country-game:high-score") || 0);
+
+  @state()
+  lives: number = MAX_LIVES;
 
   replaceQuestion() {
     this.question.replaceWith(new Question());
@@ -26,11 +31,10 @@ export class Quiz extends LitElementNoShadow {
 
   constructor() {
     super();
-    this.score = 0;
-    this.highScore = +(localStorage.getItem("country-game:high-score") || 0);
 
     this.addEventListener("answer-correct", () => {
       this.highScore = Math.max(this.highScore, ++this.score);
+      this.lives = Math.min(this.lives + 1, MAX_LIVES);
 
       localStorage.setItem(
         "country-game:high-score",
@@ -41,7 +45,12 @@ export class Quiz extends LitElementNoShadow {
     });
 
     this.addEventListener("answer-incorrect", () => {
-      this.score = 0;
+      this.lives--;
+      if (this.lives == 0) {
+        this.score = 0;
+        this.lives = MAX_LIVES;
+      }
+
       this.replaceQuestion();
     });
 
@@ -57,6 +66,9 @@ export class Quiz extends LitElementNoShadow {
         <div class="bg-slate-900 p-2 px-4 rounded-full">
           Score: <b>${this.score}</b>
         </div>
+        <div class="bg-slate-900 p-2 px-4 rounded-full">
+          Lives: <b>${this.lives}</b>
+        </div>
       </div>
       <div class="grid place-items-center gap-2 h-full">
         <x-question></x-question>
@@ -64,19 +76,6 @@ export class Quiz extends LitElementNoShadow {
     </div>`;
   }
 }
-
-const OPTION_COUNT = 6;
-
-const QUESTION_HAS_WHICH_CAPITAL = 0 as const;
-const QUESTION_CAPITAL_IN_WHICH_COUNTRY = 1 as const;
-const QUESTION_FLAG_FOR_WHICH_COUNTRY = 2 as const;
-
-const MAX_QUESTION_KIND = QUESTION_FLAG_FOR_WHICH_COUNTRY;
-
-type QuestionKind =
-  | typeof QUESTION_HAS_WHICH_CAPITAL
-  | typeof QUESTION_CAPITAL_IN_WHICH_COUNTRY
-  | typeof QUESTION_FLAG_FOR_WHICH_COUNTRY;
 
 type Country = (typeof data.countries)[0];
 
@@ -122,7 +121,7 @@ function countryCorrectMatchesFilter(
 
   const shuffledChoices = shuffle(
     choices
-      .slice(start, -1)
+      .slice(start)
       .filter((choice) => comparibleFilterInstance(choice.country))
       .slice(0, OPTION_COUNT)
       .map((choice, index) => ({
@@ -137,95 +136,20 @@ function countryCorrectMatchesFilter(
   };
 }
 
-@customElement("x-question")
-export class Question extends LitElementNoShadow {
-  choices: Country[];
-  correct: number;
-  kind: QuestionKind;
+const OPTION_COUNT = 6;
 
-  constructor() {
-    super();
-    this.style.display = "contents";
-
-    const kind = Math.floor(
-      Math.random() * (MAX_QUESTION_KIND + 1),
-    ) as QuestionKind;
-
-    switch (kind) {
-      case QUESTION_HAS_WHICH_CAPITAL: {
-        this.choices = shuffle(Array.from(requirementSets.capitals)).slice(
-          0,
-          OPTION_COUNT,
-        );
-        this.correct = Math.floor(Math.random() * OPTION_COUNT);
-        break;
-      }
-      case QUESTION_CAPITAL_IN_WHICH_COUNTRY: {
-        const question = countryCorrectMatchesFilter(
-          hasCapital,
-          (_) => (_) => true,
-        );
-        this.choices = question.choices;
-        this.correct = question.correct;
-        break;
-      }
-      case QUESTION_FLAG_FOR_WHICH_COUNTRY: {
-        const question = countryCorrectMatchesFilter(
-          hasFlag,
-          isCountryFlagComparible,
-        );
-        this.choices = question.choices;
-        this.correct = question.correct;
-        break;
-      }
-    }
-
-    this.kind = kind;
-  }
-
-  getChoiceText(country: Country): string {
-    switch (this.kind) {
-      case QUESTION_HAS_WHICH_CAPITAL:
-        return country.capitals[
-          Math.floor(Math.random() * country.capitals.length)
-        ];
-      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
-        return country.name;
-      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
-        return country.name;
-    }
-  }
-
-  getQuestionText(): TemplateResult {
-    const country = this.choices[this.correct];
-    switch (this.kind) {
-      case QUESTION_HAS_WHICH_CAPITAL:
-        return html`<span
-          >Which is a capital of <b .innerHTML=${country.name}></b>?</span
-        >`;
-      case QUESTION_CAPITAL_IN_WHICH_COUNTRY:
-        return html`<span
-          ><b
-            .innerHTML=${country.capitals[
-              Math.floor(Math.random() * country.capitals.length)
-            ]}
-          ></b>
-          is a capital of which country?</span
-        >`;
-      case QUESTION_FLAG_FOR_WHICH_COUNTRY:
-        const src =
-          document.location.hostname == "alanrandon.github.io"
-            ? `https://alanrandon.github.io/countries-game${country.flag}`
-            : country.flag;
-
-        return html`<span>Which country has the following flag?</span
-          ><img src="${src}" class="h-8" />`;
-    }
-  }
+@customElement("x-option-selection")
+export class OptionSelection extends LitElementNoShadow {
+  @property({ type: Array<String> })
+  choices!: string[];
+  @property()
+  question!: string;
+  @property()
+  correct!: number;
 
   render() {
     const correctButton = createRef<HTMLButtonElement>();
-    const choices = this.choices.map((country, i) => {
+    const choices = this.choices.map((choice, i) => {
       const { event, classes, button } =
         i == this.correct
           ? {
@@ -254,25 +178,176 @@ export class Question extends LitElementNoShadow {
           );
         }}
         ${ref(button)}
-        .innerHTML=${this.getChoiceText(country)}
+        .innerHTML=${choice}
       ></button>`;
     });
 
     return html`<div class="grid place-items-center">
-      <div class="grid place-items-center">${this.getQuestionText()}</div>
+      <div
+        class="grid place-items-center text-wrap max-w-100 text-center"
+        .innerHTML=${this.question}
+      ></div>
       <div class="flex flex-col items-center justify-center gap-2 m-2 min-w-64">
         ${choices}
       </div>
     </div>`;
-
-    // <button
-    //   class="border-2 border-slate-400 text-slate-400 rounded-full px-4 w-full transition-colors hover:bg-slate-400 hover:text-slate-900"
-    //   @click=${() =>
-    //     this.dispatchEvent(
-    //       new CustomEvent("skip-question", { bubbles: true }),
-    //     )}
-    // >
-    //   Skip
-    // </button>
   }
 }
+
+@customElement("x-country-which-capital")
+export class CountryHasWhichCapitalQuestion extends LitElementNoShadow {
+  choices: Country[];
+  correct: number;
+
+  constructor() {
+    super();
+
+    this.choices = shuffle(Array.from(requirementSets.capitals)).slice(
+      0,
+      OPTION_COUNT,
+    );
+    this.correct = Math.floor(Math.random() * OPTION_COUNT);
+  }
+
+  render() {
+    return html`<x-option-selection
+      question=${`<span>Which is a capital of <b>${this.choices[this.correct].name}</b>?</span>`}
+      correct=${this.correct}
+      choices=${JSON.stringify(
+        this.choices.map(
+          (country) =>
+            country.capitals[
+              Math.floor(Math.random() * country.capitals.length)
+            ],
+        ),
+      )}
+    ></x-option-selection>`;
+  }
+}
+
+@customElement("x-capital-which-country")
+export class CaptialInWhichCountryQuestion extends LitElementNoShadow {
+  choices: Country[];
+  correct: number;
+  capital: string;
+
+  constructor() {
+    super();
+
+    const question = countryCorrectMatchesFilter(
+      hasCapital,
+      (_) => (_) => true,
+    );
+
+    this.choices = question.choices;
+    this.correct = question.correct;
+    this.capital =
+      this.choices[this.correct].capitals[
+        Math.floor(Math.random() * this.choices[this.correct].capitals.length)
+      ];
+  }
+  render() {
+    return html`<x-option-selection
+      question=${`<span><b>${this.capital}</b> is a capital of which country/territory?</span>`}
+      correct=${this.correct}
+      choices=${JSON.stringify(this.choices.map((country) => country.name))}
+    ></x-option-selection>`;
+  }
+}
+
+@customElement("x-region-which-country")
+export class RegionInWhichCountryQuestion extends LitElementNoShadow {
+  choices: Country[];
+  correct: number;
+  division: string;
+
+  constructor() {
+    super();
+
+    let division: string;
+    const question = countryCorrectMatchesFilter(
+      (country) => country.divisions.length > 0,
+      (correct) => {
+        division =
+          correct.divisions[
+            Math.floor(Math.random() * correct.divisions.length)
+          ];
+
+        return (country) => {
+          if (country.code == correct.code) {
+            return true;
+          }
+
+          const divisions: string[] = country.divisions;
+          return !divisions.includes(division!);
+        };
+      },
+    );
+
+    this.choices = question.choices;
+    this.correct = question.correct;
+    this.division = division!;
+  }
+
+  render() {
+    return html`<x-option-selection
+      question=${`<span><b>${this.division}</b> is an administrative division of which country/territory?</span>`}
+      correct=${this.correct}
+      choices=${JSON.stringify(this.choices.map((country) => country.name))}
+    ></x-option-selection>`;
+  }
+}
+
+@customElement("x-flag-which-country")
+export class FlagOfWhichCountryQuestion extends LitElementNoShadow {
+  choices: Country[];
+  correct: number;
+
+  constructor() {
+    super();
+
+    const question = countryCorrectMatchesFilter(
+      hasFlag,
+      isCountryFlagComparible,
+    );
+    this.choices = question.choices;
+    this.correct = question.correct;
+  }
+
+  render() {
+    const country = this.choices[this.correct];
+    const src =
+      document.location.hostname == "alanrandon.github.io"
+        ? `https://alanrandon.github.io/countries-game${country.flag}`
+        : country.flag;
+
+    return html`<x-option-selection
+      question=${`<span>Which country has the following flag?</span><img src="${src}" class="h-8" />`}
+      correct=${this.correct}
+      choices=${JSON.stringify(this.choices.map((country) => country.name))}
+    ></x-option-selection>`;
+  }
+}
+
+@customElement("x-question")
+export class Question extends LitElementNoShadow {
+  question: LitElementNoShadow;
+
+  constructor() {
+    super();
+    this.question = new questionKinds[
+      Math.floor(Math.random() * questionKinds.length)
+    ]();
+  }
+
+  render() {
+    return html`${this.question}`;
+  }
+}
+
+const questionKinds = [
+  CountryHasWhichCapitalQuestion,
+  CaptialInWhichCountryQuestion,
+  FlagOfWhichCountryQuestion,
+  RegionInWhichCountryQuestion,
+];

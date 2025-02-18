@@ -7,6 +7,7 @@ process() {
 		[.[]
 		| .data.Government["Country name"]["conventional short form"].text as $name
 		| .data.Government.Capital.name.text as $capital
+		| .data.Government["Administrative divisions"].text as $divisions
 		| select(
 			$name != null
 			and $name != "none"
@@ -26,6 +27,94 @@ process() {
 			),
 			name: $name | sub(" \\(.*\\)"; ""; "g"),
 			code,
+			divisions: (
+				if $divisions and ($divisions | contains("none") | not) then
+					if .code == "fo" then
+						$divisions | sub("^.* kommuna\\) "; "") | split(", ")
+					elif .code == "wf" then
+						$divisions | sub("^.* circonscription\\) "; "") | split(", ")
+					elif .code == "nc" then
+						$divisions
+						| sub("^.*?; "; "")
+						| split(",( and)? "; "g")
+					elif .code == "my" then
+						$divisions | split("; ") as $divisions
+						| ($divisions[1] | split(", ") + ["Wilayah Persekutuan", "Kuala Lumpur", "Labuan", "Putrajaya"])
+					elif .code == "bk" then
+						$divisions
+						| sub("; note ?- .*$"; "")
+						| sub("^.*(- (?=[^\\)]*(?:\\(|$)))"; "")
+						| split(", (?=[^\\)]*(?:\\(|$))"; "g")
+					elif .code == "mk" then
+						$divisions
+						| sub("; note ?- .*$"; "")
+						| sub("^.*([;:] (?=[^\\)]*(?:\\(|$)))"; "")
+						| split(", (?=[^\\)]*(?:\\(|$))"; "g")
+						| map(sub("^and |\\.$"; ""; "g"))
+					elif .code == "be" then
+						$divisions | sub("^.* gewest\\); "; "") | split("; ") | map(sub(", also known as .*"; ""))
+					elif .code == "en" then
+						$divisions
+						| sub("^.*<strong>urban municipalities:</strong> "; "")
+						| sub("<br><br><strong>rural municipalities:</strong>"; ",")
+						| split(", ")
+					elif .code == "uk" then
+						$divisions
+						| sub("<p><strong>(England|Scotland|Wales|Northern Ireland):</strong>.*?</p>"; ""; "g")
+						| sub(" *<p><strong>.*?</strong> (?<list>.*?)</p> *"; "\(.list)SEPARATOR"; "g")
+						| sub("SEPARATOR$"; "")
+						| split("SEPARATOR") as $lists
+						| (
+							($lists[0] | split(", "))
+							+ ($lists[1] | split(", "))
+							+ ($lists[2] | split(", "))
+							+ ($lists[3] | split("; "))
+							+ ($lists[4] | split("; "))
+							+ ($lists[5] | split("; "))
+							+ ($lists[6] | split("; "))
+							+ ($lists[7] | split(", "))
+							+ ($lists[8] | split(", "))
+						)
+					elif .code == "gg" then
+						$divisions
+						| sub("^<p>.*?</p>"; "")
+						| sub("; note - .* Mtskheta-Mtianeti"; "")
+						| sub(" <p><strong>.*?</strong> (?<list>.*?)</p>"; "\(.list), "; "g")
+						| sub("<strong>.*?</strong> *(?<list>.*)"; "\(.list),")
+						| sub("(, *)+$"; "")
+						| split(", ")
+						| map(sub("^ +| +$"; ""; "g"))
+					elif .code == "ch" then
+						$divisions
+						| sub("^<p>.*?</p>"; "")
+						| sub(" <p><strong>.*?</strong> (?<list>.*?)</p>"; "\(.list), "; "g")
+						| sub("<strong>.*?</strong> *(?<list>.*)"; "\(.list),")
+						| sub("<br><br>"; ", "; "g")
+						| sub("(, *)+$"; "")
+						| split(", ")
+						| map(sub("^ +| +$|; \\(see note on Taiwan\\)"; ""; "g"))
+					elif .code == "uz" then
+						$divisions
+						| sub("^.*shahar\\); |  </p>$"; ""; "g")
+						| split(", ")
+					elif $divisions | contains("<strong>") then
+						$divisions
+						| sub("^<p>.*?</p>"; "")
+						| sub(" <p><strong>.*?</strong> (?<list>.*?)</p>"; "\(.list), "; "g")
+						| sub("<strong>.*?</strong> *(?<list>.*)"; "\(.list),")
+						| sub("(, *)+$"; "")
+						| split(", ")
+						| map(sub("^ +| +$"; ""; "g"))
+					else
+						$divisions
+						| sub("; note ?- .*$"; "")
+						| sub("^.*([;:] (?=[^\\)]*(?:\\(|$)))"; "")
+						| split(", (?=[^\\)]*(?:\\(|$))"; "g")
+					end
+				else [] end
+				| map(sub("(\\*|//|;$)"; ""; "g"))
+				| unique
+			),
 		}] as $countries
 		| {
 			countries: $countries
