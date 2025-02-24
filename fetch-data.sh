@@ -8,6 +8,7 @@ process() {
 		| .data.Government["Country name"]["conventional short form"].text as $name
 		| .data.Government.Capital.name.text as $capital
 		| .data.Government["Administrative divisions"].text as $divisions
+		| .data["People and Society"].Population.total.text as $population
 		| select(
 			$name != null
 			and $name != "none"
@@ -27,6 +28,7 @@ process() {
 			),
 			name: $name | sub(" \\(.*\\)"; ""; "g"),
 			code,
+			population: ($population // "unknown"),
 			divisions: (
 				if $divisions and ($divisions | contains("none") | not) then
 					if .code == "fo" then

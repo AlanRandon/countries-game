@@ -6,6 +6,7 @@
       ],
       "name": "Algeria",
       "code": "ag",
+      "population": "47,022,473",
       "divisions": [
         "Adrar",
         "Ain Defla",
@@ -75,6 +76,7 @@
       ],
       "name": "Angola",
       "code": "ao",
+      "population": "37,202,061",
       "divisions": [
         "Bengo",
         "Benguela",
@@ -104,6 +106,7 @@
       ],
       "name": "Botswana",
       "code": "bc",
+      "population": "2,450,668",
       "divisions": [
         "Central",
         "Chobe",
@@ -132,6 +135,7 @@
       ],
       "name": "Benin",
       "code": "bn",
+      "population": "14,697,052",
       "divisions": [
         "Alibori",
         "Atacora",
@@ -156,6 +160,7 @@
       ],
       "name": "Burundi",
       "code": "by",
+      "population": "13,590,102",
       "divisions": [
         "Bubanza",
         "Bujumbura Mairie",
@@ -185,6 +190,7 @@
       ],
       "name": "Chad",
       "code": "cd",
+      "population": "19,093,595",
       "divisions": [
         "Barh-El-Gazel",
         "Batha",
@@ -219,6 +225,7 @@
       ],
       "name": "Congo",
       "code": "cf",
+      "population": "6,097,665",
       "divisions": [
         "Bouenza",
         "Brazzaville",
@@ -242,6 +249,7 @@
       ],
       "name": "DRC",
       "code": "cg",
+      "population": "115,403,027",
       "divisions": [
         "Bas-Uele (Lower Uele)",
         "Equateur",
@@ -279,6 +287,7 @@
       ],
       "name": "Cameroon",
       "code": "cm",
+      "population": "30,966,105",
       "divisions": [
         "Adamaoua",
         "Centre",
@@ -300,6 +309,7 @@
       ],
       "name": "Comoros",
       "code": "cn",
+      "population": "900,141",
       "divisions": [
         "Anjouan (Ndzuwani)",
         "Grande Comore (N'gazidja)",
@@ -314,6 +324,7 @@
       ],
       "name": "Cabo Verde",
       "code": "cv",
+      "population": "611,014",
       "divisions": [
         "Boa Vista",
         "Brava",
@@ -347,6 +358,7 @@
       ],
       "name": "Djibouti",
       "code": "dj",
+      "population": "994,974",
       "divisions": [
         "Ali Sabieh",
         "Arta",
@@ -364,6 +376,7 @@
       ],
       "name": "Egypt",
       "code": "eg",
+      "population": "111,247,248",
       "divisions": [
         "Ad Daqahliyah",
         "Al Bahr al Ahmar (Red Sea)",
@@ -402,6 +415,7 @@
       ],
       "name": "Equatorial Guinea",
       "code": "ek",
+      "population": "1,795,834",
       "divisions": [
         "Annobon",
         "Bioko Norte",
@@ -421,6 +435,7 @@
       ],
       "name": "Eritrea",
       "code": "er",
+      "population": "6,343,956",
       "divisions": [
         "'Anseba",
         "Debub (South)",
@@ -438,6 +453,7 @@
       ],
       "name": "Ethiopia",
       "code": "et",
+      "population": "118,550,298",
       "divisions": [
         "Adis Abeba (Addis Ababa)",
         "Afar",
@@ -463,6 +479,7 @@
       ],
       "name": "The Gambia",
       "code": "ga",
+      "population": "2,523,327",
       "divisions": [
         "Banjul",
         "Central River",
@@ -481,6 +498,7 @@
       ],
       "name": "Gabon",
       "code": "gb",
+      "population": "2,455,105",
       "divisions": [
         "Estuaire",
         "Haut-Ogooue",
@@ -501,6 +519,7 @@
       ],
       "name": "Ghana",
       "code": "gh",
+      "population": "34,589,092",
       "divisions": [
         "Ahafo",
         "Ashanti",
@@ -528,6 +547,7 @@
       ],
       "name": "Guinea",
       "code": "gv",
+      "population": "13,986,179",
       "divisions": [
         "Boke",
         "Conakry",
@@ -548,6 +568,7 @@
       ],
       "name": "C&ocirc;te d'Ivoire",
       "code": "iv",
+      "population": "29,981,758",
       "divisions": [
         "Abidjan",
         "Bas-Sassandra",
@@ -573,6 +594,7 @@
       ],
       "name": "Kenya",
       "code": "ke",
+      "population": "58,246,378",
       "divisions": [
         "Baringo",
         "Bomet",
@@ -631,6 +653,7 @@
       ],
       "name": "Liberia",
       "code": "li",
+      "population": "5,437,249",
       "divisions": [
         "Bomi",
         "Bong",
@@ -657,6 +680,7 @@
       ],
       "name": "Lesotho",
       "code": "lt",
+      "population": "2,227,548",
       "divisions": [
         "Berea",
         "Butha-Buthe",
@@ -678,6 +702,7 @@
       ],
       "name": "Libya",
       "code": "ly",
+      "population": "7,361,263",
       "divisions": [
         "Al Butnan",
         "Al Jabal al Akhdar",
@@ -711,6 +736,7 @@
       ],
       "name": "Madagascar",
       "code": "ma",
+      "population": "29,452,714",
       "divisions": [
         "Antananarivo",
         "Antsiranana",
@@ -728,6 +754,7 @@
       ],
       "name": "Malawi",
       "code": "mi",
+      "population": "21,763,309",
       "divisions": [
         "Balaka",
         "Blantyre",
@@ -767,6 +794,7 @@
       ],
       "name": "Mali",
       "code": "ml",
+      "population": "21,990,607",
       "divisions": [
         "District de Bamako",
         "Gao",
@@ -789,6 +817,7 @@
       ],
       "name": "Morocco",
       "code": "mo",
+      "population": "37,387,585",
       "divisions": [
         "Beni Mellal-Khenifra",
         "Casablanca-Settat",
@@ -812,6 +841,7 @@
       ],
       "name": "Mauritius",
       "code": "mp",
+      "population": "1,310,504",
       "divisions": [
         "Agalega Islands",
         "Black River",
@@ -835,6 +865,7 @@
       ],
       "name": "Mauritania",
       "code": "mr",
+      "population": "4,328,040",
       "divisions": [
         "Adrar",
         "Assaba",
@@ -861,6 +892,7 @@
       ],
       "name": "Mozambique",
       "code": "mz",
+      "population": "33,350,954",
       "divisions": [
         "Cabo Delgado",
         "Cidade de Maputo",
@@ -883,6 +915,7 @@
       ],
       "name": "Niger",
       "code": "ng",
+      "population": "26,342,784",
       "divisions": [
         "Agadez",
         "Diffa",
@@ -902,6 +935,7 @@
       ],
       "name": "Nigeria",
       "code": "ni",
+      "population": "236,747,130",
       "divisions": [
         "Abia",
         "Adamawa",
@@ -950,6 +984,7 @@
       ],
       "name": "South Sudan",
       "code": "od",
+      "population": "12,703,714",
       "divisions": [
         "Central Equatoria",
         "Eastern Equatoria",
@@ -971,6 +1006,7 @@
       ],
       "name": "Guinea-Bissau",
       "code": "pu",
+      "population": "2,132,325",
       "divisions": [
         "Bafata",
         "Biombo",
@@ -991,6 +1027,7 @@
       ],
       "name": "Rwanda",
       "code": "rw",
+      "population": "13,623,302",
       "divisions": [
         "Est (Eastern)",
         "Kigali",
@@ -1007,6 +1044,7 @@
       ],
       "name": "Seychelles",
       "code": "se",
+      "population": "98,187",
       "divisions": [
         "Anse Boileau",
         "Anse Etoile",
@@ -1047,6 +1085,7 @@
       ],
       "name": "South Africa",
       "code": "sf",
+      "population": "60,442,647",
       "divisions": [
         "Eastern Cape",
         "Free State",
@@ -1067,6 +1106,7 @@
       ],
       "name": "Senegal",
       "code": "sg",
+      "population": "18,847,519",
       "divisions": [
         "Dakar",
         "Diourbel",
@@ -1092,6 +1132,7 @@
       ],
       "name": "Sierra Leone",
       "code": "sl",
+      "population": "9,121,049",
       "divisions": [
         "Eastern",
         "North Western",
@@ -1108,6 +1149,7 @@
       ],
       "name": "Somalia",
       "code": "so",
+      "population": "13,017,273",
       "divisions": [
         "Awdal",
         "Bakool",
@@ -1137,6 +1179,7 @@
       ],
       "name": "Sudan",
       "code": "su",
+      "population": "50,467,278",
       "divisions": [
         "Blue Nile",
         "Central Darfur",
@@ -1166,6 +1209,7 @@
       ],
       "name": "Togo",
       "code": "to",
+      "population": "8,917,994",
       "divisions": [
         "Centrale",
         "Kara",
@@ -1182,6 +1226,7 @@
       ],
       "name": "Sao Tome and Principe",
       "code": "tp",
+      "population": "223,561",
       "divisions": [
         "Agua Grande",
         "Cantagalo",
@@ -1200,6 +1245,7 @@
       ],
       "name": "Tunisia",
       "code": "ts",
+      "population": "12,048,847",
       "divisions": [
         "Beja (Bajah)",
         "Ben Arous (Bin 'Arus)",
@@ -1235,6 +1281,7 @@
       ],
       "name": "Tanzania",
       "code": "tz",
+      "population": "67,462,121",
       "divisions": [
         "Arusha",
         "Dar es Salaam",
@@ -1277,6 +1324,7 @@
       ],
       "name": "Uganda",
       "code": "ug",
+      "population": "49,283,041",
       "divisions": [
         "Abim",
         "Adjumani",
@@ -1423,6 +1471,7 @@
       ],
       "name": "Burkina Faso",
       "code": "uv",
+      "population": "23,042,199",
       "divisions": [
         "Boucle du Mouhoun",
         "Cascades",
@@ -1447,6 +1496,7 @@
       ],
       "name": "Namibia",
       "code": "wa",
+      "population": "2,803,660",
       "divisions": [
         "Erongo",
         "Hardap",
@@ -1470,6 +1520,7 @@
       "capitals": [],
       "name": "Western Sahara",
       "code": "wi",
+      "population": "unknown",
       "divisions": [],
       "flagRepeats": []
     },
@@ -1480,6 +1531,7 @@
       ],
       "name": "Eswatini",
       "code": "wz",
+      "population": "1,138,089",
       "divisions": [
         "Hhohho",
         "Lubombo",
@@ -1495,6 +1547,7 @@
       ],
       "name": "Zambia",
       "code": "za",
+      "population": "20,799,116",
       "divisions": [
         "Central",
         "Copperbelt",
@@ -1516,6 +1569,7 @@
       ],
       "name": "Zimbabwe",
       "code": "zi",
+      "population": "17,150,352",
       "divisions": [
         "Bulawayo",
         "Harare",
@@ -1535,6 +1589,7 @@
       "capitals": [],
       "name": "Antarctica",
       "code": "ay",
+      "population": "unknown",
       "divisions": [],
       "flag": "/static/ay-flag.jpg",
       "flagRepeats": []
@@ -1543,6 +1598,7 @@
       "capitals": [],
       "name": "Bouvet Island",
       "code": "bv",
+      "population": "uninhabited",
       "divisions": [],
       "flag": "/static/bv-flag.jpg",
       "flagRepeats": [
@@ -1553,6 +1609,7 @@
       "capitals": [],
       "name": "French Southern and Antarctic Lands",
       "code": "fs",
+      "population": "no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/fs-flag.jpg",
       "flagRepeats": [
@@ -1567,6 +1624,7 @@
       "capitals": [],
       "name": "Heard Island and McDonald Islands",
       "code": "hm",
+      "population": "uninhabited",
       "divisions": [],
       "flag": "/static/hm-flag.jpg",
       "flagRepeats": [
@@ -1582,6 +1640,7 @@
       ],
       "name": "American Samoa",
       "code": "aq",
+      "population": "43,895",
       "divisions": [],
       "flag": "/static/aq-flag.jpg",
       "flagRepeats": []
@@ -1592,6 +1651,7 @@
       ],
       "name": "Australia",
       "code": "as",
+      "population": "26,768,598",
       "divisions": [
         "Australian Capital Territory",
         "New South Wales",
@@ -1614,6 +1674,7 @@
       "capitals": [],
       "name": "Ashmore and Cartier Islands",
       "code": "at",
+      "population": "(2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/at-flag.jpg",
       "flagRepeats": [
@@ -1629,6 +1690,7 @@
       ],
       "name": "Solomon Islands",
       "code": "bp",
+      "population": "726,799",
       "divisions": [
         "Central",
         "Choiseul",
@@ -1650,6 +1712,7 @@
       ],
       "name": "Cocos Islands",
       "code": "ck",
+      "population": "593",
       "divisions": [],
       "flag": "/static/ck-flag.jpg",
       "flagRepeats": [
@@ -1665,6 +1728,7 @@
       ],
       "name": "Northern Mariana Islands",
       "code": "cq",
+      "population": "51,118",
       "divisions": [],
       "flag": "/static/cq-flag.jpg",
       "flagRepeats": []
@@ -1673,6 +1737,7 @@
       "capitals": [],
       "name": "Coral Sea Islands",
       "code": "cr",
+      "population": "no indigenous inhabitants (2021)",
       "divisions": [],
       "flag": "/static/cr-flag.jpg",
       "flagRepeats": [
@@ -1688,6 +1753,7 @@
       ],
       "name": "Cook Islands",
       "code": "cw",
+      "population": "7,761",
       "divisions": [],
       "flag": "/static/cw-flag.jpg",
       "flagRepeats": []
@@ -1698,6 +1764,7 @@
       ],
       "name": "Fiji",
       "code": "fj",
+      "population": "951,611",
       "divisions": [
         "Ba",
         "Bua",
@@ -1724,6 +1791,7 @@
       ],
       "name": "French Polynesia",
       "code": "fp",
+      "population": "303,540",
       "divisions": [
         "Iles Australes (Austral Islands)",
         "Iles Marquises (Marquesas Islands)",
@@ -1740,6 +1808,7 @@
       ],
       "name": "Guam",
       "code": "gq",
+      "population": "169,532",
       "divisions": [],
       "flag": "/static/gq-flag.jpg",
       "flagRepeats": []
@@ -1750,6 +1819,7 @@
       ],
       "name": "Kiribati",
       "code": "kr",
+      "population": "116,545",
       "divisions": [
         "Gilbert Islands",
         "Line Islands",
@@ -1764,6 +1834,7 @@
       ],
       "name": "Christmas Island",
       "code": "kt",
+      "population": "1,692",
       "divisions": [],
       "flag": "/static/kt-flag.jpg",
       "flagRepeats": []
@@ -1774,6 +1845,7 @@
       ],
       "name": "New Caledonia",
       "code": "nc",
+      "population": "304,167",
       "divisions": [
         "Province Iles (Islands Province)",
         "Province Nord (North Province)",
@@ -1794,6 +1866,7 @@
       ],
       "name": "Niue",
       "code": "ne",
+      "population": "2,000 (2022 est.)",
       "divisions": [],
       "flag": "/static/ne-flag.jpg",
       "flagRepeats": []
@@ -1804,6 +1877,7 @@
       ],
       "name": "Norfolk Island",
       "code": "nf",
+      "population": "1,748 (2016 est.)",
       "divisions": [],
       "flag": "/static/nf-flag.jpg",
       "flagRepeats": []
@@ -1814,6 +1888,7 @@
       ],
       "name": "Vanuatu",
       "code": "nh",
+      "population": "318,007",
       "divisions": [
         "Malampa",
         "Penama",
@@ -1829,6 +1904,7 @@
       "capitals": [],
       "name": "Nauru",
       "code": "nr",
+      "population": "9,892",
       "divisions": [
         "Aiwo",
         "Anabar",
@@ -1854,6 +1930,7 @@
       ],
       "name": "New Zealand",
       "code": "nz",
+      "population": "5,161,211",
       "divisions": [
         "Auckland",
         "Bay of Plenty",
@@ -1882,6 +1959,7 @@
       ],
       "name": "Pitcairn Islands",
       "code": "pc",
+      "population": "50 (2021 est.)",
       "divisions": [],
       "flag": "/static/pc-flag.jpg",
       "flagRepeats": []
@@ -1892,6 +1970,7 @@
       ],
       "name": "Palau",
       "code": "ps",
+      "population": "21,864",
       "divisions": [
         "Aimeliik",
         "Airai",
@@ -1919,6 +1998,7 @@
       ],
       "name": "Marshall Islands",
       "code": "rm",
+      "population": "82,011",
       "divisions": [
         "Jabat",
         "Jaluit",
@@ -1946,6 +2026,7 @@
       "capitals": [],
       "name": "Tokelau",
       "code": "tl",
+      "population": "1,647 (2019 est.)",
       "divisions": [],
       "flag": "/static/tl-flag.jpg",
       "flagRepeats": []
@@ -1956,6 +2037,7 @@
       ],
       "name": "Tonga",
       "code": "tn",
+      "population": "104,889",
       "divisions": [
         "'Eua",
         "Ha'apai",
@@ -1972,6 +2054,7 @@
       ],
       "name": "Tuvalu",
       "code": "tv",
+      "population": "11,733",
       "divisions": [
         "Funafuti",
         "Nanumaga",
@@ -1991,6 +2074,7 @@
       ],
       "name": "Wallis and Futuna",
       "code": "wf",
+      "population": "15,964",
       "divisions": [
         "Alo",
         "Sigave",
@@ -2003,6 +2087,7 @@
       "capitals": [],
       "name": "Wake Island",
       "code": "wq",
+      "population": "(2018 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/wq-flag.jpg",
       "flagRepeats": [
@@ -2016,6 +2101,7 @@
       ],
       "name": "Samoa",
       "code": "ws",
+      "population": "208,853",
       "divisions": [
         "A'ana",
         "Aiga-i-le-Tai",
@@ -2038,6 +2124,7 @@
       ],
       "name": "Aruba",
       "code": "aa",
+      "population": "125,063",
       "divisions": [],
       "flag": "/static/aa-flag.jpg",
       "flagRepeats": []
@@ -2048,6 +2135,7 @@
       ],
       "name": "Antigua and Barbuda",
       "code": "ac",
+      "population": "102,634",
       "divisions": [
         "Barbuda",
         "Redonda",
@@ -2067,6 +2155,7 @@
       ],
       "name": "Anguilla",
       "code": "av",
+      "population": "19,416",
       "divisions": [],
       "flag": "/static/av-flag.jpg",
       "flagRepeats": []
@@ -2077,6 +2166,7 @@
       ],
       "name": "Barbados",
       "code": "bb",
+      "population": "304,139",
       "divisions": [
         "Bridgetown",
         "Christ Church",
@@ -2100,6 +2190,7 @@
       ],
       "name": "The Bahamas",
       "code": "bf",
+      "population": "410,862",
       "divisions": [
         "Acklins Islands",
         "Berry Islands",
@@ -2142,6 +2233,7 @@
       ],
       "name": "Belize",
       "code": "bh",
+      "population": "415,789",
       "divisions": [
         "Belize",
         "Cayo",
@@ -2157,6 +2249,7 @@
       "capitals": [],
       "name": "Navassa Island",
       "code": "bq",
+      "population": "uninhabited; transient Haitian fishermen and others camp on the island",
       "divisions": [],
       "flag": "/static/bq-flag.jpg",
       "flagRepeats": [
@@ -2170,6 +2263,7 @@
       ],
       "name": "Cayman Islands",
       "code": "cj",
+      "population": "66,653",
       "divisions": [
         "Bodden Town",
         "Cayman Brac and Little Cayman",
@@ -2187,6 +2281,7 @@
       ],
       "name": "Costa Rica",
       "code": "cs",
+      "population": "5,265,575",
       "divisions": [
         "Alajuela",
         "Cartago",
@@ -2205,6 +2300,7 @@
       ],
       "name": "Cuba",
       "code": "cu",
+      "population": "10,966,038",
       "divisions": [
         "Artemisa",
         "Camaguey",
@@ -2232,6 +2328,7 @@
       ],
       "name": "Dominica",
       "code": "do",
+      "population": "74,661",
       "divisions": [
         "Saint Andrew",
         "Saint David",
@@ -2253,6 +2350,7 @@
       ],
       "name": "The Dominican",
       "code": "dr",
+      "population": "10,815,857",
       "divisions": [
         "Cibao Nordeste",
         "Cibao Noroeste",
@@ -2274,6 +2372,7 @@
       ],
       "name": "El Salvador",
       "code": "es",
+      "population": "6,628,702",
       "divisions": [
         "Ahuachapan",
         "Cabanas",
@@ -2299,6 +2398,7 @@
       ],
       "name": "Grenada",
       "code": "gj",
+      "population": "114,621",
       "divisions": [
         "Carriacou and Petite Martinique",
         "Saint Andrew",
@@ -2317,6 +2417,7 @@
       ],
       "name": "Guatemala",
       "code": "gt",
+      "population": "18,255,216",
       "divisions": [
         "Alta Verapaz",
         "Baja Verapaz",
@@ -2350,6 +2451,7 @@
       ],
       "name": "Haiti",
       "code": "ha",
+      "population": "11,753,943",
       "divisions": [
         "Artibonite",
         "Centre",
@@ -2371,6 +2473,7 @@
       ],
       "name": "Honduras",
       "code": "ho",
+      "population": "9,529,188",
       "divisions": [
         "Atlantida",
         "Choluteca",
@@ -2400,6 +2503,7 @@
       ],
       "name": "Jamaica",
       "code": "jm",
+      "population": "2,823,713",
       "divisions": [
         "Clarendon",
         "Hanover",
@@ -2425,6 +2529,7 @@
       ],
       "name": "Montserrat",
       "code": "mh",
+      "population": "5,468",
       "divisions": [
         "Saint Anthony",
         "Saint Georges",
@@ -2439,6 +2544,7 @@
       ],
       "name": "Sint Maarten",
       "code": "nn",
+      "population": "46,215",
       "divisions": [],
       "flag": "/static/nn-flag.jpg",
       "flagRepeats": []
@@ -2449,6 +2555,7 @@
       ],
       "name": "Nicaragua",
       "code": "nu",
+      "population": "6,676,948",
       "divisions": [
         "Boaco",
         "Carazo",
@@ -2477,6 +2584,7 @@
       ],
       "name": "Panama",
       "code": "pm",
+      "population": "4,470,241",
       "divisions": [
         "Bocas del Toro",
         "Chiriqui",
@@ -2502,6 +2610,7 @@
       ],
       "name": "Saint Martin",
       "code": "rn",
+      "population": "32,996",
       "divisions": [],
       "flag": "/static/rn-flag.jpg",
       "flagRepeats": [
@@ -2518,6 +2627,7 @@
       ],
       "name": "Puerto Rico",
       "code": "rq",
+      "population": "3,019,450",
       "divisions": [],
       "flag": "/static/rq-flag.jpg",
       "flagRepeats": []
@@ -2528,6 +2638,7 @@
       ],
       "name": "Saint Kitts and Nevis",
       "code": "sc",
+      "population": "55,133",
       "divisions": [
         "Christ Church Nichola Town",
         "Saint Anne Sandy Point",
@@ -2553,6 +2664,7 @@
       ],
       "name": "Saint Lucia",
       "code": "st",
+      "population": "168,038",
       "divisions": [
         "Anse-la-Raye",
         "Canaries",
@@ -2574,6 +2686,7 @@
       ],
       "name": "Saint Barthelemy",
       "code": "tb",
+      "population": "7,086",
       "divisions": [],
       "flag": "/static/tb-flag.jpg",
       "flagRepeats": [
@@ -2590,6 +2703,7 @@
       ],
       "name": "Trinidad and Tobago",
       "code": "td",
+      "population": "1,408,966",
       "divisions": [
         "Arima",
         "Chaguanas",
@@ -2616,6 +2730,7 @@
       ],
       "name": "Turks and Caicos Islands",
       "code": "tk",
+      "population": "60,439",
       "divisions": [],
       "flag": "/static/tk-flag.jpg",
       "flagRepeats": []
@@ -2626,6 +2741,7 @@
       ],
       "name": "Curacao",
       "code": "uc",
+      "population": "153,289",
       "divisions": [],
       "flag": "/static/uc-flag.jpg",
       "flagRepeats": []
@@ -2636,6 +2752,7 @@
       ],
       "name": "Saint Vincent and the Grenadines",
       "code": "vc",
+      "population": "100,647",
       "divisions": [
         "Charlotte",
         "Grenadines",
@@ -2653,6 +2770,7 @@
       ],
       "name": "British Virgin Islands",
       "code": "vi",
+      "population": "40,102",
       "divisions": [],
       "flag": "/static/vi-flag.jpg",
       "flagRepeats": []
@@ -2663,6 +2781,7 @@
       ],
       "name": "Virgin Islands",
       "code": "vq",
+      "population": "104,377",
       "divisions": [],
       "flag": "/static/vq-flag.jpg",
       "flagRepeats": []
@@ -2673,6 +2792,7 @@
       ],
       "name": "Kyrgyzstan",
       "code": "kg",
+      "population": "6,172,101",
       "divisions": [
         "Batken Oblusu",
         "Bishkek Shaary",
@@ -2693,6 +2813,7 @@
       ],
       "name": "Kazakhstan",
       "code": "kz",
+      "population": "20,260,006",
       "divisions": [
         "Abay (Semey)",
         "Almaty",
@@ -2725,6 +2846,7 @@
       ],
       "name": "Russia",
       "code": "rs",
+      "population": "140,820,810",
       "divisions": [
         "Adygeya (Maykop)",
         "Altay (Barnaul)",
@@ -2819,6 +2941,7 @@
       ],
       "name": "Tajikistan",
       "code": "ti",
+      "population": "10,394,063",
       "divisions": [
         "Dushanbe",
         "Khatlon (Bokhtar)",
@@ -2835,6 +2958,7 @@
       ],
       "name": "Turkmenistan",
       "code": "tx",
+      "population": "5,744,151",
       "divisions": [
         "Ahal Velayat (Arkadag)",
         "Ashgabat",
@@ -2852,6 +2976,7 @@
       ],
       "name": "Uzbekistan",
       "code": "uz",
+      "population": "36,520,593",
       "divisions": [
         "Andijon Viloyati",
         "Buxoro Viloyati [Bukhara Province]",
@@ -2880,6 +3005,7 @@
       ],
       "name": "Burma",
       "code": "bm",
+      "population": "57,527,139",
       "divisions": [
         "Ayeyarwady (Irrawaddy)",
         "Bago",
@@ -2906,6 +3032,7 @@
       ],
       "name": "Brunei",
       "code": "bx",
+      "population": "491,900",
       "divisions": [
         "Belait",
         "Brunei dan Muara",
@@ -2921,6 +3048,7 @@
       ],
       "name": "Cambodia",
       "code": "cb",
+      "population": "17,063,669",
       "divisions": [
         "Banteay Meanchey",
         "Battambang",
@@ -2957,6 +3085,7 @@
       ],
       "name": "China",
       "code": "ch",
+      "population": "1,416,043,270",
       "divisions": [
         "Anhui",
         "Beijing",
@@ -2999,6 +3128,7 @@
       "capitals": [],
       "name": "Hong Kong",
       "code": "hk",
+      "population": "7,297,821",
       "divisions": [],
       "flag": "/static/hk-flag.jpg",
       "flagRepeats": []
@@ -3009,6 +3139,7 @@
       ],
       "name": "Indonesia",
       "code": "id",
+      "population": "281,562,465",
       "divisions": [
         "Aceh",
         "Bali",
@@ -3058,6 +3189,7 @@
       ],
       "name": "Japan",
       "code": "ja",
+      "population": "123,201,945",
       "divisions": [
         "Aichi",
         "Akita",
@@ -3116,6 +3248,7 @@
       ],
       "name": "North Korea",
       "code": "kn",
+      "population": "26,298,666",
       "divisions": [
         "Chagang",
         "Hambuk (North Hamgyong)",
@@ -3140,6 +3273,7 @@
       ],
       "name": "South Korea",
       "code": "ks",
+      "population": "52,081,799",
       "divisions": [
         "Busan (Pusan)",
         "Chungcheongbuk-do (North Chungcheong)",
@@ -3168,6 +3302,7 @@
       ],
       "name": "Laos&nbsp;",
       "code": "la",
+      "population": "7,953,556",
       "divisions": [
         "Attapu",
         "Bokeo",
@@ -3195,6 +3330,7 @@
       "capitals": [],
       "name": "Macau",
       "code": "mc",
+      "population": "644,426",
       "divisions": [],
       "flag": "/static/mc-flag.jpg",
       "flagRepeats": []
@@ -3205,6 +3341,7 @@
       ],
       "name": "Mongolia",
       "code": "mg",
+      "population": "3,281,676",
       "divisions": [
         "Arhangay",
         "Bayan-Olgiy",
@@ -3238,6 +3375,7 @@
       ],
       "name": "Malaysia",
       "code": "my",
+      "population": "34,564,810",
       "divisions": [
         "Johor",
         "Kedah",
@@ -3264,6 +3402,7 @@
       "capitals": [],
       "name": "Paracel Islands",
       "code": "pf",
+      "population": "1,440 (July 2014 est.)",
       "divisions": [],
       "flagRepeats": []
     },
@@ -3271,6 +3410,7 @@
       "capitals": [],
       "name": "Spratly Islands",
       "code": "pg",
+      "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flagRepeats": []
     },
@@ -3280,6 +3420,7 @@
       ],
       "name": "Papua New Guinea",
       "code": "pp",
+      "population": "10,046,233",
       "divisions": [
         "Bougainville",
         "Central",
@@ -3313,6 +3454,7 @@
       ],
       "name": "Philippines",
       "code": "rp",
+      "population": "118,277,063",
       "divisions": [
         "Abra",
         "Agusan del Norte",
@@ -3439,6 +3581,7 @@
       ],
       "name": "Singapore",
       "code": "sn",
+      "population": "6,028,459",
       "divisions": [
         "Central Singapore Development Council",
         "North East Development Council",
@@ -3455,6 +3598,7 @@
       ],
       "name": "Thailand",
       "code": "th",
+      "population": "69,920,998",
       "divisions": [
         "Amnat Charoen",
         "Ang Thong",
@@ -3543,6 +3687,7 @@
       ],
       "name": "Timor-Leste",
       "code": "tt",
+      "population": "1,506,909",
       "divisions": [
         "Aileu",
         "Ainaro",
@@ -3567,6 +3712,7 @@
       ],
       "name": "Taiwan",
       "code": "tw",
+      "population": "23,595,274",
       "divisions": [
         "Changhua",
         "Chiayi",
@@ -3598,6 +3744,7 @@
       ],
       "name": "Vietnam",
       "code": "vm",
+      "population": "105,758,975",
       "divisions": [
         "An Giang",
         "Ba Ria-Vung Tau",
@@ -3672,6 +3819,7 @@
       ],
       "name": "Albania",
       "code": "al",
+      "population": "3,107,100",
       "divisions": [
         "Berat",
         "Diber",
@@ -3695,6 +3843,7 @@
       ],
       "name": "Andorra",
       "code": "an",
+      "population": "85,370",
       "divisions": [
         "Andorra la Vella",
         "Canillo",
@@ -3713,6 +3862,7 @@
       ],
       "name": "Austria",
       "code": "au",
+      "population": "8,967,982",
       "divisions": [
         "Burgenland",
         "Kaernten (Carinthia)",
@@ -3733,6 +3883,7 @@
       ],
       "name": "Belgium",
       "code": "be",
+      "population": "11,977,634",
       "divisions": [
         "Brussels-Capital Region",
         "Flemish Region (Flanders)",
@@ -3747,6 +3898,7 @@
       ],
       "name": "Bosnia and Herzegovina",
       "code": "bk",
+      "population": "3,798,671",
       "divisions": [
         "Brcko District (Brcko Distrikt) (ethnically mixed)",
         "Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat)",
@@ -3761,6 +3913,7 @@
       ],
       "name": "Belarus",
       "code": "bo",
+      "population": "9,501,451",
       "divisions": [
         "Brest",
         "Homyel' (Gomel')",
@@ -3779,6 +3932,7 @@
       ],
       "name": "Bulgaria",
       "code": "bu",
+      "population": "6,782,659",
       "divisions": [
         "Blagoevgrad",
         "Burgas",
@@ -3818,6 +3972,7 @@
       ],
       "name": "Cyprus",
       "code": "cy",
+      "population": "1,320,525",
       "divisions": [
         "Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community)",
         "Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community)",
@@ -3835,6 +3990,7 @@
       ],
       "name": "Denmark",
       "code": "da",
+      "population": "5,973,136",
       "divisions": [
         "Hovedstaden (Capital)",
         "Midtjylland (Central Jutland)",
@@ -3851,6 +4007,7 @@
       ],
       "name": "Ireland",
       "code": "ei",
+      "population": "5,233,461",
       "divisions": [
         "Carlow",
         "Cavan",
@@ -3891,6 +4048,7 @@
       ],
       "name": "Estonia",
       "code": "en",
+      "population": "1,193,791",
       "divisions": [
         "Alutaguse",
         "Anija",
@@ -3976,6 +4134,7 @@
       ],
       "name": "Czechia",
       "code": "ez",
+      "population": "10,837,890",
       "divisions": [
         "Jihocesky (South Bohemia)",
         "Jihomoravsky (South Moravia)",
@@ -4001,6 +4160,7 @@
       ],
       "name": "Finland",
       "code": "fi",
+      "population": "5,626,414",
       "divisions": [
         "Egentliga Finland (Swedish) [Southwest Finland]",
         "Varsinais-Suomi (Finnish)"
@@ -4014,6 +4174,7 @@
       ],
       "name": "Faroe Islands",
       "code": "fo",
+      "population": "52,933",
       "divisions": [
         "Eidhi",
         "Eystur",
@@ -4054,6 +4215,7 @@
       ],
       "name": "France",
       "code": "fr",
+      "population": "68,374,591",
       "divisions": [
         "Auvergne-Rhone-Alpes",
         "Bourgogne-Franche-Comte (Burgundy-Free County)",
@@ -4089,6 +4251,7 @@
       ],
       "name": "Gibraltar",
       "code": "gi",
+      "population": "29,683",
       "divisions": [],
       "flag": "/static/gi-flag.jpg",
       "flagRepeats": []
@@ -4099,6 +4262,7 @@
       ],
       "name": "Guernsey",
       "code": "gk",
+      "population": "67,787",
       "divisions": [],
       "flag": "/static/gk-flag.jpg",
       "flagRepeats": []
@@ -4109,6 +4273,7 @@
       ],
       "name": "Germany",
       "code": "gm",
+      "population": "84,119,100",
       "divisions": [
         "Baden-Wuerttemberg",
         "Bayern (Bavaria)",
@@ -4136,6 +4301,7 @@
       ],
       "name": "Greece",
       "code": "gr",
+      "population": "10,461,091",
       "divisions": [
         "Agion Oros (Mount Athos)",
         "Anatoliki Makedonia kai Thraki (East Macedonia and Thrace)",
@@ -4161,6 +4327,7 @@
       ],
       "name": "Croatia",
       "code": "hr",
+      "population": "4,150,116",
       "divisions": [
         "Bjelovarsko-Bilogorska (Bjelovar-Bilogora)",
         "Brodsko-Posavska (Brod-Posavina)",
@@ -4193,6 +4360,7 @@
       ],
       "name": "Hungary",
       "code": "hu",
+      "population": "9,855,745",
       "divisions": [
         "Bacs-Kiskun",
         "Baja",
@@ -4248,6 +4416,7 @@
       ],
       "name": "Iceland",
       "code": "ic",
+      "population": "364,036",
       "divisions": [
         "Akranes",
         "Akureyri",
@@ -4323,6 +4492,7 @@
       ],
       "name": "Isle of Man",
       "code": "im",
+      "population": "92,269",
       "divisions": [],
       "flag": "/static/im-flag.jpg",
       "flagRepeats": []
@@ -4333,6 +4503,7 @@
       ],
       "name": "Italy",
       "code": "it",
+      "population": "60,964,931",
       "divisions": [
         "Abruzzo",
         "Basilicata",
@@ -4364,6 +4535,7 @@
       ],
       "name": "Jersey",
       "code": "je",
+      "population": "103,387",
       "divisions": [],
       "flag": "/static/je-flag.jpg",
       "flagRepeats": []
@@ -4372,6 +4544,7 @@
       "capitals": [],
       "name": "Jan Mayen",
       "code": "jn",
+      "population": "no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/jn-flag.jpg",
       "flagRepeats": [
@@ -4384,6 +4557,7 @@
       ],
       "name": "Kosovo",
       "code": "kv",
+      "population": "1,977,093",
       "divisions": [
         "Decan (Decani)",
         "Dragash (Dragas)",
@@ -4433,6 +4607,7 @@
       ],
       "name": "Latvia",
       "code": "lg",
+      "population": "1,801,246",
       "divisions": [
         "Adazi",
         "Aizkraukle",
@@ -4484,6 +4659,7 @@
       ],
       "name": "Lithuania",
       "code": "lh",
+      "population": "2,628,186",
       "divisions": [
         "Akmene",
         "Alytaus Miestas",
@@ -4555,6 +4731,7 @@
       ],
       "name": "Slovakia",
       "code": "lo",
+      "population": "5,563,649",
       "divisions": [
         "Banska Bystrica",
         "Bratislava",
@@ -4574,6 +4751,7 @@
       ],
       "name": "Liechtenstein",
       "code": "ls",
+      "population": "40,272",
       "divisions": [
         "Balzers",
         "Eschen",
@@ -4596,6 +4774,7 @@
       ],
       "name": "Luxembourg",
       "code": "lu",
+      "population": "671,254",
       "divisions": [
         "Capellen",
         "Clervaux",
@@ -4619,6 +4798,7 @@
       ],
       "name": "Moldova",
       "code": "md",
+      "population": "3,599,528",
       "divisions": [
         "Anenii Noi",
         "Balti",
@@ -4667,6 +4847,7 @@
       ],
       "name": "Montenegro",
       "code": "mj",
+      "population": "599,849",
       "divisions": [
         "Andrijevica",
         "Bar",
@@ -4703,6 +4884,7 @@
       ],
       "name": "North Macedonia",
       "code": "mk",
+      "population": "2,135,622",
       "divisions": [
         "Aerodrom",
         "Butel",
@@ -4724,6 +4906,7 @@
       ],
       "name": "Monaco",
       "code": "mn",
+      "population": "31,813",
       "divisions": [],
       "flag": "/static/mn-flag.jpg",
       "flagRepeats": []
@@ -4734,6 +4917,7 @@
       ],
       "name": "Malta",
       "code": "mt",
+      "population": "469,730",
       "divisions": [
         "Attard",
         "Balzan",
@@ -4813,6 +4997,7 @@
       ],
       "name": "Netherlands",
       "code": "nl",
+      "population": "17,772,378",
       "divisions": [
         "Bonaire",
         "Drenthe",
@@ -4839,6 +5024,7 @@
       ],
       "name": "Norway",
       "code": "no",
+      "population": "5,509,733",
       "divisions": [
         "Agder",
         "Innlandet",
@@ -4862,6 +5048,7 @@
       ],
       "name": "Poland",
       "code": "pl",
+      "population": "38,746,310",
       "divisions": [
         "Dolnoslaskie (Lower Silesia)",
         "Kujawsko-Pomorskie (Kuyavia-Pomerania)",
@@ -4889,6 +5076,7 @@
       ],
       "name": "Portugal",
       "code": "po",
+      "population": "10,207,177",
       "divisions": [
         "Acores (Azores)",
         "Aveiro",
@@ -4920,6 +5108,7 @@
       ],
       "name": "Serbia",
       "code": "ri",
+      "population": "6,652,212",
       "divisions": [
         "Ada",
         "Aleksandrovac",
@@ -5076,6 +5265,7 @@
       ],
       "name": "Romania",
       "code": "ro",
+      "population": "18,148,155",
       "divisions": [
         "Alba",
         "Arad",
@@ -5129,6 +5319,7 @@
       ],
       "name": "Slovenia",
       "code": "si",
+      "population": "2,097,893",
       "divisions": [
         "Ajdovscina",
         "Ankaran",
@@ -5352,6 +5543,7 @@
       ],
       "name": "San Marino",
       "code": "sm",
+      "population": "35,095",
       "divisions": [
         "Acquaviva",
         "Borgo Maggiore",
@@ -5372,6 +5564,7 @@
       ],
       "name": "Spain",
       "code": "sp",
+      "population": "47,280,433",
       "divisions": [
         "Euskadi (Basque) [Basque Country]",
         "Pais Vasco (Castilian)"
@@ -5385,6 +5578,7 @@
       ],
       "name": "Svalbard",
       "code": "sv",
+      "population": "2,926 (2021 est.)",
       "divisions": [],
       "flag": "/static/sv-flag.jpg",
       "flagRepeats": []
@@ -5395,6 +5589,7 @@
       ],
       "name": "Sweden",
       "code": "sw",
+      "population": "10,589,835",
       "divisions": [
         "Blekinge",
         "Dalarna",
@@ -5427,6 +5622,7 @@
       ],
       "name": "Switzerland",
       "code": "sz",
+      "population": "8,860,574",
       "divisions": [
         "Aargau",
         "Appenzell Ausserrhoden",
@@ -5464,6 +5660,7 @@
       ],
       "name": "United Kingdom",
       "code": "uk",
+      "population": "68,459,055 United Kingdom",
       "divisions": [
         "Aberdeen City",
         "Aberdeenshire",
@@ -5692,6 +5889,7 @@
       ],
       "name": "Ukraine",
       "code": "up",
+      "population": "35,661,826",
       "divisions": [
         "Cherkasy",
         "Chernihiv",
@@ -5729,6 +5927,7 @@
       ],
       "name": "Holy See",
       "code": "vt",
+      "population": "1,000 (2022 est.)",
       "divisions": [],
       "flag": "/static/vt-flag.jpg",
       "flagRepeats": []
@@ -5739,6 +5938,7 @@
       ],
       "name": "Azerbaijan",
       "code": "aj",
+      "population": "10,650,239",
       "divisions": [
         "Abseron",
         "Agcabadi",
@@ -5824,6 +6024,7 @@
       ],
       "name": "Armenia",
       "code": "am",
+      "population": "2,976,765",
       "divisions": [
         "Aragatsotn",
         "Ararat",
@@ -5846,6 +6047,7 @@
       ],
       "name": "Bahrain",
       "code": "ba",
+      "population": "1,566,888",
       "divisions": [
         "Asimah (Capital)",
         "Janubiyah (Southern)",
@@ -5861,6 +6063,7 @@
       ],
       "name": "Georgia",
       "code": "gg",
+      "population": "4,900,961",
       "divisions": [
         "Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)",
         "Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)",
@@ -5882,6 +6085,7 @@
       "capitals": [],
       "name": "Gaza, Gaza Strip",
       "code": "gz",
+      "population": "2,141,643",
       "divisions": [],
       "flagRepeats": []
     },
@@ -5891,6 +6095,7 @@
       ],
       "name": "Iran",
       "code": "ir",
+      "population": "88,386,937",
       "divisions": [
         "Alborz",
         "Ardabil",
@@ -5933,6 +6138,7 @@
       ],
       "name": "Israel",
       "code": "is",
+      "population": "9,402,617",
       "divisions": [
         "Central",
         "Haifa",
@@ -5950,6 +6156,7 @@
       ],
       "name": "Iraq",
       "code": "iz",
+      "population": "42,083,436",
       "divisions": [
         "Wasit"
       ],
@@ -5962,6 +6169,7 @@
       ],
       "name": "Jordan",
       "code": "jo",
+      "population": "11,174,024",
       "divisions": [
         "'Ajlun",
         "Al 'Aqabah",
@@ -5985,6 +6193,7 @@
       ],
       "name": "Kuwait",
       "code": "ku",
+      "population": "3,138,355",
       "divisions": [
         "Al 'Asimah",
         "Al Ahmadi",
@@ -6002,6 +6211,7 @@
       ],
       "name": "Lebanon",
       "code": "le",
+      "population": "5,364,482",
       "divisions": [
         "Aakkar",
         "Baalbek-Hermel",
@@ -6021,6 +6231,7 @@
       ],
       "name": "Oman",
       "code": "mu",
+      "population": "3,901,992",
       "divisions": [
         "Ad Dakhiliyah",
         "Al Buraymi",
@@ -6043,6 +6254,7 @@
       ],
       "name": "Qatar",
       "code": "qa",
+      "population": "2,552,088",
       "divisions": [
         "Ad Dawhah",
         "Al Khawr wa adh Dhakhirah",
@@ -6062,6 +6274,7 @@
       ],
       "name": "Saudi Arabia",
       "code": "sa",
+      "population": "36,544,431",
       "divisions": [
         "'Asir",
         "Al Bahah",
@@ -6086,6 +6299,7 @@
       ],
       "name": "Syria",
       "code": "sy",
+      "population": "23,865,423",
       "divisions": [
         "Al Hasakah",
         "Al Ladhiqiyah (Latakia)",
@@ -6111,6 +6325,7 @@
       ],
       "name": "Turkey",
       "code": "tu",
+      "population": "84,119,531",
       "divisions": [
         "Adana",
         "Adiyaman",
@@ -6201,6 +6416,7 @@
       "capitals": [],
       "name": "West Bank",
       "code": "we",
+      "population": "3,243,369",
       "divisions": [],
       "flagRepeats": []
     },
@@ -6210,6 +6426,7 @@
       ],
       "name": "Yemen",
       "code": "ym",
+      "population": "32,140,443",
       "divisions": [
         "'Adan (Aden)",
         "'Amran",
@@ -6243,6 +6460,7 @@
       ],
       "name": "Bermuda",
       "code": "bd",
+      "population": "72,800",
       "divisions": [
         "Devonshire",
         "Hamilton",
@@ -6264,6 +6482,7 @@
       ],
       "name": "Canada",
       "code": "ca",
+      "population": "38,794,813",
       "divisions": [
         "Alberta",
         "British Columbia",
@@ -6288,6 +6507,7 @@
       ],
       "name": "Greenland",
       "code": "gl",
+      "population": "57,751",
       "divisions": [
         "Avannaata",
         "Kujalleq",
@@ -6302,6 +6522,7 @@
       "capitals": [],
       "name": "Clipperton Island",
       "code": "ip",
+      "population": "uninhabited",
       "divisions": [],
       "flag": "/static/ip-flag.jpg",
       "flagRepeats": [
@@ -6318,6 +6539,7 @@
       ],
       "name": "Mexico",
       "code": "mx",
+      "population": "130,739,927",
       "divisions": [
         "Aguascalientes",
         "Baja California",
@@ -6361,6 +6583,7 @@
       ],
       "name": "Saint Pierre and Miquelon",
       "code": "sb",
+      "population": "5,132",
       "divisions": [],
       "flag": "/static/sb-flag.jpg",
       "flagRepeats": []
@@ -6371,6 +6594,7 @@
       ],
       "name": "United States",
       "code": "us",
+      "population": "341,963,408",
       "divisions": [
         "Alabama",
         "Alaska",
@@ -6436,6 +6660,7 @@
       ],
       "name": "Argentina",
       "code": "ar",
+      "population": "46,994,384",
       "divisions": [
         "Buenos Aires",
         "Catamarca",
@@ -6472,6 +6697,7 @@
       ],
       "name": "Bolivia",
       "code": "bl",
+      "population": "12,311,974",
       "divisions": [
         "Beni",
         "Chuquisaca",
@@ -6492,6 +6718,7 @@
       ],
       "name": "Brazil",
       "code": "br",
+      "population": "220,051,512",
       "divisions": [
         "Acre",
         "Alagoas",
@@ -6530,6 +6757,7 @@
       ],
       "name": "Chile",
       "code": "ci",
+      "population": "18,664,652",
       "divisions": [
         "Antofagasta",
         "Araucania",
@@ -6557,6 +6785,7 @@
       ],
       "name": "Colombia",
       "code": "co",
+      "population": "49,588,357",
       "divisions": [
         "Amazonas",
         "Antioquia",
@@ -6602,6 +6831,7 @@
       ],
       "name": "Ecuador",
       "code": "ec",
+      "population": "18,309,984",
       "divisions": [
         "Azuay",
         "Bolivar",
@@ -6637,6 +6867,7 @@
       ],
       "name": "Falkland Islands",
       "code": "fk",
+      "population": "3,662 (2021 est.)",
       "divisions": [],
       "flag": "/static/fk-flag.jpg",
       "flagRepeats": []
@@ -6647,6 +6878,7 @@
       ],
       "name": "Guyana",
       "code": "gy",
+      "population": "794,099",
       "divisions": [
         "Barima-Waini",
         "Cuyuni-Mazaruni",
@@ -6668,6 +6900,7 @@
       ],
       "name": "Suriname",
       "code": "ns",
+      "population": "646,758",
       "divisions": [
         "Brokopondo",
         "Commewijne",
@@ -6689,6 +6922,7 @@
       ],
       "name": "Paraguay",
       "code": "pa",
+      "population": "7,522,549",
       "divisions": [
         "Alto Paraguay",
         "Alto Parana",
@@ -6718,6 +6952,7 @@
       ],
       "name": "Peru",
       "code": "pe",
+      "population": "32,600,249",
       "divisions": [
         "Amazonas",
         "Ancash",
@@ -6752,6 +6987,7 @@
       "capitals": [],
       "name": "South Georgia and South Sandwich Islands",
       "code": "sx",
+      "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/sx-flag.jpg",
       "flagRepeats": []
@@ -6762,6 +6998,7 @@
       ],
       "name": "Uruguay",
       "code": "uy",
+      "population": "3,425,330",
       "divisions": [
         "Artigas",
         "Canelones",
@@ -6792,6 +7029,7 @@
       ],
       "name": "Venezuela",
       "code": "ve",
+      "population": "31,250,306",
       "divisions": [
         "Amazonas",
         "Anzoategui",
@@ -6828,6 +7066,7 @@
       ],
       "name": "Afghanistan",
       "code": "af",
+      "population": "40,121,552",
       "divisions": [
         "Badakhshan",
         "Badghis",
@@ -6873,6 +7112,7 @@
       ],
       "name": "Bangladesh",
       "code": "bg",
+      "population": "168,697,184",
       "divisions": [
         "Barishal",
         "Chattogram",
@@ -6892,6 +7132,7 @@
       ],
       "name": "Bhutan",
       "code": "bt",
+      "population": "884,546",
       "divisions": [
         "Bumthang",
         "Chhukha",
@@ -6924,6 +7165,7 @@
       ],
       "name": "Sri Lanka",
       "code": "ce",
+      "population": "21,982,608",
       "divisions": [
         "Central",
         "Eastern",
@@ -6944,6 +7186,7 @@
       ],
       "name": "India",
       "code": "in",
+      "population": "1,409,128,296",
       "divisions": [
         "Andaman and Nicobar Islands",
         "Andhra Pradesh",
@@ -6991,6 +7234,7 @@
       ],
       "name": "Maldives",
       "code": "mv",
+      "population": "388,858",
       "divisions": [
         "Addu (Addu City)",
         "Ariatholhu Dhekunuburi (South Ari Atoll)",
@@ -7023,6 +7267,7 @@
       ],
       "name": "Nepal",
       "code": "np",
+      "population": "31,122,387",
       "divisions": [
         "Bagmati",
         "Gandaki",
@@ -7041,6 +7286,7 @@
       ],
       "name": "Pakistan",
       "code": "pk",
+      "population": "252,363,571",
       "divisions": [
         "Azad Kashmir",
         "Balochistan",
