@@ -61,17 +61,13 @@ export class Quiz extends LitElementNoShadow {
     this.addEventListener(
       "answer-incorrect",
       (event: CustomEventInit<{ fatal: boolean }>) => {
-        console.log(this.lives);
         this.lives--;
-        console.log(event.detail!.fatal, this.lives <= 0);
         if (event.detail!.fatal || this.lives <= 0) {
           this.score = 0;
           this.lives = MAX_LIVES;
         }
-        console.log(this.lives);
 
         this.replaceQuestion();
-        console.log(this.lives);
       },
     );
 
@@ -178,7 +174,6 @@ export class OptionSelection extends LitElementNoShadow {
   fatal: boolean = false;
 
   render() {
-    console.log(this.fatal);
     const correctButton = createRef<HTMLButtonElement>();
     const choices = this.choices.map((choice, i) => {
       const { event, classes, button } =
