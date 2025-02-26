@@ -190,7 +190,7 @@ export class OptionSelection extends LitElementNoShadow {
             };
 
       return html`<button
-        class="border-2 border-slate-300 rounded-full px-4 w-full transition-colors hover:bg-slate-300 hover:text-slate-900"
+        class="border-2 border-slate-300 rounded-[1em] px-4 w-full transition-colors hover:bg-slate-300 hover:text-slate-900"
         @click=${() => {
           correctButton.value!.classList.add(
             "bg-green-600!",
@@ -458,6 +458,45 @@ export class CountryHasWhatPopulationQuestion extends Question {
   }
 }
 
+@customElement("x-country-what-border-countries")
+export class CountryWhatBorderCountriesQuestion extends Question {
+  choices: Country[];
+  correct: number;
+
+  constructor(lives: number) {
+    super(lives);
+
+    const question = countryCorrectMatchesFilter(
+      (country) => country.borderCountries !== null,
+      (_) => (country) => country.borderCountries !== null,
+    );
+
+    this.choices = question.choices;
+    this.correct = question.correct;
+  }
+
+  render() {
+    return html`<div class="grid place-items-center">
+      <div
+        class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+      >
+        <span>
+          Which countries border
+          <b .innerHTML=${this.choices[this.correct].name}></b>?
+        </span>
+      </div>
+      <x-option-selection
+        correct=${this.correct}
+        choices=${JSON.stringify(
+          this.choices.map((country) => country.borderCountries),
+        )}
+        fatal
+      ></x-option-selection>
+      <x-fatality-indicator lives="0"></x-fatality-indicator>
+    </div>`;
+  }
+}
+
 type QuestionConstructor = new (lives: number) => Question;
 const questionKinds: QuestionConstructor[] = [
   CountryHasWhichCapitalQuestion,
@@ -465,6 +504,7 @@ const questionKinds: QuestionConstructor[] = [
   FlagOfWhichCountryQuestion,
   RegionInWhichCountryQuestion,
   CountryHasWhatPopulationQuestion,
+  CountryWhatBorderCountriesQuestion,
 ];
 
 @customElement("x-question")

@@ -6,6 +6,7 @@
       ],
       "name": "Algeria",
       "code": "ag",
+      "borderCountries": "Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km",
       "population": "47,022,473",
       "divisions": [
         "Adrar",
@@ -76,6 +77,7 @@
       ],
       "name": "Angola",
       "code": "ao",
+      "borderCountries": "Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km",
       "population": "37,202,061",
       "divisions": [
         "Bengo",
@@ -106,6 +108,7 @@
       ],
       "name": "Botswana",
       "code": "bc",
+      "borderCountries": "Namibia 1,544 km; South Africa 1,969 km; Zambia 0.15 km; Zimbabwe 834 km",
       "population": "2,450,668",
       "divisions": [
         "Central",
@@ -135,6 +138,7 @@
       ],
       "name": "Benin",
       "code": "bn",
+      "borderCountries": "Burkina Faso 386 km; Niger 277 km; Nigeria 809 km; Togo 651 km",
       "population": "14,697,052",
       "divisions": [
         "Alibori",
@@ -160,6 +164,7 @@
       ],
       "name": "Burundi",
       "code": "by",
+      "borderCountries": "Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km",
       "population": "13,590,102",
       "divisions": [
         "Bubanza",
@@ -190,6 +195,7 @@
       ],
       "name": "Chad",
       "code": "cd",
+      "borderCountries": "Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km",
       "population": "19,093,595",
       "divisions": [
         "Barh-El-Gazel",
@@ -225,6 +231,7 @@
       ],
       "name": "Congo",
       "code": "cf",
+      "borderCountries": "Angola 231 km; Cameroon 494 km; Central African Republic 487 km; Democratic Republic of the Congo 1,775 km; Gabon 2,567 km",
       "population": "6,097,665",
       "divisions": [
         "Bouenza",
@@ -249,6 +256,7 @@
       ],
       "name": "DRC",
       "code": "cg",
+      "borderCountries": "Angola 2,646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province); Burundi 236 km; Central African Republic 1,747 km; Republic of the Congo 1,775 km; Rwanda 221 km; South Sudan 714 km; Tanzania 479 km; Uganda 877 km; Zambia 2,332 km",
       "population": "115,403,027",
       "divisions": [
         "Bas-Uele (Lower Uele)",
@@ -287,6 +295,7 @@
       ],
       "name": "Cameroon",
       "code": "cm",
+      "borderCountries": "Central African Republic 901 km; Chad 1,116 km; Republic of the Congo 494 km; Equatorial Guinea 183 km; Gabon 349 km; Nigeria 1975 km",
       "population": "30,966,105",
       "divisions": [
         "Adamaoua",
@@ -309,6 +318,7 @@
       ],
       "name": "Comoros",
       "code": "cn",
+      "borderCountries": null,
       "population": "900,141",
       "divisions": [
         "Anjouan (Ndzuwani)",
@@ -324,6 +334,7 @@
       ],
       "name": "Cabo Verde",
       "code": "cv",
+      "borderCountries": null,
       "population": "611,014",
       "divisions": [
         "Boa Vista",
@@ -358,6 +369,7 @@
       ],
       "name": "Djibouti",
       "code": "dj",
+      "borderCountries": "Eritrea 125 km; Ethiopia 342 km; Somalia 61 km",
       "population": "994,974",
       "divisions": [
         "Ali Sabieh",
@@ -376,6 +388,7 @@
       ],
       "name": "Egypt",
       "code": "eg",
+      "borderCountries": "Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km",
       "population": "111,247,248",
       "divisions": [
         "Ad Daqahliyah",
@@ -415,6 +428,7 @@
       ],
       "name": "Equatorial Guinea",
       "code": "ek",
+      "borderCountries": "Cameroon 183 km; Gabon 345 km",
       "population": "1,795,834",
       "divisions": [
         "Annobon",
@@ -435,6 +449,7 @@
       ],
       "name": "Eritrea",
       "code": "er",
+      "borderCountries": "Djibouti 125 km; Ethiopia 1,033 km; Sudan 682 km",
       "population": "6,343,956",
       "divisions": [
         "'Anseba",
@@ -453,6 +468,7 @@
       ],
       "name": "Ethiopia",
       "code": "et",
+      "borderCountries": "Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km",
       "population": "118,550,298",
       "divisions": [
         "Adis Abeba (Addis Ababa)",
@@ -479,6 +495,7 @@
       ],
       "name": "The Gambia",
       "code": "ga",
+      "borderCountries": "Senegal 749 km",
       "population": "2,523,327",
       "divisions": [
         "Banjul",
@@ -498,6 +515,7 @@
       ],
       "name": "Gabon",
       "code": "gb",
+      "borderCountries": "Cameroon 349 km; Republic of the Congo 2,567 km; Equatorial Guinea 345 km",
       "population": "2,455,105",
       "divisions": [
         "Estuaire",
@@ -519,6 +537,7 @@
       ],
       "name": "Ghana",
       "code": "gh",
+      "borderCountries": "Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km",
       "population": "34,589,092",
       "divisions": [
         "Ahafo",
@@ -547,6 +566,7 @@
       ],
       "name": "Guinea",
       "code": "gv",
+      "borderCountries": "Cote d'Ivoire 816 km; Guinea-Bissau 421 km; Liberia 590 km; Mali 1062 km; Senegal 363 km; Sierra Leone 794 km",
       "population": "13,986,179",
       "divisions": [
         "Boke",
@@ -568,6 +588,7 @@
       ],
       "name": "C&ocirc;te d'Ivoire",
       "code": "iv",
+      "borderCountries": "Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km",
       "population": "29,981,758",
       "divisions": [
         "Abidjan",
@@ -594,6 +615,7 @@
       ],
       "name": "Kenya",
       "code": "ke",
+      "borderCountries": "Ethiopia 867 km; Somalia 684 km; South Sudan 317 km; Tanzania 775 km; Uganda 814 km",
       "population": "58,246,378",
       "divisions": [
         "Baringo",
@@ -653,6 +675,7 @@
       ],
       "name": "Liberia",
       "code": "li",
+      "borderCountries": "Guinea 590 km; Cote d'Ivoire 778 km; Sierra Leone 299 km",
       "population": "5,437,249",
       "divisions": [
         "Bomi",
@@ -680,6 +703,7 @@
       ],
       "name": "Lesotho",
       "code": "lt",
+      "borderCountries": "South Africa 1,106 km",
       "population": "2,227,548",
       "divisions": [
         "Berea",
@@ -702,6 +726,7 @@
       ],
       "name": "Libya",
       "code": "ly",
+      "borderCountries": "Algeria 989 km; Chad 1,050 km; Egypt 1,115 km; Niger 342 km; Sudan 382 km; Tunisia 461 km",
       "population": "7,361,263",
       "divisions": [
         "Al Butnan",
@@ -736,6 +761,7 @@
       ],
       "name": "Madagascar",
       "code": "ma",
+      "borderCountries": null,
       "population": "29,452,714",
       "divisions": [
         "Antananarivo",
@@ -754,6 +780,7 @@
       ],
       "name": "Malawi",
       "code": "mi",
+      "borderCountries": "Mozambique 1,498 km; Tanzania 512 km; Zambia 847 km",
       "population": "21,763,309",
       "divisions": [
         "Balaka",
@@ -794,6 +821,7 @@
       ],
       "name": "Mali",
       "code": "ml",
+      "borderCountries": "Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km",
       "population": "21,990,607",
       "divisions": [
         "District de Bamako",
@@ -817,6 +845,7 @@
       ],
       "name": "Morocco",
       "code": "mo",
+      "borderCountries": "Algeria 1,941 km; Mauritania 1,564 km; Spain (Ceuta) 8 km and Spain (Melilla) 10.5 km",
       "population": "37,387,585",
       "divisions": [
         "Beni Mellal-Khenifra",
@@ -841,6 +870,7 @@
       ],
       "name": "Mauritius",
       "code": "mp",
+      "borderCountries": null,
       "population": "1,310,504",
       "divisions": [
         "Agalega Islands",
@@ -865,6 +895,7 @@
       ],
       "name": "Mauritania",
       "code": "mr",
+      "borderCountries": "Algeria 460 km; Mali 2,236 km; Morocco 1,564 km; Senegal 742 km",
       "population": "4,328,040",
       "divisions": [
         "Adrar",
@@ -892,6 +923,7 @@
       ],
       "name": "Mozambique",
       "code": "mz",
+      "borderCountries": "Malawi 1498 km; South Africa 496 km; Eswatini 108 km; Tanzania 840 km; Zambia 439 km; Zimbabwe 1,402 km",
       "population": "33,350,954",
       "divisions": [
         "Cabo Delgado",
@@ -915,6 +947,7 @@
       ],
       "name": "Niger",
       "code": "ng",
+      "borderCountries": "Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km",
       "population": "26,342,784",
       "divisions": [
         "Agadez",
@@ -935,6 +968,7 @@
       ],
       "name": "Nigeria",
       "code": "ni",
+      "borderCountries": "Benin 809 km; Cameroon 1,975 km; Chad 85 km; Niger 1,608 km",
       "population": "236,747,130",
       "divisions": [
         "Abia",
@@ -984,6 +1018,7 @@
       ],
       "name": "South Sudan",
       "code": "od",
+      "borderCountries": "Central African Republic 1,055 km; Democratic Republic of the Congo 714 km; Ethiopia 1,299 km; Kenya 317 km; Sudan 2,158 km; Uganda 475 km",
       "population": "12,703,714",
       "divisions": [
         "Central Equatoria",
@@ -1006,6 +1041,7 @@
       ],
       "name": "Guinea-Bissau",
       "code": "pu",
+      "borderCountries": "Guinea 421 km; Senegal 341 km",
       "population": "2,132,325",
       "divisions": [
         "Bafata",
@@ -1027,6 +1063,7 @@
       ],
       "name": "Rwanda",
       "code": "rw",
+      "borderCountries": "Burundi 315 km; Democratic Republic of the Congo 221 km; Tanzania 222 km; Uganda 172 km",
       "population": "13,623,302",
       "divisions": [
         "Est (Eastern)",
@@ -1044,6 +1081,7 @@
       ],
       "name": "Seychelles",
       "code": "se",
+      "borderCountries": null,
       "population": "98,187",
       "divisions": [
         "Anse Boileau",
@@ -1085,6 +1123,7 @@
       ],
       "name": "South Africa",
       "code": "sf",
+      "borderCountries": "Botswana 1,969 km; Lesotho 1,106 km; Mozambique 496 km; Namibia 1,005 km; Eswatini 438 km; Zimbabwe 230 km",
       "population": "60,442,647",
       "divisions": [
         "Eastern Cape",
@@ -1106,6 +1145,7 @@
       ],
       "name": "Senegal",
       "code": "sg",
+      "borderCountries": "The Gambia 749 km; Guinea 363 km; Guinea-Bissau 341 km; Mali 489 km; Mauritania 742 km",
       "population": "18,847,519",
       "divisions": [
         "Dakar",
@@ -1132,6 +1172,7 @@
       ],
       "name": "Sierra Leone",
       "code": "sl",
+      "borderCountries": "Guinea 794 km; Liberia 299 km",
       "population": "9,121,049",
       "divisions": [
         "Eastern",
@@ -1149,6 +1190,7 @@
       ],
       "name": "Somalia",
       "code": "so",
+      "borderCountries": "Djibouti 61 km; Ethiopia 1,640 km; Kenya 684 km",
       "population": "13,017,273",
       "divisions": [
         "Awdal",
@@ -1179,6 +1221,7 @@
       ],
       "name": "Sudan",
       "code": "su",
+      "borderCountries": "Central African Republic 174 km; Chad 1,403 km; Egypt 1,276 km; Eritrea 682 km; Ethiopia 744 km; Libya 382 km; South Sudan 2,158 km",
       "population": "50,467,278",
       "divisions": [
         "Blue Nile",
@@ -1209,6 +1252,7 @@
       ],
       "name": "Togo",
       "code": "to",
+      "borderCountries": "Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km",
       "population": "8,917,994",
       "divisions": [
         "Centrale",
@@ -1226,6 +1270,7 @@
       ],
       "name": "Sao Tome and Principe",
       "code": "tp",
+      "borderCountries": null,
       "population": "223,561",
       "divisions": [
         "Agua Grande",
@@ -1245,6 +1290,7 @@
       ],
       "name": "Tunisia",
       "code": "ts",
+      "borderCountries": "Algeria 1,034 km; Libya 461 km",
       "population": "12,048,847",
       "divisions": [
         "Beja (Bajah)",
@@ -1281,6 +1327,7 @@
       ],
       "name": "Tanzania",
       "code": "tz",
+      "borderCountries": "Burundi 589 km; Democratic Republic of the Congo 479 km; Kenya 775 km; Malawi 512 km; Mozambique 840 km; Rwanda 222 km; Uganda 391 km; Zambia 353 km",
       "population": "67,462,121",
       "divisions": [
         "Arusha",
@@ -1324,6 +1371,7 @@
       ],
       "name": "Uganda",
       "code": "ug",
+      "borderCountries": "Democratic Republic of the Congo 877 km; Kenya 814 km; Rwanda 172 km; South Sudan 475 km; Tanzania 391 km",
       "population": "49,283,041",
       "divisions": [
         "Abim",
@@ -1471,6 +1519,7 @@
       ],
       "name": "Burkina Faso",
       "code": "uv",
+      "borderCountries": "Benin 386 km; Cote d'Ivoire 545 km; Ghana 602 km; Mali 1325 km; Niger 622 km; Togo 131 km",
       "population": "23,042,199",
       "divisions": [
         "Boucle du Mouhoun",
@@ -1496,6 +1545,7 @@
       ],
       "name": "Namibia",
       "code": "wa",
+      "borderCountries": "Angola 1,427 km; Botswana 1,544 km; South Africa 1,005 km; Zambia 244 km",
       "population": "2,803,660",
       "divisions": [
         "Erongo",
@@ -1520,6 +1570,7 @@
       "capitals": [],
       "name": "Western Sahara",
       "code": "wi",
+      "borderCountries": "Algeria 41 km, Mauritania 1564 km, Morocco 444 km",
       "population": "unknown",
       "divisions": [],
       "flagRepeats": []
@@ -1531,6 +1582,7 @@
       ],
       "name": "Eswatini",
       "code": "wz",
+      "borderCountries": "Mozambique 108 km; South Africa 438 km",
       "population": "1,138,089",
       "divisions": [
         "Hhohho",
@@ -1547,6 +1599,7 @@
       ],
       "name": "Zambia",
       "code": "za",
+      "borderCountries": "Angola 1,065 km; Botswana 0.15 km; Democratic Republic of the Congo 2,332 km; Malawi 847 km; Mozambique 439 km; Namibia 244 km; Tanzania 353 km; Zimbabwe 763 km",
       "population": "20,799,116",
       "divisions": [
         "Central",
@@ -1569,6 +1622,7 @@
       ],
       "name": "Zimbabwe",
       "code": "zi",
+      "borderCountries": "Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km",
       "population": "17,150,352",
       "divisions": [
         "Bulawayo",
@@ -1589,6 +1643,7 @@
       "capitals": [],
       "name": "Antarctica",
       "code": "ay",
+      "borderCountries": null,
       "population": "unknown",
       "divisions": [],
       "flag": "/static/ay-flag.jpg",
@@ -1598,6 +1653,7 @@
       "capitals": [],
       "name": "Bouvet Island",
       "code": "bv",
+      "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
       "flag": "/static/bv-flag.jpg",
@@ -1609,6 +1665,7 @@
       "capitals": [],
       "name": "French Southern and Antarctic Lands",
       "code": "fs",
+      "borderCountries": null,
       "population": "no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/fs-flag.jpg",
@@ -1624,6 +1681,7 @@
       "capitals": [],
       "name": "Heard Island and McDonald Islands",
       "code": "hm",
+      "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
       "flag": "/static/hm-flag.jpg",
@@ -1640,6 +1698,7 @@
       ],
       "name": "American Samoa",
       "code": "aq",
+      "borderCountries": null,
       "population": "43,895",
       "divisions": [],
       "flag": "/static/aq-flag.jpg",
@@ -1651,6 +1710,7 @@
       ],
       "name": "Australia",
       "code": "as",
+      "borderCountries": null,
       "population": "26,768,598",
       "divisions": [
         "Australian Capital Territory",
@@ -1674,6 +1734,7 @@
       "capitals": [],
       "name": "Ashmore and Cartier Islands",
       "code": "at",
+      "borderCountries": null,
       "population": "(2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/at-flag.jpg",
@@ -1690,6 +1751,7 @@
       ],
       "name": "Solomon Islands",
       "code": "bp",
+      "borderCountries": null,
       "population": "726,799",
       "divisions": [
         "Central",
@@ -1712,6 +1774,7 @@
       ],
       "name": "Cocos Islands",
       "code": "ck",
+      "borderCountries": null,
       "population": "593",
       "divisions": [],
       "flag": "/static/ck-flag.jpg",
@@ -1728,6 +1791,7 @@
       ],
       "name": "Northern Mariana Islands",
       "code": "cq",
+      "borderCountries": null,
       "population": "51,118",
       "divisions": [],
       "flag": "/static/cq-flag.jpg",
@@ -1737,6 +1801,7 @@
       "capitals": [],
       "name": "Coral Sea Islands",
       "code": "cr",
+      "borderCountries": null,
       "population": "no indigenous inhabitants (2021)",
       "divisions": [],
       "flag": "/static/cr-flag.jpg",
@@ -1753,6 +1818,7 @@
       ],
       "name": "Cook Islands",
       "code": "cw",
+      "borderCountries": null,
       "population": "7,761",
       "divisions": [],
       "flag": "/static/cw-flag.jpg",
@@ -1764,6 +1830,7 @@
       ],
       "name": "Fiji",
       "code": "fj",
+      "borderCountries": null,
       "population": "951,611",
       "divisions": [
         "Ba",
@@ -1791,6 +1858,7 @@
       ],
       "name": "French Polynesia",
       "code": "fp",
+      "borderCountries": null,
       "population": "303,540",
       "divisions": [
         "Iles Australes (Austral Islands)",
@@ -1808,6 +1876,7 @@
       ],
       "name": "Guam",
       "code": "gq",
+      "borderCountries": null,
       "population": "169,532",
       "divisions": [],
       "flag": "/static/gq-flag.jpg",
@@ -1819,6 +1888,7 @@
       ],
       "name": "Kiribati",
       "code": "kr",
+      "borderCountries": null,
       "population": "116,545",
       "divisions": [
         "Gilbert Islands",
@@ -1834,6 +1904,7 @@
       ],
       "name": "Christmas Island",
       "code": "kt",
+      "borderCountries": null,
       "population": "1,692",
       "divisions": [],
       "flag": "/static/kt-flag.jpg",
@@ -1845,6 +1916,7 @@
       ],
       "name": "New Caledonia",
       "code": "nc",
+      "borderCountries": null,
       "population": "304,167",
       "divisions": [
         "Province Iles (Islands Province)",
@@ -1866,6 +1938,7 @@
       ],
       "name": "Niue",
       "code": "ne",
+      "borderCountries": null,
       "population": "2,000 (2022 est.)",
       "divisions": [],
       "flag": "/static/ne-flag.jpg",
@@ -1877,6 +1950,7 @@
       ],
       "name": "Norfolk Island",
       "code": "nf",
+      "borderCountries": null,
       "population": "1,748 (2016 est.)",
       "divisions": [],
       "flag": "/static/nf-flag.jpg",
@@ -1888,6 +1962,7 @@
       ],
       "name": "Vanuatu",
       "code": "nh",
+      "borderCountries": null,
       "population": "318,007",
       "divisions": [
         "Malampa",
@@ -1904,6 +1979,7 @@
       "capitals": [],
       "name": "Nauru",
       "code": "nr",
+      "borderCountries": null,
       "population": "9,892",
       "divisions": [
         "Aiwo",
@@ -1930,6 +2006,7 @@
       ],
       "name": "New Zealand",
       "code": "nz",
+      "borderCountries": null,
       "population": "5,161,211",
       "divisions": [
         "Auckland",
@@ -1959,6 +2036,7 @@
       ],
       "name": "Pitcairn Islands",
       "code": "pc",
+      "borderCountries": null,
       "population": "50 (2021 est.)",
       "divisions": [],
       "flag": "/static/pc-flag.jpg",
@@ -1970,6 +2048,7 @@
       ],
       "name": "Palau",
       "code": "ps",
+      "borderCountries": null,
       "population": "21,864",
       "divisions": [
         "Aimeliik",
@@ -1998,6 +2077,7 @@
       ],
       "name": "Marshall Islands",
       "code": "rm",
+      "borderCountries": null,
       "population": "82,011",
       "divisions": [
         "Jabat",
@@ -2026,6 +2106,7 @@
       "capitals": [],
       "name": "Tokelau",
       "code": "tl",
+      "borderCountries": null,
       "population": "1,647 (2019 est.)",
       "divisions": [],
       "flag": "/static/tl-flag.jpg",
@@ -2037,6 +2118,7 @@
       ],
       "name": "Tonga",
       "code": "tn",
+      "borderCountries": null,
       "population": "104,889",
       "divisions": [
         "'Eua",
@@ -2054,6 +2136,7 @@
       ],
       "name": "Tuvalu",
       "code": "tv",
+      "borderCountries": null,
       "population": "11,733",
       "divisions": [
         "Funafuti",
@@ -2074,6 +2157,7 @@
       ],
       "name": "Wallis and Futuna",
       "code": "wf",
+      "borderCountries": null,
       "population": "15,964",
       "divisions": [
         "Alo",
@@ -2087,6 +2171,7 @@
       "capitals": [],
       "name": "Wake Island",
       "code": "wq",
+      "borderCountries": null,
       "population": "(2018 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/wq-flag.jpg",
@@ -2101,6 +2186,7 @@
       ],
       "name": "Samoa",
       "code": "ws",
+      "borderCountries": null,
       "population": "208,853",
       "divisions": [
         "A'ana",
@@ -2124,6 +2210,7 @@
       ],
       "name": "Aruba",
       "code": "aa",
+      "borderCountries": null,
       "population": "125,063",
       "divisions": [],
       "flag": "/static/aa-flag.jpg",
@@ -2135,6 +2222,7 @@
       ],
       "name": "Antigua and Barbuda",
       "code": "ac",
+      "borderCountries": null,
       "population": "102,634",
       "divisions": [
         "Barbuda",
@@ -2155,6 +2243,7 @@
       ],
       "name": "Anguilla",
       "code": "av",
+      "borderCountries": null,
       "population": "19,416",
       "divisions": [],
       "flag": "/static/av-flag.jpg",
@@ -2166,6 +2255,7 @@
       ],
       "name": "Barbados",
       "code": "bb",
+      "borderCountries": null,
       "population": "304,139",
       "divisions": [
         "Bridgetown",
@@ -2190,6 +2280,7 @@
       ],
       "name": "The Bahamas",
       "code": "bf",
+      "borderCountries": null,
       "population": "410,862",
       "divisions": [
         "Acklins Islands",
@@ -2233,6 +2324,7 @@
       ],
       "name": "Belize",
       "code": "bh",
+      "borderCountries": "Guatemala 266 km; Mexico 276 km",
       "population": "415,789",
       "divisions": [
         "Belize",
@@ -2249,6 +2341,7 @@
       "capitals": [],
       "name": "Navassa Island",
       "code": "bq",
+      "borderCountries": null,
       "population": "uninhabited; transient Haitian fishermen and others camp on the island",
       "divisions": [],
       "flag": "/static/bq-flag.jpg",
@@ -2263,6 +2356,7 @@
       ],
       "name": "Cayman Islands",
       "code": "cj",
+      "borderCountries": null,
       "population": "66,653",
       "divisions": [
         "Bodden Town",
@@ -2281,6 +2375,7 @@
       ],
       "name": "Costa Rica",
       "code": "cs",
+      "borderCountries": "Nicaragua 313 km; Panama 348 km",
       "population": "5,265,575",
       "divisions": [
         "Alajuela",
@@ -2300,6 +2395,7 @@
       ],
       "name": "Cuba",
       "code": "cu",
+      "borderCountries": "US Naval Base at Guantanamo Bay 28.5 km",
       "population": "10,966,038",
       "divisions": [
         "Artemisa",
@@ -2328,6 +2424,7 @@
       ],
       "name": "Dominica",
       "code": "do",
+      "borderCountries": null,
       "population": "74,661",
       "divisions": [
         "Saint Andrew",
@@ -2350,6 +2447,7 @@
       ],
       "name": "The Dominican",
       "code": "dr",
+      "borderCountries": "Haiti 376 km",
       "population": "10,815,857",
       "divisions": [
         "Cibao Nordeste",
@@ -2372,6 +2470,7 @@
       ],
       "name": "El Salvador",
       "code": "es",
+      "borderCountries": "Guatemala 199 km; Honduras 391 km",
       "population": "6,628,702",
       "divisions": [
         "Ahuachapan",
@@ -2398,6 +2497,7 @@
       ],
       "name": "Grenada",
       "code": "gj",
+      "borderCountries": null,
       "population": "114,621",
       "divisions": [
         "Carriacou and Petite Martinique",
@@ -2417,6 +2517,7 @@
       ],
       "name": "Guatemala",
       "code": "gt",
+      "borderCountries": "Belize 266 km; El Salvador 199 km; Honduras 244 km; Mexico 958 km",
       "population": "18,255,216",
       "divisions": [
         "Alta Verapaz",
@@ -2451,6 +2552,7 @@
       ],
       "name": "Haiti",
       "code": "ha",
+      "borderCountries": "Dominican Republic 376 km",
       "population": "11,753,943",
       "divisions": [
         "Artibonite",
@@ -2473,6 +2575,7 @@
       ],
       "name": "Honduras",
       "code": "ho",
+      "borderCountries": "Guatemala 244 km; El Salvador 391 km; Nicaragua 940 km",
       "population": "9,529,188",
       "divisions": [
         "Atlantida",
@@ -2503,6 +2606,7 @@
       ],
       "name": "Jamaica",
       "code": "jm",
+      "borderCountries": null,
       "population": "2,823,713",
       "divisions": [
         "Clarendon",
@@ -2529,6 +2633,7 @@
       ],
       "name": "Montserrat",
       "code": "mh",
+      "borderCountries": null,
       "population": "5,468",
       "divisions": [
         "Saint Anthony",
@@ -2544,6 +2649,7 @@
       ],
       "name": "Sint Maarten",
       "code": "nn",
+      "borderCountries": "Saint Martin (France) 16 km",
       "population": "46,215",
       "divisions": [],
       "flag": "/static/nn-flag.jpg",
@@ -2555,6 +2661,7 @@
       ],
       "name": "Nicaragua",
       "code": "nu",
+      "borderCountries": "Costa Rica 313 km; Honduras 940 km",
       "population": "6,676,948",
       "divisions": [
         "Boaco",
@@ -2584,6 +2691,7 @@
       ],
       "name": "Panama",
       "code": "pm",
+      "borderCountries": "Colombia 339 km; Costa Rica 348 km",
       "population": "4,470,241",
       "divisions": [
         "Bocas del Toro",
@@ -2610,6 +2718,7 @@
       ],
       "name": "Saint Martin",
       "code": "rn",
+      "borderCountries": "Sint Maarten 16 km",
       "population": "32,996",
       "divisions": [],
       "flag": "/static/rn-flag.jpg",
@@ -2627,6 +2736,7 @@
       ],
       "name": "Puerto Rico",
       "code": "rq",
+      "borderCountries": null,
       "population": "3,019,450",
       "divisions": [],
       "flag": "/static/rq-flag.jpg",
@@ -2638,6 +2748,7 @@
       ],
       "name": "Saint Kitts and Nevis",
       "code": "sc",
+      "borderCountries": null,
       "population": "55,133",
       "divisions": [
         "Christ Church Nichola Town",
@@ -2664,6 +2775,7 @@
       ],
       "name": "Saint Lucia",
       "code": "st",
+      "borderCountries": null,
       "population": "168,038",
       "divisions": [
         "Anse-la-Raye",
@@ -2686,6 +2798,7 @@
       ],
       "name": "Saint Barthelemy",
       "code": "tb",
+      "borderCountries": null,
       "population": "7,086",
       "divisions": [],
       "flag": "/static/tb-flag.jpg",
@@ -2703,6 +2816,7 @@
       ],
       "name": "Trinidad and Tobago",
       "code": "td",
+      "borderCountries": null,
       "population": "1,408,966",
       "divisions": [
         "Arima",
@@ -2730,6 +2844,7 @@
       ],
       "name": "Turks and Caicos Islands",
       "code": "tk",
+      "borderCountries": null,
       "population": "60,439",
       "divisions": [],
       "flag": "/static/tk-flag.jpg",
@@ -2741,6 +2856,7 @@
       ],
       "name": "Curacao",
       "code": "uc",
+      "borderCountries": null,
       "population": "153,289",
       "divisions": [],
       "flag": "/static/uc-flag.jpg",
@@ -2752,6 +2868,7 @@
       ],
       "name": "Saint Vincent and the Grenadines",
       "code": "vc",
+      "borderCountries": null,
       "population": "100,647",
       "divisions": [
         "Charlotte",
@@ -2770,6 +2887,7 @@
       ],
       "name": "British Virgin Islands",
       "code": "vi",
+      "borderCountries": null,
       "population": "40,102",
       "divisions": [],
       "flag": "/static/vi-flag.jpg",
@@ -2781,6 +2899,7 @@
       ],
       "name": "Virgin Islands",
       "code": "vq",
+      "borderCountries": null,
       "population": "104,377",
       "divisions": [],
       "flag": "/static/vq-flag.jpg",
@@ -2792,6 +2911,7 @@
       ],
       "name": "Kyrgyzstan",
       "code": "kg",
+      "borderCountries": "China 1,063 km; Kazakhstan 1,212 km; Tajikistan 984 km; Uzbekistan 1,314 km",
       "population": "6,172,101",
       "divisions": [
         "Batken Oblusu",
@@ -2813,6 +2933,7 @@
       ],
       "name": "Kazakhstan",
       "code": "kz",
+      "borderCountries": "China 1,765 km; Kyrgyzstan 1,212 km; Russia 7,644 km; Turkmenistan 413 km; Uzbekistan 2,330 km",
       "population": "20,260,006",
       "divisions": [
         "Abay (Semey)",
@@ -2846,6 +2967,7 @@
       ],
       "name": "Russia",
       "code": "rs",
+      "borderCountries": "Azerbaijan 338 km; Belarus 1,312 km; China (southeast) 4,133 km and China (south) 46 km; Estonia 324 km; Finland 1,309 km; Georgia 894 km; Kazakhstan 7,644 km; North Korea 18 km; Latvia 332 km; Lithuania (Kaliningrad Oblast) 261 km; Mongolia 3,452 km; Norway 191 km; Poland (Kaliningrad Oblast) 209 km; Ukraine 1,944 km",
       "population": "140,820,810",
       "divisions": [
         "Adygeya (Maykop)",
@@ -2941,6 +3063,7 @@
       ],
       "name": "Tajikistan",
       "code": "ti",
+      "borderCountries": "Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km",
       "population": "10,394,063",
       "divisions": [
         "Dushanbe",
@@ -2958,6 +3081,7 @@
       ],
       "name": "Turkmenistan",
       "code": "tx",
+      "borderCountries": "Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km",
       "population": "5,744,151",
       "divisions": [
         "Ahal Velayat (Arkadag)",
@@ -2976,6 +3100,7 @@
       ],
       "name": "Uzbekistan",
       "code": "uz",
+      "borderCountries": "Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km",
       "population": "36,520,593",
       "divisions": [
         "Andijon Viloyati",
@@ -3005,6 +3130,7 @@
       ],
       "name": "Burma",
       "code": "bm",
+      "borderCountries": "Bangladesh 271 km; China 2,129 km; India 1,468 km; Laos 238 km; Thailand 2,416 km",
       "population": "57,527,139",
       "divisions": [
         "Ayeyarwady (Irrawaddy)",
@@ -3032,6 +3158,7 @@
       ],
       "name": "Brunei",
       "code": "bx",
+      "borderCountries": "Malaysia 266 km",
       "population": "491,900",
       "divisions": [
         "Belait",
@@ -3048,6 +3175,7 @@
       ],
       "name": "Cambodia",
       "code": "cb",
+      "borderCountries": "Laos 555 km; Thailand 817 km; Vietnam 1158 km",
       "population": "17,063,669",
       "divisions": [
         "Banteay Meanchey",
@@ -3085,6 +3213,7 @@
       ],
       "name": "China",
       "code": "ch",
+      "borderCountries": "Afghanistan 91 km; Bhutan 477 km; Burma 2,129 km; India 2,659 km; Kazakhstan 1,765 km; North Korea 1,352 km; Kyrgyzstan 1,063 km; Laos 475 km; Mongolia 4,630 km; Nepal 1,389 km; Pakistan 438 km; Russia (northeast) 4,133 km and Russia (northwest) 46 km; Tajikistan 477 km; Vietnam 1,297 km",
       "population": "1,416,043,270",
       "divisions": [
         "Anhui",
@@ -3128,6 +3257,7 @@
       "capitals": [],
       "name": "Hong Kong",
       "code": "hk",
+      "borderCountries": null,
       "population": "7,297,821",
       "divisions": [],
       "flag": "/static/hk-flag.jpg",
@@ -3139,6 +3269,7 @@
       ],
       "name": "Indonesia",
       "code": "id",
+      "borderCountries": "Malaysia 1,881 km; Papua New Guinea 824 km; Timor-Leste 253 km",
       "population": "281,562,465",
       "divisions": [
         "Aceh",
@@ -3189,6 +3320,7 @@
       ],
       "name": "Japan",
       "code": "ja",
+      "borderCountries": null,
       "population": "123,201,945",
       "divisions": [
         "Aichi",
@@ -3248,6 +3380,7 @@
       ],
       "name": "North Korea",
       "code": "kn",
+      "borderCountries": "China 1,352 km; South Korea 237 km; Russia 18 km",
       "population": "26,298,666",
       "divisions": [
         "Chagang",
@@ -3273,6 +3406,7 @@
       ],
       "name": "South Korea",
       "code": "ks",
+      "borderCountries": "North Korea 237 km",
       "population": "52,081,799",
       "divisions": [
         "Busan (Pusan)",
@@ -3302,6 +3436,7 @@
       ],
       "name": "Laos",
       "code": "la",
+      "borderCountries": "Burma 238 km; Cambodia 555 km; China 475 km; Thailand 1,845 km; Vietnam 2,161 km",
       "population": "7,953,556",
       "divisions": [
         "Attapu",
@@ -3330,6 +3465,7 @@
       "capitals": [],
       "name": "Macau",
       "code": "mc",
+      "borderCountries": null,
       "population": "644,426",
       "divisions": [],
       "flag": "/static/mc-flag.jpg",
@@ -3341,6 +3477,7 @@
       ],
       "name": "Mongolia",
       "code": "mg",
+      "borderCountries": "China 4,630 km; Russia 3,452 km",
       "population": "3,281,676",
       "divisions": [
         "Arhangay",
@@ -3375,6 +3512,7 @@
       ],
       "name": "Malaysia",
       "code": "my",
+      "borderCountries": "Brunei 266 km; Indonesia 1,881 km; Thailand 595 km",
       "population": "34,564,810",
       "divisions": [
         "Johor",
@@ -3402,6 +3540,7 @@
       "capitals": [],
       "name": "Paracel Islands",
       "code": "pf",
+      "borderCountries": null,
       "population": "1,440 (July 2014 est.)",
       "divisions": [],
       "flagRepeats": []
@@ -3410,6 +3549,7 @@
       "capitals": [],
       "name": "Spratly Islands",
       "code": "pg",
+      "borderCountries": null,
       "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flagRepeats": []
@@ -3420,6 +3560,7 @@
       ],
       "name": "Papua New Guinea",
       "code": "pp",
+      "borderCountries": "Indonesia 824 km",
       "population": "10,046,233",
       "divisions": [
         "Bougainville",
@@ -3454,6 +3595,7 @@
       ],
       "name": "Philippines",
       "code": "rp",
+      "borderCountries": null,
       "population": "118,277,063",
       "divisions": [
         "Abra",
@@ -3581,6 +3723,7 @@
       ],
       "name": "Singapore",
       "code": "sn",
+      "borderCountries": null,
       "population": "6,028,459",
       "divisions": [
         "Central Singapore Development Council",
@@ -3598,6 +3741,7 @@
       ],
       "name": "Thailand",
       "code": "th",
+      "borderCountries": "Burma 2,416 km; Cambodia 817 km; Laos 1,845 km; Malaysia 595 km",
       "population": "69,920,998",
       "divisions": [
         "Amnat Charoen",
@@ -3687,6 +3831,7 @@
       ],
       "name": "Timor-Leste",
       "code": "tt",
+      "borderCountries": "Indonesia 253 km",
       "population": "1,506,909",
       "divisions": [
         "Aileu",
@@ -3712,6 +3857,7 @@
       ],
       "name": "Taiwan",
       "code": "tw",
+      "borderCountries": null,
       "population": "23,595,274",
       "divisions": [
         "Changhua",
@@ -3744,6 +3890,7 @@
       ],
       "name": "Vietnam",
       "code": "vm",
+      "borderCountries": "Cambodia 1,158 km; China 1,297 km; Laos 2,161 km",
       "population": "105,758,975",
       "divisions": [
         "An Giang",
@@ -3819,6 +3966,7 @@
       ],
       "name": "Albania",
       "code": "al",
+      "borderCountries": "Greece 212 km; Kosovo 112 km; North Macedonia 181 km; Montenegro 186 km",
       "population": "3,107,100",
       "divisions": [
         "Berat",
@@ -3843,6 +3991,7 @@
       ],
       "name": "Andorra",
       "code": "an",
+      "borderCountries": "France 55 km; Spain 63 km",
       "population": "85,370",
       "divisions": [
         "Andorra la Vella",
@@ -3862,6 +4011,7 @@
       ],
       "name": "Austria",
       "code": "au",
+      "borderCountries": "Czech Republic 402 km; Germany 801 km; Hungary 321 km; Italy 404 km; Liechtenstein 34 km; Slovakia 105 km; Slovenia 299 km; Switzerland 158 km",
       "population": "8,967,982",
       "divisions": [
         "Burgenland",
@@ -3883,6 +4033,7 @@
       ],
       "name": "Belgium",
       "code": "be",
+      "borderCountries": "France 556 km; Germany 133 km; Luxembourg 130 km; Netherlands 478 km",
       "population": "11,977,634",
       "divisions": [
         "Brussels-Capital Region",
@@ -3898,6 +4049,7 @@
       ],
       "name": "Bosnia and Herzegovina",
       "code": "bk",
+      "borderCountries": "Croatia 956 km; Montenegro 242 km; Serbia 345 km",
       "population": "3,798,671",
       "divisions": [
         "Brcko District (Brcko Distrikt) (ethnically mixed)",
@@ -3913,6 +4065,7 @@
       ],
       "name": "Belarus",
       "code": "bo",
+      "borderCountries": "Latvia 161 km; Lithuania 640 km; Poland 375 km; Russia 1,312 km; Ukraine 1,111 km",
       "population": "9,501,451",
       "divisions": [
         "Brest",
@@ -3932,6 +4085,7 @@
       ],
       "name": "Bulgaria",
       "code": "bu",
+      "borderCountries": "Greece 472 km; Macedonia 162 km; Romania 605 km; Serbia 344 km; Turkey 223 km",
       "population": "6,782,659",
       "divisions": [
         "Blagoevgrad",
@@ -3972,6 +4126,7 @@
       ],
       "name": "Cyprus",
       "code": "cy",
+      "borderCountries": null,
       "population": "1,320,525",
       "divisions": [
         "Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community)",
@@ -3990,6 +4145,7 @@
       ],
       "name": "Denmark",
       "code": "da",
+      "borderCountries": "Germany 140 km; Canada 1.3 km",
       "population": "5,973,136",
       "divisions": [
         "Hovedstaden (Capital)",
@@ -4007,6 +4163,7 @@
       ],
       "name": "Ireland",
       "code": "ei",
+      "borderCountries": "UK 499 km",
       "population": "5,233,461",
       "divisions": [
         "Carlow",
@@ -4048,6 +4205,7 @@
       ],
       "name": "Estonia",
       "code": "en",
+      "borderCountries": "Latvia 333 km; Russia 324 km",
       "population": "1,193,791",
       "divisions": [
         "Alutaguse",
@@ -4134,6 +4292,7 @@
       ],
       "name": "Czechia",
       "code": "ez",
+      "borderCountries": "Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km",
       "population": "10,837,890",
       "divisions": [
         "Jihocesky (South Bohemia)",
@@ -4160,6 +4319,7 @@
       ],
       "name": "Finland",
       "code": "fi",
+      "borderCountries": "Norway 709 km; Sweden 545 km; Russia 1,309 km",
       "population": "5,626,414",
       "divisions": [
         "Egentliga Finland (Swedish) [Southwest Finland]",
@@ -4174,6 +4334,7 @@
       ],
       "name": "Faroe Islands",
       "code": "fo",
+      "borderCountries": null,
       "population": "52,933",
       "divisions": [
         "Eidhi",
@@ -4215,6 +4376,7 @@
       ],
       "name": "France",
       "code": "fr",
+      "borderCountries": "Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km",
       "population": "68,374,591",
       "divisions": [
         "Auvergne-Rhone-Alpes",
@@ -4251,6 +4413,7 @@
       ],
       "name": "Gibraltar",
       "code": "gi",
+      "borderCountries": "Spain 1.2 km",
       "population": "29,683",
       "divisions": [],
       "flag": "/static/gi-flag.jpg",
@@ -4262,6 +4425,7 @@
       ],
       "name": "Guernsey",
       "code": "gk",
+      "borderCountries": null,
       "population": "67,787",
       "divisions": [],
       "flag": "/static/gk-flag.jpg",
@@ -4273,6 +4437,7 @@
       ],
       "name": "Germany",
       "code": "gm",
+      "borderCountries": "Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km",
       "population": "84,119,100",
       "divisions": [
         "Baden-Wuerttemberg",
@@ -4301,6 +4466,7 @@
       ],
       "name": "Greece",
       "code": "gr",
+      "borderCountries": "Albania 212 km; Bulgaria 472 km; North Macedonia 234 km; Turkey 192 km",
       "population": "10,461,091",
       "divisions": [
         "Agion Oros (Mount Athos)",
@@ -4327,6 +4493,7 @@
       ],
       "name": "Croatia",
       "code": "hr",
+      "borderCountries": "Bosnia and Herzegovina 956 km; Hungary 348 km; Montenegro 19 km; Serbia 314 km; Slovenia 600 km",
       "population": "4,150,116",
       "divisions": [
         "Bjelovarsko-Bilogorska (Bjelovar-Bilogora)",
@@ -4360,6 +4527,7 @@
       ],
       "name": "Hungary",
       "code": "hu",
+      "borderCountries": "Austria 321 km; Croatia 348 km; Romania 424 km; Serbia 164 km; Slovakia 627 km; Slovenia 94 km; Ukraine 128 km",
       "population": "9,855,745",
       "divisions": [
         "Bacs-Kiskun",
@@ -4416,6 +4584,7 @@
       ],
       "name": "Iceland",
       "code": "ic",
+      "borderCountries": null,
       "population": "364,036",
       "divisions": [
         "Akranes",
@@ -4492,6 +4661,7 @@
       ],
       "name": "Isle of Man",
       "code": "im",
+      "borderCountries": null,
       "population": "92,269",
       "divisions": [],
       "flag": "/static/im-flag.jpg",
@@ -4503,6 +4673,7 @@
       ],
       "name": "Italy",
       "code": "it",
+      "borderCountries": "Austria 404 km; France 476 km; Holy See (Vatican City) 3.4 km; San Marino 37 km; Slovenia 218 km; Switzerland 698 km",
       "population": "60,964,931",
       "divisions": [
         "Abruzzo",
@@ -4535,6 +4706,7 @@
       ],
       "name": "Jersey",
       "code": "je",
+      "borderCountries": null,
       "population": "103,387",
       "divisions": [],
       "flag": "/static/je-flag.jpg",
@@ -4544,6 +4716,7 @@
       "capitals": [],
       "name": "Jan Mayen",
       "code": "jn",
+      "borderCountries": null,
       "population": "no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/jn-flag.jpg",
@@ -4557,6 +4730,7 @@
       ],
       "name": "Kosovo",
       "code": "kv",
+      "borderCountries": "Albania 112 km; North Macedonia 160 km; Montenegro 76 km; Serbia 366 km",
       "population": "1,977,093",
       "divisions": [
         "Decan (Decani)",
@@ -4607,6 +4781,7 @@
       ],
       "name": "Latvia",
       "code": "lg",
+      "borderCountries": "Belarus 161 km; Estonia 333 km; Lithuania 544 km; Russia 332 km",
       "population": "1,801,246",
       "divisions": [
         "Adazi",
@@ -4659,6 +4834,7 @@
       ],
       "name": "Lithuania",
       "code": "lh",
+      "borderCountries": "Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km",
       "population": "2,628,186",
       "divisions": [
         "Akmene",
@@ -4731,6 +4907,7 @@
       ],
       "name": "Slovakia",
       "code": "lo",
+      "borderCountries": "Austria 105 km; Czechia 241 km; Hungary 627 km; Poland 517 km; Ukraine 97 km",
       "population": "5,563,649",
       "divisions": [
         "Banska Bystrica",
@@ -4751,6 +4928,7 @@
       ],
       "name": "Liechtenstein",
       "code": "ls",
+      "borderCountries": "Austria 34 km; Switzerland 41 km",
       "population": "40,272",
       "divisions": [
         "Balzers",
@@ -4774,6 +4952,7 @@
       ],
       "name": "Luxembourg",
       "code": "lu",
+      "borderCountries": "Belgium 130 km; France 69 km; Germany 128 km",
       "population": "671,254",
       "divisions": [
         "Capellen",
@@ -4798,6 +4977,7 @@
       ],
       "name": "Moldova",
       "code": "md",
+      "borderCountries": "Romania 683 km; Ukraine 1202 km",
       "population": "3,599,528",
       "divisions": [
         "Anenii Noi",
@@ -4847,6 +5027,7 @@
       ],
       "name": "Montenegro",
       "code": "mj",
+      "borderCountries": "Albania 186 km; Bosnia and Herzegovina 242 km; Croatia 19 km; Kosovo 76 km; Serbia 157 km",
       "population": "599,849",
       "divisions": [
         "Andrijevica",
@@ -4884,6 +5065,7 @@
       ],
       "name": "North Macedonia",
       "code": "mk",
+      "borderCountries": "Albania 181 km; Bulgaria 162 km; Greece 234 km; Kosovo 160 km; Serbia 101 km",
       "population": "2,135,622",
       "divisions": [
         "Aerodrom",
@@ -4906,6 +5088,7 @@
       ],
       "name": "Monaco",
       "code": "mn",
+      "borderCountries": "France 6 km",
       "population": "31,813",
       "divisions": [],
       "flag": "/static/mn-flag.jpg",
@@ -4917,6 +5100,7 @@
       ],
       "name": "Malta",
       "code": "mt",
+      "borderCountries": null,
       "population": "469,730",
       "divisions": [
         "Attard",
@@ -4997,6 +5181,7 @@
       ],
       "name": "Netherlands",
       "code": "nl",
+      "borderCountries": "Belgium 478 km; Germany 575 km",
       "population": "17,772,378",
       "divisions": [
         "Bonaire",
@@ -5024,6 +5209,7 @@
       ],
       "name": "Norway",
       "code": "no",
+      "borderCountries": "Finland 709 km; Sweden 1,666 km; Russia 191 km",
       "population": "5,509,733",
       "divisions": [
         "Agder",
@@ -5048,6 +5234,7 @@
       ],
       "name": "Poland",
       "code": "pl",
+      "borderCountries": "Belarus 375 km; Czechia 699 km; Germany 467 km; Lithuania 100 km, Russia (Kaliningrad Oblast) 209 km; Slovakia 517 km; Ukraine 498 km",
       "population": "38,746,310",
       "divisions": [
         "Dolnoslaskie (Lower Silesia)",
@@ -5076,6 +5263,7 @@
       ],
       "name": "Portugal",
       "code": "po",
+      "borderCountries": "Spain 1,224 km",
       "population": "10,207,177",
       "divisions": [
         "Acores (Azores)",
@@ -5108,6 +5296,7 @@
       ],
       "name": "Serbia",
       "code": "ri",
+      "borderCountries": "Bosnia and Herzegovina 345 km; Bulgaria 344 km; Croatia 314 km; Hungary 164 km; Kosovo 366 km; North Macedonia 101 km; Montenegro 157 km; Romania 531 km",
       "population": "6,652,212",
       "divisions": [
         "Ada",
@@ -5265,6 +5454,7 @@
       ],
       "name": "Romania",
       "code": "ro",
+      "borderCountries": "Bulgaria 605 km; Hungary 424 km; Moldova 683 km; Serbia 531 km; Ukraine 601 km",
       "population": "18,148,155",
       "divisions": [
         "Alba",
@@ -5319,6 +5509,7 @@
       ],
       "name": "Slovenia",
       "code": "si",
+      "borderCountries": "Austria 299 km; Croatia 600 km; Hungary 94 km; Italy 218 km",
       "population": "2,097,893",
       "divisions": [
         "Ajdovscina",
@@ -5543,6 +5734,7 @@
       ],
       "name": "San Marino",
       "code": "sm",
+      "borderCountries": "Italy 37 km",
       "population": "35,095",
       "divisions": [
         "Acquaviva",
@@ -5564,6 +5756,7 @@
       ],
       "name": "Spain",
       "code": "sp",
+      "borderCountries": "Andorra 63 km; France 646 km; Gibraltar 1.2 km; Portugal 1,224 km; Morocco (Ceuta) 8 km and Morocco (Melilla) 10.5 km",
       "population": "47,280,433",
       "divisions": [
         "Euskadi (Basque) [Basque Country]",
@@ -5578,6 +5771,7 @@
       ],
       "name": "Svalbard",
       "code": "sv",
+      "borderCountries": null,
       "population": "2,926 (2021 est.)",
       "divisions": [],
       "flag": "/static/sv-flag.jpg",
@@ -5589,6 +5783,7 @@
       ],
       "name": "Sweden",
       "code": "sw",
+      "borderCountries": "Finland 545 km; Norway 1,666 km",
       "population": "10,589,835",
       "divisions": [
         "Blekinge",
@@ -5622,6 +5817,7 @@
       ],
       "name": "Switzerland",
       "code": "sz",
+      "borderCountries": "Austria 158 km; France 525 km; Italy 698 km; Liechtenstein 41 km; Germany 348 km",
       "population": "8,860,574",
       "divisions": [
         "Aargau",
@@ -5660,6 +5856,7 @@
       ],
       "name": "United Kingdom",
       "code": "uk",
+      "borderCountries": "Ireland 499 km",
       "population": "68,459,055 United Kingdom",
       "divisions": [
         "Aberdeen City",
@@ -5889,6 +6086,7 @@
       ],
       "name": "Ukraine",
       "code": "up",
+      "borderCountries": "Belarus 1,111 km; Hungary 128 km; Moldova 1,202 km; Poland 498 km; Romania 601 km; Russia 1,944 km, Slovakia 97 km",
       "population": "35,661,826",
       "divisions": [
         "Cherkasy",
@@ -5927,6 +6125,7 @@
       ],
       "name": "Holy See",
       "code": "vt",
+      "borderCountries": "Italy 3.4 km",
       "population": "1,000 (2022 est.)",
       "divisions": [],
       "flag": "/static/vt-flag.jpg",
@@ -5938,6 +6137,7 @@
       ],
       "name": "Azerbaijan",
       "code": "aj",
+      "borderCountries": "Armenia 996 km; Georgia 428 km; Iran 689 km; Russia 338 km; Turkey 17 km",
       "population": "10,650,239",
       "divisions": [
         "Abseron",
@@ -6024,6 +6224,7 @@
       ],
       "name": "Armenia",
       "code": "am",
+      "borderCountries": "Azerbaijan 996 km; Georgia 219 km; Iran 44 km; Turkey 311 km",
       "population": "2,976,765",
       "divisions": [
         "Aragatsotn",
@@ -6047,6 +6248,7 @@
       ],
       "name": "Bahrain",
       "code": "ba",
+      "borderCountries": null,
       "population": "1,566,888",
       "divisions": [
         "Asimah (Capital)",
@@ -6063,6 +6265,7 @@
       ],
       "name": "Georgia",
       "code": "gg",
+      "borderCountries": "Armenia 219 km; Azerbaijan 428 km; Russia 894 km; Turkey 273 km",
       "population": "4,900,961",
       "divisions": [
         "Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)",
@@ -6085,6 +6288,7 @@
       "capitals": [],
       "name": "Gaza, Gaza Strip",
       "code": "gz",
+      "borderCountries": "Egypt 13 km; Israel 59 km",
       "population": "2,141,643",
       "divisions": [],
       "flagRepeats": []
@@ -6095,6 +6299,7 @@
       ],
       "name": "Iran",
       "code": "ir",
+      "borderCountries": "Afghanistan 921 km; Armenia 44 km; Azerbaijan 689 km; Iraq 1,599 km; Pakistan 959 km; Turkey 534 km; Turkmenistan 1,148 km",
       "population": "88,386,937",
       "divisions": [
         "Alborz",
@@ -6138,6 +6343,7 @@
       ],
       "name": "Israel",
       "code": "is",
+      "borderCountries": "Egypt 208 km; Gaza Strip 59 km; Jordan 327 km (20 km are within the Dead Sea); Lebanon 81 km; Syria 83 km; West Bank 330 km",
       "population": "9,402,617",
       "divisions": [
         "Central",
@@ -6156,6 +6362,7 @@
       ],
       "name": "Iraq",
       "code": "iz",
+      "borderCountries": "Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km",
       "population": "42,083,436",
       "divisions": [
         "Wasit"
@@ -6169,6 +6376,7 @@
       ],
       "name": "Jordan",
       "code": "jo",
+      "borderCountries": "Iraq 179 km; Israel 307 km; Saudi Arabia 731 km; Syria 379 km; West Bank 148 km",
       "population": "11,174,024",
       "divisions": [
         "'Ajlun",
@@ -6193,6 +6401,7 @@
       ],
       "name": "Kuwait",
       "code": "ku",
+      "borderCountries": "Iraq 254 km; Saudi Arabia 221 km",
       "population": "3,138,355",
       "divisions": [
         "Al 'Asimah",
@@ -6211,6 +6420,7 @@
       ],
       "name": "Lebanon",
       "code": "le",
+      "borderCountries": "Israel 81 km; Syria 403 km",
       "population": "5,364,482",
       "divisions": [
         "Aakkar",
@@ -6231,6 +6441,7 @@
       ],
       "name": "Oman",
       "code": "mu",
+      "borderCountries": "Saudi Arabia 658 km; UAE 609 km; Yemen 294 km",
       "population": "3,901,992",
       "divisions": [
         "Ad Dakhiliyah",
@@ -6254,6 +6465,7 @@
       ],
       "name": "Qatar",
       "code": "qa",
+      "borderCountries": "Saudi Arabia 87 km",
       "population": "2,552,088",
       "divisions": [
         "Ad Dawhah",
@@ -6274,6 +6486,7 @@
       ],
       "name": "Saudi Arabia",
       "code": "sa",
+      "borderCountries": "Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km",
       "population": "36,544,431",
       "divisions": [
         "'Asir",
@@ -6299,6 +6512,7 @@
       ],
       "name": "Syria",
       "code": "sy",
+      "borderCountries": "Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km",
       "population": "23,865,423",
       "divisions": [
         "Al Hasakah",
@@ -6325,6 +6539,7 @@
       ],
       "name": "Turkey",
       "code": "tu",
+      "borderCountries": "Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 273 km; Greece 192 km; Iran 534 km; Iraq 367 km; Syria 899 km",
       "population": "84,119,531",
       "divisions": [
         "Adana",
@@ -6416,6 +6631,7 @@
       "capitals": [],
       "name": "West Bank",
       "code": "we",
+      "borderCountries": "Israel 330 km; Jordan 148 km",
       "population": "3,243,369",
       "divisions": [],
       "flagRepeats": []
@@ -6426,6 +6642,7 @@
       ],
       "name": "Yemen",
       "code": "ym",
+      "borderCountries": "Oman 294 km; Saudi Arabia 1,307 km",
       "population": "32,140,443",
       "divisions": [
         "'Adan (Aden)",
@@ -6460,6 +6677,7 @@
       ],
       "name": "Bermuda",
       "code": "bd",
+      "borderCountries": null,
       "population": "72,800",
       "divisions": [
         "Devonshire",
@@ -6482,6 +6700,7 @@
       ],
       "name": "Canada",
       "code": "ca",
+      "borderCountries": "US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km",
       "population": "38,794,813",
       "divisions": [
         "Alberta",
@@ -6507,6 +6726,7 @@
       ],
       "name": "Greenland",
       "code": "gl",
+      "borderCountries": null,
       "population": "57,751",
       "divisions": [
         "Avannaata",
@@ -6522,6 +6742,7 @@
       "capitals": [],
       "name": "Clipperton Island",
       "code": "ip",
+      "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
       "flag": "/static/ip-flag.jpg",
@@ -6539,6 +6760,7 @@
       ],
       "name": "Mexico",
       "code": "mx",
+      "borderCountries": "Belize 276 km; Guatemala 958 km; US 3,155 km",
       "population": "130,739,927",
       "divisions": [
         "Aguascalientes",
@@ -6583,6 +6805,7 @@
       ],
       "name": "Saint Pierre and Miquelon",
       "code": "sb",
+      "borderCountries": null,
       "population": "5,132",
       "divisions": [],
       "flag": "/static/sb-flag.jpg",
@@ -6594,6 +6817,7 @@
       ],
       "name": "United States",
       "code": "us",
+      "borderCountries": "Canada 8,891 km (including 2,475 km with Alaska); Mexico 3,111 km",
       "population": "341,963,408",
       "divisions": [
         "Alabama",
@@ -6660,6 +6884,7 @@
       ],
       "name": "Argentina",
       "code": "ar",
+      "borderCountries": "Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km",
       "population": "46,994,384",
       "divisions": [
         "Buenos Aires",
@@ -6697,6 +6922,7 @@
       ],
       "name": "Bolivia",
       "code": "bl",
+      "borderCountries": "Argentina 942 km; Brazil 3,403 km; Chile 942 km; Paraguay 753 km; Peru 1,212 km",
       "population": "12,311,974",
       "divisions": [
         "Beni",
@@ -6718,6 +6944,7 @@
       ],
       "name": "Brazil",
       "code": "br",
+      "borderCountries": "Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km",
       "population": "220,051,512",
       "divisions": [
         "Acre",
@@ -6757,6 +6984,7 @@
       ],
       "name": "Chile",
       "code": "ci",
+      "borderCountries": "Argentina 6,691 km; Bolivia 942 km; Peru 168 km",
       "population": "18,664,652",
       "divisions": [
         "Antofagasta",
@@ -6785,6 +7013,7 @@
       ],
       "name": "Colombia",
       "code": "co",
+      "borderCountries": "Brazil 1,790 km; Ecuador 708 km; Panama 339 km; Peru 1,494 km; Venezuela 2,341 km",
       "population": "49,588,357",
       "divisions": [
         "Amazonas",
@@ -6831,6 +7060,7 @@
       ],
       "name": "Ecuador",
       "code": "ec",
+      "borderCountries": "Colombia 708 km; Peru 1529 km",
       "population": "18,309,984",
       "divisions": [
         "Azuay",
@@ -6867,6 +7097,7 @@
       ],
       "name": "Falkland Islands",
       "code": "fk",
+      "borderCountries": null,
       "population": "3,662 (2021 est.)",
       "divisions": [],
       "flag": "/static/fk-flag.jpg",
@@ -6878,6 +7109,7 @@
       ],
       "name": "Guyana",
       "code": "gy",
+      "borderCountries": "Brazil 1,308 km; Suriname 836 km; Venezuela 789 km",
       "population": "794,099",
       "divisions": [
         "Barima-Waini",
@@ -6900,6 +7132,7 @@
       ],
       "name": "Suriname",
       "code": "ns",
+      "borderCountries": "Brazil 515 km; French Guiana 556 km; Guyana 836 km",
       "population": "646,758",
       "divisions": [
         "Brokopondo",
@@ -6922,6 +7155,7 @@
       ],
       "name": "Paraguay",
       "code": "pa",
+      "borderCountries": "Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km",
       "population": "7,522,549",
       "divisions": [
         "Alto Paraguay",
@@ -6952,6 +7186,7 @@
       ],
       "name": "Peru",
       "code": "pe",
+      "borderCountries": "Bolivia 1,212 km; Brazil 2,659 km; Chile 168 km; Colombia 1,494 km; Ecuador 1,529 km",
       "population": "32,600,249",
       "divisions": [
         "Amazonas",
@@ -6987,6 +7222,7 @@
       "capitals": [],
       "name": "South Georgia and South Sandwich Islands",
       "code": "sx",
+      "borderCountries": null,
       "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
       "flag": "/static/sx-flag.jpg",
@@ -6998,6 +7234,7 @@
       ],
       "name": "Uruguay",
       "code": "uy",
+      "borderCountries": "Argentina 541 km; Brazil 1,050 km",
       "population": "3,425,330",
       "divisions": [
         "Artigas",
@@ -7029,6 +7266,7 @@
       ],
       "name": "Venezuela",
       "code": "ve",
+      "borderCountries": "Brazil 2,137 km; Colombia 2,341 km; Guyana 789 km",
       "population": "31,250,306",
       "divisions": [
         "Amazonas",
@@ -7066,6 +7304,7 @@
       ],
       "name": "Afghanistan",
       "code": "af",
+      "borderCountries": "China 91 km; Iran 921 km; Pakistan 2,670 km; Tajikistan 1,357 km; Turkmenistan 804 km; Uzbekistan 144 km",
       "population": "40,121,552",
       "divisions": [
         "Badakhshan",
@@ -7112,6 +7351,7 @@
       ],
       "name": "Bangladesh",
       "code": "bg",
+      "borderCountries": "Burma 271 km; India 4,142 km",
       "population": "168,697,184",
       "divisions": [
         "Barishal",
@@ -7132,6 +7372,7 @@
       ],
       "name": "Bhutan",
       "code": "bt",
+      "borderCountries": "China 477 km; India 659 km",
       "population": "884,546",
       "divisions": [
         "Bumthang",
@@ -7165,6 +7406,7 @@
       ],
       "name": "Sri Lanka",
       "code": "ce",
+      "borderCountries": null,
       "population": "21,982,608",
       "divisions": [
         "Central",
@@ -7186,6 +7428,7 @@
       ],
       "name": "India",
       "code": "in",
+      "borderCountries": "Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km",
       "population": "1,409,128,296",
       "divisions": [
         "Andaman and Nicobar Islands",
@@ -7234,6 +7477,7 @@
       ],
       "name": "Maldives",
       "code": "mv",
+      "borderCountries": null,
       "population": "388,858",
       "divisions": [
         "Addu (Addu City)",
@@ -7267,6 +7511,7 @@
       ],
       "name": "Nepal",
       "code": "np",
+      "borderCountries": "China 1,389 km; India 1,770 km",
       "population": "31,122,387",
       "divisions": [
         "Bagmati",
@@ -7286,6 +7531,7 @@
       ],
       "name": "Pakistan",
       "code": "pk",
+      "borderCountries": "Afghanistan 2,670 km; China 438 km; India 3,190 km; Iran 959 km",
       "population": "252,363,571",
       "divisions": [
         "Azad Kashmir",
