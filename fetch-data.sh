@@ -26,7 +26,7 @@ process() {
 					| split(",(?=[^\\)]*(?:\\(|$))"; "g")
 				else [] end | map(sub("^ *| *$"; ""; "g"))
 			),
-			name: $name | sub(" \\(.*\\)"; ""; "g"),
+			name: $name | sub(" \\(.*\\)"; ""; "g") | sub("&nbsp;$"; ""; "g"),
 			code,
 			population: ($population // "unknown"),
 			divisions: (
