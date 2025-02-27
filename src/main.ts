@@ -543,12 +543,12 @@ export class CountryWhatBorderCountriesQuestion extends Question {
 
 type QuestionConstructor = new (lives: number) => Question;
 const questionKinds: QuestionConstructor[] = [
-  CountryHasWhichCapitalQuestion,
-  CaptialInWhichCountryQuestion,
-  FlagOfWhichCountryQuestion,
-  RegionInWhichCountryQuestion,
-  CountryHasWhatPopulationQuestion,
-  CountryWhatBorderCountriesQuestion,
+  // CountryHasWhichCapitalQuestion,
+  // CaptialInWhichCountryQuestion,
+  // FlagOfWhichCountryQuestion,
+  // RegionInWhichCountryQuestion,
+  // CountryHasWhatPopulationQuestion,
+  // CountryWhatBorderCountriesQuestion,
   LocatorMapIsWhichCountryQuestion,
 ];
 
