@@ -7,7 +7,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
+    "vite": "^6.0.5",
+    "vite-plugin-favicons-inject": "^2.2.0"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.0",

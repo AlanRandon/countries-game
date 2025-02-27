@@ -84,7 +84,7 @@ export class Quiz extends LitElementNoShadow {
           Score: <b>${this.score}</b>
         </div>
       </div>
-      <div class="flex flex-col align-center justify-center gap-2 h-full">
+      <div class="flex flex-col align-center justify-center gap-2 h-full p-4">
         <x-question lives=${this.lives}></x-question>
       </div>
     </div>`;
@@ -359,6 +359,48 @@ export class RegionInWhichCountryQuestion extends Question {
   }
 }
 
+@customElement("x-locator-map-which-country")
+export class LocatorMapIsWhichCountryQuestion extends Question {
+  choices: Country[];
+  correct: number;
+
+  constructor(lives: number) {
+    super(lives);
+
+    const question = countryCorrectMatchesFilter(
+      (country) => country.media.locatorMap.exists,
+      (countryA) => {
+        const hash = countryA.media.locatorMap.hash;
+        return (countryB) => hash !== countryB.media.locatorMap.hash;
+      },
+    );
+    this.choices = question.choices;
+    this.correct = question.correct;
+  }
+
+  render() {
+    const country = this.choices[this.correct];
+    const src =
+      import.meta.env.BASE_URL.replace(/\/$/, "") +
+      country.media.locatorMap.localUrl;
+
+    return html`<div class="grid place-items-center">
+      <div
+        class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+      >
+        <span>Which country is found here?</span>
+        <img src="${src}" class="h-64" />
+      </div>
+      <x-option-selection
+        correct=${this.correct}
+        choices=${JSON.stringify(this.choices.map((country) => country.name))}
+        fatal
+      ></x-option-selection>
+      <x-fatality-indicator lives="0"></x-fatality-indicator>
+    </div>`;
+  }
+}
+
 @customElement("x-flag-which-country")
 export class FlagOfWhichCountryQuestion extends Question {
   choices: Country[];
@@ -368,10 +410,10 @@ export class FlagOfWhichCountryQuestion extends Question {
     super(lives);
 
     const question = countryCorrectMatchesFilter(
-      (country) => typeof country.flag !== "undefined",
+      (country) => country.media.flag.exists,
       (countryA) => {
-        const repeats = new Set(countryA.flagRepeats);
-        return (countryB) => !repeats.has(countryB.code);
+        const hash = countryA.media.flag.hash;
+        return (countryB) => hash !== countryB.media.flag.hash;
       },
     );
     this.choices = question.choices;
@@ -380,7 +422,9 @@ export class FlagOfWhichCountryQuestion extends Question {
 
   render() {
     const country = this.choices[this.correct];
-    const src = import.meta.env.BASE_URL.replace(/\/$/, "") + country.flag;
+    const src =
+      import.meta.env.BASE_URL.replace(/\/$/, "") + country.media.flag.localUrl;
+
     return html`<div class="grid place-items-center">
       <div
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
@@ -505,6 +549,7 @@ const questionKinds: QuestionConstructor[] = [
   RegionInWhichCountryQuestion,
   CountryHasWhatPopulationQuestion,
   CountryWhatBorderCountriesQuestion,
+  LocatorMapIsWhichCountryQuestion,
 ];
 
 @customElement("x-question")

@@ -68,8 +68,20 @@
         "Tlemcen",
         "Touggourt"
       ],
-      "flag": "/static/ag-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AG-flag.jpg",
+          "hash": "8f29a9447b39dd755ddd23171a3abf2908602b191ea15b0efe52de275287480c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AG-locator-map.jpg",
+          "hash": "35fc5dfa5232e8f6cda681bb276fb9459dce7723cc3dcfc6942c00aff56d8872"
+        }
+      }
     },
     {
       "capitals": [
@@ -99,8 +111,20 @@
         "Uige",
         "Zaire"
       ],
-      "flag": "/static/ao-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AO-flag.jpg",
+          "hash": "1508567d4a10e00cfffaafbadf0e83fa134a38afc519c65a3d54125d003109d4"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AO-locator-map.jpg",
+          "hash": "49eaa8a23132c93de96ff7730c0ff00b819e56b901caa5ec4c688294a57d2f53"
+        }
+      }
     },
     {
       "capitals": [
@@ -128,8 +152,20 @@
         "Southern",
         "Sowa Town"
       ],
-      "flag": "/static/bc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BC-flag.jpg",
+          "hash": "964e4c165cc54142de4983bf1e86673f946a4fa487cb88388096d9a5767b695a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BC-locator-map.jpg",
+          "hash": "49cf5f2f695a83ac838eaf5f6c3b6c78b6529c69f88eb89d584562424f57a917"
+        }
+      }
     },
     {
       "capitals": [
@@ -154,8 +190,20 @@
         "Plateau",
         "Zou"
       ],
-      "flag": "/static/bn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BN-flag.jpg",
+          "hash": "82d98cb10f1bdd393f3dd57597221acda8200ab43d7e0d187f581815d071422e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BN-locator-map.jpg",
+          "hash": "06d878752cca529e8fb93a664626265468f89658c30ab832e7f2848b274e59d2"
+        }
+      }
     },
     {
       "capitals": [
@@ -186,8 +234,20 @@
         "Rutana",
         "Ruyigi"
       ],
-      "flag": "/static/by-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BY-flag.jpg",
+          "hash": "93578151b0da132d61304ab5db262f4e9269680e0afe34d7f3605b23295261fd"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BY-locator-map.jpg",
+          "hash": "3f0fdfed556d225af9b392e5e222c16c2131447cb3c47da40cac7da9181a3699"
+        }
+      }
     },
     {
       "capitals": [
@@ -222,8 +282,20 @@
         "Tibesti",
         "Wadi-Fira"
       ],
-      "flag": "/static/cd-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CD-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CD-flag.jpg",
+          "hash": "bf10eea1dc070743e84cb16c2c4c6755b51da8ee7e2afd01b1ab55ab29dfa68f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CD-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CD-locator-map.jpg",
+          "hash": "d68fb873f25c3637c42d0535d5f10dac64e7cf779e2b4c9fe0f12a1e4743f1ca"
+        }
+      }
     },
     {
       "capitals": [
@@ -247,8 +319,20 @@
         "Pool",
         "Sangha"
       ],
-      "flag": "/static/cf-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CF-flag.jpg",
+          "hash": "4bd8f11cb646795d0adb51b27229ccaac7e23228abac4f9aed9b0a22eaf07529"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CF-locator-map.jpg",
+          "hash": "0986561b4072012c9152b6a9eec71e1a6555d789216912aa17bbf0fd5c441ac2"
+        }
+      }
     },
     {
       "capitals": [
@@ -286,8 +370,20 @@
         "Tshopo",
         "Tshuapa"
       ],
-      "flag": "/static/cg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CG-flag.jpg",
+          "hash": "cb149de52cb15e5d432791f459a30d42ef28faff5ec145baa7992b5cc4a846c3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CG-locator-map.jpg",
+          "hash": "481c9a9ce8cd67753d307536ff6993032433102434c95feffe5fce3ed8f57e59"
+        }
+      }
     },
     {
       "capitals": [
@@ -309,8 +405,20 @@
         "South-West (Sud-Ouest)",
         "West (Ouest)"
       ],
-      "flag": "/static/cm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CM-flag.jpg",
+          "hash": "5f86918ad1eceb09d54c829d7706e4d201452bedfb396caf9201526cca9015e7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CM-locator-map.jpg",
+          "hash": "5afc0993359b76adf3da3ba73f5202ef3d1f39a2930b4d218aff5894bb155d7f"
+        }
+      }
     },
     {
       "capitals": [
@@ -325,8 +433,20 @@
         "Grande Comore (N'gazidja)",
         "Moheli (Mwali)"
       ],
-      "flag": "/static/cn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CN-flag.jpg",
+          "hash": "b2db3c845c536a23ac63a108b9a936f2ba808242c61fdc42d88196f9a8603bbc"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CN-locator-map.jpg",
+          "hash": "d792790ed1b864067150076e3d292e3baa8289306a3cfb79254b0e3422879316"
+        }
+      }
     },
     {
       "capitals": [
@@ -360,8 +480,20 @@
         "Tarrafal",
         "Tarrafal de Sao Nicolau"
       ],
-      "flag": "/static/cv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CV-flag.jpg",
+          "hash": "445d095b91ae5a060f52665f08c896b55f875fad7fd8357f0c1156844ccb1501"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CV-locator-map.jpg",
+          "hash": "ac912a6db79aaa742038c0b92268ddbc76cca6b61007e94b92da77ff8d6aa293"
+        }
+      }
     },
     {
       "capitals": [
@@ -379,8 +511,20 @@
         "Obock",
         "Tadjourah"
       ],
-      "flag": "/static/dj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/DJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/DJ-flag.jpg",
+          "hash": "9874561e5eb3331fa6a5e21fa2f6e42785a87df6405c3304a0654647b62a4fe1"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/DJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/DJ-locator-map.jpg",
+          "hash": "408ed60b76b1c518fa83979424636348725adba0c95ad2508f978b40aa4cd079"
+        }
+      }
     },
     {
       "capitals": [
@@ -419,8 +563,20 @@
         "Shamal Sina' (North Sinai)",
         "Suhaj"
       ],
-      "flag": "/static/eg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EG-flag.jpg",
+          "hash": "0804191461cc2089acd379c8c8c539cc6c3adc9499bde034797394065e6dfaba"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EG-locator-map.jpg",
+          "hash": "3c73914254992763695c9bd04223ba3d1beaed20e7d13af6adfc638e481cbf00"
+        }
+      }
     },
     {
       "capitals": [
@@ -440,8 +596,20 @@
         "Litoral",
         "Wele-Nzas"
       ],
-      "flag": "/static/ek-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EK-flag.jpg",
+          "hash": "73b23014638d5f469d4d2df67d8237e62c749c8e5a08fbcae22cb8de4310095a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EK-locator-map.jpg",
+          "hash": "68037f5070ac2d9b81ac5a230117b9950ef6a315c802a10809aa696ef42b4b6b"
+        }
+      }
     },
     {
       "capitals": [
@@ -459,8 +627,20 @@
         "Ma'ikel (Central)",
         "Semienawi K'eyyih Bahri (Northern Red Sea)"
       ],
-      "flag": "/static/er-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ER-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ER-flag.jpg",
+          "hash": "f040dd59f6393ca00bed41cb3c2b16a5387c6dabd1378dc458ebddd8b1416751"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ER-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ER-locator-map.jpg",
+          "hash": "00e7bd4a217dca1e47f053a4b14166e4b876184350739957bb261b3389d68083"
+        }
+      }
     },
     {
       "capitals": [
@@ -486,8 +666,20 @@
         "YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples)",
         "YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples)"
       ],
-      "flag": "/static/et-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ET-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ET-flag.jpg",
+          "hash": "9a8a2a3def2e4663772f5a0643da25e5bebbaee11d2e87ab486a10d49a55913f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ET-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ET-locator-map.jpg",
+          "hash": "aaa7f43b539e888f6948a2571bccfb4ce0a910b0d5ceca8aaf26bc9e43356887"
+        }
+      }
     },
     {
       "capitals": [
@@ -506,8 +698,20 @@
         "Upper River",
         "West Coast"
       ],
-      "flag": "/static/ga-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GA-flag.jpg",
+          "hash": "3e4c30461d8efb5f1880433cc336c77de8b5326b2f288152192e560171040e95"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GA-locator-map.jpg",
+          "hash": "c3d7a4952df49728108f5bbef4e2c3d7a413270b73bbc6f45d9daa224d4e3800"
+        }
+      }
     },
     {
       "capitals": [
@@ -528,8 +732,20 @@
         "Ogooue-Maritime",
         "Woleu-Ntem"
       ],
-      "flag": "/static/gb-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GB-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GB-flag.jpg",
+          "hash": "2abc8bacfb9c824712079d1355d1418f1bcacd176e9c30a93ef57ddcc7ca1b3b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GB-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GB-locator-map.jpg",
+          "hash": "f88d0b180a2f1015a944e6a5eca37067a46221207461e5a2e200684473ec4f2a"
+        }
+      }
     },
     {
       "capitals": [
@@ -557,8 +773,20 @@
         "Western",
         "Western North"
       ],
-      "flag": "/static/gh-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GH-flag.jpg",
+          "hash": "e7dcc4db908f80927c8052407638c0557a99d72b3ecdb6f3fb8da02bac0a2239"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GH-locator-map.jpg",
+          "hash": "7e420096dd655846b1ca09d9876bb9ee16d3935bb4e9139dd2aefd56fb316605"
+        }
+      }
     },
     {
       "capitals": [
@@ -578,13 +806,25 @@
         "Mamou",
         "N'Zerekore"
       ],
-      "flag": "/static/gv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GV-flag.jpg",
+          "hash": "9a2770561ab74bfcba3cde594614736d714930b820054dd8feadae84cfb7390e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GV-locator-map.jpg",
+          "hash": "49c03afe9613fb1ca12960a35d681e88a9c24eae0d34fa3bb9340d11d52d936b"
+        }
+      }
     },
     {
       "capitals": [
         "Yamoussoukro (legislative capital)",
-        "Abidjan (administrative capital)"
+        "Abidjan (administrative and economic capital)"
       ],
       "name": "C&ocirc;te d'Ivoire",
       "code": "iv",
@@ -606,8 +846,20 @@
         "Yamoussoukro",
         "Zanzan"
       ],
-      "flag": "/static/iv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IV-flag.jpg",
+          "hash": "7750e881e6faae6a233ced6a033eefa0504e227b055db96400257876b100010a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IV-locator-map.jpg",
+          "hash": "6a27e36fd0ff98b3145c947442a24df877b02b7af9605bc45739dcbbcf978faa"
+        }
+      }
     },
     {
       "capitals": [
@@ -666,8 +918,20 @@
         "Wajir",
         "West Pokot"
       ],
-      "flag": "/static/ke-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KE-flag.jpg",
+          "hash": "9904b476cd94f1d3cc29d4a9fad780d3c28b51d33cbe48e77573fda7af487b24"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KE-locator-map.jpg",
+          "hash": "b137650c5faac12f942497b98bbd8fa63342382297f64a166b81561ca5a32241"
+        }
+      }
     },
     {
       "capitals": [
@@ -694,8 +958,20 @@
         "River Gee",
         "Sinoe"
       ],
-      "flag": "/static/li-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LI-flag.jpg",
+          "hash": "62ca976581bdf2f1ebd357cd0e31ece1881651f79add2fe309abf59b5b954281"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LI-locator-map.jpg",
+          "hash": "796a0d6ffbc9fc118ec975c95bef9b52b2c103f94779ab0a0c232db2288c8b70"
+        }
+      }
     },
     {
       "capitals": [
@@ -717,8 +993,20 @@
         "Quthing",
         "Thaba-Tseka"
       ],
-      "flag": "/static/lt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LT-flag.jpg",
+          "hash": "87e876bad2d1255b1b172f36d2bbd2a7f6d25e6b9a6b3bffbd64d06830e700f9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LT-locator-map.jpg",
+          "hash": "faff6c115a125f617cee5c82bcd404fe07b1dfd19d173ec4e9d8cae07cb85de0"
+        }
+      }
     },
     {
       "capitals": [
@@ -752,8 +1040,20 @@
         "Wadi al Hayat",
         "Wadi ash Shati"
       ],
-      "flag": "/static/ly-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LY-flag.jpg",
+          "hash": "604b2fb6fdfb53b4af3fd3776bb52f97c4df4e56b8f668564d82b3988440e36f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LY-locator-map.jpg",
+          "hash": "92cbbc58720dfb3050066b7fe6ad18c5f498673a118ae9bb2dd28026a6ce2e8a"
+        }
+      }
     },
     {
       "capitals": [
@@ -771,8 +1071,20 @@
         "Toamasina",
         "Toliara"
       ],
-      "flag": "/static/ma-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MA-flag.jpg",
+          "hash": "eb87ebdf226cf6310459fae493b591e81f6e64b1a8d6cfa3484c0deb91196f01"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MA-locator-map.jpg",
+          "hash": "fd03e5f38793ad52da69906ae9756f7cfc84b4737d31a372c5814258fd5a3cf1"
+        }
+      }
     },
     {
       "capitals": [
@@ -812,8 +1124,20 @@
         "Thyolo",
         "Zomba"
       ],
-      "flag": "/static/mi-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MI-flag.jpg",
+          "hash": "608c274fddc0d6ed0f753e131665b2826d76af7b67acb93fbe68673bad9a8ebc"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MI-locator-map.jpg",
+          "hash": "c37b1bc8b48371442e358ab02f0caa5d2a0bb13eb0460aad3117b44ce8f7e5cc"
+        }
+      }
     },
     {
       "capitals": [
@@ -836,8 +1160,20 @@
         "Taoudenni",
         "Tombouctou (Timbuktu)"
       ],
-      "flag": "/static/ml-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ML-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ML-flag.jpg",
+          "hash": "de0dc4d9dbe4ada750f28e572f7b7dc69c1956d8790efd8155943dc512366443"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ML-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ML-locator-map.jpg",
+          "hash": "8215607e3acc189900f928fabbe08417c7079db34806cc03f210a4edf31a9ded"
+        }
+      }
     },
     {
       "capitals": [
@@ -861,8 +1197,20 @@
         "Souss-Massa",
         "Tanger-Tetouan-Al Hoceima"
       ],
-      "flag": "/static/mo-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MO-flag.jpg",
+          "hash": "df50aa9838404c28303532e2e29a482dae0e673b5d20f9c13967f6846ffc94c9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MO-locator-map.jpg",
+          "hash": "899d1845948db62386f0778620ed9aab641a7c63ca83a0a510e987e12486825b"
+        }
+      }
     },
     {
       "capitals": [
@@ -886,8 +1234,20 @@
         "Rodrigues",
         "Savanne"
       ],
-      "flag": "/static/mp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MP-flag.jpg",
+          "hash": "7a84fd6ae1f65ea9dcc2b018e19db3324167ed28997698791ead7371e5f4629f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MP-locator-map.jpg",
+          "hash": "f99b87008873a82dbafaf5321fb53203d484d1fa19984341ca05b9b969d7d393"
+        }
+      }
     },
     {
       "capitals": [
@@ -914,8 +1274,20 @@
         "Tiris Zemmour",
         "Trarza"
       ],
-      "flag": "/static/mr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MR-flag.jpg",
+          "hash": "6f33d188d005e069d11f6b414ab71e946aa4c097824a586445e7a36664c7155f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MR-locator-map.jpg",
+          "hash": "5c57aad3426526285285118748cc99ed14b6ec250c16ec98ef06a386cd945bc3"
+        }
+      }
     },
     {
       "capitals": [
@@ -938,8 +1310,20 @@
         "Tete",
         "Zambezia"
       ],
-      "flag": "/static/mz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MZ-flag.jpg",
+          "hash": "ce3eb4286a113d0f3cb05cd93e11ea8dd1ac401b32cc2dcf326d6b0f81ee16c1"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MZ-locator-map.jpg",
+          "hash": "05f951e93c7830c05a1309606920f3ba504f9cac87ea54741546c232cd81754e"
+        }
+      }
     },
     {
       "capitals": [
@@ -959,8 +1343,20 @@
         "Tillaberi",
         "Zinder"
       ],
-      "flag": "/static/ng-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NG-flag.jpg",
+          "hash": "2d1efbf77ca1a28d7a492ec8863778c2e83c56d3441b7daa2211878f01369f2f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NG-locator-map.jpg",
+          "hash": "f20f914da87036cb1663e6ada41028f84be957f7a180f58de076d52ae7802ef2"
+        }
+      }
     },
     {
       "capitals": [
@@ -1009,8 +1405,20 @@
         "Yobe",
         "Zamfara"
       ],
-      "flag": "/static/ni-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NI-flag.jpg",
+          "hash": "3929329954ee56687192abe5978d5e57fa6963b98f5320b3e2522dd219a82086"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NI-locator-map.jpg",
+          "hash": "1546a91c2e05ab57485d4fb41980e5a2ebfa9af688269ce2ea359c48d1a11983"
+        }
+      }
     },
     {
       "capitals": [
@@ -1032,8 +1440,20 @@
         "Western Bahr el Ghazal",
         "Western Equatoria"
       ],
-      "flag": "/static/od-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/OD-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/OD-flag.jpg",
+          "hash": "ed8692e299822f65148302f7fe9a7c638b06099a5a0cdc8f1476cea77ed28cf7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/OD-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/OD-locator-map.jpg",
+          "hash": "1a181edb52f436634a5366c588c75bc3d43770deb340084a94c1948996fecace"
+        }
+      }
     },
     {
       "capitals": [
@@ -1054,8 +1474,20 @@
         "Quinara",
         "Tombali"
       ],
-      "flag": "/static/pu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PU-flag.jpg",
+          "hash": "74dd6e8e2efa85fa0c79be257fa0fbce0d1083f866ee75258bb95f4a25dab918"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PU-locator-map.jpg",
+          "hash": "3da3ccc0ee5c8b5459d03400267564c8724b8f145ddcf9712c0c5dbbc14918f2"
+        }
+      }
     },
     {
       "capitals": [
@@ -1072,8 +1504,20 @@
         "Ouest (Western)",
         "Sud (Southern)"
       ],
-      "flag": "/static/rw-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RW-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RW-flag.jpg",
+          "hash": "1f7afd4e2797a7006aacd1126c57981e10ec974ccc88eeecf674b974254c8388"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RW-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RW-locator-map.jpg",
+          "hash": "9af9e71b0b69722f20054040a0692a21b2cd5cab8ae766460f3b433da8dcd263"
+        }
+      }
     },
     {
       "capitals": [
@@ -1112,8 +1556,20 @@
         "Saint Louis",
         "Takamaka"
       ],
-      "flag": "/static/se-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SE-flag.jpg",
+          "hash": "6662afef313a48a9350131837efcc8051b10e3c9a9b6873723b01847c5e336a5"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SE-locator-map.jpg",
+          "hash": "bdd3087bb97c45e503080fa42936bae83040645ec0186e73837894f18b27f86f"
+        }
+      }
     },
     {
       "capitals": [
@@ -1136,8 +1592,20 @@
         "Northern Cape",
         "Western Cape"
       ],
-      "flag": "/static/sf-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SF-flag.jpg",
+          "hash": "f9723a832e4337664766d85d4e54bd74cb70f7f9070a9a80565b5db26b502ba2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SF-locator-map.jpg",
+          "hash": "fbdbb80a018970479f679730a739199363d64bfad8afdde17bb3ba19ca9081b4"
+        }
+      }
     },
     {
       "capitals": [
@@ -1163,8 +1631,20 @@
         "Thies",
         "Ziguinchor"
       ],
-      "flag": "/static/sg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SG-flag.jpg",
+          "hash": "32860190ca022d4f9ce0eee835bd444caede60b29b73393ff3b41093e7e84080"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SG-locator-map.jpg",
+          "hash": "a087bf8ae97add2ad502c5582b1b2df262b7f2bbcf388e35ed46df3bdf559fa1"
+        }
+      }
     },
     {
       "capitals": [
@@ -1181,8 +1661,20 @@
         "Southern",
         "Western"
       ],
-      "flag": "/static/sl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SL-flag.jpg",
+          "hash": "8e748fca4e7c9226f57880795dfa8b73fbb2029572e4bb9dbe45fcb6617a4656"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SL-locator-map.jpg",
+          "hash": "f59d38f0295459ffa8bc8cf68c516ce18f00c431907926f374a9f695ecb2b710"
+        }
+      }
     },
     {
       "capitals": [
@@ -1212,8 +1704,20 @@
         "Togdheer",
         "Woqooyi Galbeed"
       ],
-      "flag": "/static/so-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SO-flag.jpg",
+          "hash": "21e550381731cfc13437f7b75160f3e116d087e701fa5f306894820da00ea92b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SO-locator-map.jpg",
+          "hash": "4e139de4fdc20efefb2135a1ccdcbac45f2d69d8a3abfc5e1db82288ae000af7"
+        }
+      }
     },
     {
       "capitals": [
@@ -1243,8 +1747,20 @@
         "West Kordofan",
         "White Nile"
       ],
-      "flag": "/static/su-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SU-flag.jpg",
+          "hash": "ed38276efa83238f950d24a389450ee3bf8cfc7f0842c968a127059ab9d6ceef"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SU-locator-map.jpg",
+          "hash": "802afcfa8b85043f75d19b0ff240182c566cb7a97cd4c110d712d645c03186ec"
+        }
+      }
     },
     {
       "capitals": [
@@ -1261,8 +1777,20 @@
         "Plateaux",
         "Savanes"
       ],
-      "flag": "/static/to-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TO-flag.jpg",
+          "hash": "e21387a12cc99f1cae8f7dc9141fcf7a542f3c52c398d2ec6d8747686b1ded6e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TO-locator-map.jpg",
+          "hash": "5ff26d1d123ae6c4342cc973459306a8e52313b37e0cf9a46c7e163a76f02428"
+        }
+      }
     },
     {
       "capitals": [
@@ -1281,8 +1809,20 @@
         "Me-Zochi",
         "Principe"
       ],
-      "flag": "/static/tp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TP-flag.jpg",
+          "hash": "ae6ad08dfcaf4a09c6e22aa7e4978d07df371d05f173bbb4bdff05ad9bae9fe8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TP-locator-map.jpg",
+          "hash": "e4015b72e9a2ad52d4b082b4cc0e426bc8645f478f57584a75b558ffe28ec4e6"
+        }
+      }
     },
     {
       "capitals": [
@@ -1318,8 +1858,20 @@
         "Tunis",
         "Zaghouan (Zaghwan)"
       ],
-      "flag": "/static/ts-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TS-flag.jpg",
+          "hash": "9dbb6c9f2aef2f04349012ffa63fcd4f03482b2cbfe1f6fb20bc8f90e52a4a64"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TS-locator-map.jpg",
+          "hash": "9b2cf0a3f22982ec3f2827b51e2d6108b94dd75e8c19dfaec318f9c6e1008ee3"
+        }
+      }
     },
     {
       "capitals": [
@@ -1362,8 +1914,20 @@
         "Tabora",
         "Tanga"
       ],
-      "flag": "/static/tz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TZ-flag.jpg",
+          "hash": "2e5211438007dac7fc5146e3a7a39429ea6f6a757cb81ed7d3f95fdb9127040a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TZ-locator-map.jpg",
+          "hash": "6d4957fa62051b922f812b25cb4f4ac8908ade1a315aaeb25370c845f68b75de"
+        }
+      }
     },
     {
       "capitals": [
@@ -1510,8 +2074,20 @@
         "Yumbe",
         "Zombo"
       ],
-      "flag": "/static/ug-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UG-flag.jpg",
+          "hash": "d6159f79f0367670cf79dee3bfab4fca0bb3b5593342bd10a28b06e2313f2a19"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UG-locator-map.jpg",
+          "hash": "9bd3a512e82709480d2253087a6550fac938560c7a2c5d14f62d8b4a7e5e95d6"
+        }
+      }
     },
     {
       "capitals": [
@@ -1536,8 +2112,20 @@
         "Sahel",
         "Sud-Ouest"
       ],
-      "flag": "/static/uv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UV-flag.jpg",
+          "hash": "f3f018d0218f4d17f55e48d2360db89c25933475aecc863adc81bcc432939443"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UV-locator-map.jpg",
+          "hash": "b0f3e5425c6713a484fd6ffb63e11d3b804ea8e2becd2f1da27632b702af02a8"
+        }
+      }
     },
     {
       "capitals": [
@@ -1563,17 +2151,20 @@
         "Otjozondjupa",
         "Zambezi"
       ],
-      "flag": "/static/wa-flag.jpg",
-      "flagRepeats": []
-    },
-    {
-      "capitals": [],
-      "name": "Western Sahara",
-      "code": "wi",
-      "borderCountries": "Algeria 41 km, Mauritania 1564 km, Morocco 444 km",
-      "population": "unknown",
-      "divisions": [],
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/WA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/WA-flag.jpg",
+          "hash": "8490340acffe80dda7e9ac5a5dbdab14d5b0bfbb05c227618d05c9fc07efe3d2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WA-locator-map.jpg",
+          "hash": "36115cdc4951268deb1c237ab3d131c0f7e517e8f5c6eed2365320eecd579dc6"
+        }
+      }
     },
     {
       "capitals": [
@@ -1590,8 +2181,20 @@
         "Manzini",
         "Shiselweni"
       ],
-      "flag": "/static/wz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/WZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/WZ-flag.jpg",
+          "hash": "c21d6102194eaf2099028efabfc30233a5f418289c1e42eed01fd2f7250085d6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WZ-locator-map.jpg",
+          "hash": "2bcb55bb2721343244b20eca95093dbe749f3ed64862a0fc4e63eaca53895e55"
+        }
+      }
     },
     {
       "capitals": [
@@ -1613,8 +2216,20 @@
         "Southern",
         "Western"
       ],
-      "flag": "/static/za-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ZA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ZA-flag.jpg",
+          "hash": "5e65fccd1380af512345e467ccfb10ca473cbd6c90c68fc577f2436205ce7d85"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ZA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ZA-locator-map.jpg",
+          "hash": "bdee2f5b1166698f6731d6ff7b4cb5d4d3d8c710099c2d5ca880da0129feb684"
+        }
+      }
     },
     {
       "capitals": [
@@ -1636,8 +2251,20 @@
         "Matabeleland South",
         "Midlands"
       ],
-      "flag": "/static/zi-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ZI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ZI-flag.jpg",
+          "hash": "0588431729f2c7a78383d7061a3349b7fd25ef83afd0dd0432403fac0eeb1116"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ZI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ZI-locator-map.jpg",
+          "hash": "f2bd7c19588419d9e1c04af6079a597f780b51e36eed510f72c9c81036f91159"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1646,8 +2273,20 @@
       "borderCountries": null,
       "population": "unknown",
       "divisions": [],
-      "flag": "/static/ay-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AY-flag.jpg",
+          "hash": "6c92c67df68a33b1bc6c812d24c228b2e63653f3ac10a78f2780e4741b5c23e6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AY-locator-map.jpg",
+          "hash": "2ab8a07992dab7686cccdec7f97a8c2021cab70ed39fff0140ec1d95980a8561"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1656,10 +2295,20 @@
       "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
-      "flag": "/static/bv-flag.jpg",
-      "flagRepeats": [
-        "jn"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BV-flag.jpg",
+          "hash": "d088fa59cd69067e085186718d4708292a521d79ae5a7658aaca9245b63109f3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BV-locator-map.jpg",
+          "hash": "bcfcad91056aebe7b2dae13028a7583c37497583e7a4a4e0c4263d4586671e7b"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1668,14 +2317,20 @@
       "borderCountries": null,
       "population": "no indigenous inhabitants",
       "divisions": [],
-      "flag": "/static/fs-flag.jpg",
-      "flagRepeats": [
-        "nc",
-        "rn",
-        "tb",
-        "fr",
-        "ip"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FS-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FS-locator-map.jpg",
+          "hash": "861858704421d0be6138a8ad8a304b5ad7ef187a58ffea61feec6dee8775c4a0"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1684,13 +2339,20 @@
       "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
-      "flag": "/static/hm-flag.jpg",
-      "flagRepeats": [
-        "as",
-        "at",
-        "ck",
-        "cr"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HM-flag.jpg",
+          "hash": "e6926ff78ba1664729ef74e08c0db0dcfa0403a2a06f9df4464104a22199da04"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HM-locator-map.jpg",
+          "hash": "c6b62bbc69b4a4d59b11e9b0ed2eac501be31b6afed84d69681600a96df0dd1c"
+        }
+      }
     },
     {
       "capitals": [
@@ -1701,8 +2363,20 @@
       "borderCountries": null,
       "population": "43,895",
       "divisions": [],
-      "flag": "/static/aq-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AQ-flag.jpg",
+          "hash": "bcd2bd56dadf8d44a43259f9d54099b6e76acc63477d5266b999637bac19ccf7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AQ-locator-map.jpg",
+          "hash": "d1d783163a3011b832cec7fa0f8f41a05ebec723290d284aaa1f2d32f11d7726"
+        }
+      }
     },
     {
       "capitals": [
@@ -1722,13 +2396,20 @@
         "Victoria",
         "Western Australia"
       ],
-      "flag": "/static/as-flag.jpg",
-      "flagRepeats": [
-        "hm",
-        "at",
-        "ck",
-        "cr"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AS-flag.jpg",
+          "hash": "e6926ff78ba1664729ef74e08c0db0dcfa0403a2a06f9df4464104a22199da04"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AS-locator-map.jpg",
+          "hash": "ab8c4b6994e1a07811882e892468f9384711a31c8353a11b273fa3c315dd97b8"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1737,13 +2418,20 @@
       "borderCountries": null,
       "population": "(2021 est.) no indigenous inhabitants",
       "divisions": [],
-      "flag": "/static/at-flag.jpg",
-      "flagRepeats": [
-        "hm",
-        "as",
-        "ck",
-        "cr"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AT-flag.jpg",
+          "hash": "e6926ff78ba1664729ef74e08c0db0dcfa0403a2a06f9df4464104a22199da04"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AT-locator-map.jpg",
+          "hash": "a486ba8d07c4946769574d6cfbb959e91584a1cee4d6631b61d224886fb93144"
+        }
+      }
     },
     {
       "capitals": [
@@ -1765,8 +2453,20 @@
         "Temotu",
         "Western"
       ],
-      "flag": "/static/bp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BP-flag.jpg",
+          "hash": "71959450a3e6ffd07bb5f1971e5c5913e32e5dd51d8478b966ce61790bacae65"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BP-locator-map.jpg",
+          "hash": "12ace090aa84d64cacd486ff7931f5ec2eccd655b66022478e036efd834c4717"
+        }
+      }
     },
     {
       "capitals": [
@@ -1777,13 +2477,20 @@
       "borderCountries": null,
       "population": "593",
       "divisions": [],
-      "flag": "/static/ck-flag.jpg",
-      "flagRepeats": [
-        "hm",
-        "as",
-        "at",
-        "cr"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CK-flag.jpg",
+          "hash": "e6926ff78ba1664729ef74e08c0db0dcfa0403a2a06f9df4464104a22199da04"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CK-locator-map.jpg",
+          "hash": "061ef655b1d37813f75a80252247e841af592585eac857459967aff2da780476"
+        }
+      }
     },
     {
       "capitals": [
@@ -1794,8 +2501,20 @@
       "borderCountries": null,
       "population": "51,118",
       "divisions": [],
-      "flag": "/static/cq-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CQ-flag.jpg",
+          "hash": "d7d1c483fbfe9a4283fc7a1842035e1bf986213f22ac069041167e61f63df1f2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CQ-locator-map.jpg",
+          "hash": "174a58fe55875a6bb9551f6130f05c585989ebd969ddfdab6cb90440de16b881"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1804,13 +2523,20 @@
       "borderCountries": null,
       "population": "no indigenous inhabitants (2021)",
       "divisions": [],
-      "flag": "/static/cr-flag.jpg",
-      "flagRepeats": [
-        "hm",
-        "as",
-        "at",
-        "ck"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CR-flag.jpg",
+          "hash": "e6926ff78ba1664729ef74e08c0db0dcfa0403a2a06f9df4464104a22199da04"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CR-locator-map.jpg",
+          "hash": "77c5b331989eb249229786bbdfbc46fa85d2b4ecec706342fda25d2c67b6af4c"
+        }
+      }
     },
     {
       "capitals": [
@@ -1821,8 +2547,20 @@
       "borderCountries": null,
       "population": "7,761",
       "divisions": [],
-      "flag": "/static/cw-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CW-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CW-flag.jpg",
+          "hash": "4463c2ce407659dc03fec3a49a0c3472aea4729d6dea9f72b295eb8357264b2a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CW-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CW-locator-map.jpg",
+          "hash": "e888bc4d3663e5b7d8c4bc745d7458290786c2525a17bbd22d7e8ea4e71c05ab"
+        }
+      }
     },
     {
       "capitals": [
@@ -1849,8 +2587,20 @@
         "Serua",
         "Tailevu"
       ],
-      "flag": "/static/fj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FJ-flag.jpg",
+          "hash": "9ff7e0561d39294cd6ed8e4abb1702b29274d6f4012bb31f6cb795a06b055c91"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FJ-locator-map.jpg",
+          "hash": "9b9ccc50cecc4228403ced0708c44f630024dca297a5b0f4f7583233122c899e"
+        }
+      }
     },
     {
       "capitals": [
@@ -1867,8 +2617,20 @@
         "Iles Tuamotu-Gambier",
         "Iles du Vent (Windward Islands)"
       ],
-      "flag": "/static/fp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FP-flag.jpg",
+          "hash": "184b103f5ef41e22366db35c4ab2408bcf54b30a6e23c8834bae99818908c916"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FP-locator-map.jpg",
+          "hash": "cd83a1b63da90213f7ba6efc4aca07fc49d04cca1c3dc9a8e0b33c7bd18fe5f5"
+        }
+      }
     },
     {
       "capitals": [
@@ -1879,8 +2641,20 @@
       "borderCountries": null,
       "population": "169,532",
       "divisions": [],
-      "flag": "/static/gq-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GQ-flag.jpg",
+          "hash": "370bf16154ffde9ed1430b3665702c3836e48ab9c0f5c735b22951b3efefa464"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GQ-locator-map.jpg",
+          "hash": "86d5a06c52eb347b112e032e6657cf378577b04a8f86aa6c44e81178c1d4a0b1"
+        }
+      }
     },
     {
       "capitals": [
@@ -1895,8 +2669,20 @@
         "Line Islands",
         "Phoenix Islands"
       ],
-      "flag": "/static/kr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KR-flag.jpg",
+          "hash": "41b2e1ee5dd7f70babac9778154ec5057fe3f37d32f46a73aab52267ac52e477"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KR-locator-map.jpg",
+          "hash": "83d63dbb99b2991e8af1871e2e1f6dd8a06e2c49f34659cbaa796acd3f53825f"
+        }
+      }
     },
     {
       "capitals": [
@@ -1907,8 +2693,20 @@
       "borderCountries": null,
       "population": "1,692",
       "divisions": [],
-      "flag": "/static/kt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KT-flag.jpg",
+          "hash": "22bb8dbc84382a724a681b6125079b7d7cc0da20102b7f13847d04441bf9db70"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KT-locator-map.jpg",
+          "hash": "61020ded597fd42a84b051dcd7decac751930ed3afdf8435719fb9aa8a5e417e"
+        }
+      }
     },
     {
       "capitals": [
@@ -1923,14 +2721,20 @@
         "Province Nord (North Province)",
         "Province Sud (South Province)"
       ],
-      "flag": "/static/nc-flag.jpg",
-      "flagRepeats": [
-        "fs",
-        "rn",
-        "tb",
-        "fr",
-        "ip"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NC-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NC-locator-map.jpg",
+          "hash": "a580c4fdd8fc03354319e85341004830005fe415bd4a0c285f638479f8c5c5bb"
+        }
+      }
     },
     {
       "capitals": [
@@ -1941,8 +2745,20 @@
       "borderCountries": null,
       "population": "2,000 (2022 est.)",
       "divisions": [],
-      "flag": "/static/ne-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NE-flag.jpg",
+          "hash": "cd9c16e2e416031ab738df16ff7c15adfd5bbbb94c10421a7126843509db0b09"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NE-locator-map.jpg",
+          "hash": "d91aa69bf9fff1ca9762ef38d3d5d6edfc0ebbdf01048f6588a35153ca2ee589"
+        }
+      }
     },
     {
       "capitals": [
@@ -1953,8 +2769,20 @@
       "borderCountries": null,
       "population": "1,748 (2016 est.)",
       "divisions": [],
-      "flag": "/static/nf-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NF-flag.jpg",
+          "hash": "19e5395fcc61a5a9b201d6493603bf14d5c9e17a6535a6c4aeb0d5e5717bcdca"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NF-locator-map.jpg",
+          "hash": "ca4c687f96c0361caa5f539a6853bf88a5f1e5b2b4c987ebc52467331f137ba3"
+        }
+      }
     },
     {
       "capitals": [
@@ -1972,8 +2800,20 @@
         "Tafea",
         "Torba"
       ],
-      "flag": "/static/nh-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NH-flag.jpg",
+          "hash": "b9a2d607e6c1b779e64967e908c8927c71a40523e9a45ab2f55a1cfd40c53dc7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NH-locator-map.jpg",
+          "hash": "01aa791a846fa56a08783cb212bb27bdfa247e533b1ae397176a616a311ac82f"
+        }
+      }
     },
     {
       "capitals": [],
@@ -1997,8 +2837,20 @@
         "Uaboe",
         "Yaren"
       ],
-      "flag": "/static/nr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NR-flag.jpg",
+          "hash": "2aaa6c1827731208e089cae13f2569bb99c1d3298e8abe6c0562d85b85091dc8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NR-locator-map.jpg",
+          "hash": "c5933984b7f08213be45d4dde08ce46d6538a5b2f6fd203e2a330675bc95d10e"
+        }
+      }
     },
     {
       "capitals": [
@@ -2027,8 +2879,20 @@
         "Wellington",
         "West Coast"
       ],
-      "flag": "/static/nz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NZ-flag.jpg",
+          "hash": "0142846b4096344cfcca375f4408ddbb24f970195e709c2ff7d2a2f5a22a9450"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NZ-locator-map.jpg",
+          "hash": "c77c614b896b3f68c1107597a5404fc48ebdda4bed56cb688256f4b4de44f98c"
+        }
+      }
     },
     {
       "capitals": [
@@ -2039,8 +2903,20 @@
       "borderCountries": null,
       "population": "50 (2021 est.)",
       "divisions": [],
-      "flag": "/static/pc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PC-flag.jpg",
+          "hash": "4adace911ea393919d6db4a26116b8798b6cacacadb0d151fc2d73c6236d2d84"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PC-locator-map.jpg",
+          "hash": "1d4d1184fce5fb908eb30c9092f12458c3fbc16d950a963fdebc36f3a68204b4"
+        }
+      }
     },
     {
       "capitals": [
@@ -2068,8 +2944,20 @@
         "Peleliu",
         "Sonsorol"
       ],
-      "flag": "/static/ps-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PS-flag.jpg",
+          "hash": "2d3409fbe0a399975ce50c2a3e7154cad2ca610a8be7ee48729f6646a1ea3c26"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PS-locator-map.jpg",
+          "hash": "8fb5d48c85ed543fc76bc6d7bab841e9453e93f16a173a4ce808cd4d4430155c"
+        }
+      }
     },
     {
       "capitals": [
@@ -2099,8 +2987,20 @@
         "Wotho",
         "Wotje"
       ],
-      "flag": "/static/rm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RM-flag.jpg",
+          "hash": "656582e85246ebeca97181a1ccf80843acf6e6c9f98c40951c0fae327b8a322f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RM-locator-map.jpg",
+          "hash": "52a1d395e269453f7ee711986e3852af24ddfae6f9feabf64c96f21ac1c1ca12"
+        }
+      }
     },
     {
       "capitals": [],
@@ -2109,8 +3009,20 @@
       "borderCountries": null,
       "population": "1,647 (2019 est.)",
       "divisions": [],
-      "flag": "/static/tl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TL-flag.jpg",
+          "hash": "866f6671eec4aabc845c5c49204fa1e20c66ec9e9264f25e60e8a25c623e7461"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TL-locator-map.jpg",
+          "hash": "b40f4c92790465f367f39db40c0a0488dfa175c6f460172894a87d680756f506"
+        }
+      }
     },
     {
       "capitals": [
@@ -2127,8 +3039,20 @@
         "Tongatapu",
         "Vava'u"
       ],
-      "flag": "/static/tn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TN-flag.jpg",
+          "hash": "33b972934b9e9b35b48c6511a3e6dbbf59e6bec40cb760e10c2709b3b68f0dda"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TN-locator-map.jpg",
+          "hash": "60bbda33cd65444dc339ee6ab5d2414f1deff481da295c1a00f05501bd172306"
+        }
+      }
     },
     {
       "capitals": [
@@ -2148,8 +3072,20 @@
         "Nukulaelae",
         "Vaitupu"
       ],
-      "flag": "/static/tv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TV-flag.jpg",
+          "hash": "2a4822a2b43e75ac418a4dec2b655e49c414cede623aa3ca30779ddac0c23a2f"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TV-locator-map.jpg",
+          "hash": "986f3758afd8d7999339bf0a056492d1cdbf0b0b80d889860bc8a01fb8203b65"
+        }
+      }
     },
     {
       "capitals": [
@@ -2164,8 +3100,20 @@
         "Sigave",
         "Uvea"
       ],
-      "flag": "/static/wf-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/WF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/WF-flag.jpg",
+          "hash": "a9fb845ca5cf95a1831c39fe4a0db229bfaeaa42f79b263bacdfc06de0d83ad7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WF-locator-map.jpg",
+          "hash": "18e6941c8b8d27e9b0bc63bf865b1a4c5f47848a057862f06f6f2672f73cd797"
+        }
+      }
     },
     {
       "capitals": [],
@@ -2174,11 +3122,20 @@
       "borderCountries": null,
       "population": "(2018 est.) no indigenous inhabitants",
       "divisions": [],
-      "flag": "/static/wq-flag.jpg",
-      "flagRepeats": [
-        "bq",
-        "us"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/WQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/WQ-flag.jpg",
+          "hash": "1240dcd7045dc82f63552b02bf2ab7f0362259aca0af06062b73f6a42ce0bad9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WQ-locator-map.jpg",
+          "hash": "31729cecb602024cd3f15843d4f0faa71648fbf1625736b949946a01e1af63ff"
+        }
+      }
     },
     {
       "capitals": [
@@ -2201,8 +3158,20 @@
         "Va'a-o-Fonoti",
         "Vaisigano"
       ],
-      "flag": "/static/ws-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/WS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/WS-flag.jpg",
+          "hash": "5fea820263fc369019b6ee84467fe6e9b2ef7a8a4340a8451797a92b8a474026"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WS-locator-map.jpg",
+          "hash": "e09f171ec3aa3e02b17da83330d46a24ca5f094d4b4fdf8a8df2fd0cb2a7210c"
+        }
+      }
     },
     {
       "capitals": [
@@ -2213,8 +3182,20 @@
       "borderCountries": null,
       "population": "125,063",
       "divisions": [],
-      "flag": "/static/aa-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AA-flag.jpg",
+          "hash": "c74c636783a2aa16b3f4b8a62214fd90cf6844390bdf89941d64c7721cea459b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AA-locator-map.jpg",
+          "hash": "b3dbdf29b5990cb7db8702fd7923618c2377d4165e18fd82d0d812c5445136f7"
+        }
+      }
     },
     {
       "capitals": [
@@ -2234,8 +3215,20 @@
         "Saint Peter",
         "Saint Philip"
       ],
-      "flag": "/static/ac-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AC-flag.jpg",
+          "hash": "31bb21e35a41cfef45d439e548cc9fb7bfc2db780631a4f5a6287a7347185892"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AC-locator-map.jpg",
+          "hash": "0495f74ef3fd52e30ff40bf8eecb14bda96f3ba4be4dbeb8715faccd831e4a53"
+        }
+      }
     },
     {
       "capitals": [
@@ -2246,8 +3239,20 @@
       "borderCountries": null,
       "population": "19,416",
       "divisions": [],
-      "flag": "/static/av-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AV-flag.jpg",
+          "hash": "a520add97fa486d3c107e4f6a107e77acdeb43ccacbd95a2ac18856f8da81de9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AV-locator-map.jpg",
+          "hash": "8b81d927c36e0284b54f64cb616263217218d135bfaf9bfe5b82a62c75858923"
+        }
+      }
     },
     {
       "capitals": [
@@ -2271,8 +3276,20 @@
         "Saint Philip",
         "Saint Thomas"
       ],
-      "flag": "/static/bb-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BB-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BB-flag.jpg",
+          "hash": "4fd1c1c50b7ba9309198b7cbb91d38a04e0f929bce24194cd42bb5c308709c1c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BB-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BB-locator-map.jpg",
+          "hash": "82f31e19263a799a8fc664b280cc5ef3ff883925f90764f7bbf91330f250eca6"
+        }
+      }
     },
     {
       "capitals": [
@@ -2315,8 +3332,20 @@
         "Spanish Wells",
         "West Grand Bahama"
       ],
-      "flag": "/static/bf-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BF-flag.jpg",
+          "hash": "1d64e349fd35f2c096e1835cadec5cb356795ec1594df7cf09f0b2e9642d6d31"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BF-locator-map.jpg",
+          "hash": "3f0f69e1e93817b50cdd607790520f89d24f9bb488c53b6ae4a095c673cf5f93"
+        }
+      }
     },
     {
       "capitals": [
@@ -2334,8 +3363,20 @@
         "Stann Creek",
         "Toledo"
       ],
-      "flag": "/static/bh-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BH-flag.jpg",
+          "hash": "d6f1f54e60024dfe6be27290394b1991630173f00d0c255a26894a6636499aeb"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BH-locator-map.jpg",
+          "hash": "0ac8f467682f2c46e66160058b854c89aa2be2301bbfcfdc3bb4c2adf2c48108"
+        }
+      }
     },
     {
       "capitals": [],
@@ -2344,11 +3385,20 @@
       "borderCountries": null,
       "population": "uninhabited; transient Haitian fishermen and others camp on the island",
       "divisions": [],
-      "flag": "/static/bq-flag.jpg",
-      "flagRepeats": [
-        "wq",
-        "us"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BQ-flag.jpg",
+          "hash": "1240dcd7045dc82f63552b02bf2ab7f0362259aca0af06062b73f6a42ce0bad9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BQ-locator-map.jpg",
+          "hash": "00a902408d01b98ecba503b0ba9a44c888b36fe54abf1e99a4a46d0ae5c65f98"
+        }
+      }
     },
     {
       "capitals": [
@@ -2366,8 +3416,20 @@
         "North Side",
         "West Bay"
       ],
-      "flag": "/static/cj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CJ-flag.jpg",
+          "hash": "31de0349e8de97be56007d222112492a01a3f2aadd40b7b7a73308113dc1fa9c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CJ-locator-map.jpg",
+          "hash": "feb09eef496f37a550307946bb0a8d27ff04a2358f0083ccfc20764cd94ee7ea"
+        }
+      }
     },
     {
       "capitals": [
@@ -2386,8 +3448,20 @@
         "Puntarenas",
         "San Jose"
       ],
-      "flag": "/static/cs-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CS-flag.jpg",
+          "hash": "1901177336f48b722e4249e5907ef78a4a8fab3229de53f4e78ea65cbd736db9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CS-locator-map.jpg",
+          "hash": "fcc9019eeb08fd316fef5f34a818040202ef8c763a645cd0fc2a972ffa3fe1e3"
+        }
+      }
     },
     {
       "capitals": [
@@ -2415,8 +3489,20 @@
         "Santiago de Cuba",
         "Villa Clara"
       ],
-      "flag": "/static/cu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CU-flag.jpg",
+          "hash": "d1420a658256670cebce6c03178cf929f2b723d0fb4f1d930703b3c85eb1d230"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CU-locator-map.jpg",
+          "hash": "6bae89d39742432b4df3f3e43d871be220dcc69f9730fc4dad1e838ad7385185"
+        }
+      }
     },
     {
       "capitals": [
@@ -2438,8 +3524,20 @@
         "Saint Paul",
         "Saint Peter"
       ],
-      "flag": "/static/do-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/DO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/DO-flag.jpg",
+          "hash": "f47cd749edbaa465b0faf1852027d3d5d028c03f20f5662e1f3b7424b8e4866a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/DO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/DO-locator-map.jpg",
+          "hash": "04d79386b58b3371090623851d8838eec32ca85eb0b3f5d0ecc9dc18023641d1"
+        }
+      }
     },
     {
       "capitals": [
@@ -2461,8 +3559,20 @@
         "Valdesia",
         "Yuma"
       ],
-      "flag": "/static/dr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/DR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/DR-flag.jpg",
+          "hash": "d8d1c6d3578dd1207bed6b95aae574fea244467cce391e83eb6170250b875cf2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/DR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/DR-locator-map.jpg",
+          "hash": "3ae71524d09f585fcc0c1fd556b9d2a81070d4341a94575ff151544bd2b81755"
+        }
+      }
     },
     {
       "capitals": [
@@ -2488,8 +3598,20 @@
         "Sonsonate",
         "Usulutan"
       ],
-      "flag": "/static/es-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ES-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ES-flag.jpg",
+          "hash": "9e5a533901edfcef84b7284be47b71951a90f10ad36d47c1670d8bb23077a275"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ES-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ES-locator-map.jpg",
+          "hash": "394740e2be3133441707be208369029f09ca2da711afc543b1d0e68dba6f1df2"
+        }
+      }
     },
     {
       "capitals": [
@@ -2508,8 +3630,20 @@
         "Saint Mark",
         "Saint Patrick"
       ],
-      "flag": "/static/gj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GJ-flag.jpg",
+          "hash": "13f86bc7873e45a216a8c788159703eeabbcc9378f67b0dcf9894aa40ed1ed4b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GJ-locator-map.jpg",
+          "hash": "09b0ad29ceb54425f2fd342bdd5342651a21384a6932bfeeac7c1758c68df0fa"
+        }
+      }
     },
     {
       "capitals": [
@@ -2543,8 +3677,20 @@
         "Totonicapan",
         "Zacapa"
       ],
-      "flag": "/static/gt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GT-flag.jpg",
+          "hash": "9167c1fdcfaa220aede97c0c722b8bf44c6a5156c03f37da66fb7f7ded19bffe"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GT-locator-map.jpg",
+          "hash": "b8da5794ac9dd99962c8fca38a3cfb5c41ccbf2389e980be3b9602721facf63e"
+        }
+      }
     },
     {
       "capitals": [
@@ -2566,8 +3712,20 @@
         "Sud",
         "Sud-Est"
       ],
-      "flag": "/static/ha-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HA-flag.jpg",
+          "hash": "806fefc90e7017f032e5bdac29388fd3c0b30c265bb6adcaf8390bdd74af6371"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HA-locator-map.jpg",
+          "hash": "041d0848efb85c4b404db1af893f355a5eaf6dcd026ee64c240febfa5be922bf"
+        }
+      }
     },
     {
       "capitals": [
@@ -2597,8 +3755,20 @@
         "Valle",
         "Yoro"
       ],
-      "flag": "/static/ho-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HO-flag.jpg",
+          "hash": "5af288f4eca43b879c2d6ced5d299b68655d4086800e5f422cde84e4a63c4b98"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HO-locator-map.jpg",
+          "hash": "2ad8fe0b05cb870ba58242c34c0729402ee2d35f13264ae86e9b99147ca57cb5"
+        }
+      }
     },
     {
       "capitals": [
@@ -2624,8 +3794,20 @@
         "Trelawny",
         "Westmoreland"
       ],
-      "flag": "/static/jm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/JM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/JM-flag.jpg",
+          "hash": "b087f02b97c604a2fd056e672211c28fdec2246c24b112d20f064f4b8eb00b31"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/JM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/JM-locator-map.jpg",
+          "hash": "5c4d9afc4060d83b0b9d35d3f79cbc3ef351c14361739adc61b2a47dfcf2e871"
+        }
+      }
     },
     {
       "capitals": [
@@ -2640,8 +3822,20 @@
         "Saint Georges",
         "Saint Peter"
       ],
-      "flag": "/static/mh-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MH-flag.jpg",
+          "hash": "5e7a4e9a0f9bb611b5a64aa6a1922bddc7666b198b9e3cb99a46ec03d4051197"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MH-locator-map.jpg",
+          "hash": "337d38f8fbc28120b1aec7bd02cbab5d3aeb199c1240073070009f6da696838d"
+        }
+      }
     },
     {
       "capitals": [
@@ -2652,8 +3846,20 @@
       "borderCountries": "Saint Martin (France) 16 km",
       "population": "46,215",
       "divisions": [],
-      "flag": "/static/nn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NN-flag.jpg",
+          "hash": "ee1e20b50c83d0d30be9d83852e121b17f03ae86ff8db240757148367f3c998d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NN-locator-map.jpg",
+          "hash": "785e363de7715166a20b8bb742d8cb60f389bde72f1cf51c8f63d129445ef9c5"
+        }
+      }
     },
     {
       "capitals": [
@@ -2682,8 +3888,20 @@
         "Rio San Juan",
         "Rivas"
       ],
-      "flag": "/static/nu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NU-flag.jpg",
+          "hash": "0a7d86e763d281de0b4e402e0b91c0ddc01e359fa22f6a26d66ac965aad1bb8d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NU-locator-map.jpg",
+          "hash": "c88b41ab0f2ab83fb484ae0b07b2f1166d05ffe33cc2dec5468156879952f2e6"
+        }
+      }
     },
     {
       "capitals": [
@@ -2709,8 +3927,20 @@
         "Panama Oeste",
         "Veraguas"
       ],
-      "flag": "/static/pm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PM-flag.jpg",
+          "hash": "e7ae2ad759c92880e56aa38b6f94225c5e97bb8a9031b9519d3ac3deeeae2258"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PM-locator-map.jpg",
+          "hash": "186489067cd7bc7f67369e875f2eba53cbe057ad849f7d8852fa999d0f9b778c"
+        }
+      }
     },
     {
       "capitals": [
@@ -2721,14 +3951,20 @@
       "borderCountries": "Sint Maarten 16 km",
       "population": "32,996",
       "divisions": [],
-      "flag": "/static/rn-flag.jpg",
-      "flagRepeats": [
-        "fs",
-        "nc",
-        "tb",
-        "fr",
-        "ip"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RN-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RN-locator-map.jpg",
+          "hash": "3157318d86039941bc17055912043bbcd23000b1e72f0b511ed4accc9b051bb0"
+        }
+      }
     },
     {
       "capitals": [
@@ -2739,8 +3975,20 @@
       "borderCountries": null,
       "population": "3,019,450",
       "divisions": [],
-      "flag": "/static/rq-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RQ-flag.jpg",
+          "hash": "42715ba9e3727f1be3085077381d996ac2f7f1bc43c28c9dfc684b2d9a1c8e48"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RQ-locator-map.jpg",
+          "hash": "d696d405221f0ae0e7523b2b9db0258a9a31d15452c027ca7ce1f7fe3bbc78aa"
+        }
+      }
     },
     {
       "capitals": [
@@ -2766,8 +4014,20 @@
         "Saint Thomas Middle Island",
         "Trinity Palmetto Point"
       ],
-      "flag": "/static/sc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SC-flag.jpg",
+          "hash": "f5a6f83b4b6c9b498031a81b78605da3f07cd7e74f252fbb94c8497a0c336ab4"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SC-locator-map.jpg",
+          "hash": "4114b7382323eedb1756df2fbe4e3f29a6915c1007a676bca55ec569ccdce61e"
+        }
+      }
     },
     {
       "capitals": [
@@ -2789,8 +4049,20 @@
         "Soufriere",
         "Vieux-Fort"
       ],
-      "flag": "/static/st-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ST-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ST-flag.jpg",
+          "hash": "75a5240b10425b3e211d0f6cad65df520f2c30e7f21ea0ecb3d9f27aba27e4a3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ST-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ST-locator-map.jpg",
+          "hash": "c2fdc54a9036285ddfdeb5688052548413ce55f272cd878209a8db83db6bcd5e"
+        }
+      }
     },
     {
       "capitals": [
@@ -2801,14 +4073,20 @@
       "borderCountries": null,
       "population": "7,086",
       "divisions": [],
-      "flag": "/static/tb-flag.jpg",
-      "flagRepeats": [
-        "fs",
-        "nc",
-        "rn",
-        "fr",
-        "ip"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TB-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TB-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TB-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TB-locator-map.jpg",
+          "hash": "1e8c24da64cd24621aba7d35e378f1bbd6e2b4d879163a068a132c91d9abdd07"
+        }
+      }
     },
     {
       "capitals": [
@@ -2835,8 +4113,20 @@
         "Tobago",
         "Tunapuna/Piarco"
       ],
-      "flag": "/static/td-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TD-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TD-flag.jpg",
+          "hash": "53da468d2165391d3107e7861ffd1d1200a6e6acde05c091ac0047f605d53159"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TD-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TD-locator-map.jpg",
+          "hash": "53132508ccf1fbb944b5fda4d31a0f460a74a8978268f56340ce447ba45f808d"
+        }
+      }
     },
     {
       "capitals": [
@@ -2847,8 +4137,20 @@
       "borderCountries": null,
       "population": "60,439",
       "divisions": [],
-      "flag": "/static/tk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TK-flag.jpg",
+          "hash": "1887c362e5dd43f32ddadc15b0ae86b9aeefdb1174f76f2d18c6875ecf1fe4c0"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TK-locator-map.jpg",
+          "hash": "1ba31582544006ec28f03368b5559eccc2b84368723bcc04273db4e0eae3e163"
+        }
+      }
     },
     {
       "capitals": [
@@ -2859,8 +4161,20 @@
       "borderCountries": null,
       "population": "153,289",
       "divisions": [],
-      "flag": "/static/uc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UC-flag.jpg",
+          "hash": "92c742c7c474538074dd8d0138564831a8ca956cbfc075638d0147486082fb08"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UC-locator-map.jpg",
+          "hash": "785e363de7715166a20b8bb742d8cb60f389bde72f1cf51c8f63d129445ef9c5"
+        }
+      }
     },
     {
       "capitals": [
@@ -2878,8 +4192,20 @@
         "Saint George",
         "Saint Patrick"
       ],
-      "flag": "/static/vc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VC-flag.jpg",
+          "hash": "d34bf2ef996ceb8aed5aec37cc883aa18f477e4cde8652290f176f4430cb3c38"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VC-locator-map.jpg",
+          "hash": "fde52333e691e1eee0f72be6985829f6a50f4ad5826ac34036f3608b74211082"
+        }
+      }
     },
     {
       "capitals": [
@@ -2890,8 +4216,20 @@
       "borderCountries": null,
       "population": "40,102",
       "divisions": [],
-      "flag": "/static/vi-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VI-flag.jpg",
+          "hash": "e9ee69f6bb7933f4173cafa9e15020bbc479ac8d14c3147d9c7add8c490943c4"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VI-locator-map.jpg",
+          "hash": "1014a9641e41b8b616c4857cf19d103f2b79756cb82d9d1c95bc2d5a08cfd406"
+        }
+      }
     },
     {
       "capitals": [
@@ -2902,8 +4240,20 @@
       "borderCountries": null,
       "population": "104,377",
       "divisions": [],
-      "flag": "/static/vq-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VQ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VQ-flag.jpg",
+          "hash": "8ae9a148da50fbce066250da12913bf71e56853f91026dd1b6450e95f71b87d6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VQ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VQ-locator-map.jpg",
+          "hash": "b8e15989c4d5351bbd565a38afc7eafea1ad707dcaa2a21c9c036546efd2239d"
+        }
+      }
     },
     {
       "capitals": [
@@ -2924,8 +4274,20 @@
         "Talas Oblusu",
         "Ysyk-Kol Oblusu (Karakol)"
       ],
-      "flag": "/static/kg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KG-flag.jpg",
+          "hash": "90a752086e0b1f147be688d616f418761dbac8a3c48c04327604b5c62deb4b75"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KG-locator-map.jpg",
+          "hash": "357224c2ad9e76632632a53d320de80e1fc8ea69ef57087d5119383468c1de5a"
+        }
+      }
     },
     {
       "capitals": [
@@ -2958,8 +4320,20 @@
         "Zhambyl (Taraz)",
         "Zhetisu (Taldyqorghan)"
       ],
-      "flag": "/static/kz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KZ-flag.jpg",
+          "hash": "6ba358a46657b28036ca2d21fd9bc4c849b8f9375e173877817864054e3002d5"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KZ-locator-map.jpg",
+          "hash": "353d7f1c19d73caf161682691ea0663d1bb2c0c39231ecb8ce6ebdd8d6bd296a"
+        }
+      }
     },
     {
       "capitals": [
@@ -3054,8 +4428,20 @@
         "Yevreyskaya [Jewish] (Birobidzhan)",
         "Zabaykalsk [Transbaikal] (Chita)"
       ],
-      "flag": "/static/rs-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RS-flag.jpg",
+          "hash": "76e99836a92cce715e6c93439cecb76f29649691c255469c451d164c81da3411"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RS-locator-map.jpg",
+          "hash": "75d51be5905b05433263fc20ac3831d7d9cc9f2e8d6781d611a3c82f7052c60e"
+        }
+      }
     },
     {
       "capitals": [
@@ -3072,8 +4458,20 @@
         "Nohiyahoi Tobei Jumhuri",
         "Sughd (Khujand)"
       ],
-      "flag": "/static/ti-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TI-flag.jpg",
+          "hash": "2f84d606a76c9271472fcd03f39a4633d0e343f916c1e9230c33b810ca3adb29"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TI-locator-map.jpg",
+          "hash": "b82188f8b99c7f1e2a70a4e50a400ff68bfbc78ece75b11520ac6b5d8babf324"
+        }
+      }
     },
     {
       "capitals": [
@@ -3091,8 +4489,20 @@
         "Lebap Velayat (Turkmenabat)",
         "Mary Velayat"
       ],
-      "flag": "/static/tx-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TX-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TX-flag.jpg",
+          "hash": "fc8ab8b5578c14da52c16dd5415b6a6f8633bff9fb1c04ec04d3c249dfb69f13"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TX-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TX-locator-map.jpg",
+          "hash": "0494831af036f5d3213987df3ff6ffb5be5f7b0dc37fac3d09fcaf1090eb4057"
+        }
+      }
     },
     {
       "capitals": [
@@ -3120,8 +4530,20 @@
         "Toshkent Viloyati [Nurafshon]",
         "Xorazm Viloyati (Urganch)"
       ],
-      "flag": "/static/uz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UZ-flag.jpg",
+          "hash": "55493ad651e2ca053c8332082c6dfc71b5c08d3af92e25d0b762bfc2602a241b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UZ-locator-map.jpg",
+          "hash": "8e53012cda26f2b7c17f85b6b3a894d2e5c912316f5b1405d471b0f0b5dc0dd3"
+        }
+      }
     },
     {
       "capitals": [
@@ -3149,8 +4571,20 @@
         "Tanintharyi",
         "Yangon (Rangoon)"
       ],
-      "flag": "/static/bm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BM-flag.jpg",
+          "hash": "2006a758d0585050d0e2f92a225712c9be67a14bafb9efa15dadc70819505511"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BM-locator-map.jpg",
+          "hash": "75a4b3d29c55d22dcade73c6169df7bc779f56099d0c29fc8ac7e0c36427daf4"
+        }
+      }
     },
     {
       "capitals": [
@@ -3166,8 +4600,20 @@
         "Temburong",
         "Tutong"
       ],
-      "flag": "/static/bx-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BX-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BX-flag.jpg",
+          "hash": "373872adc7f1a8a2bf3f2011be5674c8b8980f136f163efbd364bc45b5efd28d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BX-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BX-locator-map.jpg",
+          "hash": "ac0448790773811a8c124328e92c0abfa8c0b4bd7767bade9d311780cb62c80c"
+        }
+      }
     },
     {
       "capitals": [
@@ -3204,8 +4650,20 @@
         "Takeo",
         "Tbong Khmum"
       ],
-      "flag": "/static/cb-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CB-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CB-flag.jpg",
+          "hash": "3cf6e3691b300a81e04917ae6c967ae6a53fb073c1aee58c95e935299da64f5b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CB-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CB-locator-map.jpg",
+          "hash": "520eaf6af653ea7a7c31358b57cf3000a9cf4a0eba1a4a7597949f7059af7ae0"
+        }
+      }
     },
     {
       "capitals": [
@@ -3250,8 +4708,20 @@
         "Yunnan",
         "Zhejiang"
       ],
-      "flag": "/static/ch-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CH-flag.jpg",
+          "hash": "e1ecd5f608d3d73fe210dfe41eb962111d2503aa588a25b400b1eb1f859e9e29"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CH-locator-map.jpg",
+          "hash": "3aa63ff4929962f4197758ed1ccaaf975137425757195ffe6982ea86b5152b1d"
+        }
+      }
     },
     {
       "capitals": [],
@@ -3260,8 +4730,20 @@
       "borderCountries": null,
       "population": "7,297,821",
       "divisions": [],
-      "flag": "/static/hk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HK-flag.jpg",
+          "hash": "8e1c97b375e9637c45f96acb204d2c430c3e26545bdc69cf88800c6163011d56"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HK-locator-map.jpg",
+          "hash": "d22c2518ce10d02717ac03f987d8518b14743795a134e175fb3d525b36392b1e"
+        }
+      }
     },
     {
       "capitals": [
@@ -3311,8 +4793,20 @@
         "Sumatera Utara (North Sumatra)",
         "Yogyakarta"
       ],
-      "flag": "/static/id-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/ID-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/ID-flag.jpg",
+          "hash": "b5285fb027bb7ec0ef77a923497fa4f2708614e12d106a15813033035318733b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/ID-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/ID-locator-map.jpg",
+          "hash": "2f8f39d74298d5906d50ab12c31fa20dc4e7e5b240e123d0f961065bee0867f1"
+        }
+      }
     },
     {
       "capitals": [
@@ -3371,8 +4865,20 @@
         "Yamaguchi",
         "Yamanashi"
       ],
-      "flag": "/static/ja-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/JA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/JA-flag.jpg",
+          "hash": "dcaa29196d73d844939bce426e1535994a17bc917203affa6b66ad7ae1577981"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/JA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/JA-locator-map.jpg",
+          "hash": "9f54be49d3f77f3a743ac5f8fd36a0c2e53a9e7a2a35bb588fc24176bb38b7de"
+        }
+      }
     },
     {
       "capitals": [
@@ -3397,8 +4903,20 @@
         "Rason",
         "Ryanggang"
       ],
-      "flag": "/static/kn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KN-flag.jpg",
+          "hash": "2b3c30ef713cbf4e4f2c5eddcbe16167984a347d1c6854af722223c831b59ca8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KN-locator-map.jpg",
+          "hash": "e21cb6d5c81c1fc2a7f3b9818249e1ad269435ff0c7e99c7148da3290bf6010c"
+        }
+      }
     },
     {
       "capitals": [
@@ -3427,8 +4945,20 @@
         "Seoul",
         "Ulsan"
       ],
-      "flag": "/static/ks-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KS-flag.jpg",
+          "hash": "1a6c7dbced25848b5cecc60e3b8aede5607fe09772354a9d0c0d30dbf272d705"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KS-locator-map.jpg",
+          "hash": "3fb69eef256665e0fdfc52b20feaeb58ec8cff97d4d975a44a1f045fd1f2fa52"
+        }
+      }
     },
     {
       "capitals": [
@@ -3458,8 +4988,20 @@
         "Xekong",
         "Xiangkhouang"
       ],
-      "flag": "/static/la-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LA-flag.jpg",
+          "hash": "33899268a89329b716c10c2ccc8b7782856a2b05cb8b446997087784d3787bf2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LA-locator-map.jpg",
+          "hash": "c5cd24d5bee4854292cbd2ec06dc1a352a5b4a8dec76e60c4b305050dc82e4bd"
+        }
+      }
     },
     {
       "capitals": [],
@@ -3468,8 +5010,20 @@
       "borderCountries": null,
       "population": "644,426",
       "divisions": [],
-      "flag": "/static/mc-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MC-flag.jpg",
+          "hash": "952c71bff20a439a26d73749b88f28526989ddfc005876d9599849e603e5467a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MC-locator-map.jpg",
+          "hash": "5f8c8521f23c6dad02b76f42a29a12e2c43245c731e154a858607d1b7b9da1da"
+        }
+      }
     },
     {
       "capitals": [
@@ -3503,8 +5057,20 @@
         "Ulaanbaatar",
         "Uvs"
       ],
-      "flag": "/static/mg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MG-flag.jpg",
+          "hash": "ccc0a1f6db06bc4aa6f761eb5e25d3c9e2bdba61f5eda73b70ec23690491748a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MG-locator-map.jpg",
+          "hash": "6b471174fb00892bc94ea14722941473c5f7719578ec1e766136bfe5ecdd52f0"
+        }
+      }
     },
     {
       "capitals": [
@@ -3533,8 +5099,20 @@
         "Terengganu",
         "Wilayah Persekutuan"
       ],
-      "flag": "/static/my-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MY-flag.jpg",
+          "hash": "68d0aa505135d6b74712aebb3931460d356fc162b4c82e638979dda099bdcb96"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MY-locator-map.jpg",
+          "hash": "2359bcf543a73867a6b8021426224cbdede1a86123aa86e3f74bb112ef897565"
+        }
+      }
     },
     {
       "capitals": [],
@@ -3543,7 +5121,17 @@
       "borderCountries": null,
       "population": "1,440 (July 2014 est.)",
       "divisions": [],
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "exists": false
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PF-locator-map.jpg",
+          "hash": "c088a664318a5ed26f501f373590958e5863403a45cbef39459aab9ed365ff8b"
+        }
+      }
     },
     {
       "capitals": [],
@@ -3552,7 +5140,17 @@
       "borderCountries": null,
       "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "exists": false
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PG-locator-map.jpg",
+          "hash": "0864cb9d636de61c0852c5b896f98be28e908fac26703f23acc94b145428b16e"
+        }
+      }
     },
     {
       "capitals": [
@@ -3586,8 +5184,20 @@
         "Western",
         "Western Highlands"
       ],
-      "flag": "/static/pp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PP-flag.jpg",
+          "hash": "4ee6e56a19cab1fae598edb55be6918a0c54c6afd00158cf742cb4cc82e29bf4"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PP-locator-map.jpg",
+          "hash": "97f3e9d40948c199c5e1f7c1adfebe638bff5402f7f1341e141c3b7df0ff2911"
+        }
+      }
     },
     {
       "capitals": [
@@ -3714,8 +5324,20 @@
         "Zamboanga del Norte",
         "Zamboanga del Sur"
       ],
-      "flag": "/static/rp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RP-flag.jpg",
+          "hash": "28434328ec794218f619058eed23ae9bdc85d5eed7b787680c3148bb4c647b20"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RP-locator-map.jpg",
+          "hash": "5e78593e9899a9c1cd1bd16e9d9eeb2fcf955bdd61d9e1f9cef07572bf373bfe"
+        }
+      }
     },
     {
       "capitals": [
@@ -3730,10 +5352,22 @@
         "North East Development Council",
         "North West Development Council",
         "South East Development Council",
-        "South West Development Council (2019)"
+        "South West Development Council"
       ],
-      "flag": "/static/sn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SN-flag.jpg",
+          "hash": "2f87494fc3d8a10d3f5ffc1a8e10fd3d1ead10a5c1398c2bc2c91ef5f108a982"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SN-locator-map.jpg",
+          "hash": "8499397e2d0493b04c439f7dd2ec9a52088ce228f031434a3c683c0c7e704054"
+        }
+      }
     },
     {
       "capitals": [
@@ -3822,8 +5456,20 @@
         "Yala",
         "Yasothon"
       ],
-      "flag": "/static/th-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TH-flag.jpg",
+          "hash": "3d5f598fc1688761ee8b7a52e2089e4245a7333d5e2ea37e2272afb02f447ba7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TH-locator-map.jpg",
+          "hash": "d642cd4e60e1ac2ae5dc11e8d5b7798f23198a29771c4c9243c96e39dfc1ebba"
+        }
+      }
     },
     {
       "capitals": [
@@ -3848,8 +5494,20 @@
         "Oe-Cusse Ambeno (Pante Macassar)",
         "Viqueque"
       ],
-      "flag": "/static/tt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TT-flag.jpg",
+          "hash": "7ce2c37cae5df2add13b805f9370d5efe82dc51bb47470248ca26289d9db8e75"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TT-locator-map.jpg",
+          "hash": "e1498b8a785d161aba2ebb80627853d23be37ff926cb5f140cf2276940e72c5d"
+        }
+      }
     },
     {
       "capitals": [
@@ -3881,8 +5539,20 @@
         "Yilan",
         "Yunlin"
       ],
-      "flag": "/static/tw-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TW-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TW-flag.jpg",
+          "hash": "6724a8616bdd2d220ea3ba1ee503bd3b366e68b28532de470a8616316e115f03"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TW-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TW-locator-map.jpg",
+          "hash": "48b690d01829b267989dd0dcba7ac2f7d002b3cfcb853285ea3a7ffd6f86a91f"
+        }
+      }
     },
     {
       "capitals": [
@@ -3957,8 +5627,20 @@
         "Vinh Phuc",
         "Yen Bai"
       ],
-      "flag": "/static/vm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VM-flag.jpg",
+          "hash": "1d94b3b342d1c39104b6e3988299910dd8ddb81e89d298db44eb571762db83c7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VM-locator-map.jpg",
+          "hash": "f6a1d69bda345afc890c44496689e79092a8244671ae03b79bfbbc7bc8f883cb"
+        }
+      }
     },
     {
       "capitals": [
@@ -3982,8 +5664,20 @@
         "Tirane (Tirana)",
         "Vlore"
       ],
-      "flag": "/static/al-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AL-flag.jpg",
+          "hash": "d8a04087ee6afd5fa08a24294294a98825e60274912b897c2d0d872b93f13e5d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AL-locator-map.jpg",
+          "hash": "9b356df0b0529ede4981da475b6c9acee9d5e07b350558207670babf93228628"
+        }
+      }
     },
     {
       "capitals": [
@@ -4002,8 +5696,20 @@
         "Ordino",
         "Sant Julia de Loria"
       ],
-      "flag": "/static/an-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AN-flag.jpg",
+          "hash": "e41a7c29ab49b80eb275f4984f6c0a56c9bbb64ad1fe7a2ca3ed974253e41cd7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AN-locator-map.jpg",
+          "hash": "99ea6d017b0b0cf07ae2d220081bf3f4f3a28061ea441bdf2accfbc854378039"
+        }
+      }
     },
     {
       "capitals": [
@@ -4024,8 +5730,20 @@
         "Vorarlberg",
         "Wien (Vienna)"
       ],
-      "flag": "/static/au-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AU-flag.jpg",
+          "hash": "738aa6cdc74f0202097bf152a1da97da14d7a4f63c669a5f5bba9e6ac28ecfbc"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AU-locator-map.jpg",
+          "hash": "01cacbacad302f9e83382ed15913f3536eea65b3f3bc5bc7854b1b18044126b3"
+        }
+      }
     },
     {
       "capitals": [
@@ -4040,8 +5758,20 @@
         "Flemish Region (Flanders)",
         "Walloon Region (Wallonia)"
       ],
-      "flag": "/static/be-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BE-flag.jpg",
+          "hash": "f296292cfac5191601770f9cbc1c49c37bf42203806c48dee2a566e45b929068"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BE-locator-map.jpg",
+          "hash": "555657ef6998c276e49d32b43f06c7822f67166e38b40a88d8b7264938a58d65"
+        }
+      }
     },
     {
       "capitals": [
@@ -4056,8 +5786,20 @@
         "Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat)",
         "Republika Srpska (predominantly Serb)"
       ],
-      "flag": "/static/bk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BK-flag.jpg",
+          "hash": "99dc3c5ca8ef77ad4bf9b00a862b155fdf27f900335d9ec5b66e728ca1b277f0"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BK-locator-map.jpg",
+          "hash": "13e9be1802a3411e223cf65a0690315e8526ff34b67aba04f2df59a82b08d46c"
+        }
+      }
     },
     {
       "capitals": [
@@ -4076,8 +5818,20 @@
         "Minsk",
         "Vitsyebsk (Vitebsk)"
       ],
-      "flag": "/static/bo-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BO-flag.jpg",
+          "hash": "285f098ebea211ae2d85165d2a45f307d9cac2f63812648fddb621a107962fe7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BO-locator-map.jpg",
+          "hash": "37da47e181b66d5262fed2f02e732875248071c97e448c7ad3b143bc7e252808"
+        }
+      }
     },
     {
       "capitals": [
@@ -4117,8 +5871,20 @@
         "Vratsa",
         "Yambol"
       ],
-      "flag": "/static/bu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BU-flag.jpg",
+          "hash": "0df54aded0e058ca3b1201026bf8cdb56f24a1263d600044c832d0f546dc9a71"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BU-locator-map.jpg",
+          "hash": "84e52d20713a06db003d5e563e8c06acfdef8224560ccf7e6a59c2967f529f2a"
+        }
+      }
     },
     {
       "capitals": [
@@ -4136,8 +5902,20 @@
         "Lemesos (Limassol)",
         "Pafos (Paphos)"
       ],
-      "flag": "/static/cy-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CY-flag.jpg",
+          "hash": "8b220032f6b3dec616f7b3851a4ead568dd4d82caebaae0a6f0738b12ac6038d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CY-locator-map.jpg",
+          "hash": "863904efbfd71227d05c998300e9e9011611606ba02f78483073097e8e9c2773"
+        }
+      }
     },
     {
       "capitals": [
@@ -4154,8 +5932,20 @@
         "Sjaelland (Zealand)",
         "Syddanmark (Southern Denmark)"
       ],
-      "flag": "/static/da-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/DA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/DA-flag.jpg",
+          "hash": "0a8993ad9665b97e1746807cf1580c0a019479e50f2c91658e9ec7b0a8fbcf24"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/DA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/DA-locator-map.jpg",
+          "hash": "5cd70f94573fac4ac9982cb1aef21c106eb15d41ca9fc25f0f690b6cb84ec53d"
+        }
+      }
     },
     {
       "capitals": [
@@ -4196,8 +5986,20 @@
         "Wexford",
         "Wicklow"
       ],
-      "flag": "/static/ei-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EI-flag.jpg",
+          "hash": "03893c2e301740d70f2e00223a8638a5007396f6d3a660afb4cedae7e9c7b669"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EI-locator-map.jpg",
+          "hash": "e3a4751d20c51c185259e5e3d56b1defb5150801ca5877263d26576fa116adf5"
+        }
+      }
     },
     {
       "capitals": [
@@ -4255,13 +6057,13 @@
         "Pohja-Sakala",
         "Poltsamaa",
         "Polva",
+        "R&auml;pina",
         "Raasiku",
         "Rae",
         "Rakvere",
         "Rapla",
         "Rouge",
         "Ruhnu",
-        "Räpina",
         "Saarde",
         "Saaremaa",
         "Saku",
@@ -4272,7 +6074,7 @@
         "Tapa",
         "Tartu",
         "Toila",
-        "Tori, Torva",
+        "Tori,&nbsp;Torva",
         "Turi",
         "Vaike-Maarja",
         "Valga",
@@ -4283,8 +6085,20 @@
         "Vormsi",
         "Voru"
       ],
-      "flag": "/static/en-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EN-flag.jpg",
+          "hash": "40838c052ade75c79f1a06280e47f24549b81e70e856daa21e347bde4fe5648e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EN-locator-map.jpg",
+          "hash": "29c90592fb96d870926bca0cb32ae9aefc0c5ed1ceda01e2535162a1665c8a49"
+        }
+      }
     },
     {
       "capitals": [
@@ -4310,8 +6124,20 @@
         "Vysocina (Highlands)",
         "Zlinsky (Zlin)"
       ],
-      "flag": "/static/ez-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EZ-flag.jpg",
+          "hash": "fe14b3666be32af0250154d6efcecf0a7ebd797da77e417155579739979ca4a2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EZ-locator-map.jpg",
+          "hash": "2bc7673b6974455e44a654adac52d94013f01c8776910bd57a744c180a705cec"
+        }
+      }
     },
     {
       "capitals": [
@@ -4325,8 +6151,20 @@
         "Egentliga Finland (Swedish) [Southwest Finland]",
         "Varsinais-Suomi (Finnish)"
       ],
-      "flag": "/static/fi-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FI-flag.jpg",
+          "hash": "6646c7a5dd12872b3e66cc62af8d735e9400a4390123753273a76d15c04f239b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FI-locator-map.jpg",
+          "hash": "bc7f5886575a02e9e840f0b4c6638690b30fc5d9648af213bdebda7bb7b5afa5"
+        }
+      }
     },
     {
       "capitals": [
@@ -4367,8 +6205,20 @@
         "Vestmanna",
         "Vidhareidhi"
       ],
-      "flag": "/static/fo-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FO-flag.jpg",
+          "hash": "82179aa1a037fd17bad4aeb38f297740792007b0aeaa598866979cec519d8e75"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FO-locator-map.jpg",
+          "hash": "dbc3bc9681eb809c965219a07ed785dea84880dbfa55b9588c9ff9da46e3bb1d"
+        }
+      }
     },
     {
       "capitals": [
@@ -4398,14 +6248,20 @@
         "Provence-Alpes-Cote d'Azur",
         "Reunion"
       ],
-      "flag": "/static/fr-flag.jpg",
-      "flagRepeats": [
-        "fs",
-        "nc",
-        "rn",
-        "tb",
-        "ip"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FR-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FR-locator-map.jpg",
+          "hash": "542ff42212b3520bf228a66134e2635cbc0a4b9fd402b071badc5d6cd60bf1d7"
+        }
+      }
     },
     {
       "capitals": [
@@ -4416,8 +6272,20 @@
       "borderCountries": "Spain 1.2 km",
       "population": "29,683",
       "divisions": [],
-      "flag": "/static/gi-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GI-flag.jpg",
+          "hash": "59ab238c4a85262a386031d8b567078bf2ed1673119cd9ce67bd6339c8deffae"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GI-locator-map.jpg",
+          "hash": "aab37d48d3eb92ae0cfc5afbe325c8571e6a068f4ae700ee470f4d88345310d1"
+        }
+      }
     },
     {
       "capitals": [
@@ -4428,8 +6296,20 @@
       "borderCountries": null,
       "population": "67,787",
       "divisions": [],
-      "flag": "/static/gk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GK-flag.jpg",
+          "hash": "e35c105daf1af9f19100a37421d9dab2bcd11606954c13663a000355bb2731f5"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GK-locator-map.jpg",
+          "hash": "56b58fc90dff47140853dd0d7a0291d7ac14ff1ab0eb6a20e148b97caaad8425"
+        }
+      }
     },
     {
       "capitals": [
@@ -4457,8 +6337,20 @@
         "Schleswig-Holstein",
         "Thueringen (Thuringia)"
       ],
-      "flag": "/static/gm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GM-flag.jpg",
+          "hash": "8839eab9b57d481e77d9b783a87ee8a2717be5713fa7f9459f2bde1aba33d5f2"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GM-locator-map.jpg",
+          "hash": "f11b95fb6f4cdb7ef7d40378496f17cdb0142e4922d738a4f07426262c971d4b"
+        }
+      }
     },
     {
       "capitals": [
@@ -4484,8 +6376,20 @@
         "Thessalia (Thessaly)",
         "Voreio Aigaio (North Aegean)"
       ],
-      "flag": "/static/gr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GR-flag.jpg",
+          "hash": "b4c5fbf7d2a585f6e304974cb9bea51392dd945beb8d68a98e7c4dcf20008da8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GR-locator-map.jpg",
+          "hash": "215ffd911d1a4995245ea2003c30702889c58bf691280f5bdadbd60fcae44d74"
+        }
+      }
     },
     {
       "capitals": [
@@ -4518,8 +6422,20 @@
         "Zagreb",
         "Zagrebacka (Zagreb county)"
       ],
-      "flag": "/static/hr-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HR-flag.jpg",
+          "hash": "b7353d61372a956a2494adb18e9f815a5fb829161c96eacb461fd2b8985a043c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HR-locator-map.jpg",
+          "hash": "525479366a8bfebb96c8280df62d4821abb30e53c5830173159095bba473bc0c"
+        }
+      }
     },
     {
       "capitals": [
@@ -4575,8 +6491,20 @@
         "Zala",
         "Zalaegerszeg"
       ],
-      "flag": "/static/hu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/HU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/HU-flag.jpg",
+          "hash": "90f11bc2a8997c43116afe645c0ba4bbf9875d5d233cd8fbdb3fb020c6e53868"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/HU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/HU-locator-map.jpg",
+          "hash": "bcaa15d082fb86d5714a20cfc88643c067efb9df049cbb3d0df659e324c5e4a8"
+        }
+      }
     },
     {
       "capitals": [
@@ -4652,8 +6580,20 @@
         "Vesturbyggdh",
         "Vopnafjardharhreppur"
       ],
-      "flag": "/static/ic-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IC-flag.jpg",
+          "hash": "c451a8ba3b1f6bd28d915f1a875a5cc3ae7667e080f2f1ddf795410199c87efd"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IC-locator-map.jpg",
+          "hash": "14c48d224efe13bc795861a3cdc47308a6c8892cdf2482338cca1aee20749ace"
+        }
+      }
     },
     {
       "capitals": [
@@ -4664,8 +6604,20 @@
       "borderCountries": null,
       "population": "92,269",
       "divisions": [],
-      "flag": "/static/im-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IM-flag.jpg",
+          "hash": "a7dd8582a6f9aadc057d4d2934e1545c5e8859a93b1569a0dafbfcf11f9409f9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IM-locator-map.jpg",
+          "hash": "ec1776e789fa0dd3a05313b920d14f45ce84cb34997af9b1d2bbe0db8ac38721"
+        }
+      }
     },
     {
       "capitals": [
@@ -4697,8 +6649,20 @@
         "Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)",
         "Veneto"
       ],
-      "flag": "/static/it-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IT-flag.jpg",
+          "hash": "11159127f91d7b37c8894b12a0c8d4b34bd8dda4c69a9190393b1a7920837e68"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IT-locator-map.jpg",
+          "hash": "2beac3421e8602b29d9179b7c932117d8acdf1ac1c9c17649ad32213c6e67b79"
+        }
+      }
     },
     {
       "capitals": [
@@ -4709,8 +6673,20 @@
       "borderCountries": null,
       "population": "103,387",
       "divisions": [],
-      "flag": "/static/je-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/JE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/JE-flag.jpg",
+          "hash": "40f52c452b4a4e41cd02ad0f3c5bde476fd295ac7831408757b071acf46c92d6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/JE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/JE-locator-map.jpg",
+          "hash": "845063289808d68980bcc3c5053442979a8d44b9cdc900ed997152a7bb784f52"
+        }
+      }
     },
     {
       "capitals": [],
@@ -4719,10 +6695,20 @@
       "borderCountries": null,
       "population": "no indigenous inhabitants",
       "divisions": [],
-      "flag": "/static/jn-flag.jpg",
-      "flagRepeats": [
-        "bv"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/JN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/JN-flag.jpg",
+          "hash": "d088fa59cd69067e085186718d4708292a521d79ae5a7658aaca9245b63109f3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/JN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/JN-locator-map.jpg",
+          "hash": "e575dda2f72e17a1f2d468f8161d6e61f7e2d9f0cfc9abcc6efdd86eac7cd4bd"
+        }
+      }
     },
     {
       "capitals": [
@@ -4772,8 +6758,20 @@
         "Zubin Potok",
         "Zvecan"
       ],
-      "flag": "/static/kv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KV-flag.jpg",
+          "hash": "f09b80a92ce49338cb38e9e089d0446d8f63d45466cb0c6521fb79bc09fd5cc5"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KV-locator-map.jpg",
+          "hash": "fbc756c7bb3d4915bccac151167dc60fafbb8efbca1d6a3119f264ae31a2da46"
+        }
+      }
     },
     {
       "capitals": [
@@ -4825,8 +6823,20 @@
         "Varaklani",
         "Ventspils"
       ],
-      "flag": "/static/lg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LG-flag.jpg",
+          "hash": "db814f02b02b74d5375315890172b022a0e01ef5dfafb931699a88068e6069da"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LG-locator-map.jpg",
+          "hash": "a6ef0c95fade092a0dd587197894b40b9d1f962f7ef677ea652593c5380c0403"
+        }
+      }
     },
     {
       "capitals": [
@@ -4898,8 +6908,20 @@
         "Visaginas",
         "Zarasai"
       ],
-      "flag": "/static/lh-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LH-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LH-flag.jpg",
+          "hash": "87289ba1374c2bf4aca29e42c3407079c4d4773d4daa8518374b37c8666f5c7e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LH-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LH-locator-map.jpg",
+          "hash": "ec4e150eaeaf901810c935ebc34f63766e41bf8154d2654c6fd9098e105b816f"
+        }
+      }
     },
     {
       "capitals": [
@@ -4919,8 +6941,20 @@
         "Trnava",
         "Zilina"
       ],
-      "flag": "/static/lo-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LO-flag.jpg",
+          "hash": "6f13102cc5ee9c5f52cce88e807bea14b5f4b4f8bf311785d2c02289472801d6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LO-locator-map.jpg",
+          "hash": "6b3cc39d6aba289e8052c58da86b832104797e4f09d99724529ee2360e7e337f"
+        }
+      }
     },
     {
       "capitals": [
@@ -4943,8 +6977,20 @@
         "Triesenberg",
         "Vaduz"
       ],
-      "flag": "/static/ls-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LS-flag.jpg",
+          "hash": "11cc814b7a2d3a4d33c059c44554e7a0a7f58b97648d78896101b47d077f12e0"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LS-locator-map.jpg",
+          "hash": "0a79e9aa0292b524719e0c3d18b924817035c017fa33c2f75407ad27fa902717"
+        }
+      }
     },
     {
       "capitals": [
@@ -4968,8 +7014,20 @@
         "Vianden",
         "Wiltz"
       ],
-      "flag": "/static/lu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LU-flag.jpg",
+          "hash": "34b550e176a7fb55bd20a0d0cda6aa92660bb05bd000b913a3a04a7d19d268ee"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LU-locator-map.jpg",
+          "hash": "91c51cd2615205707fd20c008529bc559970a99f6979765ddca0ed5a6885f0b6"
+        }
+      }
     },
     {
       "capitals": [
@@ -5018,8 +7076,20 @@
         "Telenesti",
         "Ungheni"
       ],
-      "flag": "/static/md-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MD-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MD-flag.jpg",
+          "hash": "d86e945bfddc8cefd938a167e87ef815b1c49af8e8f7c42a5ff6fa8e3e5277df"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MD-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MD-locator-map.jpg",
+          "hash": "447e5bcb8b47dd2008576786de0d6c7a0e552212ca999ec3fd7f02d71cd51595"
+        }
+      }
     },
     {
       "capitals": [
@@ -5056,8 +7126,20 @@
         "Zabljak",
         "Zeta"
       ],
-      "flag": "/static/mj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MJ-flag.jpg",
+          "hash": "5376052b3a2120eeab621e6a43a49f0965016317e22a9c0c5756f26634a677ce"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MJ-locator-map.jpg",
+          "hash": "5c724bffc1825bbbc5e32543361cb7e0363071a0bfdd430de29cb23749c4b820"
+        }
+      }
     },
     {
       "capitals": [
@@ -5079,8 +7161,20 @@
         "Saraj",
         "Shuto Orizari"
       ],
-      "flag": "/static/mk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MK-flag.jpg",
+          "hash": "daf4d0df80ddb7890280c871b241690e1cf746633728d1cada8a71f6f1a5f878"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MK-locator-map.jpg",
+          "hash": "f9c9a5e3727797406c753de550940dc3892549df3ee416d9156eae5512b24c93"
+        }
+      }
     },
     {
       "capitals": [
@@ -5091,8 +7185,20 @@
       "borderCountries": "France 6 km",
       "population": "31,813",
       "divisions": [],
-      "flag": "/static/mn-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MN-flag.jpg",
+          "hash": "507df0ae39ab9f19edaacc82e80ec18be97c56f2e127beb3de72b95c11717f73"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MN-locator-map.jpg",
+          "hash": "2a090bceda4c66a00d8f458fc706687cdee6c7dac7321bab0e9ec367bfed5682"
+        }
+      }
     },
     {
       "capitals": [
@@ -5172,8 +7278,20 @@
         "Zejtun",
         "Zurrieq"
       ],
-      "flag": "/static/mt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MT-flag.jpg",
+          "hash": "48031216b8832f3abb6fc887445f60c45619b09da2cdf38d68c0626e4e2cd9d7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MT-locator-map.jpg",
+          "hash": "0246502c5fae0428fc7cd802bf6039de48640ea8be4c0d1338ce52376f87dbfb"
+        }
+      }
     },
     {
       "capitals": [
@@ -5200,8 +7318,20 @@
         "Zeeland (Zealand)",
         "Zuid-Holland (South Holland)"
       ],
-      "flag": "/static/nl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NL-flag.jpg",
+          "hash": "c7c621e3b966c2ccce791140073aed63a24c5c5f7298dfe636ee2e8284f904ad"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NL-locator-map.jpg",
+          "hash": "9b31f9e0f053098a8c8ebe0cc849c08a6ac40b4b32440a8ca3d19d878a794913"
+        }
+      }
     },
     {
       "capitals": [
@@ -5223,10 +7353,22 @@
         "Trondelag",
         "Vestfold og Telemark",
         "Vestland",
-        "Viken (2024)"
+        "Viken"
       ],
-      "flag": "/static/no-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NO-flag.jpg",
+          "hash": "fcaf2b3fa88c686aaec92d72473afcd93bd578bdbc7495aa912fc7bdf7ba8171"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NO-locator-map.jpg",
+          "hash": "2373ab5833c796df2548e11c24bfb07830e0d3d22226aeb46ffc597158ee7668"
+        }
+      }
     },
     {
       "capitals": [
@@ -5254,8 +7396,20 @@
         "Wielkopolskie (Greater Poland)",
         "Zachodniopomorskie (West Pomerania)"
       ],
-      "flag": "/static/pl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PL-flag.jpg",
+          "hash": "79a2e2e79727de318ed49d0cb9152a3a7d238262127f90cbe9997d4af91c1fae"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PL-locator-map.jpg",
+          "hash": "3596e2c2fda6a5fab53082aceffedb3dab63b7b0db9ebd7ba51cc3a0ab156ef0"
+        }
+      }
     },
     {
       "capitals": [
@@ -5287,8 +7441,20 @@
         "Vila Real",
         "Viseu"
       ],
-      "flag": "/static/po-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PO-flag.jpg",
+          "hash": "110d516141d46b0d6cdca1d2408b8d13307050145fdb2e2ec328385405d21410"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PO-locator-map.jpg",
+          "hash": "2498d81b0ec65370df5664e2fa9db31cc05fda4f2838b8792a119ff4e6928470"
+        }
+      }
     },
     {
       "capitals": [
@@ -5445,8 +7611,20 @@
         "Zitorada",
         "Zrenjanin"
       ],
-      "flag": "/static/ri-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RI-flag.jpg",
+          "hash": "023c5455b7c5c0806df86e59d260f08b0d68df5536a55801e62e91f8847d0877"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RI-locator-map.jpg",
+          "hash": "24c0fa44a792530336fd1f9203f0c2629124d9adab57e1b7654ead21686b9274"
+        }
+      }
     },
     {
       "capitals": [
@@ -5500,8 +7678,20 @@
         "Vaslui",
         "Vrancea"
       ],
-      "flag": "/static/ro-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/RO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/RO-flag.jpg",
+          "hash": "986ebc02e6a7af14b01b679ebd6d3e698f7c7c9dfc66750580a8ce7f82c94f38"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/RO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/RO-locator-map.jpg",
+          "hash": "8b064d3b170e2313b38519bb3f00b4443a57189f6ea4a71c5b6cbaaf2611c290"
+        }
+      }
     },
     {
       "capitals": [
@@ -5725,8 +7915,20 @@
         "Zrece",
         "Zuzemberk"
       ],
-      "flag": "/static/si-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SI-flag.jpg",
+          "hash": "4e5a7e3d199641e11906249c72740de5ff5aa8b7834f547d977cc30da904e569"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SI-locator-map.jpg",
+          "hash": "82950a1c4560f9e642b5f04d55e7274b9a7c742c60ce441bac3693b9583320f2"
+        }
+      }
     },
     {
       "capitals": [
@@ -5747,8 +7949,20 @@
         "San Marino Citta",
         "Serravalle"
       ],
-      "flag": "/static/sm-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SM-flag.jpg",
+          "hash": "25d94ac0e6cc895c0bb1a0492d285b39f7dbc125c44e80f1a53b02ddacebaa63"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SM-locator-map.jpg",
+          "hash": "8592b39379a407127627708c97264ae30038e12ab4a433165bf9e05cfe9e7620"
+        }
+      }
     },
     {
       "capitals": [
@@ -5762,8 +7976,20 @@
         "Euskadi (Basque) [Basque Country]",
         "Pais Vasco (Castilian)"
       ],
-      "flag": "/static/sp-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SP-flag.jpg",
+          "hash": "f9930d2012157fba0b63fc28c5bf4e6e099ec5fa9bdf2a712a42bf11131f853c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SP-locator-map.jpg",
+          "hash": "aecf789f4a7be202da66f07e0baff4b2235cfbd33bcc6a00fd093026f2f565f4"
+        }
+      }
     },
     {
       "capitals": [
@@ -5774,8 +8000,20 @@
       "borderCountries": null,
       "population": "2,926 (2021 est.)",
       "divisions": [],
-      "flag": "/static/sv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SV-flag.jpg",
+          "hash": "360d3d4c5018f7a42c0e6f04c70db711b200ea41173693585b1965ff359c9336"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SV-locator-map.jpg",
+          "hash": "fbbe2855ca6c6a9eb3f03cbb2be503d3ee872af4cf545d6797f9019fa6c47523"
+        }
+      }
     },
     {
       "capitals": [
@@ -5808,8 +8046,20 @@
         "Vastmanland",
         "Vastra Gotaland"
       ],
-      "flag": "/static/sw-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SW-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SW-flag.jpg",
+          "hash": "1c54df68191176be7ab894ad0006b12b4281f5acd28637d27a59429e62e7a6c0"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SW-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SW-locator-map.jpg",
+          "hash": "f1f87bad5cc54d900d92cd19b547590a8c4992e0c6e0469809dc3dc76084c6c7"
+        }
+      }
     },
     {
       "capitals": [
@@ -5847,8 +8097,20 @@
         "Zuerich",
         "Zug"
       ],
-      "flag": "/static/sz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SZ-flag.jpg",
+          "hash": "9d4b6bcb3bbd76b80a016ceeb4b650500943568097570be32535ec79f2ceb430"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SZ-locator-map.jpg",
+          "hash": "c9f15f6873c181f02d3ffbd0a9805af9b143ad88c788d77d2a609375393dbcea"
+        }
+      }
     },
     {
       "capitals": [
@@ -5912,7 +8174,7 @@
         "Denbighshire",
         "Derby",
         "Derbyshire",
-        "Derry City and Strabane",
+        "Derry City&nbsp;and Strabane",
         "Devon",
         "Doncaster",
         "Dorset",
@@ -6077,8 +8339,20 @@
         "Wrexham",
         "York"
       ],
-      "flag": "/static/uk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UK-flag.jpg",
+          "hash": "7a55bf7c6579e76bf4d6d7d738fbce3a47f4a0686181a496b94f91807ab90f3c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UK-locator-map.jpg",
+          "hash": "8aeb2aab9ede553a6bce0d46f7387ce0eb6fbe4743bccf3431b071b6575b2ba7"
+        }
+      }
     },
     {
       "capitals": [
@@ -6116,8 +8390,20 @@
         "Zaporizhzhia",
         "Zhytomyr"
       ],
-      "flag": "/static/up-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UP-flag.jpg",
+          "hash": "0fccf962ce7b5a8b2616173c3c68464423f8154d589ee43021dc2f5dd9d52020"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UP-locator-map.jpg",
+          "hash": "40490ca18db1a65ffe0ba23b546847b93f97688207a69ea63f71a7e80f07b489"
+        }
+      }
     },
     {
       "capitals": [
@@ -6128,8 +8414,20 @@
       "borderCountries": "Italy 3.4 km",
       "population": "1,000 (2022 est.)",
       "divisions": [],
-      "flag": "/static/vt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VT-flag.jpg",
+          "hash": "d8590e30f063414f2245d6bb5aa3e7c0b7dad7851f9b83159a77b903aab1e7b7"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VT-locator-map.jpg",
+          "hash": "0c0b1fc919beaae21ae212488606ce9f9805c87e19c52e3e9a72135be2dd880c"
+        }
+      }
     },
     {
       "capitals": [
@@ -6215,8 +8513,20 @@
         "Zaqatala",
         "Zardab"
       ],
-      "flag": "/static/aj-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AJ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AJ-flag.jpg",
+          "hash": "1869654f85590a27a4f9717c26b33e2bc730befaabc9f23312ecbea8f7424d74"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AJ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AJ-locator-map.jpg",
+          "hash": "cd7ea285b645f6d390d4f073d14f5ccdcc6c043dbfd34a5dc86510b68049254b"
+        }
+      }
     },
     {
       "capitals": [
@@ -6239,8 +8549,20 @@
         "Vayots' Dzor",
         "Yerevan"
       ],
-      "flag": "/static/am-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AM-flag.jpg",
+          "hash": "5f5777d04244b53d44b3af25fa4adee69903cd2a2f533a5cf2f7b5c07adc1475"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AM-locator-map.jpg",
+          "hash": "3d87edc6735371417574401793f79e3dbbe87aad0f0f9a319d39796368ef2051"
+        }
+      }
     },
     {
       "capitals": [
@@ -6256,8 +8578,20 @@
         "Muharraq",
         "Shamaliyah (Northern)"
       ],
-      "flag": "/static/ba-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BA-flag.jpg",
+          "hash": "8646c1d2d0f84891f27204032269528643e7af334a286098c04c5367a59b7cff"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BA-locator-map.jpg",
+          "hash": "c266afa1a0569c508ff4e17d5b43b82cbaa83fabd98fccef888ae35d49377782"
+        }
+      }
     },
     {
       "capitals": [
@@ -6281,8 +8615,20 @@
         "Shida Kartli",
         "Tbilisi"
       ],
-      "flag": "/static/gg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GG-flag.jpg",
+          "hash": "4fa982bbf581ff14c52112a5bd05ac2f99b98ca7dc06901d4894b550e9943ba0"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GG-locator-map.jpg",
+          "hash": "466bf9e966f3c434e2c483e41a23aa5e95f950cabb2cb0e31995a99e9189738a"
+        }
+      }
     },
     {
       "capitals": [],
@@ -6291,7 +8637,17 @@
       "borderCountries": "Egypt 13 km; Israel 59 km",
       "population": "2,141,643",
       "divisions": [],
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "exists": false
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GZ-locator-map.jpg",
+          "hash": "d37e7370d0d795ae96edbd997f9323fc88b389d79fec65ca15b74e72e74e9968"
+        }
+      }
     },
     {
       "capitals": [
@@ -6334,8 +8690,20 @@
         "Yazd",
         "Zanjan"
       ],
-      "flag": "/static/ir-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IR-flag.jpg",
+          "hash": "e332cad5e1453274df071ba864a86e12ca98400df881e1d078a3a0dc457bd745"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IR-locator-map.jpg",
+          "hash": "05863786fbd5e584a737b2beb6e1d1ca93b3917a971d55f4269d552169f888a4"
+        }
+      }
     },
     {
       "capitals": [
@@ -6353,8 +8721,20 @@
         "Southern",
         "Tel Aviv"
       ],
-      "flag": "/static/is-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IS-flag.jpg",
+          "hash": "b627815f23386a1e10bcf9050159e180468c1bd3906bd878588d61d335528013"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IS-locator-map.jpg",
+          "hash": "97ea225ebbdb74cbabe6e283eee185f0c2016e0f5bab16c93916de89a33a13f5"
+        }
+      }
     },
     {
       "capitals": [
@@ -6367,8 +8747,20 @@
       "divisions": [
         "Wasit"
       ],
-      "flag": "/static/iz-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IZ-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IZ-flag.jpg",
+          "hash": "b272b2b7efe62f28e890982936eb13f8d65b2c03493c9437571be3adcb28678a"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IZ-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IZ-locator-map.jpg",
+          "hash": "f6f1f170e8b9c2867edf6cb7014b42d05d744e59aebac21a88269df901e8dcbf"
+        }
+      }
     },
     {
       "capitals": [
@@ -6392,8 +8784,20 @@
         "Ma'an",
         "Madaba"
       ],
-      "flag": "/static/jo-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/JO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/JO-flag.jpg",
+          "hash": "f36d10283bd0e2c2959f74381cdf04793b3312a81cc06f78e3560a7ce297e9a6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/JO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/JO-locator-map.jpg",
+          "hash": "a42cba20e09727f81f40ea57a1506f59ada97132da9724746628d64300ecbf83"
+        }
+      }
     },
     {
       "capitals": [
@@ -6411,8 +8815,20 @@
         "Hawalli",
         "Mubarak al Kabir"
       ],
-      "flag": "/static/ku-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/KU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/KU-flag.jpg",
+          "hash": "cccfa13479aed036d30387fc6414e63396952905e019907840999b4770fe09ab"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/KU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/KU-locator-map.jpg",
+          "hash": "cca370ab3df6e70e78588d769675777a891e1ee3aef656218371da18f8aa09e4"
+        }
+      }
     },
     {
       "capitals": [
@@ -6432,8 +8848,20 @@
         "Mont-Liban (Mount Lebanon)",
         "Nabatiye"
       ],
-      "flag": "/static/le-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/LE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/LE-flag.jpg",
+          "hash": "359d10a93a56586d03d17c3e81f1528b1fed278e27b60f5512e4edaa25539ef5"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/LE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/LE-locator-map.jpg",
+          "hash": "4ec15d3ee611f23db35f701e63602b59cccdfd82b66040339691dd5497e9f77e"
+        }
+      }
     },
     {
       "capitals": [
@@ -6456,8 +8884,20 @@
         "Shamal ash Sharqiyah (Ash Sharqiyah North)",
         "Zufar (Dhofar)"
       ],
-      "flag": "/static/mu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MU-flag.jpg",
+          "hash": "40ac840f92ee970c866083f7adb387cb978925b4c429d5cd716473d942bf226b"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MU-locator-map.jpg",
+          "hash": "c6b6279d32ba5117d062227e49dd5c480537b37c3bd3638bd3d3e9c6372aa70b"
+        }
+      }
     },
     {
       "capitals": [
@@ -6477,8 +8917,20 @@
         "Az Za'ayin",
         "Umm Salal"
       ],
-      "flag": "/static/qa-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/QA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/QA-flag.jpg",
+          "hash": "31e938c4c39bb6a9f4f7ca49db3ec610c03e228d9112a894a4f9a59f83998d27"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/QA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/QA-locator-map.jpg",
+          "hash": "721c674bf14046d1889e7efc5568249926a9fd2f333b05aaafad059b60ab7f57"
+        }
+      }
     },
     {
       "capitals": [
@@ -6503,8 +8955,20 @@
         "Najran",
         "Tabuk"
       ],
-      "flag": "/static/sa-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SA-flag.jpg",
+          "hash": "02f78ddf9af00902873cf75592712d05ad0a768223fee711ae9ea00ae4c40c7d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SA-locator-map.jpg",
+          "hash": "1c107209c3626e42c3b9f5090e9af330f15fb9958476cba3b8ea0598cfc758c8"
+        }
+      }
     },
     {
       "capitals": [
@@ -6530,8 +8994,20 @@
         "Rif Dimashq (Damascus Countryside)",
         "Tartus"
       ],
-      "flag": "/static/sy-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SY-flag.jpg",
+          "hash": "69880e6f6a07a84b38331dbd5200879e6264a2a3d631f8bc7454ccb6a60d95eb"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SY-locator-map.jpg",
+          "hash": "8d12a4576ca3d63af09bb03a6adc92e293dd807e9f18f4dee623a96989d06752"
+        }
+      }
     },
     {
       "capitals": [
@@ -6624,8 +9100,20 @@
         "Yozgat",
         "Zonguldak"
       ],
-      "flag": "/static/tu-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/TU-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/TU-flag.jpg",
+          "hash": "0f979865317a8e9ffe3343b78b3f66465d3fd84bfe500f7d2b4d59ce39c124ac"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/TU-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/TU-locator-map.jpg",
+          "hash": "e809ab500644cfbf3caf021d1ed9dda6c3d7b70929b299cf767cd4cdbd0bcfae"
+        }
+      }
     },
     {
       "capitals": [],
@@ -6634,7 +9122,17 @@
       "borderCountries": "Israel 330 km; Jordan 148 km",
       "population": "3,243,369",
       "divisions": [],
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "exists": false
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/WE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/WE-locator-map.jpg",
+          "hash": "d168368cbbb5508d425a96516b7b63b10cef085c2b3696d507eb8f5737549ed3"
+        }
+      }
     },
     {
       "capitals": [
@@ -6668,8 +9166,20 @@
         "Shabwah",
         "Ta'izz"
       ],
-      "flag": "/static/ym-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/YM-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/YM-flag.jpg",
+          "hash": "11b84b97acef2518208ca24a6f0065419e2c2a644ad171abc759dbec9758fecf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/YM-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/YM-locator-map.jpg",
+          "hash": "bc6cac3d61df40f2bfa8bd34f360e22defef4dc45c21d8a23798bb311c25b6f7"
+        }
+      }
     },
     {
       "capitals": [
@@ -6691,8 +9201,20 @@
         "Southampton",
         "Warwick"
       ],
-      "flag": "/static/bd-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BD-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BD-flag.jpg",
+          "hash": "8ca19d0737cc2a73808aca1552c8b0899f59fd9da61656a2332c42c0a5a1c176"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BD-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BD-locator-map.jpg",
+          "hash": "540ee947f63e8e9a0557031e426ae6fda57eefdcfbd58e79c64cd67410442b5c"
+        }
+      }
     },
     {
       "capitals": [
@@ -6717,8 +9239,20 @@
         "Saskatchewan",
         "Yukon"
       ],
-      "flag": "/static/ca-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CA-flag.jpg",
+          "hash": "35c3b9ec47686aada196b901f0c1f34630ca6f5cb0b1aba2ff3c7132d8bc7eba"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CA-locator-map.jpg",
+          "hash": "eb5c6424815dfc593744f202d80f42aa90b33b6c5f7e3b09f84372ab158a47c9"
+        }
+      }
     },
     {
       "capitals": [
@@ -6735,8 +9269,20 @@
         "Qeqqata",
         "Sermersooq"
       ],
-      "flag": "/static/gl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GL-flag.jpg",
+          "hash": "bc3f9b0ee141ed350689d84a2be64a7f5807c921ad58561b4871a8f48fc1d3cb"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GL-locator-map.jpg",
+          "hash": "1419eadb808f849997f09ea6917a38787773cb0385f02c1158cff4a54edd8257"
+        }
+      }
     },
     {
       "capitals": [],
@@ -6745,14 +9291,20 @@
       "borderCountries": null,
       "population": "uninhabited",
       "divisions": [],
-      "flag": "/static/ip-flag.jpg",
-      "flagRepeats": [
-        "fs",
-        "nc",
-        "rn",
-        "tb",
-        "fr"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IP-flag.jpg",
+          "hash": "4ae937c22069ba7fe67778994a07c0d9ec5f5a89dbb34b99c0df70409199ecdf"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IP-locator-map.jpg",
+          "hash": "b5d0da8e09d484f1dd9f7b61be62fe8f4f7cdea7b4dc85effcfd2e816dc6fea8"
+        }
+      }
     },
     {
       "capitals": [
@@ -6796,8 +9348,20 @@
         "Yucatan",
         "Zacatecas"
       ],
-      "flag": "/static/mx-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MX-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MX-flag.jpg",
+          "hash": "46b20b0dbc8cee73f603df5fb3a0925340d1a074048c247048a5131bbd7e9a09"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MX-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MX-locator-map.jpg",
+          "hash": "afdf724111df77ef96ca7d145550cc9932d03ac864b6b27455350aa54fdc5a44"
+        }
+      }
     },
     {
       "capitals": [
@@ -6808,8 +9372,20 @@
       "borderCountries": null,
       "population": "5,132",
       "divisions": [],
-      "flag": "/static/sb-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SB-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SB-flag.jpg",
+          "hash": "b86d271fc12ba5793775ed1ea53e95ff207aff79d3ca28ae2e4726c31d6401a3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SB-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SB-locator-map.jpg",
+          "hash": "707de0832bfcc7e73f7a2a8a7dbb349e136231f20e09f3f7bc2ca4e345980865"
+        }
+      }
     },
     {
       "capitals": [
@@ -6872,11 +9448,20 @@
         "Wisconsin",
         "Wyoming"
       ],
-      "flag": "/static/us-flag.jpg",
-      "flagRepeats": [
-        "wq",
-        "bq"
-      ]
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/US-flag.jpg",
+          "hash": "1240dcd7045dc82f63552b02bf2ab7f0362259aca0af06062b73f6a42ce0bad9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/US-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/US-locator-map.jpg",
+          "hash": "d51c66e25ee9cbc59cd49fdb6c5e55ea45a3c6ec2ce8651d71bdc622a6b2a6d5"
+        }
+      }
     },
     {
       "capitals": [
@@ -6912,8 +9497,20 @@
         "Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands)",
         "Tucuman"
       ],
-      "flag": "/static/ar-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AR-flag.jpg",
+          "hash": "8c66e9f79cc3828ee4f3e6de165db826fe3c924443d6f7297582433e83db0feb"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AR-locator-map.jpg",
+          "hash": "1e77c9fadaeacda5368f9d9e4d3938baf72356b53d70b9914f9d8a8959fd703f"
+        }
+      }
     },
     {
       "capitals": [
@@ -6935,8 +9532,20 @@
         "Santa Cruz",
         "Tarija"
       ],
-      "flag": "/static/bl-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BL-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BL-flag.jpg",
+          "hash": "f50bb6cb81ad0b266327fbdcd3d361ab2551af0ac306e554dc3fc979c3e79b59"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BL-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BL-locator-map.jpg",
+          "hash": "5c6d2777f1bc06f1a37133deea6d7e15f090f3105d4fca687b4322a4ee6721af"
+        }
+      }
     },
     {
       "capitals": [
@@ -6975,8 +9584,20 @@
         "Sergipe",
         "Tocantins"
       ],
-      "flag": "/static/br-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BR-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BR-flag.jpg",
+          "hash": "75a4d4cef873b3ee8033370450caaff5f6e787fbb34f8d88eec6031a3eb58298"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BR-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BR-locator-map.jpg",
+          "hash": "21fcae03aec759bf6bb37988f814a6020e8e2cdb04c258368d0c577620cd05be"
+        }
+      }
     },
     {
       "capitals": [
@@ -7004,8 +9625,20 @@
         "Tarapaca",
         "Valparaiso"
       ],
-      "flag": "/static/ci-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CI-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CI-flag.jpg",
+          "hash": "9d505fa73db3c9a595f396257a228b003cf547a62169b60fe5856e40ade195ac"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CI-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CI-locator-map.jpg",
+          "hash": "d7b104280921a071547ca6f586322ff74215b677558f8ec5ec535354016adeae"
+        }
+      }
     },
     {
       "capitals": [
@@ -7051,8 +9684,20 @@
         "Vaupes",
         "Vichada"
       ],
-      "flag": "/static/co-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CO-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CO-flag.jpg",
+          "hash": "9ac0e4e7bf8421fdb2ab7f04fdf81552ed326ea779d814626d38c5da86435138"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CO-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CO-locator-map.jpg",
+          "hash": "b14bd354d9c0c1f52ab72aea3c668ea1132608bd2d37cb3512c75f32a4560d5c"
+        }
+      }
     },
     {
       "capitals": [
@@ -7088,8 +9733,20 @@
         "Tungurahua",
         "Zamora Chinchipe"
       ],
-      "flag": "/static/ec-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/EC-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/EC-flag.jpg",
+          "hash": "ac96a2344ba9c825b3e6c27fe5a264b3900fd386a15bf144ffaf8d36c735ca34"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/EC-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/EC-locator-map.jpg",
+          "hash": "819e1119266be56cedf2d9e8f323415f5fc3969fcc207b3c05ee63b140e1b643"
+        }
+      }
     },
     {
       "capitals": [
@@ -7100,8 +9757,20 @@
       "borderCountries": null,
       "population": "3,662 (2021 est.)",
       "divisions": [],
-      "flag": "/static/fk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/FK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/FK-flag.jpg",
+          "hash": "282eb9f4478a9a009a04aab2f3eac4e443518db416d66d4948378a1269732847"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/FK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/FK-locator-map.jpg",
+          "hash": "8cb6ef70723c00186eb851baa0008a8b054f73dece98c140da19c3b289c33cac"
+        }
+      }
     },
     {
       "capitals": [
@@ -7123,8 +9792,20 @@
         "Upper Demerara-Berbice",
         "Upper Takutu-Upper Essequibo"
       ],
-      "flag": "/static/gy-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/GY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/GY-flag.jpg",
+          "hash": "a32d29654cc8a523e4d64f5806cd913dbdca102ab68258362daa0e95217a590c"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/GY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/GY-locator-map.jpg",
+          "hash": "a0eb67e25ae2e14f8c9a04daff60f9b45663a9cefcc930b51052df849b73e8a6"
+        }
+      }
     },
     {
       "capitals": [
@@ -7146,8 +9827,20 @@
         "Sipaliwini",
         "Wanica"
       ],
-      "flag": "/static/ns-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NS-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NS-flag.jpg",
+          "hash": "6523ff0cf40c33ad42868ba7d45f4074eba4c6a8bed93319920e193b78701ec6"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NS-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NS-locator-map.jpg",
+          "hash": "90fa069c036c800d0239984f174a273a4b7d9b6b6d5803bbddba26d72a19562d"
+        }
+      }
     },
     {
       "capitals": [
@@ -7177,8 +9870,20 @@
         "Presidente Hayes",
         "San Pedro"
       ],
-      "flag": "/static/pa-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PA-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PA-flag.jpg",
+          "hash": "ca553ea486da1ae75e8d2f577b5691224a382b5253448fa824ddabf00c61784d"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PA-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PA-locator-map.jpg",
+          "hash": "81d722a532c50ed770480ff35313d88342dbd043f32354399b8a0db313af9f6e"
+        }
+      }
     },
     {
       "capitals": [
@@ -7215,8 +9920,20 @@
         "Tumbes",
         "Ucayali"
       ],
-      "flag": "/static/pe-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PE-flag.jpg",
+          "hash": "3e9a0d70ab50a9789d9889e0ed0793244db2f1709cd956a9b047cddc6cf92df8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PE-locator-map.jpg",
+          "hash": "448146c83b1d5528f358162fcd483540aa7264b0ac14e496eb60c3afe3a38217"
+        }
+      }
     },
     {
       "capitals": [],
@@ -7225,8 +9942,20 @@
       "borderCountries": null,
       "population": "(July 2021 est.) no indigenous inhabitants",
       "divisions": [],
-      "flag": "/static/sx-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/SX-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/SX-flag.jpg",
+          "hash": "7965d6d4e2514537e811c2d84288cb1a0b20590df717dc20a629028bcecf9ba9"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/SX-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/SX-locator-map.jpg",
+          "hash": "780cebf29c43954fc9e837ddc005fcbf4cfa7da8117bff63db3a1834b9054a7a"
+        }
+      }
     },
     {
       "capitals": [
@@ -7257,8 +9986,20 @@
         "Tacuaremb&oacute",
         "Treinta y Tres"
       ],
-      "flag": "/static/uy-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/UY-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/UY-flag.jpg",
+          "hash": "9c372b22e380880d723a89a242487107fadf7a65921283617989a2a7b49e5343"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/UY-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/UY-locator-map.jpg",
+          "hash": "d727edf1cfa2c44797a95dcf980b21cd87dc81eacff49e72414a0cd9e53e8622"
+        }
+      }
     },
     {
       "capitals": [
@@ -7295,8 +10036,20 @@
         "Yaracuy",
         "Zulia"
       ],
-      "flag": "/static/ve-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/VE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/VE-flag.jpg",
+          "hash": "65d48baaf8dcb5bde228287ef67af9e6bb7484d26b54d6efd4feabed452aa5df"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/VE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/VE-locator-map.jpg",
+          "hash": "e64313d8b91d506c2ea97b24327e3a32fdaa8441306742c906fc79e26493fd8a"
+        }
+      }
     },
     {
       "capitals": [
@@ -7342,8 +10095,20 @@
         "Wardak",
         "Zabul"
       ],
-      "flag": "/static/af-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/AF-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/AF-flag.jpg",
+          "hash": "c872d1f79d329b43e1fd328589615876466736d5f0c9c4577ab61e38c8bb3837"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/AF-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/AF-locator-map.jpg",
+          "hash": "fa57a18c70ea544fba3fa7bd64e1859037c33c073c2f1fd29a6189e210dc60f7"
+        }
+      }
     },
     {
       "capitals": [
@@ -7363,8 +10128,20 @@
         "Rangpur",
         "Sylhet"
       ],
-      "flag": "/static/bg-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BG-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BG-flag.jpg",
+          "hash": "13ed4324d99416670cf61cd5dca3d09780f53472aeaaa649c2785455e596feb3"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BG-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BG-locator-map.jpg",
+          "hash": "50e99c068e70f7d1fcf2d9595df80555e9e18aab65836c931ca8cb0b0980aade"
+        }
+      }
     },
     {
       "capitals": [
@@ -7396,8 +10173,20 @@
         "Wangdue Phodrang",
         "Zhemgang"
       ],
-      "flag": "/static/bt-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/BT-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/BT-flag.jpg",
+          "hash": "8596959def17f2ed0442d8feda55a61c77953e86bc1431bdbf2bc461e757b7ae"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/BT-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/BT-locator-map.jpg",
+          "hash": "785eb3710d6c031467f22998942bf0542c0a522111f7f82377240dbcfa0646cd"
+        }
+      }
     },
     {
       "capitals": [
@@ -7419,8 +10208,20 @@
         "Uva",
         "Western"
       ],
-      "flag": "/static/ce-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/CE-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/CE-flag.jpg",
+          "hash": "b7bfaf687c20141f534e1f92ba1d4661edf132b8c7d1c15596526840edcdf0af"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/CE-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/CE-locator-map.jpg",
+          "hash": "90b93bb2f4fbad7e7de899eaba577f68c2226d538ad54392533d334e80c69e59"
+        }
+      }
     },
     {
       "capitals": [
@@ -7468,8 +10269,20 @@
         "Uttarakhand",
         "West Bengal"
       ],
-      "flag": "/static/in-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/IN-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/IN-flag.jpg",
+          "hash": "2fd82dbee7003322bc5e4ecd0a0c64ecd86a40ac323f7a90db5b9c9ff001f7b8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/IN-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/IN-locator-map.jpg",
+          "hash": "3db9c2af8d8f4190aeb74d8a69471508ec305fc147ed66ff9c4902ec0bc39500"
+        }
+      }
     },
     {
       "capitals": [
@@ -7502,8 +10315,20 @@
         "Thiladhunmathee Dhekunuburi (South Thiladhunmathi)",
         "Thiladhunmathee Uthuruburi (North Thiladhunmathi)"
       ],
-      "flag": "/static/mv-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/MV-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/MV-flag.jpg",
+          "hash": "2b9025d2fefc42c899d1c36f3cc18ff552832aa7c27e3de75a58e7c17d88c91e"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/MV-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/MV-locator-map.jpg",
+          "hash": "064820cf5c6af4c7fd0e21856545e6b15b14edfdfd96aafa8861cd800868b1f8"
+        }
+      }
     },
     {
       "capitals": [
@@ -7522,8 +10347,20 @@
         "Madhesh",
         "Sudurpashchim"
       ],
-      "flag": "/static/np-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/NP-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/NP-flag.jpg",
+          "hash": "cbab8c4dad8471b208f4c955f223cedc3bb6f300a9bd84254c1153c7daa6fd30"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/NP-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/NP-locator-map.jpg",
+          "hash": "ea0cf7976e4355e1406f53e2a5261641e00b39a3eff2e2272b4ac56348956198"
+        }
+      }
     },
     {
       "capitals": [
@@ -7542,8 +10379,20 @@
         "Punjab",
         "Sindh"
       ],
-      "flag": "/static/pk-flag.jpg",
-      "flagRepeats": []
+      "media": {
+        "flag": {
+          "url": "https://www.cia.gov/the-world-factbook/static/flags/PK-flag.jpg",
+          "exists": true,
+          "localUrl": "/static/PK-flag.jpg",
+          "hash": "ac00d9bf2fc04d84693855006060a1c53b7fd8d86fa4d700c11c81e746bff9f8"
+        },
+        "locatorMap": {
+          "url": "https://www.cia.gov/the-world-factbook/static/locator-maps/PK-locator-map.jpg",
+          "exists": true,
+          "localUrl": "/static/PK-locator-map.jpg",
+          "hash": "a283c117fd2d5262038c2f2f89c6bf87d69dcbc38672cd56ecf9af5a2cb12929"
+        }
+      }
     }
   ]
 }
