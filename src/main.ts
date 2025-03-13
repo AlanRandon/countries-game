@@ -210,8 +210,9 @@ export class OptionSelection extends LitElementNoShadow {
           );
         }}
         ${ref(button)}
-        .innerHTML=${choice}
-      ></button>`;
+      >
+        ${choice}
+      </button>`;
     });
 
     return html`
@@ -244,7 +245,7 @@ export class CountryHasWhichCapitalQuestion extends Question {
       >
         <span>
           Which is a capital of
-          <b .innerHTML=${this.choices[this.correct].name}></b>?
+          <b>${this.choices[this.correct].name}</b>?
         </span>
       </div>
       <x-option-selection
@@ -292,8 +293,7 @@ export class CaptialInWhichCountryQuestion extends Question {
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>
-          <b .innerHTML=${this.capital}></b> is a capital of which
-          country/territory?
+          <b>${this.capital}</b> is a capital of which country/territory?
         </span>
       </div>
       <x-option-selection
@@ -346,8 +346,8 @@ export class RegionInWhichCountryQuestion extends Question {
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>
-          <b .innerHTML=${this.division}></b> is an administrative division of
-          which country/territory?
+          <b>${this.division}</b> is an administrative division of which
+          country/territory?
         </span>
       </div>
       <x-option-selection
@@ -359,47 +359,48 @@ export class RegionInWhichCountryQuestion extends Question {
   }
 }
 
-@customElement("x-locator-map-which-country")
-export class LocatorMapIsWhichCountryQuestion extends Question {
-  choices: Country[];
-  correct: number;
+// TODO: use geojson here instead
+// @customElement("x-locator-map-which-country")
+// export class LocatorMapIsWhichCountryQuestion extends Question {
+//   choices: Country[];
+//   correct: number;
 
-  constructor(lives: number) {
-    super(lives);
+//   constructor(lives: number) {
+//     super(lives);
 
-    const question = countryCorrectMatchesFilter(
-      (country) => country.media.locatorMap.exists,
-      (countryA) => {
-        const hash = countryA.media.locatorMap.hash;
-        return (countryB) => hash !== countryB.media.locatorMap.hash;
-      },
-    );
-    this.choices = question.choices;
-    this.correct = question.correct;
-  }
+//     const question = countryCorrectMatchesFilter(
+//       (country) => country.media.locatorMap.exists,
+//       (countryA) => {
+//         const hash = countryA.media.locatorMap.hash;
+//         return (countryB) => hash !== countryB.media.locatorMap.hash;
+//       },
+//     );
+//     this.choices = question.choices;
+//     this.correct = question.correct;
+//   }
 
-  render() {
-    const country = this.choices[this.correct];
-    const src =
-      import.meta.env.BASE_URL.replace(/\/$/, "") +
-      country.media.locatorMap.localUrl;
+//   render() {
+//     const country = this.choices[this.correct];
+//     const src =
+//       import.meta.env.BASE_URL.replace(/\/$/, "") +
+//       country.media.locatorMap.localUrl;
 
-    return html`<div class="grid place-items-center">
-      <div
-        class="grid place-items-center text-wrap max-w-100 text-center gap-2"
-      >
-        <span>Which country is found here?</span>
-        <img src="${src}" class="h-64" />
-      </div>
-      <x-option-selection
-        correct=${this.correct}
-        choices=${JSON.stringify(this.choices.map((country) => country.name))}
-        fatal
-      ></x-option-selection>
-      <x-fatality-indicator lives="0"></x-fatality-indicator>
-    </div>`;
-  }
-}
+//     return html`<div class="grid place-items-center">
+//       <div
+//         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+//       >
+//         <span>Which country is found here?</span>
+//         <img src="${src}" class="h-64" />
+//       </div>
+//       <x-option-selection
+//         correct=${this.correct}
+//         choices=${JSON.stringify(this.choices.map((country) => country.name))}
+//         fatal
+//       ></x-option-selection>
+//       <x-fatality-indicator lives="0"></x-fatality-indicator>
+//     </div>`;
+//   }
+// }
 
 @customElement("x-flag-which-country")
 export class FlagOfWhichCountryQuestion extends Question {
@@ -410,10 +411,11 @@ export class FlagOfWhichCountryQuestion extends Question {
     super(lives);
 
     const question = countryCorrectMatchesFilter(
-      (country) => country.media.flag.exists,
+      (country) => typeof country.flagImage.uri === "string",
       (countryA) => {
-        const hash = countryA.media.flag.hash;
-        return (countryB) => hash !== countryB.media.flag.hash;
+        return (countryB) =>
+          !(countryA.code === "TD" && countryB.code === "RO") &&
+          !(countryB.code === "TD" && countryA.code === "RO");
       },
     );
     this.choices = question.choices;
@@ -422,15 +424,16 @@ export class FlagOfWhichCountryQuestion extends Question {
 
   render() {
     const country = this.choices[this.correct];
-    const src =
-      import.meta.env.BASE_URL.replace(/\/$/, "") + country.media.flag.localUrl;
+    // TODO: use local path to avoid cheating on flags
+    // const src =
+    //   import.meta.env.BASE_URL.replace(/\/$/, "") + country.media.flag.localUrl;
 
     return html`<div class="grid place-items-center">
       <div
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>Which country has the following flag?</span>
-        <img src="${src}" class="h-8" />
+        <img src="${country.flagImage.uri}" class="h-8" />
       </div>
       <x-option-selection
         correct=${this.correct}
@@ -453,21 +456,9 @@ export class CountryHasWhatPopulationQuestion extends Question {
     const question = countryCorrectMatchesFilter(
       (_) => true,
       (correct) => {
-        const correctPopulation = parseInt(
-          correct.population.replace(/,/g, ""),
-        );
+        const correctPopulation = correct.population;
         return (country) => {
-          const countryPopulation = parseInt(
-            country.population.replace(/,/g, ""),
-          );
-
-          if (
-            Number.isNaN(correctPopulation) ||
-            Number.isNaN(countryPopulation)
-          ) {
-            return correct.population !== country.population;
-          }
-
+          const countryPopulation = country.population;
           return (
             Math.abs(correctPopulation - countryPopulation) /
               correctPopulation >
@@ -482,19 +473,28 @@ export class CountryHasWhatPopulationQuestion extends Question {
   }
 
   render() {
+    const formatter = new Intl.NumberFormat("en", {
+      notation: "compact",
+      minimumSignificantDigits: 3,
+      maximumSignificantDigits: 3,
+      compactDisplay: "long",
+    });
+
     return html`<div class="grid place-items-center">
       <div
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>
           What is the population of
-          <b .innerHTML=${this.choices[this.correct].name}></b>?
+          <b>${this.choices[this.correct].name}</b>?
         </span>
       </div>
       <x-option-selection
         correct=${this.correct}
         choices=${JSON.stringify(
-          this.choices.map((country) => country.population),
+          this.choices
+            .map((country) => country.population)
+            .map(formatter.format),
         )}
       ></x-option-selection>
       <x-fatality-indicator lives=${this.lives}></x-fatality-indicator>
@@ -502,19 +502,35 @@ export class CountryHasWhatPopulationQuestion extends Question {
   }
 }
 
-@customElement("x-country-what-border-countries")
-export class CountryWhatBorderCountriesQuestion extends Question {
+@customElement("x-country-which-borders-countries")
+export class CountryWhichBordersQuestion extends Question {
   choices: Country[];
   correct: number;
+  borderCountry: string;
 
   constructor(lives: number) {
     super(lives);
 
+    let borderCountry!: string;
     const question = countryCorrectMatchesFilter(
-      (country) => country.borderCountries !== null,
-      (_) => (country) => country.borderCountries !== null,
+      (country) => country.borderCountries.length > 0,
+      (correct) => {
+        borderCountry =
+          correct.borderCountries[
+            Math.floor(Math.random() * correct.borderCountries.length)
+          ];
+
+        return (country) => {
+          if (country.code == correct.code) {
+            return true;
+          }
+
+          return !country.borderCountries.includes(borderCountry!);
+        };
+      },
     );
 
+    this.borderCountry = borderCountry;
     this.choices = question.choices;
     this.correct = question.correct;
   }
@@ -525,15 +541,13 @@ export class CountryWhatBorderCountriesQuestion extends Question {
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>
-          Which countries border
-          <b .innerHTML=${this.choices[this.correct].name}></b>?
+          Which country borders
+          <b>${this.borderCountry}</b>?
         </span>
       </div>
       <x-option-selection
         correct=${this.correct}
-        choices=${JSON.stringify(
-          this.choices.map((country) => country.borderCountries),
-        )}
+        choices=${JSON.stringify(this.choices.map((country) => country.name))}
         fatal
       ></x-option-selection>
       <x-fatality-indicator lives="0"></x-fatality-indicator>
@@ -545,11 +559,11 @@ type QuestionConstructor = new (lives: number) => Question;
 const questionKinds: QuestionConstructor[] = [
   CountryHasWhichCapitalQuestion,
   CaptialInWhichCountryQuestion,
-  FlagOfWhichCountryQuestion,
   RegionInWhichCountryQuestion,
   CountryHasWhatPopulationQuestion,
-  CountryWhatBorderCountriesQuestion,
-  LocatorMapIsWhichCountryQuestion,
+  CountryWhichBordersQuestion,
+  FlagOfWhichCountryQuestion,
+  // LocatorMapIsWhichCountryQuestion,
 ];
 
 @customElement("x-question")

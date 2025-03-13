@@ -1,0 +1,46 @@
+SELECT
+	?country
+	?countryLabel
+	(SAMPLE(?isoCodeValue) AS ?isoCode)
+	(SAMPLE(?geoshapeValue) AS ?geo)
+	(SAMPLE(?flagImageValue) AS ?flagImage)
+	(SAMPLE(?populationValue) AS ?population)
+	(GROUP_CONCAT(DISTINCT ?capitalLabel; separator="$DIVIDE$") AS ?capitals)
+	(GROUP_CONCAT(DISTINCT ?headOfStateLabel; separator="$DIVIDE$") AS ?headsOfState)
+	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisions)
+	(GROUP_CONCAT(DISTINCT ?borderCountryLabel; separator="$DIVIDE$") AS ?borderCountries)
+WHERE {
+	SERVICE wikibase:label {
+		bd:serviceParam wikibase:language "en".
+		?capital rdfs:label ?capitalLabel.
+		?headOfState rdfs:label ?headOfStateLabel.
+		?division rdfs:label ?divisionLabel.
+		?country rdfs:label ?countryLabel.
+		?borderCountry rdfs:label ?borderCountryLabel.
+	}.
+
+	{
+		?country wdt:P31 wd:Q3624078. # sovereign states as listed by Wikidata
+		FILTER(?country != wd:Q756617) # not the whole Kingdom of Denmark
+	} UNION {
+		?country wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
+	}
+
+	# no dissolved countries
+	FILTER NOT EXISTS{ ?country wdt:P576 ?date }
+
+	OPTIONAL { ?country wdt:P36 ?capital }.
+	OPTIONAL { ?country wdt:P35 ?headOfState }.
+	OPTIONAL { ?country wdt:P1082 ?populationValue }.
+	OPTIONAL { ?country wdt:P150 ?division }.
+	OPTIONAL { ?country wdt:P41 ?flagImageValue }.
+	OPTIONAL { ?country wdt:P3896 ?geoshapeValue }.
+	OPTIONAL { ?country wdt:P297 ?isoCodeValue }.
+	OPTIONAL {
+		?border wdt:P31 wd:Q12413618; wdt:P1001 ?country, ?borderCountry.
+		FILTER(?borderCountry != ?country).
+		FILTER EXISTS { ?border wdt:P31 wd:Q15104814 } # only land borders
+	}
+
+}
+GROUP BY ?country ?countryLabel
