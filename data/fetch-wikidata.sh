@@ -38,7 +38,7 @@ for code in $(jq -r '.countries[] | .code' data/countries.json); do
 	[ ! -f public/static/$geoshape_uri_hash.json ] && fetch_geoshape
 	
 	cat <<<$(jq ".countries |= map(select(.code == \"$code\") *= {
-		flagImage: { localUri: \"static/$flag_name_hash.svg\" },
-		geo: { localUri: \"static/$geoshape_uri_hash.json\" },
+		flagImage: { localUri: \"/static/$flag_name_hash.svg\" },
+		geo: { localUri: \"/static/$geoshape_uri_hash.json\" },
 	})" data/countries.json) >data/countries.json
 done
