@@ -2,6 +2,9 @@ import data from "../data/countries.json";
 import { LitElement, html } from "lit";
 import { customElement, property, query, state } from "lit/decorators.js";
 import { createRef, ref } from "lit/directives/ref.js";
+import { Map as MapLibreGl, StyleSpecification } from "maplibre-gl";
+import "maplibre-gl/dist/maplibre-gl.css";
+import mapStyle from "./map-style.json";
 
 class LitElementNoShadow extends LitElement {
   createRenderRoot() {
@@ -19,6 +22,112 @@ class Question extends LitElementNoShadow {
 }
 
 const MAX_LIVES = 3;
+
+@customElement("x-map")
+export class MapElement extends LitElementNoShadow {
+  @query(".map")
+  map!: HTMLElement;
+
+  @property({ type: String })
+  src!: string;
+
+  mapInstance: MapLibreGl | undefined;
+  listener!: (event: KeyboardEvent) => void;
+
+  disconnectedCallback() {
+    document.removeEventListener("keypress", this.listener);
+    this.mapInstance?.remove();
+  }
+
+  keypress(event: KeyboardEvent) {
+    if (this.mapInstance === undefined) {
+      return;
+    }
+
+    function easing(t: number) {
+      return t * (2 - t);
+    }
+
+    const deltaDistance = 100;
+    const map = this.mapInstance;
+    switch (event.key) {
+      case "+":
+        map.zoomIn();
+        break;
+      case "-":
+        map.zoomOut();
+        break;
+      case "h":
+        map.panBy([-deltaDistance, 0], {
+          easing: easing,
+        });
+        break;
+      case "j":
+        map.panBy([0, deltaDistance], {
+          easing: easing,
+        });
+        break;
+      case "k":
+        map.panBy([0, -deltaDistance], {
+          easing: easing,
+        });
+        break;
+      case "l":
+        map.panBy([deltaDistance, 0], {
+          easing: easing,
+        });
+        break;
+    }
+  }
+
+  async firstUpdated() {
+    this.listener = (event) => this.keypress(event);
+    document.addEventListener("keypress", this.listener);
+
+    const mapData = await (await fetch(this.src)).json();
+
+    const map = new MapLibreGl({
+      container: this.map,
+      style: mapStyle as StyleSpecification,
+      center: [mapData.longitude, mapData.latitude],
+      zoom: Math.min(mapData.zoom, 12),
+      attributionControl: { compact: true },
+      doubleClickZoom: false,
+    });
+
+    this.mapInstance = map;
+
+    map.on("dblclick", () => {
+      map.easeTo({
+        center: [mapData.longitude, mapData.latitude],
+        zoom: Math.min(mapData.zoom, 12),
+      });
+    });
+
+    map.on("load", () => {
+      map.addSource("question-area", {
+        type: "geojson",
+        data: mapData.data,
+        attribution: mapData.attribution || "Wikidata",
+      });
+
+      map.addLayer({
+        id: "question-area",
+        source: "question-area",
+        type: "fill",
+        paint: {
+          "fill-outline-color": "transparent",
+          "fill-color": "#3b82f6",
+          "fill-opacity": 0.3,
+        },
+      });
+    });
+  }
+
+  render() {
+    return html` <div class="map w-100 aspect-square rounded-xl"></div>`;
+  }
+}
 
 @customElement("x-quiz")
 export class Quiz extends LitElementNoShadow {
@@ -292,9 +401,7 @@ export class CaptialInWhichCountryQuestion extends Question {
       <div
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
-        <span>
-          <b>${this.capital}</b> is a capital of which country/territory?
-        </span>
+        <span> <b>${this.capital}</b> is a capital of which country? </span>
       </div>
       <x-option-selection
         correct=${this.correct}
@@ -347,7 +454,7 @@ export class RegionInWhichCountryQuestion extends Question {
       >
         <span>
           <b>${this.division}</b> is an administrative division of which
-          country/territory?
+          country?
         </span>
       </div>
       <x-option-selection
@@ -359,48 +466,43 @@ export class RegionInWhichCountryQuestion extends Question {
   }
 }
 
-// TODO: use geojson here instead
-// @customElement("x-locator-map-which-country")
-// export class LocatorMapIsWhichCountryQuestion extends Question {
-//   choices: Country[];
-//   correct: number;
+@customElement("x-locator-map-which-country")
+export class MapIsWhichCountryQuestion extends Question {
+  choices: Country[];
+  correct: number;
 
-//   constructor(lives: number) {
-//     super(lives);
+  constructor(lives: number) {
+    super(lives);
 
-//     const question = countryCorrectMatchesFilter(
-//       (country) => country.media.locatorMap.exists,
-//       (countryA) => {
-//         const hash = countryA.media.locatorMap.hash;
-//         return (countryB) => hash !== countryB.media.locatorMap.hash;
-//       },
-//     );
-//     this.choices = question.choices;
-//     this.correct = question.correct;
-//   }
+    const question = countryCorrectMatchesFilter(
+      (_country) => true,
+      (_countryA) => (_countryB) => true,
+    );
+    this.choices = question.choices;
+    this.correct = question.correct;
+  }
 
-//   render() {
-//     const country = this.choices[this.correct];
-//     const src =
-//       import.meta.env.BASE_URL.replace(/\/$/, "") +
-//       country.media.locatorMap.localUrl;
+  render() {
+    const country = this.choices[this.correct];
+    const src =
+      import.meta.env.BASE_URL.replace(/\/$/, "") + country.geo.localUri;
 
-//     return html`<div class="grid place-items-center">
-//       <div
-//         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
-//       >
-//         <span>Which country is found here?</span>
-//         <img src="${src}" class="h-64" />
-//       </div>
-//       <x-option-selection
-//         correct=${this.correct}
-//         choices=${JSON.stringify(this.choices.map((country) => country.name))}
-//         fatal
-//       ></x-option-selection>
-//       <x-fatality-indicator lives="0"></x-fatality-indicator>
-//     </div>`;
-//   }
-// }
+    return html`<div class="grid place-items-center">
+      <div
+        class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+      >
+        <span>Which country is found here?</span>
+        <x-map src=${src}></x-map>
+      </div>
+      <x-option-selection
+        correct=${this.correct}
+        choices=${JSON.stringify(this.choices.map((country) => country.name))}
+        fatal
+      ></x-option-selection>
+      <x-fatality-indicator lives="0"></x-fatality-indicator>
+    </div>`;
+  }
+}
 
 @customElement("x-flag-which-country")
 export class FlagOfWhichCountryQuestion extends Question {
@@ -411,7 +513,7 @@ export class FlagOfWhichCountryQuestion extends Question {
     super(lives);
 
     const question = countryCorrectMatchesFilter(
-      (country) => typeof country.flagImage.uri === "string",
+      (country) => typeof country.flagImage.localUri === "string",
       (countryA) => {
         return (countryB) =>
           !(countryA.code === "TD" && countryB.code === "RO") &&
@@ -425,15 +527,15 @@ export class FlagOfWhichCountryQuestion extends Question {
   render() {
     const country = this.choices[this.correct];
     // TODO: use local path to avoid cheating on flags
-    // const src =
-    //   import.meta.env.BASE_URL.replace(/\/$/, "") + country.media.flag.localUrl;
+    const src =
+      import.meta.env.BASE_URL.replace(/\/$/, "") + country.flagImage.localUri;
 
     return html`<div class="grid place-items-center">
       <div
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>Which country has the following flag?</span>
-        <img src="${country.flagImage.uri}" class="h-8" />
+        <img src="${src}" class="h-8" />
       </div>
       <x-option-selection
         correct=${this.correct}
@@ -563,7 +665,7 @@ const questionKinds: QuestionConstructor[] = [
   CountryHasWhatPopulationQuestion,
   CountryWhichBordersQuestion,
   FlagOfWhichCountryQuestion,
-  // LocatorMapIsWhichCountryQuestion,
+  MapIsWhichCountryQuestion,
 ];
 
 @customElement("x-question")

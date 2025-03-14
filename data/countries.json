@@ -48,10 +48,12 @@
         "Haiti"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Dominican%20Republic.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Dominican%20Republic.svg",
+        "localUri": "static/2d8db7e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Dominican+Republic.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Dominican+Republic.map",
+        "localUri": "static/b10e480.json"
       }
     },
     {
@@ -80,10 +82,12 @@
         "Dominican Republic"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg",
+        "localUri": "static/bed3a80.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Haiti.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Haiti.map",
+        "localUri": "static/80cdca5.json"
       }
     },
     {
@@ -138,10 +142,12 @@
         "Iraq"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg",
+        "localUri": "static/eab37f6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Iran.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Iran.map",
+        "localUri": "static/f32d2a9.json"
       }
     },
     {
@@ -182,10 +188,12 @@
         "Iran"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg",
+        "localUri": "static/c8edfe4.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Iraq.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Iraq.map",
+        "localUri": "static/ceb1d30.json"
       }
     },
     {
@@ -214,10 +222,12 @@
         "Lebanon"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg",
+        "localUri": "static/cee2b7d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Israel.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Israel.map",
+        "localUri": "static/cea992a.json"
       }
     },
     {
@@ -259,10 +269,12 @@
         "Oman"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg",
+        "localUri": "static/8d40b04.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Yemen.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Yemen.map",
+        "localUri": "static/6f5844b.json"
       }
     },
     {
@@ -296,10 +308,12 @@
         "Syria"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg",
+        "localUri": "static/13f9509.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Jordan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Jordan.map",
+        "localUri": "static/275c6af.json"
       }
     },
     {
@@ -322,10 +336,12 @@
         "People's Republic of China"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg",
+        "localUri": "static/e497914.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Kyrgyzstan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kyrgyzstan.map",
+        "localUri": "static/17dfbad.json"
       }
     },
     {
@@ -365,10 +381,12 @@
         "Thailand"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg",
+        "localUri": "static/b4c43f6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Laos.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Laos.map",
+        "localUri": "static/262c097.json"
       }
     },
     {
@@ -412,10 +430,12 @@
         "India"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
+        "localUri": "static/7f54894.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Myanmar.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Myanmar.map",
+        "localUri": "static/766dc25.json"
       }
     },
     {
@@ -442,10 +462,12 @@
         "People's Republic of China"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg",
+        "localUri": "static/bc4f9a3.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Nepal.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Nepal.map",
+        "localUri": "static/20b0981.json"
       }
     },
     {
@@ -477,10 +499,12 @@
         "United Arab Emirates"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg",
+        "localUri": "static/e7c6fda.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Oman.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Oman.map",
+        "localUri": "static/83b61c9.json"
       }
     },
     {
@@ -510,10 +534,12 @@
         "India"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
+        "localUri": "static/33f31e3.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Pakistan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Pakistan.map",
+        "localUri": "static/8b37d5b.json"
       }
     },
     {
@@ -542,10 +568,12 @@
         "Saudi Arabia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg",
+        "localUri": "static/489723e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Qatar.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Qatar.map",
+        "localUri": "static/2caaf52.json"
       }
     },
     {
@@ -571,10 +599,12 @@
         "Qatar"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg",
+        "localUri": "static/98e72ab.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Saudi+Arabia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Saudi+Arabia.map",
+        "localUri": "static/22b1106.json"
       }
     },
     {
@@ -609,10 +639,12 @@
         "Jordan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg",
+        "localUri": "static/91349d1.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Syria.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Syria.map",
+        "localUri": "static/985ea89.json"
       }
     },
     {
@@ -638,10 +670,12 @@
         "Kyrgyzstan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg",
+        "localUri": "static/394ad50.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Tajikistan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Tajikistan.map",
+        "localUri": "static/2fae55f.json"
       }
     },
     {
@@ -740,10 +774,12 @@
         "Laos"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "localUri": "static/635ccca.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Thailand.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Thailand.map",
+        "localUri": "static/d733b4b.json"
       }
     },
     {
@@ -769,10 +805,12 @@
         "Iraq"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg",
+        "localUri": "static/3d90137.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Kuwait.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kuwait.map",
+        "localUri": "static/7ffc24e.json"
       }
     },
     {
@@ -798,10 +836,12 @@
         "Israel"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg",
+        "localUri": "static/3cbb8ab.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Lebanon.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Lebanon.map",
+        "localUri": "static/228a2d4.json"
       }
     },
     {
@@ -838,10 +878,12 @@
         "Brunei"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
+        "localUri": "static/f74cf8e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Malaysia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Malaysia.map",
+        "localUri": "static/7b0a594.json"
       }
     },
     {
@@ -869,10 +911,12 @@
         "Kazakhstan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg",
+        "localUri": "static/d03105f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Turkmenistan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Turkmenistan.map",
+        "localUri": "static/899f3ce.json"
       }
     },
     {
@@ -901,10 +945,12 @@
         "Oman"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Arab%20Emirates.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Arab%20Emirates.svg",
+        "localUri": "static/98704a2.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:United+Arab+Emirates.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:United+Arab+Emirates.map",
+        "localUri": "static/00fdd85.json"
       }
     },
     {
@@ -988,10 +1034,12 @@
         "Laos"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+        "localUri": "static/7c1e1a2.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Vietnam.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Vietnam.map",
+        "localUri": "static/9d925ca.json"
       }
     },
     {
@@ -1027,10 +1075,12 @@
         "North Korea"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+        "localUri": "static/a25ffba.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:South+Korea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:South+Korea.map",
+        "localUri": "static/86a4748.json"
       }
     },
     {
@@ -1087,10 +1137,12 @@
         "Uzbekistan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Taliban.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Taliban.svg",
+        "localUri": "static/5930a00.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Afghanistan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Afghanistan.map",
+        "localUri": "static/12caeb0.json"
       }
     },
     {
@@ -1124,10 +1176,12 @@
         "Senegal"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mali.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mali.svg",
+        "localUri": "static/726e49d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Mali.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Mali.map",
+        "localUri": "static/a8bf1b8.json"
       }
     },
     {
@@ -1167,10 +1221,12 @@
         "Zambia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg",
+        "localUri": "static/401796e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Angola.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Angola.map",
+        "localUri": "static/1730d17.json"
       }
     },
     {
@@ -1210,10 +1266,12 @@
         "India"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg",
+        "localUri": "static/b8a02e2.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bhutan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bhutan.map",
+        "localUri": "static/ddad53d.json"
       }
     },
     {
@@ -1236,10 +1294,12 @@
         "Malaysia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg",
+        "localUri": "static/ac01a07.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Brunei.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Brunei.map",
+        "localUri": "static/6bd0771.json"
       }
     },
     {
@@ -1302,10 +1362,12 @@
         "Rwanda"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
+        "localUri": "static/005051c.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Tanzania.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Tanzania.map",
+        "localUri": "static/8da224d.json"
       }
     },
     {
@@ -1345,10 +1407,12 @@
         "Cameroon"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Central%20African%20Republic.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Central%20African%20Republic.svg",
+        "localUri": "static/486335a.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Central+African+Republic.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Central+African+Republic.map",
+        "localUri": "static/784b7f9.json"
       }
     },
     {
@@ -1392,10 +1456,12 @@
         "Libya"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg",
+        "localUri": "static/8e67319.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Tunisia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Tunisia.map",
+        "localUri": "static/9295d40.json"
       }
     },
     {
@@ -1427,10 +1493,12 @@
         "Mozambique"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg",
+        "localUri": "static/54393bc.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Zimbabwe.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Zimbabwe.map",
+        "localUri": "static/7326984.json"
       }
     },
     {
@@ -1466,10 +1534,12 @@
         "Mozambique"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg",
+        "localUri": "static/07bec7b.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Zambia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Zambia.map",
+        "localUri": "static/d43cdb1.json"
       }
     },
     {
@@ -1522,10 +1592,12 @@
         "Sudan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Sudan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Sudan.svg",
+        "localUri": "static/199f75e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:South+Sudan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:South+Sudan.map",
+        "localUri": "static/600ccbc.json"
       }
     },
     {
@@ -1583,10 +1655,12 @@
         "Burundi"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg",
+        "localUri": "static/d7ca99d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:DR+Congo.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:DR+Congo.map",
+        "localUri": "static/74f1cd9.json"
       }
     },
     {
@@ -1613,10 +1687,12 @@
         "Somalia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg",
+        "localUri": "static/2e5b088.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Djibouti.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Djibouti.map",
+        "localUri": "static/3179db6.json"
       }
     },
     {
@@ -1643,10 +1719,12 @@
         "Sudan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg",
+        "localUri": "static/24b37fc.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Eritrea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Eritrea.map",
+        "localUri": "static/7795bcb.json"
       }
     },
     {
@@ -1678,10 +1756,12 @@
         "Guinea-Bissau"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg",
+        "localUri": "static/51f8cf4.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Guinea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Guinea.map",
+        "localUri": "static/02b59e2.json"
       }
     },
     {
@@ -1710,10 +1790,12 @@
         "Guinea"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg",
+        "localUri": "static/8d5e7cb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Guinea-Bissau.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Guinea-Bissau.map",
+        "localUri": "static/dc23594.json"
       }
     },
     {
@@ -1738,10 +1820,12 @@
         "Senegal"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg",
+        "localUri": "static/803bafb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:The+Gambia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:The+Gambia.map",
+        "localUri": "static/cefb644.json"
       }
     },
     {
@@ -1783,10 +1867,12 @@
         "Burkina Faso"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg",
+        "localUri": "static/4936e10.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map",
+        "localUri": "static/bcfac3e.json"
       }
     },
     {
@@ -1823,10 +1909,12 @@
         "Sierra Leone"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg",
+        "localUri": "static/f4b0d93.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Liberia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Liberia.map",
+        "localUri": "static/20a558f.json"
       }
     },
     {
@@ -1877,10 +1965,12 @@
         "Niger"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg",
+        "localUri": "static/0bdc719.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Libya.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Libya.map",
+        "localUri": "static/00b4eb8.json"
       }
     },
     {
@@ -1917,10 +2007,12 @@
         "Afghanistan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg",
+        "localUri": "static/87848c7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Uzbekistan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Uzbekistan.map",
+        "localUri": "static/b15d923.json"
       }
     },
     {
@@ -1977,10 +2069,12 @@
         "Croatia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg",
+        "localUri": "static/0474f25.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Serbia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Serbia.map",
+        "localUri": "static/c0a5d33.json"
       }
     },
     {
@@ -2025,10 +2119,12 @@
         "Thailand"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
+        "localUri": "static/d4480b1.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Cambodia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cambodia.map",
+        "localUri": "static/bb96aa7.json"
       }
     },
     {
@@ -2061,10 +2157,12 @@
         "Indonesia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg",
+        "localUri": "static/417ceb6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:East+Timor.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:East+Timor.map",
+        "localUri": "static/2adb9a1.json"
       }
     },
     {
@@ -2126,10 +2224,12 @@
         "Myanmar"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "localUri": "static/dd071d3.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:India+outline.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:India+outline.map",
+        "localUri": "static/8b920d3.json"
       }
     },
     {
@@ -2170,10 +2270,12 @@
         "Indonesia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg",
+        "localUri": "static/e489509.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Papua+New+Guinea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Papua+New+Guinea.map",
+        "localUri": "static/a2086ce.json"
       }
     },
     {
@@ -2212,10 +2314,12 @@
         "Brazil"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg",
+        "localUri": "static/8948e0d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Paraguay.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Paraguay.map",
+        "localUri": "static/869028e.json"
       }
     },
     {
@@ -2248,10 +2352,12 @@
         "Brazil"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg",
+        "localUri": "static/93cdbc6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bolivia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bolivia.map",
+        "localUri": "static/04d4bf5.json"
       }
     },
     {
@@ -2282,10 +2388,12 @@
         "Zimbabwe"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg",
+        "localUri": "static/0abe164.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Botswana.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Botswana.map",
+        "localUri": "static/b8934a7.json"
       }
     },
     {
@@ -2320,10 +2428,12 @@
         "Gabon"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg",
+        "localUri": "static/de705ab.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map",
+        "localUri": "static/cd1cba5.json"
       }
     },
     {
@@ -2358,10 +2468,12 @@
         "Senegal"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg",
+        "localUri": "static/e4c808f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Mauritania.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Mauritania.map",
+        "localUri": "static/16014b4.json"
       }
     },
     {
@@ -2397,10 +2509,12 @@
         "South Africa"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg",
+        "localUri": "static/77d99cb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Namibia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Namibia.map",
+        "localUri": "static/9fb8136.json"
       }
     },
     {
@@ -2435,10 +2549,12 @@
         "Melilla"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg",
+        "localUri": "static/0c51b80.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Morocco.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Morocco.map",
+        "localUri": "static/6adc10e.json"
       }
     },
     {
@@ -2473,10 +2589,12 @@
         "Zimbabwe"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg",
+        "localUri": "static/289ce3b.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Mozambique.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Mozambique.map",
+        "localUri": "static/3206679.json"
       }
     },
     {
@@ -2513,10 +2631,12 @@
         "Libya"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg",
+        "localUri": "static/f69f1c9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Niger.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Niger.map",
+        "localUri": "static/3e88b9f.json"
       }
     },
     {
@@ -2575,10 +2695,12 @@
         "Chad"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg",
+        "localUri": "static/e26e973.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Nigeria.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Nigeria.map",
+        "localUri": "static/b24936a.json"
       }
     },
     {
@@ -2737,10 +2859,12 @@
         "Sudan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
+        "localUri": "static/1228512.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Uganda.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Uganda.map",
+        "localUri": "static/d79a93a.json"
       }
     },
     {
@@ -2767,10 +2891,12 @@
         "Tanzania"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg",
+        "localUri": "static/4470a04.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Rwanda.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Rwanda.map",
+        "localUri": "static/80da4f1.json"
       }
     },
     {
@@ -2807,10 +2933,12 @@
         "Mali"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg",
+        "localUri": "static/eada5ea.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Senegal.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Senegal.map",
+        "localUri": "static/b90ecdd.json"
       }
     },
     {
@@ -2835,10 +2963,12 @@
         "Liberia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg",
+        "localUri": "static/25f28aa.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map",
+        "localUri": "static/e31ff8a.json"
       }
     },
     {
@@ -2873,10 +3003,12 @@
         "Djibouti"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg",
+        "localUri": "static/dc670c6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Somalia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Somalia.map",
+        "localUri": "static/6a5fa03.json"
       }
     },
     {
@@ -2901,10 +3033,12 @@
         "Mozambique"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg",
+        "localUri": "static/cea3517.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Eswatini.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Eswatini.map",
+        "localUri": "static/6d2a929.json"
       }
     },
     {
@@ -2946,10 +3080,12 @@
         "Uganda"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg",
+        "localUri": "static/42801bb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Sudan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sudan.map",
+        "localUri": "static/898be80.json"
       }
     },
     {
@@ -2974,10 +3110,12 @@
         "France"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+        "localUri": "static/b6a8a2a.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Nederland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Nederland.map",
+        "localUri": "static/6654e2b.json"
       }
     },
     {
@@ -3005,10 +3143,12 @@
         "Germany"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg",
+        "localUri": "static/0228bc7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Belgium.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Belgium.map",
+        "localUri": "static/aa99a8e.json"
       }
     },
     {
@@ -3053,10 +3193,12 @@
         "Croatia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
+        "localUri": "static/515815f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Hungary.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Hungary.map",
+        "localUri": "static/9a00202.json"
       }
     },
     {
@@ -3092,10 +3234,12 @@
         "Germany"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg",
+        "localUri": "static/f99f689.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map",
+        "localUri": "static/df12c76.json"
       }
     },
     {
@@ -3202,10 +3346,12 @@
         "Azerbaijan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "localUri": "static/2e80f56.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Turkey.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Turkey.map",
+        "localUri": "static/4fbc82b.json"
       }
     },
     {
@@ -3258,10 +3404,12 @@
         "United States"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
+        "localUri": "static/3b92a39.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Mexico.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Mexico.map",
+        "localUri": "static/3ce0b67.json"
       }
     },
     {
@@ -3292,10 +3440,12 @@
         "Sudan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg",
+        "localUri": "static/c59ea3a.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Kenya.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kenya.map",
+        "localUri": "static/c5418af.json"
       }
     },
     {
@@ -3331,10 +3481,12 @@
         "Djibouti"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg",
+        "localUri": "static/9be2db8.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ethiopia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ethiopia.map",
+        "localUri": "static/f8dc6e8.json"
       }
     },
     {
@@ -3370,10 +3522,12 @@
         "Bulgaria"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
+        "localUri": "static/2fdaf27.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Greece.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Greece.map",
+        "localUri": "static/2c90ea4.json"
       }
     },
     {
@@ -3404,10 +3558,12 @@
         "Togo"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg",
+        "localUri": "static/46da203.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ghana.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ghana.map",
+        "localUri": "static/e80e06c.json"
       }
     },
     {
@@ -3444,10 +3600,12 @@
         "Peru"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
+        "localUri": "static/6b92607.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Chile.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Chile.map",
+        "localUri": "static/519127b.json"
       }
     },
     {
@@ -3480,10 +3638,12 @@
         "Georgia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg",
+        "localUri": "static/b19f274.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Armenia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Armenia.map",
+        "localUri": "static/84c5d58.json"
       }
     },
     {
@@ -3529,10 +3689,12 @@
         "Paraguay"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+        "localUri": "static/c278b17.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Argentina.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Argentina.map",
+        "localUri": "static/8fe2402.json"
       }
     },
     {
@@ -3578,10 +3740,12 @@
         "Cameroon"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad.svg",
+        "localUri": "static/0092198.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Chad.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Chad.map",
+        "localUri": "static/c83547c.json"
       }
     },
     {
@@ -3612,10 +3776,12 @@
         "Guyana"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suriname.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suriname.svg",
+        "localUri": "static/bdf9dbd.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Suriname.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Suriname.map",
+        "localUri": "static/f4b596d.json"
       }
     },
     {
@@ -3659,10 +3825,12 @@
         "Mexico"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg",
+        "localUri": "static/6986362.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Guatemala.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Guatemala.map",
+        "localUri": "static/8a236c5.json"
       }
     },
     {
@@ -3701,10 +3869,12 @@
         "El Salvador"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras.svg",
+        "localUri": "static/5b45bb8.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Honduras.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Honduras.map",
+        "localUri": "static/0616ccb.json"
       }
     },
     {
@@ -3738,10 +3908,12 @@
         "Honduras"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20El%20Salvador.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20El%20Salvador.svg",
+        "localUri": "static/abef9b4.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:El+Salvador.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:El+Salvador.map",
+        "localUri": "static/31f400b.json"
       }
     },
     {
@@ -3768,10 +3940,12 @@
         "Panama"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Costa%20Rica.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Costa%20Rica.svg",
+        "localUri": "static/7fe2664.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Costa+Rica.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Costa+Rica.map",
+        "localUri": "static/e7b9c19.json"
       }
     },
     {
@@ -3805,10 +3979,12 @@
         "Costa Rica"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg",
+        "localUri": "static/695713d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Panama.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Panama.map",
+        "localUri": "static/831078a.json"
       }
     },
     {
@@ -3845,10 +4021,12 @@
         "Honduras"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nicaragua.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nicaragua.svg",
+        "localUri": "static/5c41d12.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Nicaragua.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Nicaragua.map",
+        "localUri": "static/e5897c2.json"
       }
     },
     {
@@ -3874,10 +4052,12 @@
         "Benin"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Togo%20%283-2%29.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Togo%20%283-2%29.svg",
+        "localUri": "static/e301019.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Togo.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Togo.map",
+        "localUri": "static/03c6129.json"
       }
     },
     {
@@ -3911,10 +4091,12 @@
         "Togo"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg",
+        "localUri": "static/357ba49.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Benin.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Benin.map",
+        "localUri": "static/4aca312.json"
       }
     },
     {
@@ -3952,10 +4134,12 @@
         "Rwanda"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg",
+        "localUri": "static/2b2409c.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Burundi.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Burundi.map",
+        "localUri": "static/90fd1cf.json"
       }
     },
     {
@@ -3992,10 +4176,12 @@
         "Benin"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burkina%20Faso.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burkina%20Faso.svg",
+        "localUri": "static/b1665fd.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Burkina+Faso.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Burkina+Faso.map",
+        "localUri": "static/956e3c2.json"
       }
     },
     {
@@ -4023,10 +4209,12 @@
         "Gabon"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg",
+        "localUri": "static/a43b5aa.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Equatorial+Guinea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Equatorial+Guinea.map",
+        "localUri": "static/e3870e7.json"
       }
     },
     {
@@ -4056,10 +4244,12 @@
         "Equatorial Guinea"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg",
+        "localUri": "static/343777b.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Gabon.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Gabon.map",
+        "localUri": "static/011fd2f.json"
       }
     },
     {
@@ -4093,10 +4283,12 @@
         "Central African Republic"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg",
+        "localUri": "static/b6d374f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Cameroon.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cameroon.map",
+        "localUri": "static/6c2384b.json"
       }
     },
     {
@@ -4120,10 +4312,12 @@
         "Mozambique"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg",
+        "localUri": "static/746ff02.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Malawi.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Malawi.map",
+        "localUri": "static/a12c6f7.json"
       }
     },
     {
@@ -4158,10 +4352,12 @@
         "Lesotho"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+        "localUri": "static/a42ca1e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:South+Africa.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:South+Africa.map",
+        "localUri": "static/6fd920e.json"
       }
     },
     {
@@ -4244,10 +4440,12 @@
         "Morocco"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Algeria.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Algeria.svg",
+        "localUri": "static/696b19f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Algeria.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Algeria.map",
+        "localUri": "static/a4ea46f.json"
       }
     },
     {
@@ -4295,10 +4493,12 @@
         "Chile"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
+        "localUri": "static/4735c75.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Peru.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Peru.map",
+        "localUri": "static/e0149ee.json"
       }
     },
     {
@@ -4331,10 +4531,12 @@
         "People's Republic of China"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg",
+        "localUri": "static/ddbd8a8.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:North+Korea.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:North+Korea.map",
+        "localUri": "static/b2e2554.json"
       }
     },
     {
@@ -4381,10 +4583,12 @@
         "Colombia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg",
+        "localUri": "static/aa740da.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Venezuela.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Venezuela.map",
+        "localUri": "static/9d3672b.json"
       }
     },
     {
@@ -4415,10 +4619,12 @@
         "Brazil"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg",
+        "localUri": "static/74f1e6e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Guyana.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Guyana.map",
+        "localUri": "static/d9e6f92.json"
       }
     },
     {
@@ -4473,10 +4679,12 @@
         "Brazil"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
+        "localUri": "static/2c171c7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Colombia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Colombia.map",
+        "localUri": "static/2ffe01e.json"
       }
     },
     {
@@ -4509,10 +4717,12 @@
         "United States"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "localUri": "static/9c79284.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Canada.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Canada.map",
+        "localUri": "static/d608803.json"
       }
     },
     {
@@ -4553,10 +4763,12 @@
         "Ukraine"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "localUri": "static/32f0bb1.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Poland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Poland.map",
+        "localUri": "static/90494bc.json"
       }
     },
     {
@@ -4612,10 +4824,12 @@
         "Spain"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg",
+        "localUri": "static/d4ec27f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:France.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:France.map",
+        "localUri": "static/c0dc98c.json"
       }
     },
     {
@@ -4640,10 +4854,12 @@
         "Cyprus"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg",
+        "localUri": "static/dec01f2.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:United+Kingdom.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:United+Kingdom.map",
+        "localUri": "static/1c15d2e.json"
       }
     },
     {
@@ -4708,10 +4924,12 @@
         "Afghanistan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "localUri": "static/55301a9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:China.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:China.map",
+        "localUri": "static/6baccd1.json"
       }
     },
     {
@@ -4766,10 +4984,12 @@
         "Guyana"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "localUri": "static/8719110.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Brazil.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Brazil.map",
+        "localUri": "static/4ac3120.json"
       }
     },
     {
@@ -4886,10 +5106,12 @@
         "Azerbaijan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "localUri": "static/a79f740.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Russia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Russia.map",
+        "localUri": "static/bc01ae9.json"
       }
     },
     {
@@ -4932,10 +5154,12 @@
         "Kingdom of the Netherlands"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "localUri": "static/458a678.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Germany.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Germany.map",
+        "localUri": "static/a07177f.json"
       }
     },
     {
@@ -5169,10 +5393,12 @@
         "Austria"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
+        "localUri": "static/099000b.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Slovenia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Slovenia.map",
+        "localUri": "static/e56cca1.json"
       }
     },
     {
@@ -5237,10 +5463,12 @@
         "Bulgaria"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
+        "localUri": "static/18063e8.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Romania.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Romania.map",
+        "localUri": "static/e319055.json"
       }
     },
     {
@@ -5291,10 +5519,12 @@
         "Romania"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
+        "localUri": "static/24e1418.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bulgaria.map",
+        "localUri": "static/aac589e.json"
       }
     },
     {
@@ -5329,10 +5559,12 @@
         "Kosovo"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Albania.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Albania.svg",
+        "localUri": "static/f2f77f9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Albania.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Albania.map",
+        "localUri": "static/db9991d.json"
       }
     },
     {
@@ -5436,10 +5668,12 @@
         "Kosovo"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg",
+        "localUri": "static/580aee7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Macedonia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Macedonia.map",
+        "localUri": "static/d1b2993.json"
       }
     },
     {
@@ -5483,10 +5717,12 @@
         "Slovenia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
+        "localUri": "static/84e0d81.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Croatia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Croatia.map",
+        "localUri": "static/4b150b9.json"
       }
     },
     {
@@ -5512,10 +5748,12 @@
         "Croatia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg",
+        "localUri": "static/8157591.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bosnia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bosnia.map",
+        "localUri": "static/8bec240.json"
       }
     },
     {
@@ -5549,10 +5787,12 @@
         "Azerbaijan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg",
+        "localUri": "static/f5e0699.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Georgia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Georgia.map",
+        "localUri": "static/f3976f5.json"
       }
     },
     {
@@ -5577,10 +5817,12 @@
         "United Kingdom"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg",
+        "localUri": "static/6ebc095.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Cyprus.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cyprus.map",
+        "localUri": "static/b5e47dc.json"
       }
     },
     {
@@ -5621,10 +5863,12 @@
         "Russia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg",
+        "localUri": "static/a84a9a1.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Kazakhstan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kazakhstan.map",
+        "localUri": "static/4bdb193.json"
       }
     },
     {
@@ -5672,10 +5916,12 @@
         "Albania"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg",
+        "localUri": "static/092987c.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Montenegro.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Montenegro.map",
+        "localUri": "static/d3a942d.json"
       }
     },
     {
@@ -5701,10 +5947,12 @@
         "Mexico"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg",
+        "localUri": "static/d4ef006.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Belize.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Belize.map",
+        "localUri": "static/31904bc.json"
       }
     },
     {
@@ -5763,10 +6011,12 @@
         "Malaysia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "localUri": "static/90cd27e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Indonesia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Indonesia.map",
+        "localUri": "static/4bd2940.json"
       }
     },
     {
@@ -5808,10 +6058,12 @@
         "Russia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg",
+        "localUri": "static/60044c5.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:MN.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:MN.map",
+        "localUri": "static/eafdad0.json"
       }
     },
     {
@@ -5855,10 +6107,12 @@
         "Peru"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg",
+        "localUri": "static/b937ace.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ecuador.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ecuador.map",
+        "localUri": "static/891dcce.json"
       }
     },
     {
@@ -5886,10 +6140,12 @@
         "India"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
+        "localUri": "static/d5c316e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bangladesh.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bangladesh.map",
+        "localUri": "static/84f0a3e.json"
       }
     },
     {
@@ -5938,10 +6194,12 @@
         "United Kingdom"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg",
+        "localUri": "static/45ef8e9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ireland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ireland.map",
+        "localUri": "static/ab8b191.json"
       }
     },
     {
@@ -6017,10 +6275,12 @@
         "Mexico"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "localUri": "static/da5c323.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:United+States.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:United+States.map",
+        "localUri": "static/c2cd4b5.json"
       }
     },
     {
@@ -6060,10 +6320,12 @@
         "Norway"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
+        "localUri": "static/e630f42.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Finland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Finland.map",
+        "localUri": "static/ef3ac8c.json"
       }
     },
     {
@@ -6107,10 +6369,12 @@
         "Vatican City"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "localUri": "static/e6657f3.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Italia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Italia.map",
+        "localUri": "static/239ba63.json"
       }
     },
     {
@@ -6159,10 +6423,12 @@
         "Liechtenstein"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+        "localUri": "static/5c36e84.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Switzerland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Switzerland.map",
+        "localUri": "static/deee396.json"
       }
     },
     {
@@ -6193,10 +6459,12 @@
         "Switzerland"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg",
+        "localUri": "static/4466d34.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Liechtenstein.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Liechtenstein.map",
+        "localUri": "static/5105f7e.json"
       }
     },
     {
@@ -6225,10 +6493,12 @@
         "South Africa"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg",
+        "localUri": "static/28ae8ba.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Lesotho.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Lesotho.map",
+        "localUri": "static/772b064.json"
       }
     },
     {
@@ -6267,10 +6537,12 @@
         "Finland"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+        "localUri": "static/96905ed.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Norway.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Norway.map",
+        "localUri": "static/d4fa31d.json"
       }
     },
     {
@@ -6313,10 +6585,12 @@
         "Morocco"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "localUri": "static/bb08515.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Spain.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Spain.map",
+        "localUri": "static/a859c3e.json"
       }
     },
     {
@@ -6357,10 +6631,12 @@
         "Norway"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+        "localUri": "static/0a941c6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Sweden.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sweden.map",
+        "localUri": "static/983c6d3.json"
       }
     },
     {
@@ -6393,10 +6669,12 @@
         "Germany"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg",
+        "localUri": "static/b2e7a1d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Denmark.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Denmark.map",
+        "localUri": "static/a456594.json"
       }
     },
     {
@@ -6428,10 +6706,12 @@
         "Latvia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg",
+        "localUri": "static/9b11140.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Lithuania.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Lithuania.map",
+        "localUri": "static/43a2cc4.json"
       }
     },
     {
@@ -6466,10 +6746,12 @@
         "Slovenia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg",
+        "localUri": "static/ecddd04.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Austria.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Austria.map",
+        "localUri": "static/5afe8fe.json"
       }
     },
     {
@@ -6508,10 +6790,12 @@
         "Spain"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg",
+        "localUri": "static/9e4ed23.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Portugal.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Portugal.map",
+        "localUri": "static/6682b38.json"
       }
     },
     {
@@ -6560,10 +6844,12 @@
         "Sudan"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg",
+        "localUri": "static/c07df5d.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Egypt.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Egypt.map",
+        "localUri": "static/c46af0e.json"
       }
     },
     {
@@ -6602,10 +6888,12 @@
         "Brazil"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg",
+        "localUri": "static/f82becb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Uruguay.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Uruguay.map",
+        "localUri": "static/8803f1c.json"
       }
     },
     {
@@ -6635,10 +6923,12 @@
         "Lithuania"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belarus.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belarus.svg",
+        "localUri": "static/311954a.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Belarus.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Belarus.map",
+        "localUri": "static/165cb95.json"
       }
     },
     {
@@ -6673,10 +6963,12 @@
         "Latvia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg",
+        "localUri": "static/c250e0f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Estonia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Estonia.map",
+        "localUri": "static/e17fb0c.json"
       }
     },
     {
@@ -6817,10 +7109,12 @@
         "Estonia"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg",
+        "localUri": "static/0d38435.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Latvia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Latvia.map",
+        "localUri": "static/8548b7c.json"
       }
     },
     {
@@ -6851,10 +7145,12 @@
         "Ukraine"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg",
+        "localUri": "static/92e6deb.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Slovakia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Slovakia.map",
+        "localUri": "static/4fae90d.json"
       }
     },
     {
@@ -6906,10 +7202,12 @@
         "Poland"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg",
+        "localUri": "static/6312751.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Ukraine.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Ukraine.map",
+        "localUri": "static/d41d3ab.json"
       }
     },
     {
@@ -6945,10 +7243,12 @@
         "Austria"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
+        "localUri": "static/a21cc6f.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Czechia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Czechia.map",
+        "localUri": "static/ff24162.json"
       }
     },
     {
@@ -7005,10 +7305,12 @@
         "Romania"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Moldova.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Moldova.svg",
+        "localUri": "static/891b5e2.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Moldova.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Moldova.map",
+        "localUri": "static/a6ebc03.json"
       }
     },
     {
@@ -7102,10 +7404,12 @@
         "Turkey"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Azerbaijan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Azerbaijan.svg",
+        "localUri": "static/ab23112.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Azerbaijan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Azerbaijan.map",
+        "localUri": "static/bf68b8c.json"
       }
     },
     {
@@ -7133,10 +7437,12 @@
         "Spain"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg",
+        "localUri": "static/a4ee664.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Andorra.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Andorra.map",
+        "localUri": "static/e7d0f65.json"
       }
     },
     {
@@ -7154,10 +7460,12 @@
         "France"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg",
+        "localUri": "static/4751055.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Monaco/Monaco.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Monaco/Monaco.map",
+        "localUri": "static/1cf6a7c.json"
       }
     },
     {
@@ -7194,10 +7502,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palestine.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palestine.svg",
+        "localUri": "static/895707e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Palestinian+territories.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Palestinian+territories.map",
+        "localUri": "static/c72cb2d.json"
       }
     },
     {
@@ -7219,10 +7529,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg",
+        "localUri": "static/9a5bc85.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Singapore.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Singapore.map",
+        "localUri": "static/35bb56c.json"
       }
     },
     {
@@ -7244,10 +7556,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bahrain.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bahrain.svg",
+        "localUri": "static/b57ea75.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bahrain.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bahrain.map",
+        "localUri": "static/6312ee0.json"
       }
     },
     {
@@ -7280,10 +7594,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "localUri": "static/68d8802.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Australia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Australia.map",
+        "localUri": "static/121a065.json"
       }
     },
     {
@@ -7317,10 +7633,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+        "localUri": "static/6cb25cf.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:New+Zealand.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:New+Zealand.map",
+        "localUri": "static/ab16d2e.json"
       }
     },
     {
@@ -7336,10 +7654,12 @@
       "divisions": [],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg",
+        "localUri": "static/e292f9e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Tuvalu.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Tuvalu.map",
+        "localUri": "static/c0a131b.json"
       }
     },
     {
@@ -7361,10 +7681,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tonga.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tonga.svg",
+        "localUri": "static/dd2ad16.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Tonga.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Tonga.map",
+        "localUri": "static/d79759d.json"
       }
     },
     {
@@ -7391,10 +7713,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg",
+        "localUri": "static/df5e202.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Samoa.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Samoa.map",
+        "localUri": "static/6810a28.json"
       }
     },
     {
@@ -7417,10 +7741,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vanuatu.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vanuatu.svg",
+        "localUri": "static/f124cba.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Vanuatu.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Vanuatu.map",
+        "localUri": "static/576fd60.json"
       }
     },
     {
@@ -7447,10 +7773,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Solomon%20Islands.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Solomon%20Islands.svg",
+        "localUri": "static/1aa4bf7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Solomon+Islands.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Solomon+Islands.map",
+        "localUri": "static/555bf03.json"
       }
     },
     {
@@ -7483,10 +7811,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg",
+        "localUri": "static/a62d71c.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Palau.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Palau.map",
+        "localUri": "static/620584f.json"
       }
     },
     {
@@ -7517,10 +7847,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nauru.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nauru.svg",
+        "localUri": "static/cd29956.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Nauru.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Nauru.map",
+        "localUri": "static/f33cac0.json"
       }
     },
     {
@@ -7541,10 +7873,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg",
+        "localUri": "static/2d33e96.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map",
+        "localUri": "static/37c7e8a.json"
       }
     },
     {
@@ -7561,10 +7895,12 @@
       "divisions": [],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiribati.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiribati.svg",
+        "localUri": "static/d4021e9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Kiribati.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kiribati.map",
+        "localUri": "static/c8cfad3.json"
       }
     },
     {
@@ -7614,10 +7950,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg",
+        "localUri": "static/b0b5f2e.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Marshall+Islands.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Marshall+Islands.map",
+        "localUri": "static/019cdbd.json"
       }
     },
     {
@@ -7639,10 +7977,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg",
+        "localUri": "static/5a2bf60.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Fiji.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Fiji.map",
+        "localUri": "static/ee2fd1f.json"
       }
     },
     {
@@ -7673,10 +8013,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg",
+        "localUri": "static/4b6b945.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Trinidad+and+Tobago.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Trinidad+and+Tobago.map",
+        "localUri": "static/cc695a8.json"
       }
     },
     {
@@ -7699,10 +8041,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Vincent%20and%20the%20Grenadines.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Vincent%20and%20the%20Grenadines.svg",
+        "localUri": "static/891ad96.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Vincent.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Vincent.map",
+        "localUri": "static/0c5de3e.json"
       }
     },
     {
@@ -7733,10 +8077,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Kitts%20and%20Nevis.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Kitts%20and%20Nevis.svg",
+        "localUri": "static/6ea2092.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Kitts+and+Nevis.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Kitts+and+Nevis.map",
+        "localUri": "static/2814f33.json"
       }
     },
     {
@@ -7764,10 +8110,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Lucia.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Lucia.svg",
+        "localUri": "static/6613e2c.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Lucia.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Saint+Lucia.map",
+        "localUri": "static/34caf0c.json"
       }
     },
     {
@@ -7787,10 +8135,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg",
+        "localUri": "static/3a59f12.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Jamaica.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Jamaica.map",
+        "localUri": "static/2507cb7.json"
       }
     },
     {
@@ -7815,10 +8165,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Grenada.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Grenada.svg",
+        "localUri": "static/b5ef508.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Grenada.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Grenada.map",
+        "localUri": "static/e6b72da.json"
       }
     },
     {
@@ -7867,10 +8219,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Bahamas.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Bahamas.svg",
+        "localUri": "static/4b0aef4.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Bahamas.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Bahamas.map",
+        "localUri": "static/a5c46c5.json"
       }
     },
     {
@@ -7895,10 +8249,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Antigua%20and%20Barbuda.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Antigua%20and%20Barbuda.svg",
+        "localUri": "static/e894961.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Antigua+and+Barbuda.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Antigua+and+Barbuda.map",
+        "localUri": "static/78f438c.json"
       }
     },
     {
@@ -7925,10 +8281,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Dominica.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Dominica.svg",
+        "localUri": "static/095e6ab.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Dominica.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Dominica.map",
+        "localUri": "static/ec7e30c.json"
       }
     },
     {
@@ -7965,10 +8323,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maldives.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maldives.svg",
+        "localUri": "static/e2e3baa.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Maldives.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Maldives.map",
+        "localUri": "static/e7ae5db.json"
       }
     },
     {
@@ -7995,10 +8355,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg",
+        "localUri": "static/8aafc17.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Sri+Lanka.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sri+Lanka.map",
+        "localUri": "static/cb40ea3.json"
       }
     },
     {
@@ -8023,10 +8385,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
+        "localUri": "static/d28bcc5.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Taiwan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Taiwan.map",
+        "localUri": "static/76087d4.json"
       }
     },
     {
@@ -8061,10 +8425,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+        "localUri": "static/f280fe6.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Philippines.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Philippines.map",
+        "localUri": "static/f35a1fb.json"
       }
     },
     {
@@ -8084,10 +8450,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Comoros.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Comoros.svg",
+        "localUri": "static/84b41a8.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Comoros.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Comoros.map",
+        "localUri": "static/6da252f.json"
       }
     },
     {
@@ -8126,10 +8494,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Verde.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Verde.svg",
+        "localUri": "static/33fe751.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Cape+Verde.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cape+Verde.map",
+        "localUri": "static/db748e6.json"
       }
     },
     {
@@ -8152,10 +8522,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg",
+        "localUri": "static/f71a007.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Madagascar.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Madagascar.map",
+        "localUri": "static/8d0555f.json"
       }
     },
     {
@@ -8181,10 +8553,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritius.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritius.svg",
+        "localUri": "static/3007416.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Mauritius.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Mauritius.map",
+        "localUri": "static/a396947.json"
       }
     },
     {
@@ -8209,10 +8583,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg",
+        "localUri": "static/0f95298.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Sao+Tome+and+Principe.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sao+Tome+and+Principe.map",
+        "localUri": "static/941bdb1.json"
       }
     },
     {
@@ -8256,10 +8632,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg",
+        "localUri": "static/547cacc.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Seychelles.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Seychelles.map",
+        "localUri": "static/333bd3d.json"
       }
     },
     {
@@ -8275,10 +8653,12 @@
       "divisions": [],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg",
+        "localUri": "static/c47ade3.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map",
+        "localUri": "static/8ca5cfd.json"
       }
     },
     {
@@ -8342,10 +8722,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "localUri": "static/3919d94.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Japan.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Japan.map",
+        "localUri": "static/6ffd717.json"
       }
     },
     {
@@ -8368,10 +8750,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg",
+        "localUri": "static/6b909c0.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Iceland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Iceland.map",
+        "localUri": "static/e51f727.json"
       }
     },
     {
@@ -8394,10 +8778,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greenland.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greenland.svg",
+        "localUri": "static/db6f610.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Greenland.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Greenland.map",
+        "localUri": "static/7c858f8.json"
       }
     },
     {
@@ -8420,10 +8806,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg",
+        "localUri": "static/3a876f9.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Malta.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Malta.map",
+        "localUri": "static/d8c1f88.json"
       }
     },
     {
@@ -8456,10 +8844,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg",
+        "localUri": "static/e64eb45.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Cuba.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cuba.map",
+        "localUri": "static/8e1e0da.json"
       }
     },
     {
@@ -8487,10 +8877,12 @@
       ],
       "borderCountries": [],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg",
+        "localUri": "static/1ee1d27.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Barbados.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Barbados.map",
+        "localUri": "static/98852f2.json"
       }
     },
     {
@@ -8518,10 +8910,12 @@
         "Italy"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg",
+        "localUri": "static/1db0dea.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:San+Marino.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:San+Marino.map",
+        "localUri": "static/35e4b76.json"
       }
     },
     {
@@ -8537,10 +8931,12 @@
         "Italy"
       ],
       "flagImage": {
-        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City%20%282023%E2%80%93present%29.svg"
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City%20%282023%E2%80%93present%29.svg",
+        "localUri": "static/44441a7.svg"
       },
       "geo": {
-        "uri": "http://commons.wikimedia.org/data/main/Data:Vatican.map"
+        "uri": "http://commons.wikimedia.org/data/main/Data:Vatican.map",
+        "localUri": "static/08670c4.json"
       }
     }
   ]
