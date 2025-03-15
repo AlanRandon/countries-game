@@ -125,7 +125,7 @@ export class MapElement extends LitElementNoShadow {
   }
 
   render() {
-    return html` <div class="map w-100 aspect-square rounded-xl"></div>`;
+    return html` <div class="map min-w-64 aspect-square rounded-xl"></div>`;
   }
 }
 
@@ -193,7 +193,7 @@ export class Quiz extends LitElementNoShadow {
           Score: <b>${this.score}</b>
         </div>
       </div>
-      <div class="flex flex-col align-center justify-center gap-2 h-full p-4">
+      <div class="flex flex-col align-center justify-center gap-2 h-full p-2">
         <x-question lives=${this.lives}></x-question>
       </div>
     </div>`;
