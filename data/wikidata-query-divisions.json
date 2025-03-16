@@ -1,0 +1,2780 @@
+{
+  "head" : {
+    "vars" : [ "country", "countryLabel", "divisions" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "KwaZulu-Natal$DIVIDE$Western Cape$DIVIDE$Eastern Cape$DIVIDE$Mpumalanga$DIVIDE$Northern Cape$DIVIDE$Gauteng$DIVIDE$Limpopo$DIVIDE$Free State$DIVIDE$North West"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q262"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algeria"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Ghardaïa Province$DIVIDE$Algiers Province$DIVIDE$Aïn Defla Province$DIVIDE$Adrar Province$DIVIDE$Annaba Province$DIVIDE$Khenchela Province$DIVIDE$Batna Province$DIVIDE$Béchar Province$DIVIDE$Mostaganem Province$DIVIDE$Tamanrasset Province$DIVIDE$Tindouf Province$DIVIDE$Oran Province$DIVIDE$Laghouat Province$DIVIDE$Chlef Province$DIVIDE$Constantine Province$DIVIDE$Djelfa Province$DIVIDE$Tiaret Province$DIVIDE$Tlemcen Province$DIVIDE$Blida Province$DIVIDE$Saïda Province$DIVIDE$Tizi Ouzou Province$DIVIDE$El Oued Province$DIVIDE$Bouira Province$DIVIDE$Illizi Province$DIVIDE$Béjaïa Province$DIVIDE$Aïn Témouchent Provincee$DIVIDE$Naama Province$DIVIDE$Skikda Province$DIVIDE$El Bayadh Province$DIVIDE$Oum El Bouaghi Province$DIVIDE$Ouargla Province$DIVIDE$Sidi Bel Abbès Province$DIVIDE$Jijel Province$DIVIDE$Mila Province$DIVIDE$Guelma Province$DIVIDE$Tissemsilt Province$DIVIDE$Médéa Province$DIVIDE$Tipasa Province$DIVIDE$Boumerdès Province$DIVIDE$Relizane Province$DIVIDE$Souk Ahras Province$DIVIDE$Mascara Province$DIVIDE$El Tarf Province$DIVIDE$Sétif Province$DIVIDE$M'Sila Province$DIVIDE$Bordj Bou Arréridj Province$DIVIDE$Tébessa Province$DIVIDE$Biskra Province$DIVIDE$Beni Abbes Province$DIVIDE$Timimoun Province$DIVIDE$El Meniaa Province$DIVIDE$Bordj Baji Mokhtar Province$DIVIDE$In Salah Province$DIVIDE$Djanet Province$DIVIDE$In Guezzam Province$DIVIDE$El M'Ghair Province$DIVIDE$Touggourt Province$DIVIDE$Ouled Djellal Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uzbekistan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Tashkent$DIVIDE$Namangan Region$DIVIDE$Karakalpakstan$DIVIDE$Fergana Region$DIVIDE$Bukhara Region$DIVIDE$Andijan Region$DIVIDE$Samarqand Region$DIVIDE$Surxondaryo Region$DIVIDE$Sirdaryo Region$DIVIDE$Xorazm Region$DIVIDE$Navoiy Region$DIVIDE$Qashqadaryo Region$DIVIDE$Tashkent Region$DIVIDE$Jizzakh Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Arica y Parinacota Region$DIVIDE$Tarapacá Region$DIVIDE$Antofagasta Region$DIVIDE$Atacama Region$DIVIDE$Coquimbo Region$DIVIDE$Santiago Metropolitan Region$DIVIDE$O'Higgins Region$DIVIDE$Maule Región$DIVIDE$Biobío Region$DIVIDE$Araucanía Region$DIVIDE$Los Ríos Region$DIVIDE$Los Lagos Region$DIVIDE$Aysén Region$DIVIDE$Magellan and the Chilean Antarctic Region$DIVIDE$Valparaíso Region$DIVIDE$Ñuble Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "South East Community Development Council$DIVIDE$Central Singapore Community Development Council$DIVIDE$North East Community Development Council$DIVIDE$North West Community Development Council$DIVIDE$South West Community Development Council"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canada"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Quebec$DIVIDE$Ontario$DIVIDE$Manitoba$DIVIDE$Alberta$DIVIDE$Nova Scotia$DIVIDE$New Brunswick$DIVIDE$British Columbia$DIVIDE$Prince Edward Island$DIVIDE$Saskatchewan$DIVIDE$Newfoundland and Labrador$DIVIDE$Northwest Territories$DIVIDE$Yukon$DIVIDE$Nunavut"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Tokyo$DIVIDE$Kagoshima Prefecture$DIVIDE$Tochigi Prefecture$DIVIDE$Miyagi Prefecture$DIVIDE$Iwate Prefecture$DIVIDE$Aomori Prefecture$DIVIDE$Fukushima Prefecture$DIVIDE$Chiba Prefecture$DIVIDE$Aichi Prefecture$DIVIDE$Akita Prefecture$DIVIDE$Ibaraki Prefecture$DIVIDE$Kyoto Prefecture$DIVIDE$Osaka Prefecture$DIVIDE$Fukuoka Prefecture$DIVIDE$Ehime Prefecture$DIVIDE$Yamagata Prefecture$DIVIDE$Yamaguchi Prefecture$DIVIDE$Kanagawa Prefecture$DIVIDE$Nagano Prefecture$DIVIDE$Saitama Prefecture$DIVIDE$Mie Prefecture$DIVIDE$Gunma Prefecture$DIVIDE$Hyōgo Prefecture$DIVIDE$Miyazaki Prefecture$DIVIDE$Kumamoto Prefecture$DIVIDE$Gifu Prefecture$DIVIDE$Ishikawa Prefecture$DIVIDE$Nara Prefecture$DIVIDE$Wakayama Prefecture$DIVIDE$Shizuoka Prefecture$DIVIDE$Shiga Prefecture$DIVIDE$Niigata Prefecture$DIVIDE$Yamanashi Prefecture$DIVIDE$Shimane Prefecture$DIVIDE$Toyama Prefecture$DIVIDE$Okayama Prefecture$DIVIDE$Fukui Prefecture$DIVIDE$Oita Prefecture$DIVIDE$Tottori Prefecture$DIVIDE$Kōchi Prefecture$DIVIDE$Saga Prefecture$DIVIDE$Tokushima Prefecture$DIVIDE$Kagawa Prefecture$DIVIDE$Nagasaki Prefecture$DIVIDE$Hiroshima Prefecture$DIVIDE$Okinawa Prefecture$DIVIDE$Hokkaido"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norway"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Oslo$DIVIDE$Telemark$DIVIDE$Jan Mayen$DIVIDE$Bouvet Island$DIVIDE$Svalbard$DIVIDE$Østfold$DIVIDE$Akershus$DIVIDE$Buskerud$DIVIDE$Vestfold$DIVIDE$Rogaland$DIVIDE$Møre og Romsdal$DIVIDE$Nordland$DIVIDE$Troms$DIVIDE$Finnmark$DIVIDE$Trøndelag$DIVIDE$Agder$DIVIDE$Innlandet$DIVIDE$Vestland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ireland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "County Laois$DIVIDE$Ulster$DIVIDE$County Leitrim$DIVIDE$Munster$DIVIDE$Leinster$DIVIDE$County Cork$DIVIDE$Connacht$DIVIDE$County Galway$DIVIDE$County Kildare$DIVIDE$County Dublin$DIVIDE$County Limerick$DIVIDE$County Mayo$DIVIDE$County Sligo$DIVIDE$County Donegal$DIVIDE$County Roscommon$DIVIDE$County Kilkenny$DIVIDE$County Clare$DIVIDE$County Carlow$DIVIDE$County Wicklow$DIVIDE$County Westmeath$DIVIDE$County Louth$DIVIDE$County Meath$DIVIDE$County Offaly$DIVIDE$County Kerry$DIVIDE$County Waterford$DIVIDE$County Wexford$DIVIDE$County Tipperary$DIVIDE$County Monaghan$DIVIDE$County Longford$DIVIDE$County Cavan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United States"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "California$DIVIDE$Alabama$DIVIDE$Maine$DIVIDE$New Hampshire$DIVIDE$Massachusetts$DIVIDE$Connecticut$DIVIDE$Hawaii$DIVIDE$Alaska$DIVIDE$Florida$DIVIDE$Arizona$DIVIDE$Oregon$DIVIDE$Utah$DIVIDE$Michigan$DIVIDE$Puerto Rico$DIVIDE$Illinois$DIVIDE$North Dakota$DIVIDE$South Dakota$DIVIDE$Montana$DIVIDE$Wyoming$DIVIDE$Idaho$DIVIDE$Washington$DIVIDE$Nevada$DIVIDE$Colorado$DIVIDE$Virginia$DIVIDE$West Virginia$DIVIDE$New York$DIVIDE$Rhode Island$DIVIDE$Maryland$DIVIDE$Delaware$DIVIDE$Ohio$DIVIDE$Pennsylvania$DIVIDE$New Jersey$DIVIDE$Indiana$DIVIDE$Georgia$DIVIDE$Texas$DIVIDE$North Carolina$DIVIDE$South Carolina$DIVIDE$Mississippi$DIVIDE$Tennessee$DIVIDE$New Mexico$DIVIDE$Minnesota$DIVIDE$Wisconsin$DIVIDE$Iowa$DIVIDE$Nebraska$DIVIDE$Kansas$DIVIDE$Missouri$DIVIDE$Louisiana$DIVIDE$Kentucky$DIVIDE$Arkansas$DIVIDE$Oklahoma$DIVIDE$United States Virgin Islands$DIVIDE$Vermont$DIVIDE$Guam$DIVIDE$American Samoa$DIVIDE$Northern Mariana Islands$DIVIDE$District of Columbia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Budapest$DIVIDE$Bács-Kiskun County$DIVIDE$Hajdú-Bihar County$DIVIDE$Zala County$DIVIDE$Baranya County$DIVIDE$Vas County$DIVIDE$Fejér County$DIVIDE$Győr-Moson-Sopron County$DIVIDE$Pest County$DIVIDE$Veszprém County$DIVIDE$Borsod-Abaúj-Zemplén County$DIVIDE$Jász-Nagykun-Szolnok County$DIVIDE$Komárom-Esztergom County$DIVIDE$Szabolcs-Szatmár-Bereg County$DIVIDE$Somogy County$DIVIDE$Heves County$DIVIDE$Békés County$DIVIDE$Tolna County$DIVIDE$Csongrád-Csanád County$DIVIDE$Nógrád County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Galicia$DIVIDE$Asturias$DIVIDE$Cantabria$DIVIDE$Basque Autonomous Community$DIVIDE$Navarre$DIVIDE$Aragon$DIVIDE$Catalonia$DIVIDE$Valencian Community$DIVIDE$La Rioja$DIVIDE$Castile and León$DIVIDE$Castilla–La Mancha$DIVIDE$Community of Madrid$DIVIDE$Region of Murcia$DIVIDE$Extremadura$DIVIDE$Andalusia$DIVIDE$Canary Islands$DIVIDE$Ceuta$DIVIDE$Melilla$DIVIDE$plazas de soberanía$DIVIDE$Balearic Islands"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q347"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Vaduz$DIVIDE$Eschen$DIVIDE$Triesenberg$DIVIDE$Triesen$DIVIDE$Schellenberg$DIVIDE$Q49657$DIVIDE$Ruggell$DIVIDE$Planken$DIVIDE$Mauren$DIVIDE$Gamprin$DIVIDE$Balzers"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q398"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahrain"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Muharraq Governorate$DIVIDE$Capital Governorate$DIVIDE$Southern Governorate$DIVIDE$Northern Governorate$DIVIDE$Central Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q399"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armenia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Yerevan$DIVIDE$Kotayk Province$DIVIDE$Aragatsotn Province$DIVIDE$Ararat Province$DIVIDE$Gegharkunik Province$DIVIDE$Vayots Dzor Province$DIVIDE$Lori Province$DIVIDE$Shirak Province$DIVIDE$Tavush Province$DIVIDE$Armavir Province$DIVIDE$Syunik Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kosovo-Pomoravlje District$DIVIDE$Prizren District$DIVIDE$Srem District$DIVIDE$Central Banat District$DIVIDE$Bor District$DIVIDE$Zlatibor District$DIVIDE$Šumadija District$DIVIDE$Pirot District$DIVIDE$South Bačka District$DIVIDE$North Bačka District$DIVIDE$South Banat District$DIVIDE$North Banat District$DIVIDE$West Bačka District$DIVIDE$Podunavlje District$DIVIDE$Braničevo District$DIVIDE$Mačva District$DIVIDE$Pomoravlje District$DIVIDE$Jablanica District$DIVIDE$Moravica District$DIVIDE$Zaječar District$DIVIDE$Rasina District$DIVIDE$Kolubara District$DIVIDE$Toplica District$DIVIDE$Nišava District$DIVIDE$Raška District$DIVIDE$Pčinja District$DIVIDE$Kosovo District$DIVIDE$Kosovska Mitrovica District$DIVIDE$City of Belgrade$DIVIDE$Peć District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q408"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Western Australia$DIVIDE$New South Wales$DIVIDE$Northern Territory$DIVIDE$Australian Capital Territory$DIVIDE$Jervis Bay Territory$DIVIDE$Norfolk Island$DIVIDE$Christmas Island$DIVIDE$Tasmania$DIVIDE$South Australia$DIVIDE$Cocos (Keeling) Islands$DIVIDE$Queensland$DIVIDE$Victoria$DIVIDE$Heard Island and McDonald Islands$DIVIDE$Ashmore and Cartier Islands$DIVIDE$Coral Sea Islands$DIVIDE$Australian Antarctic Territory"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q414"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Buenos Aires Province$DIVIDE$Catamarca Province$DIVIDE$Chaco Province$DIVIDE$Corrientes Province$DIVIDE$Córdoba Province$DIVIDE$Formosa Province$DIVIDE$Entre Ríos Province$DIVIDE$Jujuy Province$DIVIDE$La Pampa$DIVIDE$La Rioja Province$DIVIDE$Mendoza Province$DIVIDE$Misiones Province$DIVIDE$Neuquén Province$DIVIDE$Río Negro Province$DIVIDE$Salta Province$DIVIDE$San Juan Province$DIVIDE$San Luis Province$DIVIDE$Santa Cruz Province$DIVIDE$Santa Fe Province$DIVIDE$Santiago del Estero Province$DIVIDE$Tucumán Province$DIVIDE$Tierra del Fuego, Antarctica and South Atlantic Islands Province$DIVIDE$Chubut Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peru"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Loreto Department$DIVIDE$Amazonas Department$DIVIDE$Cusco Department$DIVIDE$Arequipa Department$DIVIDE$Cajamarca Department$DIVIDE$Ancash Department$DIVIDE$Puno Department$DIVIDE$Ayacucho Department$DIVIDE$La Libertad Department$DIVIDE$Tacna Department$DIVIDE$Ucayali Department$DIVIDE$Junin Department$DIVIDE$Moquegua Department$DIVIDE$Piura Department$DIVIDE$Apurimac Department$DIVIDE$Ica Department$DIVIDE$Tumbes Department$DIVIDE$Lambayeque Department$DIVIDE$Madre de Dios Department$DIVIDE$Pasco Department$DIVIDE$San Martin Department$DIVIDE$Lima Department$DIVIDE$Huanuco Department$DIVIDE$Huancavelica Department$DIVIDE$Constitutional Province of Callao"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q423"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Korea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Pyongyang$DIVIDE$Kangwon Province$DIVIDE$North Hwanghae Province$DIVIDE$North Pyongan Province$DIVIDE$North Hamgyong Province$DIVIDE$South Hamgyong Province$DIVIDE$South Pyongan Province$DIVIDE$Nampo$DIVIDE$Ryanggang Province$DIVIDE$Rason$DIVIDE$Chagang Province$DIVIDE$South Hwanghae Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q424"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Phnom Penh$DIVIDE$Banteay Meanchey Province$DIVIDE$Kampong Cham Province$DIVIDE$Sihanoukville Province$DIVIDE$Koh Kong Province$DIVIDE$Kandal Province$DIVIDE$Kampong Thom Province$DIVIDE$Preah Vihear Province$DIVIDE$Pailin Province$DIVIDE$Takéo Province$DIVIDE$Oddar Meanchey Province$DIVIDE$Siem Reap Province$DIVIDE$Mondulkiri Province$DIVIDE$Kampong Speu Province$DIVIDE$Ratanakiri Province$DIVIDE$Kampot Province$DIVIDE$Svay Rieng Province$DIVIDE$Kratié Province$DIVIDE$Battambang Province$DIVIDE$Pursat Province$DIVIDE$Stung Treng Province$DIVIDE$Kep Province$DIVIDE$Prey Veng Province$DIVIDE$Kampong Chhnang Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timor-Leste"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Cova Lima Municipality$DIVIDE$Aileu municipality$DIVIDE$Ainaro Municipality$DIVIDE$Viqueque Municipality$DIVIDE$Manufahi Municipality$DIVIDE$Ermera Municipality$DIVIDE$Lautém Municipality$DIVIDE$Atauro$DIVIDE$Baucau Municipality$DIVIDE$Manatuto Municipality$DIVIDE$Oe-Cusse Ambeno$DIVIDE$Liquiçá Municipality$DIVIDE$Dili Municipality$DIVIDE$Bobonaro Municipality"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chad"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "N'Djamena$DIVIDE$Logone Oriental Region$DIVIDE$Guéra Region$DIVIDE$Moyen-Chari Region$DIVIDE$Batha Region$DIVIDE$Logone Occidental Region$DIVIDE$Salamat Region$DIVIDE$Mandoul Region$DIVIDE$Tibesti Region$DIVIDE$Ennedi Region$DIVIDE$Ouaddaï Region$DIVIDE$Chari-Baguirmi Region$DIVIDE$Kanem Region$DIVIDE$Wadi Fira Region$DIVIDE$Tandjilé Region$DIVIDE$Lac Region$DIVIDE$Mayo-Kebbi Ouest Region$DIVIDE$Mayo-Kebbi Est Region$DIVIDE$Hadjer-Lamis$DIVIDE$Bahr el Gazel$DIVIDE$Borkou$DIVIDE$Sila Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q664"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Zealand"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Northland Region$DIVIDE$Manawatū-Whanganui Region$DIVIDE$Waikato Region$DIVIDE$Marlborough District$DIVIDE$Taranaki Region$DIVIDE$Gisborne District$DIVIDE$Hawke's Bay Region$DIVIDE$West Coast Region$DIVIDE$Canterbury Region$DIVIDE$Tasman District$DIVIDE$Otago Region$DIVIDE$Auckland Region$DIVIDE$Wellington Region$DIVIDE$Southland Region$DIVIDE$Nelson Region$DIVIDE$Bay of Plenty Region$DIVIDE$Chatham Islands Council"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Wallonia$DIVIDE$Brussels-Capital Region$DIVIDE$Flemish Community$DIVIDE$Flemish Region$DIVIDE$French Community of Belgium$DIVIDE$German-speaking Community of Belgium"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweden"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Blekinge County$DIVIDE$Västra Götaland County$DIVIDE$Skåne County$DIVIDE$Jönköping County$DIVIDE$Jämtland County$DIVIDE$Norrbotten County$DIVIDE$Halland County$DIVIDE$Gävleborg County$DIVIDE$Kalmar County$DIVIDE$Dalarna County$DIVIDE$Gotland County$DIVIDE$Stockholm County$DIVIDE$Örebro County$DIVIDE$Kronoberg County$DIVIDE$Västerbotten County$DIVIDE$Västernorrland County$DIVIDE$Uppsala County$DIVIDE$Östergötland County$DIVIDE$Västmanland County$DIVIDE$Värmland County$DIVIDE$Södermanland County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Denmark"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Southern Denmark$DIVIDE$North Denmark Region$DIVIDE$Capital Region of Denmark$DIVIDE$Central Denmark$DIVIDE$Region Zealand$DIVIDE$South Jutland County$DIVIDE$Storstrøm County$DIVIDE$Roskilde County$DIVIDE$Funen County$DIVIDE$Copenhagen County$DIVIDE$Ringkjøbing County$DIVIDE$Frederiksborg County$DIVIDE$North Jutland County$DIVIDE$Ribe County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Luxembourg District$DIVIDE$Canton of Esch-sur-Alzette$DIVIDE$Grevenmacher District$DIVIDE$Diekirch District$DIVIDE$Canton of Capellen$DIVIDE$Canton of Wiltz$DIVIDE$Canton of Luxembourg$DIVIDE$Canton of Remich$DIVIDE$Canton of Clervaux$DIVIDE$Canton of Diekirch$DIVIDE$Canton of Echternach$DIVIDE$Canton of Mersch$DIVIDE$Canton of Redange$DIVIDE$Canton of Grevenmacher$DIVIDE$Canton of Vianden"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Finland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Åland$DIVIDE$South Karelia$DIVIDE$South Ostrobothnia$DIVIDE$South Savo$DIVIDE$Kainuu$DIVIDE$Kanta-Häme$DIVIDE$Central Ostrobothnia$DIVIDE$Central Finland$DIVIDE$Kymenlaakso$DIVIDE$Lapland$DIVIDE$Pirkanmaa$DIVIDE$Ostrobothnia$DIVIDE$North Karelia$DIVIDE$North Ostrobothnia$DIVIDE$North Savo$DIVIDE$Päijät-Häme$DIVIDE$Satakunta$DIVIDE$Uusimaa$DIVIDE$Southwest Finland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Lower Silesian Voivodeship$DIVIDE$Kuyavian-Pomeranian Voivodeship$DIVIDE$Lublin Voivodeship$DIVIDE$Lubusz Voivodeship$DIVIDE$Łódź Voivodeship$DIVIDE$Lesser Poland Voivodeship$DIVIDE$Masovian Voivodeship$DIVIDE$Opole Voivodeship$DIVIDE$Subcarpathian Voivodeship$DIVIDE$Podlaskie Voivodeship$DIVIDE$Pomeranian Voivodeship$DIVIDE$Silesian Voivodeship$DIVIDE$Świętokrzyskie Voivodeship$DIVIDE$Warmian-Masurian Voivodeship$DIVIDE$Greater Poland Voivodeship$DIVIDE$West Pomeranian Voivodeship"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lithuania"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Šiauliai County$DIVIDE$Vilnius County$DIVIDE$Panevėžys County$DIVIDE$Utena County$DIVIDE$Tauragė County$DIVIDE$Telšiai County$DIVIDE$Klaipėda County$DIVIDE$Alytus County$DIVIDE$Kaunas County$DIVIDE$Marijampolė County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q159"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Russia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Belgorod Oblast$DIVIDE$Voronezh Oblast$DIVIDE$Lipetsk Oblast$DIVIDE$Tambov Oblast$DIVIDE$Rostov Oblast$DIVIDE$Krasnodar Krai$DIVIDE$Adygea$DIVIDE$Volgograd Oblast$DIVIDE$Astrakhan Oblast$DIVIDE$Kalmykia$DIVIDE$Primorsky Krai$DIVIDE$Dagestan$DIVIDE$Chechnya$DIVIDE$Stavropol Krai$DIVIDE$Ingushetia$DIVIDE$North Ossetia–Alania$DIVIDE$Kabardino-Balkaria$DIVIDE$Karachay-Cherkessia$DIVIDE$Saratov Oblast$DIVIDE$Orenburg Oblast$DIVIDE$Mordovia$DIVIDE$Kirov Oblast$DIVIDE$Perm Krai$DIVIDE$Udmurtia$DIVIDE$Mari El$DIVIDE$Sverdlovsk Oblast$DIVIDE$Chuvashia$DIVIDE$Tatarstan$DIVIDE$Penza Oblast$DIVIDE$Ulyanovsk Oblast$DIVIDE$Bashkortostan$DIVIDE$Chelyabinsk Oblast$DIVIDE$Kurgan Oblast$DIVIDE$Tyumen Oblast$DIVIDE$Omsk Oblast$DIVIDE$Novosibirsk Oblast$DIVIDE$Tomsk Oblast$DIVIDE$Altai Krai$DIVIDE$Altai Republic$DIVIDE$Kemerovo Oblast$DIVIDE$Khanty-Mansi Autonomous Okrug$DIVIDE$Yamalo-Nenets Autonomous Okrug$DIVIDE$Khakassia$DIVIDE$Krasnoyarsk Krai$DIVIDE$Irkutsk Oblast$DIVIDE$Sakha$DIVIDE$Buryatia$DIVIDE$Zabaykalsky Krai$DIVIDE$Amur Oblast$DIVIDE$Sevastopol$DIVIDE$Jewish Autonomous Oblast$DIVIDE$Khabarovsk Krai$DIVIDE$Sakhalin Oblast$DIVIDE$Kamchatka Krai$DIVIDE$Magadan Oblast$DIVIDE$Chukotka Autonomous Okrug$DIVIDE$Republic of Crimea$DIVIDE$Moscow$DIVIDE$Saint Petersburg$DIVIDE$Tuva$DIVIDE$Moscow Oblast$DIVIDE$Samara Oblast$DIVIDE$Kaliningrad Oblast$DIVIDE$Murmansk Oblast$DIVIDE$Arkhangelsk Oblast$DIVIDE$Karelia$DIVIDE$Vologda Oblast$DIVIDE$Komi Republic$DIVIDE$Nenets Autonomous Okrug$DIVIDE$Leningrad Oblast$DIVIDE$Pskov Oblast$DIVIDE$Novgorod Oblast$DIVIDE$Nizhny Novgorod Oblast$DIVIDE$Tver Oblast$DIVIDE$Smolensk Oblast$DIVIDE$Yaroslavl Oblast$DIVIDE$Kostroma Oblast$DIVIDE$Ivanovo Oblast$DIVIDE$Vladimir Oblast$DIVIDE$Ryazan Oblast$DIVIDE$Tula Oblast$DIVIDE$Bryansk Oblast$DIVIDE$Kaluga Oblast$DIVIDE$Oryol Oblast$DIVIDE$Kursk Oblast"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Berlin$DIVIDE$Bavaria$DIVIDE$Baden-Württemberg$DIVIDE$Hamburg$DIVIDE$Schleswig-Holstein$DIVIDE$Mecklenburg-Western Pomerania$DIVIDE$Lower Saxony$DIVIDE$North Rhine-Westphalia$DIVIDE$Hesse$DIVIDE$Rhineland-Palatinate$DIVIDE$Saarland$DIVIDE$Saxony$DIVIDE$Thuringia$DIVIDE$Saxony-Anhalt$DIVIDE$Brandenburg$DIVIDE$Bremen"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belarus"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Minsk$DIVIDE$Brest Region$DIVIDE$Vitebsk Region$DIVIDE$Gomel Region$DIVIDE$Mogilev Region$DIVIDE$Grodno Region$DIVIDE$Minsk Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Harju County$DIVIDE$Pärnu County$DIVIDE$Järva County$DIVIDE$Võru County$DIVIDE$Lääne-Viru County$DIVIDE$Ida-Viru County$DIVIDE$Lääne County$DIVIDE$Jõgeva County$DIVIDE$Põlva County$DIVIDE$Viljandi County$DIVIDE$Rapla County$DIVIDE$Valga County$DIVIDE$Tartu County$DIVIDE$Saare County$DIVIDE$Hiiu County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iceland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Southwest$DIVIDE$South Constituency$DIVIDE$Reykjavík North$DIVIDE$Northeast$DIVIDE$Northwest$DIVIDE$Reykjavík South"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Latvia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Riga$DIVIDE$Daugavpils$DIVIDE$Ventspils$DIVIDE$Valmiera$DIVIDE$Liepāja$DIVIDE$Jūrmala$DIVIDE$Jelgava$DIVIDE$Rēzekne$DIVIDE$Jēkabpils$DIVIDE$Gulbene Municipality$DIVIDE$Lielvārde Municipality$DIVIDE$Tukums Municipality$DIVIDE$Saulkrasti Municipality$DIVIDE$Varakļāni Municipality$DIVIDE$Vaiņode Municipality$DIVIDE$Dobele Municipality$DIVIDE$Naukšēni Municipality$DIVIDE$Pļaviņas Municipality$DIVIDE$Aknīste Municipality$DIVIDE$Aizkraukle Municipality$DIVIDE$Koknese Municipality$DIVIDE$Brocēni Municipality$DIVIDE$Ludza Municipality$DIVIDE$Daugavpils Municipality$DIVIDE$Līgatne Municipality$DIVIDE$Vārkava Municipality$DIVIDE$Ventspils Municipality$DIVIDE$Rēzekne Municipality$DIVIDE$Limbaži Municipality$DIVIDE$Jēkabpils Municipality$DIVIDE$Jelgava Municipality$DIVIDE$Krāslava Municipality$DIVIDE$Rugāji Municipality$DIVIDE$Viļaka Municipality$DIVIDE$Amata Municipality$DIVIDE$Vecpiebalga Municipality$DIVIDE$Auce Municipality$DIVIDE$Pāvilosta Municipality$DIVIDE$Valka Municipality$DIVIDE$Nīca Municipality$DIVIDE$Cibla Municipality$DIVIDE$Smiltene Municipality$DIVIDE$Durbe Municipality$DIVIDE$Cēsis Municipality$DIVIDE$Alsunga Municipality$DIVIDE$Balvi Municipality$DIVIDE$Viļāni Municipality$DIVIDE$Beverīna Municipality$DIVIDE$Kandava Municipality$DIVIDE$Ilūkste Municipality$DIVIDE$Baldone Municipality$DIVIDE$Aglona Municipality$DIVIDE$Jaunpils Municipality$DIVIDE$Lubāna Municipality$DIVIDE$Ķegums Municipality$DIVIDE$Babīte Municipality$DIVIDE$Ērgļi Municipality$DIVIDE$Burtnieki Municipality$DIVIDE$Engure Municipality$DIVIDE$Viesīte Municipality$DIVIDE$Riebiņi Municipality$DIVIDE$Rundāle Municipality$DIVIDE$Rauna Municipality$DIVIDE$Rucava Municipality$DIVIDE$Salaspils Municipality$DIVIDE$Nereta Municipality$DIVIDE$Garkalne Municipality$DIVIDE$Madona Municipality$DIVIDE$Mārupe Municipality$DIVIDE$Salacgrīva Municipality$DIVIDE$Inčukalns Municipality$DIVIDE$Ķekava Municipality$DIVIDE$Tērvete Municipality$DIVIDE$Dundaga Municipality$DIVIDE$Preiļi Municipality$DIVIDE$Krustpils Municipality$DIVIDE$Līvāni Municipality$DIVIDE$Mazsalaca Municipality$DIVIDE$Skrīveri Municipality$DIVIDE$Stopiņi Municipality$DIVIDE$Strenči Municipality$DIVIDE$Priekuļi Municipality$DIVIDE$Skrunda Municipality$DIVIDE$Sigulda Municipality$DIVIDE$Saldus Municipality$DIVIDE$Rūjiena Municipality$DIVIDE$Vecumnieki Municipality$DIVIDE$Sēja Municipality$DIVIDE$Talsi Municipality$DIVIDE$Roja Municipality$DIVIDE$Krimulda Municipality$DIVIDE$Pārgauja Municipality$DIVIDE$Kocēni Municipality$DIVIDE$Priekule Municipality$DIVIDE$Mālpils Municipality$DIVIDE$Ozolnieki Municipality$DIVIDE$Jaunpiebalga Municipality$DIVIDE$Grobiņa Municipality$DIVIDE$Ogre Municipality$DIVIDE$Cesvaine Municipality$DIVIDE$Kuldīga Municipality$DIVIDE$Iecava Municipality$DIVIDE$Ikšķile Municipality$DIVIDE$Ape Municipality$DIVIDE$Baltinava Municipality$DIVIDE$Dagda Municipality$DIVIDE$Bauska Municipality$DIVIDE$Sala Municipality$DIVIDE$Kārsava Municipality$DIVIDE$Mērsrags Municipality$DIVIDE$Olaine Municipality$DIVIDE$Carnikava Municipality$DIVIDE$Aizpute Municipality$DIVIDE$Jaunjelgava Municipality$DIVIDE$Aloja Municipality$DIVIDE$Ādaži Municipality$DIVIDE$Zilupe Municipality$DIVIDE$Alūksne Municipality$DIVIDE$Ropaži Municipality"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q786"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominican Republic"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Sánchez Ramírez Province$DIVIDE$María Trinidad Sánchez Province$DIVIDE$San Juan Province$DIVIDE$Santiago Rodríguez Province$DIVIDE$Distrito Nacional$DIVIDE$Espaillat Province$DIVIDE$Hermanas Mirabal Province$DIVIDE$Monte Cristi Province$DIVIDE$La Vega Province$DIVIDE$Puerto Plata Province$DIVIDE$Azua Province$DIVIDE$Baoruco Province$DIVIDE$Hato Mayor Province$DIVIDE$Elías Piña Province$DIVIDE$Barahona Province$DIVIDE$Dajabón Province$DIVIDE$La Romana$DIVIDE$Samaná Province$DIVIDE$Duarte Province$DIVIDE$Monseñor Nouel Province$DIVIDE$La Altagracia Province$DIVIDE$Peravia Province$DIVIDE$Pedernales Province$DIVIDE$Santo Domingo Province$DIVIDE$San Cristóbal Province$DIVIDE$San Pedro de Macorís$DIVIDE$San José de Ocoa Province$DIVIDE$Independencia$DIVIDE$Monte Plata Province$DIVIDE$Santiago Province$DIVIDE$El Seibo Province$DIVIDE$Valverde Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q790"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haiti"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Nippes$DIVIDE$Nord-Ouest$DIVIDE$Artibonite$DIVIDE$Centre$DIVIDE$Grand'Anse$DIVIDE$Nord-Est$DIVIDE$Sud$DIVIDE$Sud-Est$DIVIDE$Nord$DIVIDE$Ouest"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q794"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iran"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Qom Province$DIVIDE$Bushehr Province$DIVIDE$Ardabil Province$DIVIDE$Kurdistan Province$DIVIDE$West Azarbaijan Province$DIVIDE$Markazi Province$DIVIDE$Zanjan Province$DIVIDE$Kerman Province$DIVIDE$Semnan Province$DIVIDE$Golestan Province$DIVIDE$Yazd Province$DIVIDE$Ilam Province$DIVIDE$South Khorasan Province$DIVIDE$Chaharmahal and Bakhtiari Province$DIVIDE$Kermanshah Province$DIVIDE$East Azarbaijan Province$DIVIDE$Kohgiluyeh and Boyer-Ahmad Province$DIVIDE$North Khorasan Province$DIVIDE$Hamadan Province$DIVIDE$Khuzestan Province$DIVIDE$Mazandaran Province$DIVIDE$Alborz Province$DIVIDE$Razavi Khorasan Province$DIVIDE$Tehran Province$DIVIDE$Hormozgan Province$DIVIDE$Gilan Province$DIVIDE$Sistan and Baluchestan Province$DIVIDE$Fars Province$DIVIDE$Qazvin Province$DIVIDE$Lorestan Province$DIVIDE$Isfahan Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q792"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Salvador"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Sonsonate Department$DIVIDE$Chalatenango Department$DIVIDE$Ahuachapán Department$DIVIDE$Santa Ana Department$DIVIDE$Cabañas Department$DIVIDE$San Miguel Department$DIVIDE$La Libertad Department$DIVIDE$Usulután Department$DIVIDE$Morazán Department$DIVIDE$La Paz Department$DIVIDE$San Vicente Department$DIVIDE$Cuscatlán Department$DIVIDE$La Unión Department$DIVIDE$San Salvador Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q796"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iraq"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Babylon Governorate$DIVIDE$Al-Qādisiyyah Governorate$DIVIDE$Al Anbar Governorate$DIVIDE$Nineveh Governorate$DIVIDE$Duhok Governorate$DIVIDE$Wasit Governorate$DIVIDE$Diyala Governorate$DIVIDE$Baghdad Governorate$DIVIDE$Najaf Governorate$DIVIDE$Kirkuk Governorate$DIVIDE$Basra Governorate$DIVIDE$Al Muthanna Governorate$DIVIDE$Maysan Governorate$DIVIDE$Sulaymaniyah Governorate$DIVIDE$Erbil Governorate$DIVIDE$Karbala Governorate$DIVIDE$Dhi Qar Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q800"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Costa Rica"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Puntarenas Province$DIVIDE$Cartago Province$DIVIDE$Alajuela Province$DIVIDE$Heredia Province$DIVIDE$Limón Province$DIVIDE$San José Province$DIVIDE$Guanacaste Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q801"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Haifa District$DIVIDE$Southern District$DIVIDE$Central District$DIVIDE$Northern District$DIVIDE$Jerusalem District$DIVIDE$Tel Aviv District$DIVIDE$Judea and Samaria Area"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q804"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panama"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bocas del Toro Province$DIVIDE$Panamá Province$DIVIDE$Veraguas Province$DIVIDE$Darién Province$DIVIDE$Chiriquí Province$DIVIDE$Colón Province$DIVIDE$Coclé Province$DIVIDE$Herrera Province$DIVIDE$Los Santos Province$DIVIDE$Guna Yala$DIVIDE$Ngöbe-Buglé Comarca$DIVIDE$Emberá-Wounaan Comarca$DIVIDE$Kuna de Wargandí$DIVIDE$Madugandí$DIVIDE$Panamá Oeste Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "India"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Gujarat$DIVIDE$Andhra Pradesh$DIVIDE$Arunachal Pradesh$DIVIDE$Assam$DIVIDE$Bihar$DIVIDE$Chhattisgarh$DIVIDE$Goa$DIVIDE$Haryana$DIVIDE$Himachal Pradesh$DIVIDE$Jammu and Kashmir$DIVIDE$Jharkhand$DIVIDE$Karnataka$DIVIDE$Kerala$DIVIDE$Madhya Pradesh$DIVIDE$Maharashtra$DIVIDE$Manipur$DIVIDE$Meghalaya$DIVIDE$Delhi$DIVIDE$West Bengal$DIVIDE$Tripura$DIVIDE$Rajasthan$DIVIDE$Tamil Nadu$DIVIDE$Uttar Pradesh$DIVIDE$Uttarakhand$DIVIDE$Mizoram$DIVIDE$Sikkim$DIVIDE$Nagaland$DIVIDE$Odisha$DIVIDE$Punjab$DIVIDE$Lakshadweep$DIVIDE$Andaman and Nicobar Islands$DIVIDE$Chandigarh$DIVIDE$Dadra and Nagar Haveli district$DIVIDE$Daman and Diu$DIVIDE$Puducherry$DIVIDE$Ladakh$DIVIDE$Telangana$DIVIDE$Dadra and Nagar Haveli and Daman and Diu"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q678"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tonga"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Vava‘u$DIVIDE$Niua district$DIVIDE$Haʻapai district$DIVIDE$ʻEua district$DIVIDE$Tongatapu"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q683"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samoa"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Satupa'itea$DIVIDE$Aiga-i-le-Tai$DIVIDE$Palauli$DIVIDE$Va'a-o-Fonoti$DIVIDE$A'ana$DIVIDE$Fa'asaleleaga$DIVIDE$Atua$DIVIDE$Gaga'ifomauga$DIVIDE$Vaisigano$DIVIDE$Gaga'emauga"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q686"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vanuatu"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Tafea$DIVIDE$Shefa$DIVIDE$Sanma$DIVIDE$Malampa$DIVIDE$Torba$DIVIDE$Penama"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q685"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Solomon Islands"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Honiara$DIVIDE$Western Province$DIVIDE$Central Province$DIVIDE$Choiseul Province$DIVIDE$Guadalcanal Province$DIVIDE$Temotu Province$DIVIDE$Rennell and Bellona Province$DIVIDE$Makira-Ulawa Province$DIVIDE$Isabel Province$DIVIDE$Malaita Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papua New Guinea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Autonomous Region of Bougainville$DIVIDE$Madang Province$DIVIDE$Chimbu Province$DIVIDE$West New Britain Province$DIVIDE$East Sepik Province$DIVIDE$Oro Province$DIVIDE$Sandaun Province$DIVIDE$East New Britain Province$DIVIDE$New Ireland Province$DIVIDE$Western Province$DIVIDE$Southern Highlands Province$DIVIDE$Western Highlands Province$DIVIDE$Eastern Highlands Province$DIVIDE$Morobe Province$DIVIDE$Enga Province$DIVIDE$Manus Province$DIVIDE$Central Province$DIVIDE$Milne Bay Province$DIVIDE$Gulf Province$DIVIDE$National Capital District$DIVIDE$Hela Province$DIVIDE$Jiwaka Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1039"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Tomé and Príncipe"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Água Grande$DIVIDE$Lembá$DIVIDE$Cantagalo$DIVIDE$Caué$DIVIDE$Lobata$DIVIDE$Mé-Zóchi$DIVIDE$Príncipe Autonomous Region$DIVIDE$São Tomé Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1036"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kabarole District$DIVIDE$Kasese District$DIVIDE$Kapchorwa District$DIVIDE$Katakwi District$DIVIDE$Mityana District$DIVIDE$Pader District$DIVIDE$Kamwenge District$DIVIDE$Kyenjojo District$DIVIDE$Amolatar District$DIVIDE$Oyam District$DIVIDE$Kotido District$DIVIDE$Koboko District$DIVIDE$Kiruhura District$DIVIDE$Dokolo District$DIVIDE$Ibanda$DIVIDE$Isingiro District$DIVIDE$Budaka District$DIVIDE$Mpigi District$DIVIDE$Bundibugyo District$DIVIDE$Yumbe District$DIVIDE$Luwero District$DIVIDE$Mayuge District$DIVIDE$Bududa District$DIVIDE$Butaleja District$DIVIDE$Amuria District$DIVIDE$Amuru District$DIVIDE$Abim District$DIVIDE$Manafwa District$DIVIDE$Bukedea District$DIVIDE$Namutumba District$DIVIDE$Nebbi District$DIVIDE$Sironko District$DIVIDE$Pallisa District$DIVIDE$Moroto District$DIVIDE$Nakapiripirit District$DIVIDE$Kaliro District$DIVIDE$Bukwo District$DIVIDE$Lyantonde District$DIVIDE$Moyo District$DIVIDE$Bukomansimbi District$DIVIDE$Buvuma District$DIVIDE$Kalungu District$DIVIDE$Butambala District$DIVIDE$Buikwe District$DIVIDE$Gomba District$DIVIDE$Kween District$DIVIDE$Kabale District$DIVIDE$Agago District$DIVIDE$Alebtong District$DIVIDE$Amudat District$DIVIDE$Buhweju District$DIVIDE$Kiryandongo District$DIVIDE$Kole District$DIVIDE$Kyegegwa District$DIVIDE$Lamwo District$DIVIDE$Mitooma District$DIVIDE$Napak District$DIVIDE$Ntoroko District$DIVIDE$Nwoya District$DIVIDE$Otuke District$DIVIDE$Rubirizi District$DIVIDE$Sheema District$DIVIDE$Zombo District$DIVIDE$Kakumiro District$DIVIDE$Kagadi District$DIVIDE$Kyotera District$DIVIDE$Pakwach District$DIVIDE$Omoro District$DIVIDE$Rubanda District$DIVIDE$Rukiga District$DIVIDE$Bunyangabu District$DIVIDE$Butebo District$DIVIDE$Namisindwa District$DIVIDE$Nabilatuk District$DIVIDE$Bugweri District$DIVIDE$Kassanda District$DIVIDE$Kapelebyong District$DIVIDE$Kwania District$DIVIDE$Kikuube District$DIVIDE$Kitagwenda District$DIVIDE$Rwampara district$DIVIDE$Obongi District$DIVIDE$Karenga District$DIVIDE$Kazo District$DIVIDE$Madi-Okollo District$DIVIDE$Kalaki District$DIVIDE$Kamuli District$DIVIDE$Ntungamo District$DIVIDE$Lira District$DIVIDE$Rukungiri District$DIVIDE$Nakaseke District$DIVIDE$Kitgum District$DIVIDE$Kyankwanzi District$DIVIDE$Kisoro District$DIVIDE$Mbale District$DIVIDE$Maracha District$DIVIDE$Kibaale District$DIVIDE$Kalangala District$DIVIDE$Mubende District$DIVIDE$Kiboga District$DIVIDE$Kampala District$DIVIDE$Wakiso District$DIVIDE$Nakasongola District$DIVIDE$Rakai District$DIVIDE$Sembabule District$DIVIDE$Jinja District$DIVIDE$Gulu District$DIVIDE$Masaka District$DIVIDE$Masindi District$DIVIDE$Kanungu District$DIVIDE$Soroti District$DIVIDE$Mbarara District$DIVIDE$Bulambuli District$DIVIDE$Kibuku District$DIVIDE$Ngora District$DIVIDE$Namayingo District$DIVIDE$Serere District$DIVIDE$Buyende District$DIVIDE$Lwengo District$DIVIDE$Luuka District$DIVIDE$Kumi District$DIVIDE$Mukono District$DIVIDE$Hoima city$DIVIDE$Tororo District$DIVIDE$Kayunga District$DIVIDE$Adjumani District$DIVIDE$Apac District$DIVIDE$Arua District$DIVIDE$Buliisa District$DIVIDE$Bushenyi District$DIVIDE$Bugiri District$DIVIDE$Busia District$DIVIDE$Iganga District$DIVIDE$Kaabong District$DIVIDE$Kaberamaido District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1037"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rwanda"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kigali Province$DIVIDE$Western Province$DIVIDE$Northern Province$DIVIDE$Eastern Province$DIVIDE$Southern Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1041"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Saint-Louis$DIVIDE$Sédhiou$DIVIDE$Louga$DIVIDE$Kolda$DIVIDE$Ziguinchor$DIVIDE$Kaolack$DIVIDE$Thiès Region$DIVIDE$Tambacounda Region$DIVIDE$Diourbel Region$DIVIDE$Dakar$DIVIDE$Matam$DIVIDE$Fatick$DIVIDE$Kedougou Region$DIVIDE$Kaffrine"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovenia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Municipality of Gorje$DIVIDE$Mokronog-Trebelno Municipality$DIVIDE$Municipality of Log–Dragomer$DIVIDE$Municipality of Rogatec$DIVIDE$Municipality of Braslovče$DIVIDE$Municipality of Cerkvenjak$DIVIDE$Municipality of Tišina$DIVIDE$Solčava Municipality$DIVIDE$Mirna Municipality$DIVIDE$Municipality of Naklo$DIVIDE$Municipality of Oplotnica$DIVIDE$Municipality of Semič$DIVIDE$Municipality of Jezersko$DIVIDE$Municipality of Straža$DIVIDE$Municipality of Makole$DIVIDE$Municipality of Vojnik$DIVIDE$Municipality of Postojna$DIVIDE$Municipality of Škofja Loka$DIVIDE$Municipality of Šenčur$DIVIDE$Municipality of Bovec$DIVIDE$Municipality of Apače$DIVIDE$Ruše Municipality$DIVIDE$Kostel Municipality$DIVIDE$Ljubljana City Municipality$DIVIDE$Maribor City Municipality$DIVIDE$Municipality of Razkrižje$DIVIDE$City Municipality of Nova Gorica$DIVIDE$Kanal ob Soči Municipality$DIVIDE$Municipality of Gornji Petrovci$DIVIDE$Municipality of Središče ob Dravi$DIVIDE$City Municipality of Ptuj$DIVIDE$City Municipality of Slovenj Gradec$DIVIDE$City Municipality of Celje$DIVIDE$Municipality of Idrija$DIVIDE$City Municipality of Velenje$DIVIDE$Municipality of Metlika$DIVIDE$City Municipality of Kranj$DIVIDE$Črnomelj Municipality$DIVIDE$City Municipality of Krško$DIVIDE$Municipality of Šentrupert$DIVIDE$Municipality of Moravske Toplice$DIVIDE$Municipality of Dravograd$DIVIDE$Municipality of Kamnik$DIVIDE$Municipality of Šmarješke Toplice$DIVIDE$Bohinj Municipality$DIVIDE$Municipality of Muta$DIVIDE$Municipality of Vrhnika$DIVIDE$City Municipality of Murska Sobota$DIVIDE$Municipality of Slovenska Bistrica$DIVIDE$Sevnica Municipality$DIVIDE$Ankaran Municipality$DIVIDE$Municipality of Izola$DIVIDE$Municipality of Kostanjevica na Krki$DIVIDE$Municipality of Cerknica$DIVIDE$municipality of Cerkno$DIVIDE$Municipality of Lenart$DIVIDE$Municipality of Dobrovnik$DIVIDE$Municipality of Hodoš$DIVIDE$Municipality of Cirkulane$DIVIDE$Municipality of Bistrica ob Sotli$DIVIDE$Municipality of Borovnica$DIVIDE$Municipality of Cankova$DIVIDE$Municipality of Domžale$DIVIDE$Municipality of Grosuplje$DIVIDE$Hrastnik Municipality$DIVIDE$Municipality of Ilirska Bistrica$DIVIDE$Municipality of Žužemberk$DIVIDE$Radeče Municipality$DIVIDE$Municipality of Ravne na Koroškem$DIVIDE$Municipality of Rečica ob Savinji$DIVIDE$Slovenske Konjice Municipality$DIVIDE$Trebnje Municipality$DIVIDE$Municipality of Velike Lašče$DIVIDE$Municipality of Vitanje$DIVIDE$Municipality of Vodice$DIVIDE$Municipality of Vransko$DIVIDE$Zagorje ob Savi Municipality$DIVIDE$Municipality of Šalovci$DIVIDE$Šentjur Municipality$DIVIDE$Municipality of Šmartno pri Litiji$DIVIDE$Komen Municipality$DIVIDE$Municipality of Jesenice$DIVIDE$Municipality of Kočevje$DIVIDE$Laško Municipality$DIVIDE$Municipality of Litija$DIVIDE$Ljutomer Municipality$DIVIDE$Municipality of Logatec$DIVIDE$Municipality of Medvode$DIVIDE$Municipality of Mengeš$DIVIDE$Ormož Municipality$DIVIDE$Municipality of Radovljica$DIVIDE$Municipality of Ribnica$DIVIDE$Municipality of Rogaška Slatina$DIVIDE$Municipality of Šoštanj$DIVIDE$Municipality of Tolmin$DIVIDE$Municipality of Trbovlje$DIVIDE$Municipality of Tržič$DIVIDE$Municipality of Žalec$DIVIDE$Železniki Municipality$DIVIDE$Municipality of Lovrenc na Pohorju$DIVIDE$Municipality of Bloke$DIVIDE$Municipality of Zavrč$DIVIDE$Municipality of Turnišče$DIVIDE$Zreče Municipality$DIVIDE$Municipality of Pivka$DIVIDE$Municipality of Črna na Koroškem$DIVIDE$Ajdovščina Municipality$DIVIDE$Municipality of Radenci$DIVIDE$Municipality of Črenšovci$DIVIDE$Municipality of Vuzenica$DIVIDE$Municipality of Šempeter–Vrtojba$DIVIDE$Municipality of Šentilj$DIVIDE$Municipality of Škocjan$DIVIDE$Municipality of Škofljica$DIVIDE$Municipality of Šmarje pri Jelšah$DIVIDE$Municipality of Šmartno ob Paki$DIVIDE$Municipality of Štore$DIVIDE$Municipality of Žetale$DIVIDE$Municipality of Žiri$DIVIDE$Municipality of Žirovnica$DIVIDE$City Municipality of Novo Mesto$DIVIDE$Municipality of Kranjska Gora$DIVIDE$Municipality of Preddvor$DIVIDE$Municipality of Sežana$DIVIDE$City Municipality of Koper$DIVIDE$Municipality of Hrpelje-Kozina$DIVIDE$Municipality of Divača$DIVIDE$Piran Municipality$DIVIDE$Municipality of Gornja Radgona$DIVIDE$Municipality of Destrnik$DIVIDE$Municipality of Lendava$DIVIDE$Municipality of Poljčane$DIVIDE$Municipality of Rogašovci$DIVIDE$Municipality of Renče–Vogrsko$DIVIDE$Municipality of Gorišnica$DIVIDE$Municipality of Bled$DIVIDE$Municipality of Prevalje$DIVIDE$Miren–Kostanjevica Municipality$DIVIDE$Municipality of Luče$DIVIDE$Municipality of Mozirje$DIVIDE$Municipality of Mežica$DIVIDE$Kobarid Municipality$DIVIDE$Municipality of Gornji Grad$DIVIDE$Municipality of Rače–Fram$DIVIDE$Municipality of Brda$DIVIDE$Municipality of Trzin$DIVIDE$Municipality of Ljubno$DIVIDE$Municipality of Kidričevo$DIVIDE$Municipality of Osilnica$DIVIDE$Municipality of Beltinci$DIVIDE$Municipality of Benedikt$DIVIDE$Municipality of Brezovica$DIVIDE$Municipality of Cerklje na Gorenjskem$DIVIDE$Municipality of Kuzma$DIVIDE$Municipality of Brežice$DIVIDE$Ig Municipality$DIVIDE$Municipality of Selnica ob Dravi$DIVIDE$Municipality of Sveti Jurij ob Ščavnici$DIVIDE$Municipality of Puconci$DIVIDE$Municipality of Odranci$DIVIDE$Municipality of Sveti Andraž v Slovenskih Goricah$DIVIDE$Municipality of Kobilje$DIVIDE$Municipality of Polzela$DIVIDE$Municipality of Lukovica$DIVIDE$Municipality of Nazarje$DIVIDE$Komenda Municipality$DIVIDE$Sveta Ana Municipality$DIVIDE$Municipality of Pesnica$DIVIDE$Municipality of Hajdina$DIVIDE$Municipality of Velika Polana$DIVIDE$Municipality of Dol pri Ljubljani$DIVIDE$Municipality of Kungota$DIVIDE$Loška Dolina Municipality$DIVIDE$Municipality of Tabor$DIVIDE$Municipality of Podčetrtek$DIVIDE$Municipality of Loški Potok$DIVIDE$Municipality of Trnovska Vas$DIVIDE$Municipality of Križevci$DIVIDE$Municipality of Dobrna$DIVIDE$Mislinja Municipality$DIVIDE$Municipality of Duplek$DIVIDE$Municipality of Vipava$DIVIDE$Municipality of Podlehnik$DIVIDE$Municipality of Majšperk$DIVIDE$municipality of Videm$DIVIDE$Municipality of Dornava$DIVIDE$Municipality of Juršinci$DIVIDE$Municipality of Miklavž na Dravskem Polju$DIVIDE$Municipality of Horjul$DIVIDE$Municipality of Dobrova–Polhov Gradec$DIVIDE$Municipality of Gorenja Vas-Poljane$DIVIDE$Municipality of Radlje ob Dravi$DIVIDE$Municipality of Ivančna Gorica$DIVIDE$Municipality of Sodražica$DIVIDE$Municipality of Veržej$DIVIDE$Municipality of Markovci$DIVIDE$Municipality of Hoče-Slivnica$DIVIDE$Municipality of Sveti Jurij v Slovenskih Goricah$DIVIDE$Municipality of Dobje$DIVIDE$Municipality of Dobrepolje$DIVIDE$Municipality of Ribnica na Pohorju$DIVIDE$Municipality of Kozje$DIVIDE$Municipality of Moravče$DIVIDE$Municipality of Prebold$DIVIDE$Municipality of Podvelka$DIVIDE$Mirna Peč Municipality$DIVIDE$Municipality of Šentjernej$DIVIDE$Municipality of Sveta Trojica v Slovenskih Goricah$DIVIDE$Municipality of Starše$DIVIDE$Municipality of Sveti Tomaž$DIVIDE$Municipality of Dolenjske Toplice$DIVIDE$Municipality of Grad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moldova"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Gagauzia$DIVIDE$Ocnița District$DIVIDE$Cimișlia District$DIVIDE$Rîșcani District$DIVIDE$Administrative-Territorial Units of the Left Bank of the Dniester$DIVIDE$Cantemir District$DIVIDE$Briceni District$DIVIDE$Anenii Noi District$DIVIDE$Ungheni District$DIVIDE$Glodeni District$DIVIDE$Drochia District$DIVIDE$Șoldănești District$DIVIDE$Florești District$DIVIDE$Taraclia District$DIVIDE$Nisporeni District$DIVIDE$Dubăsari District$DIVIDE$Edineț District$DIVIDE$Hîncești District$DIVIDE$Strășeni District$DIVIDE$Rezina District$DIVIDE$Fălești District$DIVIDE$Dondușeni District$DIVIDE$Sîngerei District$DIVIDE$Leova District$DIVIDE$Basarabeasca District$DIVIDE$Orhei District$DIVIDE$Criuleni District$DIVIDE$Călărași District$DIVIDE$Căușeni District$DIVIDE$Cahul District$DIVIDE$Ialoveni District$DIVIDE$Soroca District$DIVIDE$Telenești District$DIVIDE$Ștefan Vodă District$DIVIDE$Chișinău Municipality$DIVIDE$Bender Municipality$DIVIDE$Bălți Municipality"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q695"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palau"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Melekeok$DIVIDE$Aimeliik$DIVIDE$Airai$DIVIDE$Ngatpang$DIVIDE$Peleliu$DIVIDE$Koror$DIVIDE$Angaur$DIVIDE$Sonsorol$DIVIDE$Kayangel$DIVIDE$Ngeremlengui$DIVIDE$Ngchesar$DIVIDE$Ngarchelong$DIVIDE$Ngardmau$DIVIDE$Ngiwal$DIVIDE$Ngaraard$DIVIDE$Hatohobei"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q697"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nauru"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Yaren District$DIVIDE$Buada District$DIVIDE$Aiwo District$DIVIDE$Ewa District$DIVIDE$Meneng District$DIVIDE$Baiti District$DIVIDE$Anibare District$DIVIDE$Anabar District$DIVIDE$Ijuw District$DIVIDE$Nibok District$DIVIDE$Anetan District$DIVIDE$Boe District$DIVIDE$Uaboe District$DIVIDE$Denigomodu District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federated States of Micronesia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Chuuk$DIVIDE$Kosrae State$DIVIDE$Pohnpei State$DIVIDE$Yap State"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q711"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mongolia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Darkhan-Uul Province$DIVIDE$Ulaanbaatar$DIVIDE$Zavkhan Province$DIVIDE$Bayan-Ölgii Province$DIVIDE$Uvs Province$DIVIDE$Govi-Altai Province$DIVIDE$Khovd Province$DIVIDE$Dornod Province$DIVIDE$Arkhangai Province$DIVIDE$Bulgan Province$DIVIDE$Dundgovi Province$DIVIDE$Dornogovi Province$DIVIDE$Selenge Province$DIVIDE$Orkhon Province$DIVIDE$Övörkhangai Province$DIVIDE$Ömnögovi Province$DIVIDE$Govisümber Province$DIVIDE$Khentii Province$DIVIDE$Khövsgöl Province$DIVIDE$Sükhbaatar Province$DIVIDE$Töv Province$DIVIDE$Bayankhongor Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q709"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marshall Islands"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Majuro$DIVIDE$Bikini Atoll$DIVIDE$Ebon Atoll$DIVIDE$Jaluit Atoll$DIVIDE$Wotho Atoll$DIVIDE$Aur Atoll$DIVIDE$Kwajalein$DIVIDE$Lib Island$DIVIDE$Ailinginae Atoll$DIVIDE$Ailinglaplap Atoll$DIVIDE$Ailuk Atoll$DIVIDE$Wotje Atoll$DIVIDE$Likiep Atoll$DIVIDE$Rongelap Atoll$DIVIDE$Maloelap Atoll$DIVIDE$Enewetak Atoll$DIVIDE$Arno Atoll$DIVIDE$Ujae Atoll$DIVIDE$Jabat Island$DIVIDE$Bikar Atoll$DIVIDE$Namdrik Atoll$DIVIDE$Rongerik Atoll$DIVIDE$Kili Island$DIVIDE$Utirik Atoll$DIVIDE$Mili Atoll$DIVIDE$Bokak Atoll$DIVIDE$Mejit Island$DIVIDE$Toke Atoll$DIVIDE$Ujelang Atoll$DIVIDE$Erikub Atoll$DIVIDE$Namu Atoll$DIVIDE$Jemo Island$DIVIDE$Lae Atoll"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q712"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiji"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Eastern Division$DIVIDE$Rotuma$DIVIDE$Central Division$DIVIDE$Northern Division$DIVIDE$Western Division"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q717"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venezuela"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Táchira$DIVIDE$Apure$DIVIDE$Zulia$DIVIDE$Barinas State$DIVIDE$Federal Dependencies$DIVIDE$Mérida$DIVIDE$Amazonas$DIVIDE$Aragua$DIVIDE$Anzoátegui$DIVIDE$Bolívar$DIVIDE$Miranda$DIVIDE$Carabobo$DIVIDE$Yaracuy$DIVIDE$Delta Amacuro$DIVIDE$Trujillo$DIVIDE$Falcón$DIVIDE$Guárico$DIVIDE$Nueva Esparta$DIVIDE$Cojedes$DIVIDE$Monagas$DIVIDE$Portuguesa$DIVIDE$Lara$DIVIDE$Sucre$DIVIDE$Vargas state$DIVIDE$Capital District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q805"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Al Bayda' Governorate$DIVIDE$Hadhramaut Governorate$DIVIDE$Abyan Governorate$DIVIDE$'Amran Governorate$DIVIDE$Aden Governorate$DIVIDE$Saada Governorate$DIVIDE$Al Mahrah Governorate$DIVIDE$Al Hudaydah Governorate$DIVIDE$Al Jawf Governorate$DIVIDE$Hajjah Governorate$DIVIDE$Shabwah Governorate$DIVIDE$Dhale Governorate$DIVIDE$Dhamar Governorate$DIVIDE$Ibb Governorate$DIVIDE$Al Mahwit Governorate$DIVIDE$Sanaa Governorate$DIVIDE$Lahij Governorate$DIVIDE$Ta'izz Governorate$DIVIDE$Raymah Governorate$DIVIDE$Marib Governorate$DIVIDE$Socotra Archipelago Governorate$DIVIDE$Amanat al Asimah Sana`a"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q810"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jordan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Aqaba Governorate$DIVIDE$Amman Governorate$DIVIDE$Ajloun Governorate$DIVIDE$Ma'an Governorate$DIVIDE$Balqa Governorate$DIVIDE$Irbid Governorate$DIVIDE$Zarqa Governorate$DIVIDE$Karak Governorate$DIVIDE$Tafilah Governorate$DIVIDE$Jerash Governorate$DIVIDE$Madaba Governorate$DIVIDE$Mafraq Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q811"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicaragua"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Granada Department$DIVIDE$Managua Department$DIVIDE$Boaco Department$DIVIDE$South Caribbean Coast Autonomous Region$DIVIDE$Carazo Department$DIVIDE$Chontales Department$DIVIDE$North Caribbean Coast Autonomous Region$DIVIDE$Masaya Department$DIVIDE$León Department$DIVIDE$Chinandega Department$DIVIDE$Estelí Department$DIVIDE$Nueva Segovia Department$DIVIDE$Madriz Department$DIVIDE$Matagalpa Department$DIVIDE$Jinotega Department$DIVIDE$Rivas Department$DIVIDE$Río San Juan Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q813"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kyrgyzstan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bishkek"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q819"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Salavan Province$DIVIDE$Phongsaly Province$DIVIDE$Bokeo Province$DIVIDE$Champasak Province$DIVIDE$Vientiane$DIVIDE$Sainyabūlī$DIVIDE$Savannakhet Province$DIVIDE$Xiangkhouang Province$DIVIDE$Udomsai$DIVIDE$Hūaphan$DIVIDE$Attapeu Province$DIVIDE$Khammouane Province$DIVIDE$Sekong Province$DIVIDE$Vientiane Province$DIVIDE$Luang Prabang Province$DIVIDE$Lūang Namthā$DIVIDE$Bolikhamsai Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q817"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuwait"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Al Jahra Governorate$DIVIDE$Al Ahmadi Governorate$DIVIDE$Hawalli$DIVIDE$Mubarak Al-Kabeer Governorate$DIVIDE$Capital Governorate$DIVIDE$Farwaniya Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q822"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lebanon"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Mount Lebanon Governorate$DIVIDE$South Governorate$DIVIDE$Beqaa Governorate$DIVIDE$North Governorate$DIVIDE$Nabatieh Governorate$DIVIDE$Beirut Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maldives"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Addu Atoll$DIVIDE$Alif Alif Atoll$DIVIDE$Baa Atoll$DIVIDE$Gaafu Alif Atoll$DIVIDE$Lhaviyani Atoll$DIVIDE$Raa Atoll$DIVIDE$Kaafu Atoll$DIVIDE$Gnaviyani Atoll$DIVIDE$Laamu Atoll$DIVIDE$Shaviyani Atoll$DIVIDE$Meemu Atoll$DIVIDE$Dhaalu Atoll$DIVIDE$Alif Dhaal Atoll$DIVIDE$Haa Dhaalu Atoll$DIVIDE$Haa Alif Atoll$DIVIDE$Noonu Atoll$DIVIDE$Faafu Atoll$DIVIDE$Gaafu Dhaalu Atoll$DIVIDE$Vaavu Atoll$DIVIDE$Thaa Atoll"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bucharest$DIVIDE$Alba County$DIVIDE$Satu Mare County$DIVIDE$Vaslui County$DIVIDE$Botoșani County$DIVIDE$Arad County$DIVIDE$Argeș County$DIVIDE$Bihor County$DIVIDE$Bacău County$DIVIDE$Suceava County$DIVIDE$Bistrița-Năsăud County$DIVIDE$Brașov County$DIVIDE$Cluj County$DIVIDE$Vrancea County$DIVIDE$Iași County$DIVIDE$Sibiu County$DIVIDE$Buzău County$DIVIDE$Timiș County$DIVIDE$Vâlcea County$DIVIDE$Caraș-Severin County$DIVIDE$Brăila County$DIVIDE$Constanța County$DIVIDE$Neamț County$DIVIDE$Prahova County$DIVIDE$Galați County$DIVIDE$Dâmbovița County$DIVIDE$Maramureș County$DIVIDE$Olt County$DIVIDE$Călărași County$DIVIDE$Covasna County$DIVIDE$Gorj County$DIVIDE$Sălaj County$DIVIDE$Harghita County$DIVIDE$Mureș County$DIVIDE$Dolj County$DIVIDE$Hunedoara County$DIVIDE$Tulcea County$DIVIDE$Teleorman County$DIVIDE$Ilfov County$DIVIDE$Mehedinți County$DIVIDE$Ialomița County$DIVIDE$Giurgiu County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Sliven$DIVIDE$Haskovo$DIVIDE$Varna$DIVIDE$Shumen$DIVIDE$Plovdiv$DIVIDE$Sofia$DIVIDE$Yambol$DIVIDE$Burgas$DIVIDE$Blagoevgrad$DIVIDE$Dobrich$DIVIDE$Gabrovo$DIVIDE$Kardzhali$DIVIDE$Kyustendil$DIVIDE$Ruse$DIVIDE$Sofia City$DIVIDE$Montana Oblast$DIVIDE$Pazardzhik$DIVIDE$Pernik$DIVIDE$Pleven$DIVIDE$Silistra$DIVIDE$Smolyan$DIVIDE$Stara Zagora$DIVIDE$Targovishte$DIVIDE$Veliko Tarnovo$DIVIDE$Vidin$DIVIDE$Vratsa$DIVIDE$Razgrad$DIVIDE$Lovech"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Macedonia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bitola Municipality$DIVIDE$Češinovo-Obleševo Municipality$DIVIDE$Pehčevo Municipality$DIVIDE$Jegunovce Municipality$DIVIDE$Gostivar Municipality$DIVIDE$Aračinovo Municipality$DIVIDE$Čučer-Sandevo Municipality$DIVIDE$Ilinden Municipality$DIVIDE$Resen Municipality$DIVIDE$Struga Municipality$DIVIDE$Berovo Municipality$DIVIDE$Demir Hisar Municipality$DIVIDE$Ǵorče Petrov Municipality$DIVIDE$Butel Municipality$DIVIDE$Zrnovci Municipality$DIVIDE$Petrovec Municipality$DIVIDE$Šuto Orizari Municipality$DIVIDE$Brvenica Municipality$DIVIDE$Ohrid Municipality$DIVIDE$Kavadarci Municipality$DIVIDE$Saraj Municipality$DIVIDE$Delčevo Municipality$DIVIDE$Mavrovo i Rostuše Municipality$DIVIDE$Debarca Municipality$DIVIDE$Debar Municipality$DIVIDE$Karbinci$DIVIDE$Kisela Voda Municipality$DIVIDE$Čair Municipality$DIVIDE$Kriva Palanka Municipality$DIVIDE$Centar Municipality$DIVIDE$Karpoš Municipality$DIVIDE$Rankovce Municipality$DIVIDE$Centar Župa Municipality$DIVIDE$Bosilovo Municipality$DIVIDE$Kočani Municipality$DIVIDE$Mogila Municipality$DIVIDE$Novo Selo Municipality$DIVIDE$Dolneni Municipality$DIVIDE$Gradsko Municipality$DIVIDE$Aerodrom Municipality$DIVIDE$Kratovo Municipality$DIVIDE$Konče Municipality$DIVIDE$Bogdanci Municipality$DIVIDE$Čaška Municipality$DIVIDE$Želino Municipality$DIVIDE$Dojran Municipality$DIVIDE$Lozovo Municipality$DIVIDE$Vrapčište Municipality$DIVIDE$Plasnica Municipality$DIVIDE$Krivogaštani Municipality$DIVIDE$Kičevo Municipality$DIVIDE$Valandovo Municipality$DIVIDE$Gevgelija Municipality$DIVIDE$Vasilevo Municipality$DIVIDE$Gazi Baba Municipality$DIVIDE$Vevčani Municipality$DIVIDE$Makedonska Kamenica Municipality$DIVIDE$Lipkovo Municipality$DIVIDE$Novaci Municipality$DIVIDE$Studeničani Municipality$DIVIDE$Veles Municipality$DIVIDE$Rosoman Municipality$DIVIDE$Staro Nagoričane Municipality$DIVIDE$Probištip Municipality$DIVIDE$Sopište Municipality$DIVIDE$Tearce Municipality$DIVIDE$Sveti Nikole Municipality$DIVIDE$Strumica Municipality$DIVIDE$Kumanovo Municipality$DIVIDE$Makedonski Brod Municipality$DIVIDE$Demir Kapija Municipality$DIVIDE$Štip Municipality$DIVIDE$Kruševo Municipality$DIVIDE$Vinica Municipality$DIVIDE$City of Skopje$DIVIDE$Radoviš Municipality$DIVIDE$Tetovo Municipality$DIVIDE$Negotino Municipality$DIVIDE$Prilep Municipality$DIVIDE$Bogovinje Municipality$DIVIDE$Zelenikovo Municipality"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1042"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seychelles"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Les Mamelles$DIVIDE$Takamaka$DIVIDE$Baie Lazare$DIVIDE$Au Cap$DIVIDE$Roche Caiman$DIVIDE$Pointe La Rue$DIVIDE$Anse Royale$DIVIDE$Mont Buxton$DIVIDE$Grand'Anse Mahé$DIVIDE$Glacis$DIVIDE$Bel Ombre$DIVIDE$Beau Vallon$DIVIDE$Ile Perseverance I$DIVIDE$Ile Perseverance II$DIVIDE$Anse Etoile$DIVIDE$Anse Boileau$DIVIDE$Anse-aux-Pins$DIVIDE$Baie Sainte Anne$DIVIDE$Bel Air$DIVIDE$La Digue and Inner Islands$DIVIDE$Grand'Anse Praslin$DIVIDE$Port Glaud$DIVIDE$La Rivière Anglaise$DIVIDE$Cascade$DIVIDE$Mont Fleuri$DIVIDE$Plaisance$DIVIDE$Saint Louis"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1044"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sierra Leone"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Southern Province$DIVIDE$Northern Province$DIVIDE$Western Area$DIVIDE$Eastern Province$DIVIDE$North West Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bakool$DIVIDE$Hiran$DIVIDE$Middle Shebelle$DIVIDE$Bari$DIVIDE$Awdal Region$DIVIDE$Banaadir$DIVIDE$Bay$DIVIDE$Gedo$DIVIDE$Galguduud$DIVIDE$Lower Shebelle$DIVIDE$Mudug$DIVIDE$Lower Juba$DIVIDE$Middle Juba$DIVIDE$Nugal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1050"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eswatini"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Manzini Region$DIVIDE$Hhohho - Mbabane Region$DIVIDE$Shiselweni Region$DIVIDE$Lubombo Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1049"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sudan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Gezira$DIVIDE$Al Qadarif$DIVIDE$Blue Nile State$DIVIDE$Northern State$DIVIDE$Red Sea$DIVIDE$Khartoum$DIVIDE$White Nile$DIVIDE$South Kordofan$DIVIDE$North Darfur$DIVIDE$South Darfur$DIVIDE$West Darfur$DIVIDE$River Nile$DIVIDE$North Kordofan$DIVIDE$Sennar$DIVIDE$Kassala"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29999"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of the Netherlands"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Netherlands$DIVIDE$Aruba$DIVIDE$Curaçao$DIVIDE$Sint Maarten"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovakia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Trnava Region$DIVIDE$Trenčín Region$DIVIDE$Bratislava Region$DIVIDE$Banská Bystrica Region$DIVIDE$Žilina region$DIVIDE$Nitra Region$DIVIDE$Košice Region$DIVIDE$Prešov Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ukraine"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kyiv$DIVIDE$Sevastopol$DIVIDE$Zhytomyr Oblast$DIVIDE$Cherkasy Oblast$DIVIDE$Kherson Oblast$DIVIDE$Lviv Oblast$DIVIDE$Vinnytsia Oblast$DIVIDE$Volyn Oblast$DIVIDE$Chernihiv Oblast$DIVIDE$Chernivtsi Oblast$DIVIDE$Poltava Oblast$DIVIDE$Kyiv Oblast$DIVIDE$Zakarpattia Oblast$DIVIDE$Sumy Oblast$DIVIDE$Kharkiv Oblast$DIVIDE$Dnipropetrovsk Oblast$DIVIDE$Khmelnytskyi Oblast$DIVIDE$Zaporizhzhia Oblast$DIVIDE$Odesa Oblast$DIVIDE$Luhansk Oblast$DIVIDE$Ternopil Oblast$DIVIDE$Rivne Oblast$DIVIDE$Ivano-Frankivsk Oblast$DIVIDE$Kirovohrad Oblast$DIVIDE$Mykolaiv Oblast$DIVIDE$Autonomous Republic of Crimea$DIVIDE$Donetsk Oblast"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czech Republic"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Prague$DIVIDE$Plzeň Region$DIVIDE$South Bohemian Region$DIVIDE$Central Bohemian Region$DIVIDE$Moravian-Silesian Region$DIVIDE$Vysočina Region$DIVIDE$Karlovy Vary Region$DIVIDE$Zlín Region$DIVIDE$South Moravian Region$DIVIDE$Ústí nad Labem Region$DIVIDE$Liberec Region$DIVIDE$Hradec Králové Region$DIVIDE$Olomouc Region$DIVIDE$Pardubice Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q730"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suriname"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Brokopondo District$DIVIDE$Commewijne District$DIVIDE$Paramaribo District$DIVIDE$Sipaliwini District$DIVIDE$Coronie District$DIVIDE$Para District$DIVIDE$Marowijne District$DIVIDE$Nickerie District$DIVIDE$Wanica District$DIVIDE$Saramacca District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q734"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guyana"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Barima-Waini$DIVIDE$Pomeroon-Supenaam$DIVIDE$Cuyuni-Mazaruni$DIVIDE$Demerara-Mahaica$DIVIDE$East Berbice-Corentyne$DIVIDE$Upper Demerara-Berbice$DIVIDE$Essequibo Islands-West Demerara$DIVIDE$Potaro-Siparuni$DIVIDE$Mahaica-Berbice$DIVIDE$Upper Takutu-Upper Essequibo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q733"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraguay"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Itapúa$DIVIDE$Paraguarí Department$DIVIDE$Canindeyú$DIVIDE$Central Department$DIVIDE$San Pedro Department$DIVIDE$Misiones Department$DIVIDE$Alto Paraguay$DIVIDE$Alto Paraná Department$DIVIDE$Amambay Department$DIVIDE$Concepción Department$DIVIDE$Boquerón Department$DIVIDE$Presidente Hayes$DIVIDE$Ñeembucú Department$DIVIDE$Guairá Department$DIVIDE$Cordillera Department$DIVIDE$Caaguazú Department$DIVIDE$Caazapá Department$DIVIDE$Capital District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q739"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bogotá$DIVIDE$Casanare Department$DIVIDE$Caquetá Department$DIVIDE$Valle del Cauca Department$DIVIDE$Risaralda Department$DIVIDE$Quindío Department$DIVIDE$Archipelago of San Andrés, Providencia and Santa Catalina$DIVIDE$Amazonas Department$DIVIDE$Boyacá Department$DIVIDE$Antioquia$DIVIDE$Magdalena Department$DIVIDE$Nariño Department$DIVIDE$Arauca Department$DIVIDE$Chocó Department$DIVIDE$Bolívar Department$DIVIDE$Cauca Department$DIVIDE$Caldas Department$DIVIDE$Atlántico Department$DIVIDE$Cundinamarca Department$DIVIDE$Putumayo Department$DIVIDE$Norte de Santander Department$DIVIDE$Tolima Department$DIVIDE$Vaupés Department$DIVIDE$Córdoba Department$DIVIDE$Cesar Department$DIVIDE$Huila Department$DIVIDE$Santander Department$DIVIDE$Sucre Department$DIVIDE$Meta Department$DIVIDE$Guainía Department$DIVIDE$Vichada Department$DIVIDE$La Guajira Department$DIVIDE$Guaviare Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecuador"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Napo Province$DIVIDE$Pastaza Province$DIVIDE$Azuay Province$DIVIDE$Chimborazo Province$DIVIDE$Cotopaxi Province$DIVIDE$Bolívar Province$DIVIDE$Pichincha Province$DIVIDE$Carchi Province$DIVIDE$Imbabura Province$DIVIDE$Guayas Province$DIVIDE$Cañar Province$DIVIDE$Esmeraldas Province$DIVIDE$El Oro Province$DIVIDE$Galápagos Province$DIVIDE$Sucumbíos Province$DIVIDE$Orellana Province$DIVIDE$Loja Province$DIVIDE$Tungurahua Province$DIVIDE$Los Ríos Province$DIVIDE$Manabí Province$DIVIDE$Morona-Santiago Province$DIVIDE$Zamora Chinchipe$DIVIDE$Santo Domingo de los Tsáchilas Province$DIVIDE$Santa Elena Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albania"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Berat County$DIVIDE$Vlorë County$DIVIDE$Durrës County$DIVIDE$Dibër County$DIVIDE$Lezhë County$DIVIDE$Shkodër County$DIVIDE$Gjirokastër County$DIVIDE$Korçë County$DIVIDE$Elbasan County$DIVIDE$Tirana County$DIVIDE$Kukës County$DIVIDE$Fier County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q223"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greenland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Northeast Greenland National Park$DIVIDE$Qeqqata$DIVIDE$Kujalleq$DIVIDE$Sermersooq$DIVIDE$Qeqertalik$DIVIDE$Avannaata"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q224"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Croatia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Zagreb$DIVIDE$Zagreb County$DIVIDE$Krapina-Zagorje County$DIVIDE$Sisak-Moslavina County$DIVIDE$Karlovac County$DIVIDE$Varaždin County$DIVIDE$Koprivnica-Križevci County$DIVIDE$Bjelovar-Bilogora County$DIVIDE$Primorje-Gorski Kotar County$DIVIDE$Lika-Senj County$DIVIDE$Virovitica-Podravina County$DIVIDE$Požega-Slavonia County$DIVIDE$Brod-Posavina County$DIVIDE$Zadar County$DIVIDE$Osijek-Baranja County$DIVIDE$Šibenik-Knin County$DIVIDE$Vukovar-Srijem County$DIVIDE$Split-Dalmatia County$DIVIDE$Istria County$DIVIDE$Dubrovnik-Neretva County$DIVIDE$Međimurje County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Lombardy$DIVIDE$Piedmont$DIVIDE$Aosta Valley$DIVIDE$Trentino-South Tyrol$DIVIDE$Veneto$DIVIDE$Friuli Venezia Giulia$DIVIDE$Liguria$DIVIDE$Emilia-Romagna$DIVIDE$Tuscany$DIVIDE$Marche$DIVIDE$Umbria$DIVIDE$Lazio$DIVIDE$Abruzzo$DIVIDE$Campania$DIVIDE$Molise$DIVIDE$Apulia$DIVIDE$Basilicata$DIVIDE$Calabria$DIVIDE$Sicily$DIVIDE$Sardinia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Valais$DIVIDE$Bern$DIVIDE$Canton of Geneva$DIVIDE$Glarus$DIVIDE$Canton of the Grisons$DIVIDE$Solothurn$DIVIDE$Zug$DIVIDE$Canton of Zürich$DIVIDE$Aargau$DIVIDE$Appenzell Ausserrhoden$DIVIDE$Appenzell Innerrhoden$DIVIDE$Lucerne$DIVIDE$Basel-Landschaft$DIVIDE$Basel-Stadt$DIVIDE$Uri$DIVIDE$Schwyz$DIVIDE$Obwalden$DIVIDE$Nidwalden$DIVIDE$Canton of Fribourg$DIVIDE$Schaffhausen$DIVIDE$Thurgau$DIVIDE$Ticino$DIVIDE$Neuchâtel$DIVIDE$canton St. Gallen$DIVIDE$Jura$DIVIDE$canton Vaud"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkey"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Antalya Province$DIVIDE$Adana Province$DIVIDE$Bursa Province$DIVIDE$Artvin Province$DIVIDE$Adıyaman Province$DIVIDE$Afyonkarahisar Province$DIVIDE$Bilecik Province$DIVIDE$Balıkesir Province$DIVIDE$Çanakkale Province$DIVIDE$Yozgat Province$DIVIDE$Bingöl Province$DIVIDE$Ardahan Province$DIVIDE$Aydın Province$DIVIDE$Amasya Province$DIVIDE$Ağrı Province$DIVIDE$Burdur Province$DIVIDE$Batman Province$DIVIDE$Van Province$DIVIDE$Konya Province$DIVIDE$Bolu Province$DIVIDE$Denizli Province$DIVIDE$Sakarya Province$DIVIDE$Aksaray Province$DIVIDE$Kars Province$DIVIDE$Diyarbakır Province$DIVIDE$Edirne Province$DIVIDE$Bitlis Province$DIVIDE$Hatay Province$DIVIDE$Bartın Province$DIVIDE$Kocaeli Province$DIVIDE$Hakkâri Province$DIVIDE$Muğla Province$DIVIDE$Iğdır Province$DIVIDE$Kütahya Province$DIVIDE$Kilis Province$DIVIDE$Tekirdağ Province$DIVIDE$Manisa Province$DIVIDE$Mardin Province$DIVIDE$Malatya Province$DIVIDE$Muş Province$DIVIDE$Kırklareli Province$DIVIDE$Mersin Province$DIVIDE$Kırşehir Province$DIVIDE$Sinop Province$DIVIDE$Niğde Province$DIVIDE$Zonguldak Province$DIVIDE$Isparta Province$DIVIDE$Çankırı Province$DIVIDE$Çorum Province$DIVIDE$Osmaniye Province$DIVIDE$İzmir Province$DIVIDE$Erzurum Province$DIVIDE$Şanlıurfa Province$DIVIDE$Trabzon Province$DIVIDE$Nevşehir Province$DIVIDE$Düzce Province$DIVIDE$Giresun Province$DIVIDE$Gümüşhane Province$DIVIDE$Siirt Province$DIVIDE$Kahramanmaraş Province$DIVIDE$Karaman Province$DIVIDE$Samsun Province$DIVIDE$Eskişehir Province$DIVIDE$Bayburt Province$DIVIDE$Uşak Province$DIVIDE$Yalova Province$DIVIDE$Elazığ Province$DIVIDE$Sivas Province$DIVIDE$Gaziantep Province$DIVIDE$Karabük Province$DIVIDE$Erzincan Province$DIVIDE$Ordu Province$DIVIDE$Kastamonu Province$DIVIDE$Tokat Province$DIVIDE$Kayseri Province$DIVIDE$Rize Province$DIVIDE$Kırıkkale Province$DIVIDE$Istanbul Province$DIVIDE$Tunceli Province$DIVIDE$Şırnak Province$DIVIDE$Ankara Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Vienna$DIVIDE$Carinthia$DIVIDE$Vorarlberg$DIVIDE$Styria$DIVIDE$Upper Austria$DIVIDE$Lower Austria$DIVIDE$Tyrol$DIVIDE$Burgenland$DIVIDE$Salzburg"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greece"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Central Macedonia$DIVIDE$Western Macedonia$DIVIDE$West Greece Region$DIVIDE$Eastern Macedonia and Thrace$DIVIDE$South Aegean Region$DIVIDE$North Aegean Region$DIVIDE$Epirus Region$DIVIDE$Central Greece Region$DIVIDE$Peloponnese Region$DIVIDE$Attica Region$DIVIDE$monastic community of Mount Athos$DIVIDE$Ionian Islands Region$DIVIDE$Crete Region$DIVIDE$Thessaly Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Azores$DIVIDE$Madeira$DIVIDE$Lisbon$DIVIDE$Aveiro$DIVIDE$Portalegre$DIVIDE$Santarém$DIVIDE$Leiria$DIVIDE$Coimbra$DIVIDE$Faro$DIVIDE$Viseu$DIVIDE$Castelo Branco$DIVIDE$Guarda$DIVIDE$Setúbal$DIVIDE$Évora$DIVIDE$Beja$DIVIDE$Porto$DIVIDE$Braga$DIVIDE$Viana do Castelo$DIVIDE$Bragança$DIVIDE$Vila Real"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egypt"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Aswan Governorate$DIVIDE$Alexandria Governorate$DIVIDE$Asyut Governorate$DIVIDE$Beheira Governorate$DIVIDE$Damietta Governorate$DIVIDE$New Valley Governorate$DIVIDE$Faiyum Governorate$DIVIDE$North Sinai Governorate$DIVIDE$Sohag Governorate$DIVIDE$Minya Governorate$DIVIDE$Matruh Governorate$DIVIDE$Beni Suef Governorate$DIVIDE$Monufia Governorate$DIVIDE$Luxor Governorate$DIVIDE$Cairo Governorate$DIVIDE$South Sinai Governorate$DIVIDE$Red Sea Governorate$DIVIDE$Giza Governorate$DIVIDE$Gharbia Governorate$DIVIDE$Kafr el-Sheikh Governorate$DIVIDE$Qena Governorate$DIVIDE$Ismailia Governorate$DIVIDE$Dakahlia Governorate$DIVIDE$Suez Governorate$DIVIDE$Sharqia Governorate$DIVIDE$Qalyubia Governorate$DIVIDE$Port Said Governorate$DIVIDE$Helwan Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Cerro Largo Department$DIVIDE$Paysandú Department$DIVIDE$Canelones Department$DIVIDE$Flores Department$DIVIDE$San José Department$DIVIDE$Colonia Department$DIVIDE$Rocha Department$DIVIDE$Soriano Department$DIVIDE$Tacuarembó Department$DIVIDE$Durazno Department$DIVIDE$Florida Department$DIVIDE$Montevideo Department$DIVIDE$Salto Department$DIVIDE$Río Negro Department$DIVIDE$Artigas Department$DIVIDE$Rivera Department$DIVIDE$Treinta y Tres Department$DIVIDE$Maldonado Department$DIVIDE$Lavalleja Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q227"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azerbaijan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Baku$DIVIDE$Yardimli District$DIVIDE$Stepanakert$DIVIDE$Ganja$DIVIDE$Zaqatala District$DIVIDE$Naftalan$DIVIDE$Shusha$DIVIDE$Yevlakh$DIVIDE$Absheron District$DIVIDE$Sumgait$DIVIDE$Aghdam District$DIVIDE$Lankaran$DIVIDE$Mingachevir$DIVIDE$Shaki$DIVIDE$Shirvan$DIVIDE$Zangilan District$DIVIDE$Zardab District$DIVIDE$Astara District$DIVIDE$Lankaran District$DIVIDE$Aghstafa District$DIVIDE$Aghdash District$DIVIDE$Lachin District$DIVIDE$Gadabay District$DIVIDE$Khojaly District$DIVIDE$Qakh District$DIVIDE$Agsu District$DIVIDE$Beylagan District$DIVIDE$Khojavend District$DIVIDE$Aghjabadi District$DIVIDE$Bilasuvar District$DIVIDE$Shamakhi District$DIVIDE$Goranboy District$DIVIDE$Balakan District$DIVIDE$Barda District$DIVIDE$Shaki District$DIVIDE$Fuzuli District$DIVIDE$Imishli District$DIVIDE$Ismayilli District$DIVIDE$Jalilabad District$DIVIDE$Sabirabad District$DIVIDE$Qusar District$DIVIDE$Shabran District$DIVIDE$Goygol District$DIVIDE$Shusha District$DIVIDE$Tovuz District$DIVIDE$Gazakh District$DIVIDE$Salyan District$DIVIDE$Jabrayil District$DIVIDE$Dashkasan District$DIVIDE$Guba District$DIVIDE$Gobustan District$DIVIDE$Kalbajar District$DIVIDE$Yevlakh District$DIVIDE$Shamkir District$DIVIDE$Hajigabul District$DIVIDE$Masally District$DIVIDE$Ujar District$DIVIDE$Khizi District$DIVIDE$Goychay District$DIVIDE$Tartar District$DIVIDE$Samukh District$DIVIDE$Qabala District$DIVIDE$Saatly District$DIVIDE$Oghuz District$DIVIDE$Gubadly District$DIVIDE$Kurdamir District$DIVIDE$Lerik District$DIVIDE$Neftchala District$DIVIDE$Siyazan District$DIVIDE$Khachmaz District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q225"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bosnia and Herzegovina"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Republika Srpska$DIVIDE$Federation of Bosnia and Herzegovina$DIVIDE$Brčko District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Tbilisi$DIVIDE$Guria$DIVIDE$Samtskhe–Javakheti$DIVIDE$Racha-Lechkhumi and Kvemo Svaneti$DIVIDE$Adjara$DIVIDE$Kakheti$DIVIDE$Imereti$DIVIDE$Shida Kartli$DIVIDE$Kvemo Kartli$DIVIDE$Samegrelo-Zemo Svaneti$DIVIDE$Mtskheta-Mtianeti$DIVIDE$Autonomous Republic of Abkhazia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Canillo$DIVIDE$Encamp$DIVIDE$Ordino$DIVIDE$La Massana$DIVIDE$Sant Julià de Lòria$DIVIDE$Escaldes-Engordany$DIVIDE$Andorra la Vella"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyprus"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Paphos District$DIVIDE$Kyrenia District$DIVIDE$Nicosia District$DIVIDE$Famagusta District$DIVIDE$Limassol District$DIVIDE$Larnaca District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Beni Department$DIVIDE$Cochabamba Department$DIVIDE$Tarija Department$DIVIDE$Santa Cruz Department$DIVIDE$Chuquisaca Department$DIVIDE$Pando Department$DIVIDE$Potosí Department$DIVIDE$La Paz Department$DIVIDE$Oruro Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q754"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trinidad and Tobago"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Port of Spain$DIVIDE$Sangre Grande Regional Corporation$DIVIDE$Arima$DIVIDE$Point Fortin$DIVIDE$San Juan–Laventille$DIVIDE$San Fernando$DIVIDE$Chaguanas$DIVIDE$Tunapuna-Piarco Regional Corporation$DIVIDE$Penal-Debe Regional Corporation$DIVIDE$Princes Town$DIVIDE$Mayaro-Rio Claro$DIVIDE$Diego Martin Regional Corporation$DIVIDE$Siparia Regional Corporation$DIVIDE$Couva-Tabaquite-Talparo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q757"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Vincent and the Grenadines"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Saint Patrick Parish$DIVIDE$Charlotte Parish$DIVIDE$Saint George Parish$DIVIDE$Saint Andrew Parish$DIVIDE$Saint David Parish$DIVIDE$Grenadines Parish"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q763"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Kitts and Nevis"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Christ Church Nichola Town Parish$DIVIDE$Trinity Palmetto Point Parish$DIVIDE$Saint John Figtree Parish$DIVIDE$Saint John Capisterre Parish$DIVIDE$Saint Paul Capisterre Parish$DIVIDE$Saint James Windward Parish$DIVIDE$Saint George Gingerland Parish$DIVIDE$Saint Anne Sandy Point Parish$DIVIDE$Saint Mary Cayon Parish$DIVIDE$Saint George Basseterre Parish$DIVIDE$Saint Peter Basseterre Parish$DIVIDE$Saint Thomas Middle Island Parish$DIVIDE$Saint Thomas Lowland Parish$DIVIDE$Saint Paul Charlestown Parish"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q760"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Lucia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Dauphin Quarter$DIVIDE$Laborie Quarter$DIVIDE$Gros Islet Quarter$DIVIDE$Castries Quarter$DIVIDE$Choiseul Quarter$DIVIDE$Dennery Quarter$DIVIDE$Micoud Quarter$DIVIDE$Soufrière Quarter$DIVIDE$Vieux Fort Quarter$DIVIDE$Praslin Quarter$DIVIDE$Anse la Raye Quarter"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q766"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jamaica"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Middlesex County$DIVIDE$Surrey County$DIVIDE$Cornwall County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q769"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grenada"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Saint George Parish$DIVIDE$Carriacou Island$DIVIDE$Petite Martinique$DIVIDE$Saint Andrew Parish$DIVIDE$Saint Mark Parish$DIVIDE$Saint John Parish$DIVIDE$Saint Patrick Parish$DIVIDE$Saint David Parish"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guatemala"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Sololá Department$DIVIDE$Petén Department$DIVIDE$Alta Verapaz Department$DIVIDE$Baja Verapaz Department$DIVIDE$Sacatepéquez Department$DIVIDE$Quiché Department$DIVIDE$Izabal Department$DIVIDE$Guatemala Department$DIVIDE$Chiquimula Department$DIVIDE$Chimaltenango Department$DIVIDE$Jutiapa Department$DIVIDE$Zacapa Department$DIVIDE$Jalapa Department$DIVIDE$Escuintla Department$DIVIDE$El Progreso Department$DIVIDE$Huehuetenango Department$DIVIDE$Quetzaltenango Department$DIVIDE$Suchitepéquez Department$DIVIDE$San Marcos Department$DIVIDE$Totonicapán Department$DIVIDE$Santa Rosa Department$DIVIDE$Retalhuleu Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q235"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monaco"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Commune of Monaco"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kazakhstan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Astana$DIVIDE$Almaty$DIVIDE$East Kazakhstan Region$DIVIDE$Baikonur$DIVIDE$Almaty Region$DIVIDE$Mangystau Region$DIVIDE$Atyrau Region$DIVIDE$Akmola Region$DIVIDE$North Kazakhstan Region$DIVIDE$Kyzylorda Region$DIVIDE$Karaganda Region$DIVIDE$Aktobe Region$DIVIDE$Shymkent$DIVIDE$Kostanay Region$DIVIDE$West Kazakhstan Region$DIVIDE$Pavlodar Region$DIVIDE$Jambyl Region$DIVIDE$Turkistan Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Gozo Region (Ghawdex)$DIVIDE$Northern Region (Tramuntana)$DIVIDE$Southern Region (Nofsinhar)$DIVIDE$Port Region (Port)$DIVIDE$Western Region (Punent)$DIVIDE$Eastern Region (Lvant)"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q238"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "San Marino$DIVIDE$Serravalle$DIVIDE$Borgo Maggiore$DIVIDE$Domagnano$DIVIDE$Faetano$DIVIDE$Acquaviva$DIVIDE$Montegiardino$DIVIDE$Fiorentino$DIVIDE$Chiesanuova"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montenegro"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Andrijevica Municipality$DIVIDE$Bar Municipality$DIVIDE$Rožaje Municipality$DIVIDE$Mojkovac Municipality$DIVIDE$Pljevlja Municipality$DIVIDE$Kolašin Municipality$DIVIDE$Žabljak Municipality$DIVIDE$Old Royal Capital Cetinje$DIVIDE$Ulcinj Municipality$DIVIDE$Podgorica Municipality$DIVIDE$Herceg Novi Municipality$DIVIDE$Tivat Municipality$DIVIDE$Budva Municipality$DIVIDE$Danilovgrad Municipality$DIVIDE$Bijelo Polje Municipality$DIVIDE$Berane Municipality$DIVIDE$Kotor Municipality$DIVIDE$Plav Municipality$DIVIDE$Plužine Municipality$DIVIDE$Nikšić Municipality$DIVIDE$Zeta Municipality$DIVIDE$Tuzi Municipality$DIVIDE$Šavnik Municipality$DIVIDE$Petnjica Municipality$DIVIDE$Gusinje Municipality"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q242"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belize"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Stann Creek District$DIVIDE$Orange Walk District$DIVIDE$Toledo District$DIVIDE$Belize District$DIVIDE$Cayo District$DIVIDE$Corozal District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Havana Province$DIVIDE$Isla de la Juventud$DIVIDE$Granma Province$DIVIDE$Holguín Province$DIVIDE$Mayabeque Province$DIVIDE$Guantánamo Province$DIVIDE$Artemisa Province$DIVIDE$Las Tunas Province$DIVIDE$Villa Clara Province$DIVIDE$Matanzas Province$DIVIDE$Sancti Spíritus Province$DIVIDE$Cienfuegos Province$DIVIDE$Pinar del Río Province$DIVIDE$Camagüey Province$DIVIDE$Ciego de Ávila Province$DIVIDE$Santiago de Cuba Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barbados"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Saint Joseph$DIVIDE$Saint James$DIVIDE$Saint Michael$DIVIDE$Saint Peter$DIVIDE$Christ Church$DIVIDE$Saint John$DIVIDE$Saint Thomas$DIVIDE$Saint Philip$DIVIDE$Saint Andrew$DIVIDE$Saint George$DIVIDE$Saint Lucy"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q252"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Aceh$DIVIDE$Bangka Belitung Islands$DIVIDE$Bengkulu$DIVIDE$Jambi$DIVIDE$Lampung$DIVIDE$North Sumatra$DIVIDE$Riau$DIVIDE$Riau Islands$DIVIDE$South Sumatra$DIVIDE$West Sumatra$DIVIDE$Banten$DIVIDE$Central Java$DIVIDE$East Java$DIVIDE$Jakarta$DIVIDE$West Java$DIVIDE$Yogyakarta$DIVIDE$Central Kalimantan$DIVIDE$East Kalimantan$DIVIDE$North Kalimantan$DIVIDE$South Kalimantan$DIVIDE$West Kalimantan$DIVIDE$East Nusa Tenggara$DIVIDE$West Nusa Tenggara$DIVIDE$Central Sulawesi$DIVIDE$Gorontalo$DIVIDE$North Sulawesi$DIVIDE$Southeast Sulawesi$DIVIDE$South Sulawesi$DIVIDE$West Sulawesi$DIVIDE$Maluku$DIVIDE$North Maluku$DIVIDE$Papua$DIVIDE$West Papua$DIVIDE$Bali$DIVIDE$Central Papua$DIVIDE$South Papua$DIVIDE$Highland Papua$DIVIDE$Southwest Papua"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kuala Lumpur$DIVIDE$Sarawak$DIVIDE$Sabah$DIVIDE$Putrajaya$DIVIDE$Johor$DIVIDE$Malacca$DIVIDE$Kelantan$DIVIDE$Penang$DIVIDE$Kedah$DIVIDE$Perak$DIVIDE$Terengganu$DIVIDE$Selangor$DIVIDE$Pahang$DIVIDE$Perlis$DIVIDE$Negeri Sembilan$DIVIDE$Labuan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q836"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Myanmar"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Naypyidaw Union Territory$DIVIDE$Chin State$DIVIDE$Ayeyarwady Region$DIVIDE$Mandalay Region$DIVIDE$Kachin State$DIVIDE$Rakhine State$DIVIDE$Shan State$DIVIDE$Kayin State$DIVIDE$Kayah State$DIVIDE$Bago Region$DIVIDE$Mon State$DIVIDE$Magway Region$DIVIDE$Tanintharyi Region$DIVIDE$Sagaing Region$DIVIDE$Yangon Region$DIVIDE$Pa Laung Self-Administered Zone$DIVIDE$Pa-O Self-Administered Zone$DIVIDE$Naga Self-Administered Zone$DIVIDE$Danu Self-Administered Zone$DIVIDE$Wa Self-Administered Division$DIVIDE$Kokang Self-Administered Zone"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Koshi Province$DIVIDE$Madhesh Province$DIVIDE$Lumbini Province$DIVIDE$Bagmati Province$DIVIDE$Gandaki Province$DIVIDE$Karnali Province$DIVIDE$Sudurpashchim Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q842"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oman"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Musandam Governorate$DIVIDE$Muscat Governorate$DIVIDE$Ad Dakhiliyah Governorate$DIVIDE$Al Buraimi Governorate$DIVIDE$Al Wusta Governorate$DIVIDE$Dhofar Governorate$DIVIDE$Ad Dhahirah Governorate$DIVIDE$Ash Sharqiyah North Governorate$DIVIDE$Ash Sharqiyah South Governorate$DIVIDE$Al Batinah North Governorate$DIVIDE$Al Batinah South Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Punjab$DIVIDE$Sindh$DIVIDE$Balochistan$DIVIDE$Khyber Pakhtunkhwa$DIVIDE$Azad Kashmir$DIVIDE$Gilgit-Baltistan$DIVIDE$Islamabad Capital Territory$DIVIDE$Junagadh and Manavadar"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qatar"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Al Shamal$DIVIDE$Al Wakrah$DIVIDE$Al Rayyan Municipality$DIVIDE$Ad-Dawhah (municipality)$DIVIDE$Al Ghuwariyah$DIVIDE$Umm Salal Municipality$DIVIDE$Mesaieed$DIVIDE$Jariyan al Batnah$DIVIDE$Al Jumaliyah$DIVIDE$Al Khor"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saudi Arabia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Al-Baha Province$DIVIDE$'Asir Province$DIVIDE$Mecca Province$DIVIDE$Riyadh Province$DIVIDE$Medina Province$DIVIDE$Al-Qassim$DIVIDE$Al-Jowf Province$DIVIDE$Ḥaʼil Province$DIVIDE$Northern Borders Province$DIVIDE$Eastern Province$DIVIDE$Jazan Province$DIVIDE$Tabuk Province$DIVIDE$Al-Qurayyat (province)$DIVIDE$Najran Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q854"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Central Province$DIVIDE$Northern Province$DIVIDE$Sabaragamuwa Province$DIVIDE$Western Province$DIVIDE$Uva Province$DIVIDE$Southern Province$DIVIDE$North Western Province$DIVIDE$Eastern Province$DIVIDE$North Central Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syria"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Aleppo Governorate$DIVIDE$Homs Governorate$DIVIDE$Quneitra Governorate$DIVIDE$Hama Governorate$DIVIDE$Tartus Governorate$DIVIDE$Deir ez-Zor Governorate$DIVIDE$Rif Dimashq Governorate$DIVIDE$Idlib Governorate$DIVIDE$Latakia Governorate$DIVIDE$Al-Hasakah Governorate$DIVIDE$Al-Raqqah Governorate$DIVIDE$As-Suwayda Governorate$DIVIDE$Daraa Governorate$DIVIDE$Damascus Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Chihuahua$DIVIDE$Mexico City$DIVIDE$Jalisco$DIVIDE$Nuevo León$DIVIDE$Oaxaca$DIVIDE$Sonora$DIVIDE$Guanajuato$DIVIDE$Baja California Sur$DIVIDE$Coahuila$DIVIDE$Baja California$DIVIDE$Chiapas$DIVIDE$Veracruz$DIVIDE$Guerrero$DIVIDE$Yucatán$DIVIDE$Colima$DIVIDE$Morelos$DIVIDE$San Luis Potosí$DIVIDE$Querétaro$DIVIDE$Michoacán$DIVIDE$Durango$DIVIDE$Nayarit$DIVIDE$Puebla$DIVIDE$Aguascalientes$DIVIDE$Tamaulipas$DIVIDE$Quintana Roo$DIVIDE$Sinaloa$DIVIDE$Zacatecas$DIVIDE$Hidalgo$DIVIDE$Campeche$DIVIDE$Tabasco$DIVIDE$State of Mexico$DIVIDE$Tlaxcala"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenya"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Western Province$DIVIDE$Rift Valley Province$DIVIDE$Nyanza Province$DIVIDE$Coast Province$DIVIDE$Eastern Province$DIVIDE$North Eastern Province$DIVIDE$Nairobi Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ethiopia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Addis Ababa$DIVIDE$Dire Dawa$DIVIDE$Afar Region$DIVIDE$Tigray Region$DIVIDE$Oromia Region$DIVIDE$Somali Region$DIVIDE$Amhara Region$DIVIDE$Southern Nations, Nationalities, and Peoples' Region$DIVIDE$Benishangul-Gumuz Region$DIVIDE$Gambela Region$DIVIDE$Harari Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Brong-Ahafo Region$DIVIDE$Ashanti Region$DIVIDE$Eastern Region$DIVIDE$Greater Accra Region$DIVIDE$Northern Region$DIVIDE$Upper East Region$DIVIDE$Volta Region$DIVIDE$Upper West Region$DIVIDE$Central Region$DIVIDE$Western Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "French Guiana$DIVIDE$Brittany$DIVIDE$Île-de-France$DIVIDE$Centre-Val de Loire$DIVIDE$Corsica$DIVIDE$Provence-Alpes-Côte d'Azur$DIVIDE$Pays de la Loire$DIVIDE$Guadeloupe$DIVIDE$Martinique$DIVIDE$Mayotte$DIVIDE$Réunion$DIVIDE$Saint Barthélemy$DIVIDE$French Polynesia$DIVIDE$New Caledonia$DIVIDE$Saint Pierre and Miquelon$DIVIDE$Wallis and Futuna$DIVIDE$Saint-Martin$DIVIDE$French Southern and Antarctic Lands$DIVIDE$Clipperton Island$DIVIDE$Auvergne-Rhône-Alpes$DIVIDE$Bourgogne-Franche-Comté$DIVIDE$Hauts-de-France$DIVIDE$Normandy$DIVIDE$Grand Est$DIVIDE$Nouvelle-Aquitaine$DIVIDE$Occitania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q970"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Comoros"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Anjouan$DIVIDE$Grande Comore$DIVIDE$Mohéli"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q971"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Republic of the Congo"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Brazzaville$DIVIDE$Cuvette-Ouest Department$DIVIDE$Pointe-Noire$DIVIDE$Plateaux Department$DIVIDE$Sangha Department$DIVIDE$Cuvette Department$DIVIDE$Bouenza Department$DIVIDE$Kouilou Department$DIVIDE$Lékoumou Department$DIVIDE$Likouala Department$DIVIDE$Pool Department$DIVIDE$Niari Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Kinshasa$DIVIDE$Kasaï-Oriental$DIVIDE$Haut-Katanga Province$DIVIDE$Maniema$DIVIDE$Kasaï-Occidental$DIVIDE$North Kivu$DIVIDE$Équateur$DIVIDE$Sankuru$DIVIDE$Katanga Province$DIVIDE$Lomami Province$DIVIDE$Tshuapa$DIVIDE$South Kivu$DIVIDE$Kwilu$DIVIDE$Haut-Lomami Province$DIVIDE$Tshopo$DIVIDE$Bas-Uele$DIVIDE$Bandundu Province$DIVIDE$Haut-Uele$DIVIDE$Tanganyika Province$DIVIDE$Orientale Province$DIVIDE$Sud-Ubangi$DIVIDE$Nord-Ubangi$DIVIDE$Mongala$DIVIDE$Kasai-Oriental$DIVIDE$Kongo Central$DIVIDE$Lualaba Province$DIVIDE$Mai-Ndombe Province$DIVIDE$Kasai Province$DIVIDE$Kasaï-Central$DIVIDE$Kwango Province$DIVIDE$Ituri Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q977"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Dikhil Region$DIVIDE$Tadjourah Region$DIVIDE$Arta Region$DIVIDE$Ali Sabieh Region$DIVIDE$Obock Region$DIVIDE$Djibouti Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q983"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Equatorial Guinea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Litoral$DIVIDE$Bioko Sur$DIVIDE$Centro Sur$DIVIDE$Bioko Norte$DIVIDE$Kie-ntem$DIVIDE$Wele-Nzas$DIVIDE$Annobón Province$DIVIDE$Djibloho"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eritrea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Maekel Region$DIVIDE$Debub Region$DIVIDE$Northern Red Sea Region$DIVIDE$Southern Red Sea Region$DIVIDE$Anseba Region$DIVIDE$Gash-Barka Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q863"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tajikistan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Gorno-Badakhshan Autonomous Region$DIVIDE$Sughd Province$DIVIDE$Districts under Central Government Jurisdiction$DIVIDE$Khatlon Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Taipei$DIVIDE$Taiwan Province$DIVIDE$Fuchien$DIVIDE$Taoyuan$DIVIDE$Tainan$DIVIDE$Kaohsiung$DIVIDE$New Taipei$DIVIDE$Taichung"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q869"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thailand"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bangkok$DIVIDE$Phuket$DIVIDE$Chon Buri$DIVIDE$Chiang Mai$DIVIDE$Songkhla$DIVIDE$Satun$DIVIDE$Chiang Rai$DIVIDE$Krabi$DIVIDE$Pattani$DIVIDE$Ranong province$DIVIDE$Phichit$DIVIDE$Nakhon Sawan$DIVIDE$Surat Thani$DIVIDE$Lampang$DIVIDE$Phetchabun$DIVIDE$Lamphun$DIVIDE$Trat$DIVIDE$Nonthaburi$DIVIDE$Yala$DIVIDE$Amnat Charoen$DIVIDE$Ang Thong$DIVIDE$Trang$DIVIDE$Phatthalung$DIVIDE$Phayao$DIVIDE$Prachuap Khiri Khan$DIVIDE$Uthai Thani$DIVIDE$Phrae$DIVIDE$Nakhon Si Thammarat$DIVIDE$Chumphon$DIVIDE$Nan$DIVIDE$Phetchaburi$DIVIDE$Nong Bua Lamphu$DIVIDE$Mae Hong Son$DIVIDE$Narathiwat$DIVIDE$Samut Prakan$DIVIDE$Nakhon Ratchasima$DIVIDE$Suphan Buri$DIVIDE$Phang Nga$DIVIDE$Uttaradit$DIVIDE$Kamphaeng Phet$DIVIDE$Chaiyaphum$DIVIDE$Loei province$DIVIDE$Kanchanaburi$DIVIDE$Tak$DIVIDE$Phitsanulok$DIVIDE$Prachin Buri$DIVIDE$Buri Ram$DIVIDE$Khon Kaen$DIVIDE$Chanthaburi$DIVIDE$Nong Khai$DIVIDE$Samut Sakhon$DIVIDE$Sing Buri$DIVIDE$Nakhon Pathom$DIVIDE$Chachoengsao$DIVIDE$Mukdahan$DIVIDE$Rayong$DIVIDE$Ratchaburi$DIVIDE$Lopburi$DIVIDE$Saraburi$DIVIDE$Udon Thani$DIVIDE$Surin$DIVIDE$Si Sa Ket$DIVIDE$Sukhothai$DIVIDE$Sa Kaeo$DIVIDE$Sakon Nakhon$DIVIDE$Kalasin$DIVIDE$Samut Songkhram$DIVIDE$Pathum Thani$DIVIDE$Chai Nat$DIVIDE$Nakhon Nayok$DIVIDE$Nakhon Phanom$DIVIDE$Maha Sarakham$DIVIDE$Phra Nakhon Si Ayutthaya$DIVIDE$Yasothon$DIVIDE$Roi Et$DIVIDE$Ubon Ratchathani$DIVIDE$Bueng Kan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q874"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkmenistan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Ashgabat$DIVIDE$Ahal Region$DIVIDE$Balkan Region$DIVIDE$Lebap Region$DIVIDE$Daşoguz Region$DIVIDE$Mary Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q778"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Bahamas"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "North Abaco$DIVIDE$Berry Islands$DIVIDE$San Salvador Island$DIVIDE$New Providence$DIVIDE$Bimini$DIVIDE$Freeport$DIVIDE$Long Island$DIVIDE$Central Eleuthera$DIVIDE$Cat Island$DIVIDE$Crooked Island$DIVIDE$Inagua$DIVIDE$Exuma$DIVIDE$Ragged Island$DIVIDE$Mayaguana$DIVIDE$Spanish Wells$DIVIDE$Rum Cay$DIVIDE$Central Andros$DIVIDE$Harbour Island$DIVIDE$South Andros$DIVIDE$Grand Cay$DIVIDE$Black Point$DIVIDE$Central Abaco$DIVIDE$East Grand Bahama$DIVIDE$North Andros$DIVIDE$Hope Town$DIVIDE$South Eleuthera$DIVIDE$Mangrove Cay$DIVIDE$West Grand Bahama$DIVIDE$Moore's Island$DIVIDE$South Abaco$DIVIDE$North Eleuthera$DIVIDE$Acklins"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q783"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honduras"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Intibucá Department$DIVIDE$Santa Bárbara Department$DIVIDE$Atlántida Department$DIVIDE$Lempira Department$DIVIDE$Bay Islands Department$DIVIDE$Cortés Department$DIVIDE$Comayagua Department$DIVIDE$Copán Department$DIVIDE$La Paz Department$DIVIDE$Ocotepeque Department$DIVIDE$Olancho Department$DIVIDE$Valle Department$DIVIDE$El Paraíso Department$DIVIDE$Gracias a Dios Department$DIVIDE$Colón Department$DIVIDE$Francisco Morazán Department$DIVIDE$Choluteca Department$DIVIDE$Yoro Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q781"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antigua and Barbuda"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Barbuda$DIVIDE$Saint Paul$DIVIDE$Redonda$DIVIDE$Saint John$DIVIDE$Saint George$DIVIDE$Saint Peter$DIVIDE$Saint Philip$DIVIDE$Saint Mary"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q784"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominica"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Saint Paul Parish$DIVIDE$Saint George Parish$DIVIDE$Saint Andrew Parish$DIVIDE$Saint Luke Parish$DIVIDE$Saint Patrick Parish$DIVIDE$Saint Mark Parish$DIVIDE$Saint David Parish$DIVIDE$Saint John Parish$DIVIDE$Saint Peter Parish$DIVIDE$Saint Joseph Parish"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q878"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Arab Emirates"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Emirate of Dubai$DIVIDE$Emirate of Fujairah$DIVIDE$Emirate of Ajman$DIVIDE$Emirate of Ras Al Khaimah$DIVIDE$Emirate of Umm Al Quwain$DIVIDE$Emirate of Abu Dhabi$DIVIDE$Emirate of Sharjah"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q881"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vietnam"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Ho Chi Minh City$DIVIDE$Hanoi$DIVIDE$Quảng Bình$DIVIDE$Da Nang$DIVIDE$Long An$DIVIDE$Thái Nguyên$DIVIDE$Vĩnh Phúc$DIVIDE$Đồng Nai$DIVIDE$Sóc Trăng$DIVIDE$Quảng Ngãi$DIVIDE$Hà Tĩnh$DIVIDE$Cà Mau$DIVIDE$Quảng Nam$DIVIDE$Bến Tre$DIVIDE$Khánh Hòa$DIVIDE$Sơn La$DIVIDE$Quảng Ninh$DIVIDE$Lạng Sơn$DIVIDE$Bắc Ninh$DIVIDE$Hòa Bình$DIVIDE$Hưng Yên$DIVIDE$Kon Tum$DIVIDE$Hậu Giang$DIVIDE$Yên Bái$DIVIDE$Bắc Giang$DIVIDE$Huế$DIVIDE$Bắc Kạn$DIVIDE$Lai Châu$DIVIDE$Hà Nam$DIVIDE$Lào Cai$DIVIDE$Thanh Hóa$DIVIDE$Kiên Giang$DIVIDE$Quảng Trị$DIVIDE$Nghệ An$DIVIDE$An Giang$DIVIDE$Tây Ninh$DIVIDE$Phú Thọ$DIVIDE$Trà Vinh$DIVIDE$Bạc Liêu province$DIVIDE$Gia Lai$DIVIDE$Tiền Giang$DIVIDE$Bình Phước$DIVIDE$Đồng Tháp$DIVIDE$Thái Bình$DIVIDE$Hà Giang$DIVIDE$Đắk Lắk$DIVIDE$Bình Định$DIVIDE$Lâm Đồng$DIVIDE$Đắk Nông$DIVIDE$Phu Yen$DIVIDE$Hải Dương$DIVIDE$Cao Bằng$DIVIDE$Bình Dương$DIVIDE$Bình Thuận$DIVIDE$Bà Rịa-Vũng Tàu$DIVIDE$Ninh Bình$DIVIDE$Ninh Thuận$DIVIDE$Nam Định$DIVIDE$Điện Biên$DIVIDE$Haiphong$DIVIDE$Cần Thơ$DIVIDE$Tuyên Quang$DIVIDE$Vĩnh Long"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Seoul$DIVIDE$Busan$DIVIDE$Daejeon$DIVIDE$Daegu$DIVIDE$Sejong$DIVIDE$Incheon$DIVIDE$Gyeonggi Province$DIVIDE$North Chungcheong$DIVIDE$South Chungcheong$DIVIDE$Gangwon Province$DIVIDE$South Gyeongsang$DIVIDE$North Gyeongsang$DIVIDE$North Jeolla$DIVIDE$South Jeolla$DIVIDE$Jeju Province$DIVIDE$Ulsan$DIVIDE$Gwangju"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q889"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Afghanistan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Balkh Province$DIVIDE$Zabul Province$DIVIDE$Badakhshan Province$DIVIDE$Nuristan Province$DIVIDE$Baghlan Province$DIVIDE$Bamyan Province$DIVIDE$Badghis Province$DIVIDE$Kandahar Province$DIVIDE$Kapisa Province$DIVIDE$Helmand Province$DIVIDE$Faryab Province$DIVIDE$Nangarhar Province$DIVIDE$Farah Province$DIVIDE$Ghazni Province$DIVIDE$Daykundi Province$DIVIDE$Panjshir Province$DIVIDE$Sar-e Pol Province$DIVIDE$Paktia Province$DIVIDE$Herat Province$DIVIDE$Samangan Province$DIVIDE$Nimruz Province$DIVIDE$Uruzgan Province$DIVIDE$Jowzjan Province$DIVIDE$Maidan Wardak Province$DIVIDE$Laghman Province$DIVIDE$Paktika Province$DIVIDE$Khost Province$DIVIDE$Ghor Province$DIVIDE$Takhar Province$DIVIDE$Kunduz Province$DIVIDE$Kunar Province$DIVIDE$Parwan Province$DIVIDE$Kabul Province$DIVIDE$Logar Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1000"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabon"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Estuaire Province$DIVIDE$Moyen-Ogooué Province$DIVIDE$Haut-Ogooué Province$DIVIDE$Ogooué-Maritime Province$DIVIDE$Ogooué-Lolo Province$DIVIDE$Ngounié Province$DIVIDE$Woleu-Ntem Province$DIVIDE$Ogooué-Ivindo Province$DIVIDE$Nyanga Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1006"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Conakry$DIVIDE$Boké Region$DIVIDE$Labé Region$DIVIDE$Kindia Region$DIVIDE$Nzérékoré Region$DIVIDE$Faranah Region$DIVIDE$Kankan Region$DIVIDE$Mamou Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1007"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea-Bissau"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bolama region$DIVIDE$Cacheu Region$DIVIDE$Bafatá$DIVIDE$Oio Region$DIVIDE$Quinara Region$DIVIDE$Gabú Region$DIVIDE$Biombo Region$DIVIDE$Tombali Region$DIVIDE$Bissau Autonomous Sector"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1005"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Gambia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Upper River Division$DIVIDE$Lower River Division$DIVIDE$Central River Division$DIVIDE$West Coast Division$DIVIDE$North Bank Division$DIVIDE$Greater Banjul Area"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1011"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Verde"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "São Lourenço dos Órgãos$DIVIDE$São Miguel$DIVIDE$São Salvador do Mundo$DIVIDE$Santa Catarina$DIVIDE$Praia$DIVIDE$Santa Cruz$DIVIDE$São Domingos$DIVIDE$Tarrafal$DIVIDE$Ribeira Grande de Santiago$DIVIDE$Mosteiros$DIVIDE$São Vicente$DIVIDE$Ribeira Brava Municipality$DIVIDE$Ribeira Grande$DIVIDE$Paul$DIVIDE$Porto Novo$DIVIDE$Tarrafal de São Nicolau$DIVIDE$Maio$DIVIDE$Brava$DIVIDE$Santa Catarina do Fogo$DIVIDE$Sal$DIVIDE$Boa Vista$DIVIDE$São Filipe"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivory Coast"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Zanzan Region$DIVIDE$Moyen-Comoé$DIVIDE$Agnéby$DIVIDE$Lagunes region$DIVIDE$Denguélé Region$DIVIDE$Bafing Region$DIVIDE$Bas-Sassandra Region$DIVIDE$Fromager$DIVIDE$Dix-Huit Montagnes$DIVIDE$Marahoué Region$DIVIDE$N'zi-Comoé$DIVIDE$Sud-Comoé$DIVIDE$Moyen-Cavally$DIVIDE$Lacs Region$DIVIDE$Haut-Sassandra$DIVIDE$Sud-Bandama$DIVIDE$Vallée du Bandama Region$DIVIDE$Worodougou$DIVIDE$Savanes Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1009"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cameroon"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "West$DIVIDE$Adamawa$DIVIDE$North$DIVIDE$Southwest$DIVIDE$Centre$DIVIDE$Northwest$DIVIDE$Far North$DIVIDE$East$DIVIDE$Littoral$DIVIDE$South"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Grand Kru County$DIVIDE$Gbarpolu County$DIVIDE$Bomi County$DIVIDE$Montserrado County$DIVIDE$Nimba$DIVIDE$Lofa County$DIVIDE$Maryland County$DIVIDE$Bong County$DIVIDE$Grand Gedeh County$DIVIDE$River Cess County$DIVIDE$Sinoe County$DIVIDE$River Gee County$DIVIDE$Grand Bassa County$DIVIDE$Grand Cape Mount County$DIVIDE$Margibi County"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1013"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lesotho"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Butha-Buthe District$DIVIDE$Berea District$DIVIDE$Thaba-Tseka District$DIVIDE$Mokhotlong District$DIVIDE$Mafeteng District$DIVIDE$Leribe District$DIVIDE$Quthing District$DIVIDE$Mohale's Hoek District$DIVIDE$Maseru District$DIVIDE$Qacha's Nek District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Chattogram Division$DIVIDE$Dhaka Division$DIVIDE$Rajshahi Division$DIVIDE$Barisal Division$DIVIDE$Sylhet Division$DIVIDE$Khulna Division$DIVIDE$Rangpur Division$DIVIDE$Mymensingh Division"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q912"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mali"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bamako$DIVIDE$Mopti Region$DIVIDE$Koulikoro Region$DIVIDE$Nioros Region$DIVIDE$Gao Region$DIVIDE$Kidal Region$DIVIDE$Timbuktu Region$DIVIDE$Sikasso$DIVIDE$Ségou Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Cabinda Province$DIVIDE$Moxico Province$DIVIDE$Luanda Province$DIVIDE$Bengo Province$DIVIDE$Zaire Province$DIVIDE$Benguela Province$DIVIDE$Bié Province$DIVIDE$Lunda Norte Province$DIVIDE$Huíla Province$DIVIDE$Cuando Cubango Province$DIVIDE$Namibe Province$DIVIDE$Cuanza Norte Province$DIVIDE$Uíge Province$DIVIDE$Cunene Province$DIVIDE$Cuanza Sul Province$DIVIDE$Huambo Province$DIVIDE$Malanje Province$DIVIDE$Lunda Sul Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhutan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Pemagatshel District$DIVIDE$Zhemgang District$DIVIDE$Thimphu District$DIVIDE$Mongar District$DIVIDE$Bumthang District$DIVIDE$Gasa District$DIVIDE$Punakha District$DIVIDE$Lhuntse District$DIVIDE$Trashiyangtse District$DIVIDE$Chukha District$DIVIDE$Trashigang District$DIVIDE$Paro District$DIVIDE$Samtse District$DIVIDE$Tsirang District$DIVIDE$Samdrup Jongkhar District$DIVIDE$Wangdue Phodrang District$DIVIDE$Trongsa District$DIVIDE$Sarpang District$DIVIDE$Dagana District$DIVIDE$Haa District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q921"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brunei"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Belait District$DIVIDE$Tutong District$DIVIDE$Brunei-Muara District$DIVIDE$Temburong District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q924"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tanzania"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Dar es Salaam$DIVIDE$Mount Kilimanjaro$DIVIDE$Mwanza$DIVIDE$Ruvuma Region$DIVIDE$Unguja North Region$DIVIDE$Singida Region$DIVIDE$Rukwa Region$DIVIDE$Tabora Region$DIVIDE$Shinyanga Region$DIVIDE$Mjini Magharibi Region$DIVIDE$Dodoma Region$DIVIDE$Morogoro$DIVIDE$Kigoma$DIVIDE$Kagera Region$DIVIDE$Lindi Region$DIVIDE$Iringa Region$DIVIDE$Kilimanjaro Region$DIVIDE$Arusha Region$DIVIDE$Manyara Region$DIVIDE$Mwanza Region$DIVIDE$Mbeya$DIVIDE$Tanga Region$DIVIDE$Mbeya Region$DIVIDE$Morogoro Region$DIVIDE$Mara Region$DIVIDE$Pwani Region$DIVIDE$South Pemba Region$DIVIDE$North Pemba Region$DIVIDE$Mtwara Region$DIVIDE$Dar es Salaam Region$DIVIDE$Tabora$DIVIDE$Unguja South Region$DIVIDE$Mtwara$DIVIDE$Iringa$DIVIDE$Kigoma Region$DIVIDE$Shinyanga$DIVIDE$Lindi"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219060"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palestine"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "West Bank$DIVIDE$Gaza Strip$DIVIDE$North Gaza Governorate$DIVIDE$Bethlehem Governorate$DIVIDE$Hebron Governorate$DIVIDE$Jenin Governorate$DIVIDE$Deir al-Balah Governorate$DIVIDE$Jericho Governorate$DIVIDE$Gaza Governorate$DIVIDE$Salfit Governorate$DIVIDE$Quds Governorate$DIVIDE$Khan Yunis Governorate$DIVIDE$Tubas Governorate$DIVIDE$Nablus Governorate$DIVIDE$Rafah Governorate$DIVIDE$Qalqilya Governorate$DIVIDE$Tulkarm Governorate$DIVIDE$Ramallah and al-Bireh Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q958"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Sudan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Aweil State$DIVIDE$Wau State$DIVIDE$Twic$DIVIDE$Tonj State$DIVIDE$Gogrial State$DIVIDE$Eastern Lakes State$DIVIDE$Gok State$DIVIDE$Latjoor State$DIVIDE$Terekeka State$DIVIDE$Western Lakes State$DIVIDE$Boma State$DIVIDE$Bieh State$DIVIDE$Northern Liech State$DIVIDE$Eastern Nile State$DIVIDE$Ruweng Administrative Area$DIVIDE$Southern Liech State$DIVIDE$Fashoda State$DIVIDE$Fangak State$DIVIDE$Aweil East State$DIVIDE$Abyei$DIVIDE$Jonglei$DIVIDE$Lol State$DIVIDE$Imatong State$DIVIDE$Kapoeta State$DIVIDE$Gbudwe State$DIVIDE$Amadi State$DIVIDE$Maridi State$DIVIDE$Yei River State$DIVIDE$Jubek State"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q962"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benin"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Mono Department$DIVIDE$Borgou Department$DIVIDE$Collines department$DIVIDE$Atlantique Department$DIVIDE$Atakora Department$DIVIDE$Littoral$DIVIDE$Donga Department$DIVIDE$Alibori Department$DIVIDE$Ouémé Department$DIVIDE$Zou Department$DIVIDE$Kouffo Department$DIVIDE$Plateau Department"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Botswana"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Central District$DIVIDE$Ghanzi District$DIVIDE$Kgalagadi District$DIVIDE$Kgatleng District$DIVIDE$Kweneng District$DIVIDE$Southern District$DIVIDE$North-West District$DIVIDE$North-East District$DIVIDE$South-East District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q967"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burundi"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bururi Province$DIVIDE$Bubanza Province$DIVIDE$Cibitoke Province$DIVIDE$Kirundo Province$DIVIDE$Cankuzo Province$DIVIDE$Bujumbura Rural Province$DIVIDE$Muramvya Province$DIVIDE$Gitega Province$DIVIDE$Kayanza Province$DIVIDE$Ngozi Province$DIVIDE$Karuzi Province$DIVIDE$Rutana Province$DIVIDE$Muyinga Province$DIVIDE$Ruyigi Province$DIVIDE$Makamba Province$DIVIDE$Mwaro Province$DIVIDE$Bujumbura Mairie"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q965"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burkina Faso"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Sud-Ouest Region$DIVIDE$Nord Region$DIVIDE$Centre$DIVIDE$Boucle du Mouhoun Region$DIVIDE$Centre-Est Region$DIVIDE$Sahel Region$DIVIDE$Hauts-Bassins Region$DIVIDE$Cascades Region$DIVIDE$Centre-Nord Region$DIVIDE$Centre-Ouest Region$DIVIDE$Est Region$DIVIDE$Centre-Sud Region$DIVIDE$Plateau-Central Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "England$DIVIDE$Scotland$DIVIDE$Wales$DIVIDE$Northern Ireland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q148"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People's Republic of China"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Beijing$DIVIDE$Hong Kong$DIVIDE$Shanghai$DIVIDE$Chongqing$DIVIDE$Tianjin$DIVIDE$Macau$DIVIDE$Guangdong$DIVIDE$Guangxi$DIVIDE$Jiangsu$DIVIDE$Zhejiang$DIVIDE$Tibet Autonomous Region$DIVIDE$Heilongjiang$DIVIDE$Sichuan$DIVIDE$Hebei$DIVIDE$Xinjiang$DIVIDE$Anhui$DIVIDE$Inner Mongolia$DIVIDE$Fujian$DIVIDE$Hainan$DIVIDE$Gansu$DIVIDE$Yunnan$DIVIDE$Shandong$DIVIDE$Henan$DIVIDE$Liaoning$DIVIDE$Jilin$DIVIDE$Hunan$DIVIDE$Qinghai$DIVIDE$Hubei$DIVIDE$Shanxi$DIVIDE$Guizhou$DIVIDE$Shaanxi$DIVIDE$Jiangxi$DIVIDE$Ningxia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "São Paulo$DIVIDE$Paraná$DIVIDE$Paraíba$DIVIDE$Minas Gerais$DIVIDE$Pará$DIVIDE$Rio Grande do Sul$DIVIDE$Amazonas$DIVIDE$Ceará$DIVIDE$Amapá$DIVIDE$Bahia$DIVIDE$Acre$DIVIDE$Alagoas$DIVIDE$Pernambuco$DIVIDE$Santa Catarina$DIVIDE$Rio de Janeiro$DIVIDE$Goiás$DIVIDE$Maranhão$DIVIDE$Roraima$DIVIDE$Piauí$DIVIDE$Mato Grosso$DIVIDE$Espírito Santo$DIVIDE$Rondônia$DIVIDE$Rio Grande do Norte$DIVIDE$Mato Grosso do Sul$DIVIDE$Tocantins$DIVIDE$Sergipe$DIVIDE$Federal District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1019"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madagascar"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Toliara Province$DIVIDE$Antananarivo Province$DIVIDE$Toamasina Province$DIVIDE$Antsiranana Province$DIVIDE$Mahajanga Province$DIVIDE$Fianarantsoa Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1016"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libya"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Wadi al Hayaa District$DIVIDE$Ghat District$DIVIDE$Murzuq District$DIVIDE$Jufra$DIVIDE$Misrata$DIVIDE$Nalut$DIVIDE$Ghat$DIVIDE$Murqub$DIVIDE$Zawiya$DIVIDE$Jafara$DIVIDE$Tripoli$DIVIDE$Jabal al Gharbi District$DIVIDE$Butnan District$DIVIDE$Al Wahat District$DIVIDE$Marj District$DIVIDE$Derna District$DIVIDE$Sabha District$DIVIDE$Zawiya District$DIVIDE$Nuqat al Khams District$DIVIDE$Sirte District$DIVIDE$Nalut District$DIVIDE$Tripoli District$DIVIDE$Jabal al Akhdar$DIVIDE$Misrata District$DIVIDE$Benghazi$DIVIDE$Kufra District$DIVIDE$Wadi al Shatii District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1020"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malawi"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Central Region$DIVIDE$Southern Region$DIVIDE$Northern Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1027"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritius"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Rivière Noire District$DIVIDE$Grand Port District$DIVIDE$Moka District$DIVIDE$Flacq District$DIVIDE$Pamplemousses District$DIVIDE$Port Louis District$DIVIDE$Rivière du Rempart District$DIVIDE$Plaines Wilhems District$DIVIDE$Savanne District"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Nouakchott$DIVIDE$Hodh Ech Chargui Region$DIVIDE$Brakna Region$DIVIDE$Adrar Region$DIVIDE$Assaba Region$DIVIDE$Guidimaka Region$DIVIDE$Tagant Region$DIVIDE$Inchiri Region$DIVIDE$Hodh El Gharbi Region$DIVIDE$Tiris Zemmour Region$DIVIDE$Dakhlet Nouadhibou$DIVIDE$Trarza Region$DIVIDE$Gorgol Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1030"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Zambezi Region$DIVIDE$Oshana Region$DIVIDE$Karas Region$DIVIDE$Erongo Region$DIVIDE$Hardap Region$DIVIDE$Omusati Region$DIVIDE$Khomas Region$DIVIDE$Kunene Region$DIVIDE$Omaheke Region$DIVIDE$Ohangwena Region$DIVIDE$Otjozondjupa Region$DIVIDE$Oshikoto Region$DIVIDE$Kavango West Region$DIVIDE$Kavango East Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1028"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morocco"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Casablanca-Settat$DIVIDE$Drâa-Tafilalet$DIVIDE$Fès-Meknès$DIVIDE$Guelmim-Oued Noun$DIVIDE$Laâyoune-Sakia El Hamra$DIVIDE$Marrakesh-Safi$DIVIDE$Rabat-Salé-Kénitra$DIVIDE$Tangier-Tetouan-Al Hoceima$DIVIDE$Béni Mellal-Khénifra$DIVIDE$Souss-Massa$DIVIDE$Dakhla-Oued Ed-Dahab$DIVIDE$Oriental"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Maputo$DIVIDE$Maputo Province$DIVIDE$Gaza Province$DIVIDE$Cabo Delgado Province$DIVIDE$Inhambane Province$DIVIDE$Tete Province$DIVIDE$Manica Province$DIVIDE$Nampula Province$DIVIDE$Niassa Province$DIVIDE$Sofala$DIVIDE$Zambezia Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippines"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Ilocos Region$DIVIDE$Metro Manila$DIVIDE$Cordillera Administrative Region$DIVIDE$Cagayan Valley$DIVIDE$Central Luzon$DIVIDE$Calabarzon$DIVIDE$Mimaropa$DIVIDE$Bicol Region$DIVIDE$Western Visayas$DIVIDE$Central Visayas$DIVIDE$Eastern Visayas$DIVIDE$Zamboanga Peninsula$DIVIDE$Northern Mindanao$DIVIDE$Davao Region$DIVIDE$Soccsksargen$DIVIDE$Caraga$DIVIDE$Bangsamoro$DIVIDE$Negros Island Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q929"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Central African Republic"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Bangui$DIVIDE$Mbomou River$DIVIDE$Ombella-M'Poko Prefecture$DIVIDE$Bamingui-Bangoran Prefecture$DIVIDE$Nana-Mambéré Prefecture$DIVIDE$Basse-Kotto Prefecture$DIVIDE$Lobaye Prefecture$DIVIDE$Ouaka Prefecture$DIVIDE$Mambéré-Kadéï$DIVIDE$Kémo Prefecture$DIVIDE$Haut-Mbomou Prefecture$DIVIDE$Vakaga Prefecture$DIVIDE$Ouham-Pendé Prefecture$DIVIDE$Haute-Kotto Prefecture$DIVIDE$Nana-Grébizi Economic Prefecture$DIVIDE$Sangha-Mbaéré"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q945"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Togo"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Savanes Region$DIVIDE$Kara Region$DIVIDE$Centrale Region$DIVIDE$Maritime$DIVIDE$Plateaux Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q948"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tunisia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Zaghouan Governorate$DIVIDE$Ariana Governorate$DIVIDE$Ben Arous Governorate$DIVIDE$Bizerte Governorate$DIVIDE$Sfax Governorate$DIVIDE$Gabès Governorate$DIVIDE$Gafsa Governorate$DIVIDE$Sousse Governorate$DIVIDE$Kairouan Governorate$DIVIDE$Béja Governorate$DIVIDE$Jendouba Governorate$DIVIDE$Kebili Governorate$DIVIDE$Monastir Governorate$DIVIDE$Tataouine Governorate$DIVIDE$Medenine Governorate$DIVIDE$Sidi Bouzid Governorate$DIVIDE$Tunis Governorate$DIVIDE$Siliana Governorate$DIVIDE$Nabeul Governorate$DIVIDE$Mahdia Governorate$DIVIDE$Kef Governorate$DIVIDE$Kasserine Governorate$DIVIDE$Tozeur Governorate$DIVIDE$Manouba Governorate"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q954"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zimbabwe"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Midlands Province$DIVIDE$Matabeleland North Province$DIVIDE$Mashonaland West Province$DIVIDE$Manicaland Province$DIVIDE$Mashonaland East Province$DIVIDE$Masvingo Province$DIVIDE$Matabeleland South Province$DIVIDE$Mashonaland Central Province$DIVIDE$Harare Province$DIVIDE$Bulawayo Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q953"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Central Province$DIVIDE$Luapula Province$DIVIDE$Southern Province$DIVIDE$Western Province$DIVIDE$Northern Province$DIVIDE$Lusaka Province$DIVIDE$Eastern Province$DIVIDE$Northwestern Province$DIVIDE$Copperbelt Province$DIVIDE$Muchinga Province"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1033"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Plateau State$DIVIDE$Niger State$DIVIDE$Bauchi State$DIVIDE$Sokoto State$DIVIDE$Ebonyi State$DIVIDE$Federal Capital Territory$DIVIDE$Bayelsa State$DIVIDE$Ekiti State$DIVIDE$Katsina State$DIVIDE$Kano State$DIVIDE$Jigawa State$DIVIDE$Edo State$DIVIDE$Osun State$DIVIDE$Yobe State$DIVIDE$Cross River State$DIVIDE$Kebbi State$DIVIDE$Lagos State$DIVIDE$Nasarawa State$DIVIDE$Ondo State$DIVIDE$Ogun State$DIVIDE$Imo State$DIVIDE$Kaduna State$DIVIDE$Enugu State$DIVIDE$Anambra State$DIVIDE$Borno State$DIVIDE$Zamfara State$DIVIDE$Abia State$DIVIDE$Adamawa State$DIVIDE$Gombe State$DIVIDE$Kogi State$DIVIDE$Akwa Ibom State$DIVIDE$Benue State$DIVIDE$Taraba State$DIVIDE$Kwara State$DIVIDE$Oyo State$DIVIDE$Delta State$DIVIDE$Rivers State"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1032"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niger"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : "Niamey$DIVIDE$Zinder Region$DIVIDE$Agadez Region$DIVIDE$Maradi Region$DIVIDE$Dosso Region$DIVIDE$Tillabéri Region$DIVIDE$Tahoua Region$DIVIDE$Diffa Region"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuvalu"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q710"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kiribati"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4628"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faroe Islands"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vatican City"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

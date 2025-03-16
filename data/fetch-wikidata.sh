@@ -5,7 +5,16 @@
 	--data-urlencode query@data/query.sparql \
 	-o data/wikidata-query.json
 
-jq 'import "data/wikidata" as fetch; { countries: . | fetch::process }' data/wikidata-query.json >data/countries.json
+[ ! -f data/wikidata-query-divisions.json ] && curl https://query.wikidata.org/sparql \
+	-H "Accept: application/sparql-results+json" \
+	--data-urlencode query@data/query-divisions.sparql \
+	-o data/wikidata-query-divisions.json
+
+jq \
+	-s '.[0].results.bindings + .[1].results.bindings | group_by(.country) | map(.[0]*(.[1]//{}))' \
+	./data/wikidata-query.json ./data/wikidata-query-divisions.json > ./data/wikidata-query-full.json
+
+jq 'import "data/wikidata" as fetch; { countries: . | fetch::process }' data/wikidata-query-full.json >data/countries.json
 
 for code in $(jq -r '.countries[] | .code' data/countries.json); do
 	data=$(jq -r ".countries[] | select(.code == \"$code\")" data/countries.json)

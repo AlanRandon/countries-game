@@ -1,5 +1,5 @@
 def process :
-	.results.bindings | map({
+	. | map({
 		name: .countryLabel.value,
 		population: .population.value | tonumber,
 		code: .isoCode.value,

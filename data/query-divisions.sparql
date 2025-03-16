@@ -1,0 +1,35 @@
+SELECT
+	?country
+	?countryLabel
+	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisions)
+WHERE {
+	SERVICE wikibase:label {
+		bd:serviceParam wikibase:language "en".
+		?capital rdfs:label ?capitalLabel.
+		?headOfState rdfs:label ?headOfStateLabel.
+		?division rdfs:label ?divisionLabel.
+		?country rdfs:label ?countryLabel.
+		?borderCountry rdfs:label ?borderCountryLabel.
+	}.
+
+	{
+		?country wdt:P31 wd:Q3624078. # sovereign states as listed by Wikidata
+		FILTER(?country != wd:Q756617) # not the whole Kingdom of Denmark
+	} UNION {
+		?country wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
+	}
+
+	# no dissolved countries
+	FILTER NOT EXISTS{ ?country wdt:P576 ?date }
+
+	OPTIONAL {
+		?saudiDivision wdt:P31 wd:Q15728204.
+		?country wdt:P150 ?firstLevelDivision. # Saudi Arabia only has a list of divsions, not the actual divisions here
+		BIND(IF(
+			?country = wd:Q851, # if Saudi Arabia
+			?saudiDivision,
+			?firstLevelDivision
+		) AS ?division)
+	}.
+}
+GROUP BY ?country ?countryLabel

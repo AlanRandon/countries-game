@@ -32,7 +32,6 @@ WHERE {
 	OPTIONAL { ?country wdt:P36 ?capital }.
 	OPTIONAL { ?country wdt:P35 ?headOfState }.
 	OPTIONAL { ?country wdt:P1082 ?populationValue }.
-	OPTIONAL { ?country wdt:P150 ?division }.
 	OPTIONAL { ?country wdt:P41 ?flagImageValue }.
 	OPTIONAL { ?country wdt:P3896 ?geoshapeValue }.
 	OPTIONAL { ?country wdt:P297 ?isoCodeValue }.
