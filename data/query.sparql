@@ -24,6 +24,18 @@ WHERE {
 		FILTER(?country != wd:Q756617) # not the whole Kingdom of Denmark
 	} UNION {
 		?country wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
+	} UNION {
+		# (partially) unrecognised states
+		VALUES (?country) {
+			(wd:Q1246) # Kosovo
+			(wd:Q34754) # Somaliland
+			(wd:Q907112) # Transnistria
+			(wd:Q2842000) # Ambazonia
+			(wd:Q31354462) # Abkhazia
+			(wd:Q23427) # South Ossetia
+			(wd:Q23681) # Northern Cyprus
+			(wd:Q40362) # Western Sahara
+		}
 	}
 
 	# no dissolved countries

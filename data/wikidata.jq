@@ -1,6 +1,7 @@
 def process :
 	. | map({
 		name: .countryLabel.value,
+		id: .country.value | sub("http://www.wikidata.org/entity/"; ""),
 		population: .population.value | tonumber,
 		code: .isoCode.value,
 		headsOfState: .headsOfState.value | split("$DIVIDE$"),

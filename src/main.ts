@@ -475,7 +475,7 @@ export class MapIsWhichCountryQuestion extends Question {
     super(lives);
 
     const question = countryCorrectMatchesFilter(
-      (_country) => true,
+      (country) => typeof country.geo.localUri === "string",
       (_countryA) => (_countryB) => true,
     );
     this.choices = question.choices;
@@ -704,11 +704,13 @@ export class CountryWhichBordersQuestion extends Question {
           ];
 
         return (country) => {
-          if (country.code == correct.code) {
+          if (country.id == correct.id) {
             return true;
           }
 
-          return !country.borderCountries.includes(borderCountry!);
+          return !(country.borderCountries as string[]).includes(
+            borderCountry!,
+          );
         };
       },
     );

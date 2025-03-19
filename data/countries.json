@@ -2,6 +2,7 @@
   "countries": [
     {
       "name": "Gabon",
+      "id": "Q1000",
       "population": 2025137,
       "code": "GA",
       "headsOfState": [
@@ -37,6 +38,7 @@
     },
     {
       "name": "The Gambia",
+      "id": "Q1005",
       "population": 2639916,
       "code": "GM",
       "headsOfState": [
@@ -67,6 +69,7 @@
     },
     {
       "name": "Guinea",
+      "id": "Q1006",
       "population": 12717176,
       "code": "GN",
       "headsOfState": [
@@ -86,11 +89,11 @@
         "Mamou Region"
       ],
       "borderCountries": [
-        "Ivory Coast",
-        "Sierra Leone",
         "Liberia",
         "Mali",
         "Senegal",
+        "Ivory Coast",
+        "Sierra Leone",
         "Guinea-Bissau"
       ],
       "flagImage": {
@@ -104,6 +107,7 @@
     },
     {
       "name": "Guinea-Bissau",
+      "id": "Q1007",
       "population": 1861283,
       "code": "GW",
       "headsOfState": [
@@ -138,6 +142,7 @@
     },
     {
       "name": "Ivory Coast",
+      "id": "Q1008",
       "population": 31165654,
       "code": "CI",
       "headsOfState": [
@@ -168,11 +173,11 @@
         "Savanes Region"
       ],
       "borderCountries": [
+        "Burkina Faso",
         "Guinea",
         "Ghana",
         "Liberia",
-        "Mali",
-        "Burkina Faso"
+        "Mali"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg",
@@ -185,6 +190,7 @@
     },
     {
       "name": "Cameroon",
+      "id": "Q1009",
       "population": 28372687,
       "code": "CM",
       "headsOfState": [
@@ -224,6 +230,7 @@
     },
     {
       "name": "Cape Verde",
+      "id": "Q1011",
       "population": 555988,
       "code": "CV",
       "headsOfState": [
@@ -268,6 +275,7 @@
     },
     {
       "name": "Lesotho",
+      "id": "Q1013",
       "population": 2007201,
       "code": "LS",
       "headsOfState": [
@@ -302,6 +310,7 @@
     },
     {
       "name": "Liberia",
+      "id": "Q1014",
       "population": 5214030,
       "code": "LR",
       "headsOfState": [
@@ -329,9 +338,9 @@
         "Margibi County"
       ],
       "borderCountries": [
+        "Sierra Leone",
         "Ivory Coast",
-        "Guinea",
-        "Sierra Leone"
+        "Guinea"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg",
@@ -344,6 +353,7 @@
     },
     {
       "name": "Libya",
+      "id": "Q1016",
       "population": 6678567,
       "code": "LY",
       "headsOfState": [
@@ -353,16 +363,6 @@
         "Tripoli"
       ],
       "divisions": [
-        "Wadi al Hayaa District",
-        "Ghat District",
-        "Murzuq District",
-        "Jufra",
-        "Misrata",
-        "Nalut",
-        "Ghat",
-        "Murqub",
-        "Zawiya",
-        "Jafara",
         "Tripoli",
         "Jabal al Gharbi District",
         "Butnan District",
@@ -379,15 +379,25 @@
         "Misrata District",
         "Benghazi",
         "Kufra District",
-        "Wadi al Shatii District"
+        "Wadi al Shatii District",
+        "Wadi al Hayaa District",
+        "Ghat District",
+        "Murzuq District",
+        "Jufra",
+        "Misrata",
+        "Nalut",
+        "Ghat",
+        "Murqub",
+        "Zawiya",
+        "Jafara"
       ],
       "borderCountries": [
-        "Tunisia",
+        "Algeria",
         "Chad",
         "Sudan",
-        "Niger",
-        "Algeria",
-        "Egypt"
+        "Egypt",
+        "Tunisia",
+        "Niger"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg",
@@ -400,6 +410,7 @@
     },
     {
       "name": "Madagascar",
+      "id": "Q1019",
       "population": 25570895,
       "code": "MG",
       "headsOfState": [
@@ -428,6 +439,7 @@
     },
     {
       "name": "Malawi",
+      "id": "Q1020",
       "population": 18622104,
       "code": "MW",
       "headsOfState": [
@@ -457,6 +469,7 @@
     },
     {
       "name": "Mauritania",
+      "id": "Q1025",
       "population": 4736139,
       "code": "MR",
       "headsOfState": [
@@ -497,6 +510,7 @@
     },
     {
       "name": "Mauritius",
+      "id": "Q1027",
       "population": 1264613,
       "code": "MU",
       "headsOfState": [
@@ -528,6 +542,7 @@
     },
     {
       "name": "Morocco",
+      "id": "Q1028",
       "population": 37076584,
       "code": "MA",
       "headsOfState": [
@@ -568,6 +583,7 @@
     },
     {
       "name": "Mozambique",
+      "id": "Q1029",
       "population": 29668834,
       "code": "MZ",
       "headsOfState": [
@@ -608,6 +624,7 @@
     },
     {
       "name": "Namibia",
+      "id": "Q1030",
       "population": 2533794,
       "code": "NA",
       "headsOfState": [
@@ -649,6 +666,7 @@
     },
     {
       "name": "Niger",
+      "id": "Q1032",
       "population": 21477348,
       "code": "NE",
       "headsOfState": [
@@ -691,6 +709,7 @@
     },
     {
       "name": "Nigeria",
+      "id": "Q1033",
       "population": 211400708,
       "code": "NG",
       "headsOfState": [
@@ -700,6 +719,20 @@
         "Abuja"
       ],
       "divisions": [
+        "Anambra State",
+        "Borno State",
+        "Zamfara State",
+        "Abia State",
+        "Adamawa State",
+        "Gombe State",
+        "Kogi State",
+        "Akwa Ibom State",
+        "Benue State",
+        "Taraba State",
+        "Kwara State",
+        "Oyo State",
+        "Delta State",
+        "Rivers State",
         "Plateau State",
         "Niger State",
         "Bauchi State",
@@ -722,21 +755,7 @@
         "Ogun State",
         "Imo State",
         "Kaduna State",
-        "Enugu State",
-        "Anambra State",
-        "Borno State",
-        "Zamfara State",
-        "Abia State",
-        "Adamawa State",
-        "Gombe State",
-        "Kogi State",
-        "Akwa Ibom State",
-        "Benue State",
-        "Taraba State",
-        "Kwara State",
-        "Oyo State",
-        "Delta State",
-        "Rivers State"
+        "Enugu State"
       ],
       "borderCountries": [
         "Benin",
@@ -755,6 +774,7 @@
     },
     {
       "name": "Uganda",
+      "id": "Q1036",
       "population": 47123531,
       "code": "UG",
       "headsOfState": [
@@ -764,6 +784,55 @@
         "Kampala"
       ],
       "divisions": [
+        "Kamuli District",
+        "Ntungamo District",
+        "Lira District",
+        "Rukungiri District",
+        "Nakaseke District",
+        "Kitgum District",
+        "Kyankwanzi District",
+        "Kisoro District",
+        "Mbale District",
+        "Maracha District",
+        "Kibaale District",
+        "Kalangala District",
+        "Mubende District",
+        "Kiboga District",
+        "Kampala District",
+        "Wakiso District",
+        "Nakasongola District",
+        "Rakai District",
+        "Sembabule District",
+        "Jinja District",
+        "Gulu District",
+        "Masaka District",
+        "Masindi District",
+        "Kanungu District",
+        "Soroti District",
+        "Mbarara District",
+        "Bulambuli District",
+        "Kibuku District",
+        "Ngora District",
+        "Namayingo District",
+        "Serere District",
+        "Buyende District",
+        "Lwengo District",
+        "Luuka District",
+        "Kumi District",
+        "Mukono District",
+        "Hoima city",
+        "Tororo District",
+        "Kayunga District",
+        "Adjumani District",
+        "Apac District",
+        "Arua District",
+        "Buliisa District",
+        "Bushenyi District",
+        "Bugiri District",
+        "Busia District",
+        "Iganga District",
+        "Kaabong District",
+        "Kaberamaido District",
         "Kabarole District",
         "Kasese District",
         "Kapchorwa District",
@@ -849,56 +918,7 @@
         "Karenga District",
         "Kazo District",
         "Madi-Okollo District",
-        "Kalaki District",
-        "Kamuli District",
-        "Ntungamo District",
-        "Lira District",
-        "Rukungiri District",
-        "Nakaseke District",
-        "Kitgum District",
-        "Kyankwanzi District",
-        "Kisoro District",
-        "Mbale District",
-        "Maracha District",
-        "Kibaale District",
-        "Kalangala District",
-        "Mubende District",
-        "Kiboga District",
-        "Kampala District",
-        "Wakiso District",
-        "Nakasongola District",
-        "Rakai District",
-        "Sembabule District",
-        "Jinja District",
-        "Gulu District",
-        "Masaka District",
-        "Masindi District",
-        "Kanungu District",
-        "Soroti District",
-        "Mbarara District",
-        "Bulambuli District",
-        "Kibuku District",
-        "Ngora District",
-        "Namayingo District",
-        "Serere District",
-        "Buyende District",
-        "Lwengo District",
-        "Luuka District",
-        "Kumi District",
-        "Mukono District",
-        "Hoima city",
-        "Tororo District",
-        "Kayunga District",
-        "Adjumani District",
-        "Apac District",
-        "Arua District",
-        "Buliisa District",
-        "Bushenyi District",
-        "Bugiri District",
-        "Busia District",
-        "Iganga District",
-        "Kaabong District",
-        "Kaberamaido District"
+        "Kalaki District"
       ],
       "borderCountries": [
         "Democratic Republic of the Congo",
@@ -919,6 +939,7 @@
     },
     {
       "name": "Rwanda",
+      "id": "Q1037",
       "population": 13246394,
       "code": "RW",
       "headsOfState": [
@@ -951,6 +972,7 @@
     },
     {
       "name": "São Tomé and Príncipe",
+      "id": "Q1039",
       "population": 204327,
       "code": "ST",
       "headsOfState": [
@@ -981,6 +1003,7 @@
     },
     {
       "name": "Senegal",
+      "id": "Q1041",
       "population": 16876720,
       "code": "SN",
       "headsOfState": [
@@ -1009,8 +1032,8 @@
         "The Gambia",
         "Guinea-Bissau",
         "Guinea",
-        "Mauritania",
-        "Mali"
+        "Mali",
+        "Mauritania"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg",
@@ -1023,6 +1046,7 @@
     },
     {
       "name": "Seychelles",
+      "id": "Q1042",
       "population": 119773,
       "code": "SC",
       "headsOfState": [
@@ -1032,6 +1056,19 @@
         "Victoria"
       ],
       "divisions": [
+        "Anse Etoile",
+        "Anse Boileau",
+        "Anse-aux-Pins",
+        "Baie Sainte Anne",
+        "Bel Air",
+        "La Digue and Inner Islands",
+        "Grand'Anse Praslin",
+        "Port Glaud",
+        "La Rivière Anglaise",
+        "Cascade",
+        "Mont Fleuri",
+        "Plaisance",
+        "Saint Louis",
         "Les Mamelles",
         "Takamaka",
         "Baie Lazare",
@@ -1045,20 +1082,7 @@
         "Bel Ombre",
         "Beau Vallon",
         "Ile Perseverance I",
-        "Ile Perseverance II",
-        "Anse Etoile",
-        "Anse Boileau",
-        "Anse-aux-Pins",
-        "Baie Sainte Anne",
-        "Bel Air",
-        "La Digue and Inner Islands",
-        "Grand'Anse Praslin",
-        "Port Glaud",
-        "La Rivière Anglaise",
-        "Cascade",
-        "Mont Fleuri",
-        "Plaisance",
-        "Saint Louis"
+        "Ile Perseverance II"
       ],
       "borderCountries": [],
       "flagImage": {
@@ -1072,6 +1096,7 @@
     },
     {
       "name": "Sierra Leone",
+      "id": "Q1044",
       "population": 7557212,
       "code": "SL",
       "headsOfState": [
@@ -1102,6 +1127,7 @@
     },
     {
       "name": "Somalia",
+      "id": "Q1045",
       "population": 11031386,
       "code": "SO",
       "headsOfState": [
@@ -1142,6 +1168,7 @@
     },
     {
       "name": "Sudan",
+      "id": "Q1049",
       "population": 40533330,
       "code": "SD",
       "headsOfState": [
@@ -1169,14 +1196,14 @@
       ],
       "borderCountries": [
         "Eritrea",
+        "Kenya",
+        "Uganda",
         "Egypt",
         "Ethiopia",
         "Libya",
         "Central African Republic",
         "South Sudan",
-        "Chad",
-        "Kenya",
-        "Uganda"
+        "Chad"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg",
@@ -1189,6 +1216,7 @@
     },
     {
       "name": "Eswatini",
+      "id": "Q1050",
       "population": 1230506,
       "code": "SZ",
       "headsOfState": [
@@ -1219,6 +1247,7 @@
     },
     {
       "name": "Kenya",
+      "id": "Q114",
       "population": 48468138,
       "code": "KE",
       "headsOfState": [
@@ -1237,12 +1266,12 @@
         "Nairobi Province"
       ],
       "borderCountries": [
+        "Sudan",
         "Ethiopia",
         "Uganda",
         "Somalia",
         "Tanzania",
-        "South Sudan",
-        "Sudan"
+        "South Sudan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg",
@@ -1255,6 +1284,7 @@
     },
     {
       "name": "Ethiopia",
+      "id": "Q115",
       "population": 128691692,
       "code": "ET",
       "headsOfState": [
@@ -1277,13 +1307,13 @@
         "Harari Region"
       ],
       "borderCountries": [
-        "Eritrea",
-        "Kenya",
+        "Somaliland",
+        "Djibouti",
         "Sudan",
         "South Sudan",
-        "Somalia",
-        "Somaliland",
-        "Djibouti"
+        "Eritrea",
+        "Kenya",
+        "Somalia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg",
@@ -1296,6 +1326,7 @@
     },
     {
       "name": "Ghana",
+      "id": "Q117",
       "population": 32833031,
       "code": "GH",
       "headsOfState": [
@@ -1331,7 +1362,67 @@
       }
     },
     {
+      "name": "Kosovo",
+      "id": "Q1246",
+      "population": 1586659,
+      "code": "XK",
+      "headsOfState": [
+        "Vjosa Osmani"
+      ],
+      "capitals": [
+        "Pristina"
+      ],
+      "divisions": [
+        "Rahovec Municipality",
+        "Suhareka Municipality",
+        "Malishevë Municipality",
+        "Junik Municipality",
+        "Mamusha Municipality",
+        "Deçan Municipality",
+        "Klina Municipality",
+        "Viti Municipality",
+        "Drenas Municipality",
+        "Podujeva Municipality",
+        "Istog Municipality",
+        "Kaçanik Municipality",
+        "Kamenica Municipality",
+        "Štrpce Municipality",
+        "Leposavić Municipality",
+        "Ferizaj Municipality",
+        "Elez Han Municipality",
+        "Fushë Kosovë Municipality",
+        "Zubin Potok Municipality",
+        "Prizren Municipality",
+        "Peja Municipality",
+        "Gjilan Municipality",
+        "Dragash Municipality",
+        "Prishtina City",
+        "Gračanica Municipality",
+        "Gjakova Municipality",
+        "Mitrovica Municipality",
+        "Vushtrri Municipality",
+        "Obiliq Municipality",
+        "Ranilug Municipality",
+        "Lipjan Municipality"
+      ],
+      "borderCountries": [
+        "North Macedonia",
+        "Serbia",
+        "Montenegro",
+        "Albania"
+      ],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kosovo.svg",
+        "localUri": "/static/f518776.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Kosovo.map",
+        "localUri": "/static/f354c05.json"
+      }
+    },
+    {
       "name": "France",
+      "id": "Q142",
       "population": 68373433,
       "code": "FR",
       "headsOfState": [
@@ -1393,6 +1484,7 @@
     },
     {
       "name": "United Kingdom",
+      "id": "Q145",
       "population": 67326569,
       "code": "GB",
       "headsOfState": [
@@ -1423,10 +1515,11 @@
     },
     {
       "name": "People's Republic of China",
+      "id": "Q148",
       "population": 1442965000,
       "code": "CN",
       "headsOfState": [
-        "Xi Jinping"
+        "Q15031"
       ],
       "capitals": [
         "Beijing"
@@ -1472,15 +1565,15 @@
         "Vietnam",
         "Bhutan",
         "Kazakhstan",
+        "Kyrgyzstan",
+        "Laos",
+        "Nepal",
         "Mongolia",
         "Pakistan",
         "North Korea",
         "India",
         "Russia",
-        "Afghanistan",
-        "Kyrgyzstan",
-        "Laos",
-        "Nepal"
+        "Afghanistan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
@@ -1493,6 +1586,7 @@
     },
     {
       "name": "Brazil",
+      "id": "Q155",
       "population": 203062512,
       "code": "BR",
       "headsOfState": [
@@ -1531,6 +1625,8 @@
         "Federal District"
       ],
       "borderCountries": [
+        "Suriname",
+        "Venezuela",
         "Bolivia",
         "Argentina",
         "Peru",
@@ -1538,9 +1634,7 @@
         "Uruguay",
         "France",
         "Colombia",
-        "Guyana",
-        "Suriname",
-        "Venezuela"
+        "Guyana"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
@@ -1553,7 +1647,8 @@
     },
     {
       "name": "Russia",
-      "population": 145975300,
+      "id": "Q159",
+      "population": 146119928,
       "code": "RU",
       "headsOfState": [
         "Vladimir Putin"
@@ -1562,6 +1657,34 @@
         "Moscow"
       ],
       "divisions": [
+        "Moscow",
+        "Saint Petersburg",
+        "Tuva",
+        "Moscow Oblast",
+        "Samara Oblast",
+        "Kaliningrad Oblast",
+        "Murmansk Oblast",
+        "Arkhangelsk Oblast",
+        "Karelia",
+        "Vologda Oblast",
+        "Komi Republic",
+        "Nenets Autonomous Okrug",
+        "Leningrad Oblast",
+        "Pskov Oblast",
+        "Novgorod Oblast",
+        "Nizhny Novgorod Oblast",
+        "Tver Oblast",
+        "Smolensk Oblast",
+        "Yaroslavl Oblast",
+        "Kostroma Oblast",
+        "Ivanovo Oblast",
+        "Vladimir Oblast",
+        "Ryazan Oblast",
+        "Tula Oblast",
+        "Bryansk Oblast",
+        "Kaluga Oblast",
+        "Oryol Oblast",
+        "Kursk Oblast",
         "Belgorod Oblast",
         "Voronezh Oblast",
         "Lipetsk Oblast",
@@ -1618,37 +1741,10 @@
         "Kamchatka Krai",
         "Magadan Oblast",
         "Chukotka Autonomous Okrug",
-        "Republic of Crimea",
-        "Moscow",
-        "Saint Petersburg",
-        "Tuva",
-        "Moscow Oblast",
-        "Samara Oblast",
-        "Kaliningrad Oblast",
-        "Murmansk Oblast",
-        "Arkhangelsk Oblast",
-        "Karelia",
-        "Vologda Oblast",
-        "Komi Republic",
-        "Nenets Autonomous Okrug",
-        "Leningrad Oblast",
-        "Pskov Oblast",
-        "Novgorod Oblast",
-        "Nizhny Novgorod Oblast",
-        "Tver Oblast",
-        "Smolensk Oblast",
-        "Yaroslavl Oblast",
-        "Kostroma Oblast",
-        "Ivanovo Oblast",
-        "Vladimir Oblast",
-        "Ryazan Oblast",
-        "Tula Oblast",
-        "Bryansk Oblast",
-        "Kaluga Oblast",
-        "Oryol Oblast",
-        "Kursk Oblast"
+        "Republic of Crimea"
       ],
       "borderCountries": [
+        "Georgia",
         "Finland",
         "Estonia",
         "North Korea",
@@ -1661,8 +1757,7 @@
         "Latvia",
         "Ukraine",
         "Norway",
-        "Azerbaijan",
-        "Georgia"
+        "Azerbaijan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
@@ -1675,6 +1770,7 @@
     },
     {
       "name": "Canada",
+      "id": "Q16",
       "population": 36991981,
       "code": "CA",
       "headsOfState": [
@@ -1713,6 +1809,7 @@
     },
     {
       "name": "Japan",
+      "id": "Q17",
       "population": 125440000,
       "code": "JP",
       "headsOfState": [
@@ -1782,6 +1879,7 @@
     },
     {
       "name": "Germany",
+      "id": "Q183",
       "population": 84358845,
       "code": "DE",
       "headsOfState": [
@@ -1809,15 +1907,15 @@
         "Bremen"
       ],
       "borderCountries": [
+        "Luxembourg",
+        "Poland",
         "France",
         "Switzerland",
         "Austria",
         "Denmark",
         "Czech Republic",
         "Belgium",
-        "Kingdom of the Netherlands",
-        "Luxembourg",
-        "Poland"
+        "Kingdom of the Netherlands"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
@@ -1830,6 +1928,7 @@
     },
     {
       "name": "Belarus",
+      "id": "Q184",
       "population": 9155978,
       "code": "BY",
       "headsOfState": [
@@ -1865,6 +1964,7 @@
     },
     {
       "name": "Iceland",
+      "id": "Q189",
       "population": 364260,
       "code": "IS",
       "headsOfState": [
@@ -1893,6 +1993,7 @@
     },
     {
       "name": "Estonia",
+      "id": "Q191",
       "population": 1374687,
       "code": "EE",
       "headsOfState": [
@@ -1933,6 +2034,7 @@
     },
     {
       "name": "Norway",
+      "id": "Q20",
       "population": 5594340,
       "code": "NO",
       "headsOfState": [
@@ -1977,6 +2079,7 @@
     },
     {
       "name": "Latvia",
+      "id": "Q211",
       "population": 1871882,
       "code": "LV",
       "headsOfState": [
@@ -2123,6 +2226,7 @@
     },
     {
       "name": "Ukraine",
+      "id": "Q212",
       "population": 41167335,
       "code": "UA",
       "headsOfState": [
@@ -2180,6 +2284,7 @@
     },
     {
       "name": "Czech Republic",
+      "id": "Q213",
       "population": 10900555,
       "code": "CZ",
       "headsOfState": [
@@ -2221,6 +2326,7 @@
     },
     {
       "name": "Slovakia",
+      "id": "Q214",
       "population": 5449270,
       "code": "SK",
       "headsOfState": [
@@ -2257,6 +2363,7 @@
     },
     {
       "name": "Slovenia",
+      "id": "Q215",
       "population": 2066880,
       "code": "SI",
       "headsOfState": [
@@ -2480,10 +2587,10 @@
         "Municipality of Grad"
       ],
       "borderCountries": [
+        "Hungary",
         "Italy",
         "Croatia",
-        "Austria",
-        "Hungary"
+        "Austria"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
@@ -2496,13 +2603,14 @@
     },
     {
       "name": "Moldova",
+      "id": "Q217",
       "population": 2603813,
       "code": "MD",
       "headsOfState": [
         "Maia Sandu"
       ],
       "capitals": [
-        "Chişinău"
+        "Chișinău"
       ],
       "divisions": [
         "Gagauzia",
@@ -2558,6 +2666,7 @@
     },
     {
       "name": "Romania",
+      "id": "Q218",
       "population": 19053815,
       "code": "RO",
       "headsOfState": [
@@ -2611,11 +2720,11 @@
         "Giurgiu County"
       ],
       "borderCountries": [
+        "Serbia",
         "Hungary",
         "Ukraine",
         "Moldova",
-        "Bulgaria",
-        "Serbia"
+        "Bulgaria"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
@@ -2628,6 +2737,7 @@
     },
     {
       "name": "Bulgaria",
+      "id": "Q219",
       "population": 6795803,
       "code": "BG",
       "headsOfState": [
@@ -2667,11 +2777,11 @@
         "Lovech"
       ],
       "borderCountries": [
-        "Romania",
         "Greece",
         "North Macedonia",
         "Serbia",
-        "Turkey"
+        "Turkey",
+        "Romania"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
@@ -2684,6 +2794,7 @@
     },
     {
       "name": "Palestine",
+      "id": "Q219060",
       "population": 5227193,
       "code": "PS",
       "headsOfState": [
@@ -2726,6 +2837,7 @@
     },
     {
       "name": "North Macedonia",
+      "id": "Q221",
       "population": 1836713,
       "code": "MK",
       "headsOfState": [
@@ -2835,6 +2947,7 @@
     },
     {
       "name": "Albania",
+      "id": "Q222",
       "population": 2811655,
       "code": "AL",
       "headsOfState": [
@@ -2875,6 +2988,7 @@
     },
     {
       "name": "Greenland",
+      "id": "Q223",
       "population": 56609,
       "code": "GL",
       "headsOfState": [
@@ -2903,6 +3017,7 @@
     },
     {
       "name": "Croatia",
+      "id": "Q224",
       "population": 3871833,
       "code": "HR",
       "headsOfState": [
@@ -2935,11 +3050,11 @@
         "Međimurje County"
       ],
       "borderCountries": [
+        "Hungary",
+        "Montenegro",
         "Bosnia and Herzegovina",
         "Serbia",
-        "Slovenia",
-        "Hungary",
-        "Montenegro"
+        "Slovenia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
@@ -2952,6 +3067,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
+      "id": "Q225",
       "population": 3816459,
       "code": "BA",
       "headsOfState": [
@@ -2968,9 +3084,9 @@
         "Brčko District"
       ],
       "borderCountries": [
-        "Croatia",
         "Montenegro",
-        "Serbia"
+        "Serbia",
+        "Croatia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg",
@@ -2983,6 +3099,7 @@
     },
     {
       "name": "Azerbaijan",
+      "id": "Q227",
       "population": 10145212,
       "code": "AZ",
       "headsOfState": [
@@ -3082,6 +3199,7 @@
     },
     {
       "name": "Andorra",
+      "id": "Q228",
       "population": 87097,
       "code": "AD",
       "headsOfState": [
@@ -3115,6 +3233,7 @@
     },
     {
       "name": "Cyprus",
+      "id": "Q229",
       "population": 1344976,
       "code": "CY",
       "headsOfState": [
@@ -3145,6 +3264,7 @@
     },
     {
       "name": "Georgia",
+      "id": "Q230",
       "population": 3717100,
       "code": "GE",
       "headsOfState": [
@@ -3168,10 +3288,10 @@
         "Autonomous Republic of Abkhazia"
       ],
       "borderCountries": [
-        "Armenia",
-        "Azerbaijan",
         "Turkey",
-        "Russia"
+        "Russia",
+        "Armenia",
+        "Azerbaijan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg",
@@ -3184,6 +3304,7 @@
     },
     {
       "name": "Kazakhstan",
+      "id": "Q232",
       "population": 20139914,
       "code": "KZ",
       "headsOfState": [
@@ -3213,11 +3334,11 @@
         "Turkistan Region"
       ],
       "borderCountries": [
-        "Russia",
         "Uzbekistan",
         "Turkmenistan",
         "People's Republic of China",
-        "Kyrgyzstan"
+        "Kyrgyzstan",
+        "Russia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg",
@@ -3230,6 +3351,7 @@
     },
     {
       "name": "Malta",
+      "id": "Q233",
       "population": 553214,
       "code": "MT",
       "headsOfState": [
@@ -3257,7 +3379,36 @@
       }
     },
     {
+      "name": "South Ossetia",
+      "id": "Q23427",
+      "population": 53532,
+      "code": null,
+      "headsOfState": [
+        "Alan Gagloyev"
+      ],
+      "capitals": [
+        "Tskhinvali"
+      ],
+      "divisions": [
+        "Tskhinvali",
+        "Leningor District",
+        "Znaur District",
+        "Dzau District",
+        "Tskhinvali District"
+      ],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Ossetia.svg",
+        "localUri": "/static/2531dfd.svg"
+      },
+      "geo": {
+        "uri": null,
+        "localUri": null
+      }
+    },
+    {
       "name": "Monaco",
+      "id": "Q235",
       "population": 38350,
       "code": "MC",
       "headsOfState": [
@@ -3281,6 +3432,7 @@
     },
     {
       "name": "Montenegro",
+      "id": "Q236",
       "population": 617213,
       "code": "ME",
       "headsOfState": [
@@ -3317,11 +3469,11 @@
         "Gusinje Municipality"
       ],
       "borderCountries": [
-        "Albania",
         "Bosnia and Herzegovina",
         "Croatia",
         "Serbia",
-        "Kosovo"
+        "Kosovo",
+        "Albania"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg",
@@ -3333,7 +3485,30 @@
       }
     },
     {
+      "name": "Northern Cyprus",
+      "id": "Q23681",
+      "population": 390745,
+      "code": null,
+      "headsOfState": [
+        "Ersin Tatar"
+      ],
+      "capitals": [
+        "North Nicosia"
+      ],
+      "divisions": [],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Turkish%20Republic%20of%20Northern%20Cyprus.svg",
+        "localUri": "/static/690e37d.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Northern+Cyprus.map",
+        "localUri": "/static/c9e6fdc.json"
+      }
+    },
+    {
       "name": "Vatican City",
+      "id": "Q237",
       "population": 764,
       "code": "VA",
       "headsOfState": [
@@ -3355,6 +3530,7 @@
     },
     {
       "name": "San Marino",
+      "id": "Q238",
       "population": 33607,
       "code": "SM",
       "headsOfState": [
@@ -3388,6 +3564,7 @@
     },
     {
       "name": "Cuba",
+      "id": "Q241",
       "population": 10985974,
       "code": "CU",
       "headsOfState": [
@@ -3426,6 +3603,7 @@
     },
     {
       "name": "Belize",
+      "id": "Q242",
       "population": 411106,
       "code": "BZ",
       "headsOfState": [
@@ -3457,6 +3635,7 @@
     },
     {
       "name": "Barbados",
+      "id": "Q244",
       "population": 303431,
       "code": "BB",
       "headsOfState": [
@@ -3490,6 +3669,7 @@
     },
     {
       "name": "Indonesia",
+      "id": "Q252",
       "population": 275439000,
       "code": "ID",
       "headsOfState": [
@@ -3554,6 +3734,7 @@
     },
     {
       "name": "South Africa",
+      "id": "Q258",
       "population": 62027503,
       "code": "ZA",
       "headsOfState": [
@@ -3594,6 +3775,7 @@
     },
     {
       "name": "Algeria",
+      "id": "Q262",
       "population": 46164219,
       "code": "DZ",
       "headsOfState": [
@@ -3682,6 +3864,7 @@
     },
     {
       "name": "Uzbekistan",
+      "id": "Q265",
       "population": 34915100,
       "code": "UZ",
       "headsOfState": [
@@ -3724,6 +3907,7 @@
     },
     {
       "name": "Ireland",
+      "id": "Q27",
       "population": 5149139,
       "code": "IE",
       "headsOfState": [
@@ -3778,6 +3962,7 @@
     },
     {
       "name": "Hungary",
+      "id": "Q28",
       "population": 9599744,
       "code": "HU",
       "headsOfState": [
@@ -3809,13 +3994,13 @@
         "Nógrád County"
       ],
       "borderCountries": [
-        "Serbia",
-        "Slovenia",
         "Austria",
         "Ukraine",
         "Slovakia",
         "Romania",
-        "Croatia"
+        "Croatia",
+        "Serbia",
+        "Slovenia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
@@ -3827,7 +4012,33 @@
       }
     },
     {
+      "name": "Ambazonia",
+      "id": "Q2842000",
+      "population": 8000000,
+      "code": null,
+      "headsOfState": [
+        "Chris Anu",
+        "Marianta Njomia",
+        "Samuel Ikome Sako",
+        "Sisiku Julius Ayuk Tabe"
+      ],
+      "capitals": [
+        "Buea"
+      ],
+      "divisions": [],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federal%20Republic%20of%20Southern%20Cameroons.svg",
+        "localUri": "/static/00ba39d.svg"
+      },
+      "geo": {
+        "uri": null,
+        "localUri": null
+      }
+    },
+    {
       "name": "Spain",
+      "id": "Q29",
       "population": 47415750,
       "code": "ES",
       "headsOfState": [
@@ -3876,6 +4087,7 @@
     },
     {
       "name": "Chile",
+      "id": "Q298",
       "population": 19458000,
       "code": "CL",
       "headsOfState": [
@@ -3918,6 +4130,7 @@
     },
     {
       "name": "Kingdom of the Netherlands",
+      "id": "Q29999",
       "population": 17100715,
       "code": "NL",
       "headsOfState": [
@@ -3933,9 +4146,9 @@
         "Sint Maarten"
       ],
       "borderCountries": [
+        "France",
         "Germany",
-        "Belgium",
-        "France"
+        "Belgium"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
@@ -3948,6 +4161,7 @@
     },
     {
       "name": "United States",
+      "id": "Q30",
       "population": 340110988,
       "code": "US",
       "headsOfState": [
@@ -4029,6 +4243,7 @@
     },
     {
       "name": "Belgium",
+      "id": "Q31",
       "population": 11584008,
       "code": "BE",
       "headsOfState": [
@@ -4046,10 +4261,10 @@
         "German-speaking Community of Belgium"
       ],
       "borderCountries": [
-        "Luxembourg",
-        "Kingdom of the Netherlands",
         "France",
-        "Germany"
+        "Germany",
+        "Luxembourg",
+        "Kingdom of the Netherlands"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg",
@@ -4061,7 +4276,38 @@
       }
     },
     {
+      "name": "Republic of Abkhazia",
+      "id": "Q31354462",
+      "population": 245246,
+      "code": null,
+      "headsOfState": [
+        "Badra Gunba"
+      ],
+      "capitals": [
+        "Sukhumi"
+      ],
+      "divisions": [
+        "Gagra District",
+        "Tkvarcheli District",
+        "Gudauta District",
+        "Gulripsh District",
+        "Sukhumi District",
+        "Gali District",
+        "Ochamchira District"
+      ],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20Abkhazia.svg",
+        "localUri": "/static/d6aa206.svg"
+      },
+      "geo": {
+        "uri": null,
+        "localUri": null
+      }
+    },
+    {
       "name": "Luxembourg",
+      "id": "Q32",
       "population": 672050,
       "code": "LU",
       "headsOfState": [
@@ -4088,9 +4334,9 @@
         "Canton of Vianden"
       ],
       "borderCountries": [
+        "Germany",
         "Belgium",
-        "France",
-        "Germany"
+        "France"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg",
@@ -4103,6 +4349,7 @@
     },
     {
       "name": "Finland",
+      "id": "Q33",
       "population": 5608218,
       "code": "FI",
       "headsOfState": [
@@ -4133,9 +4380,9 @@
         "Southwest Finland"
       ],
       "borderCountries": [
-        "Russia",
         "Sweden",
-        "Norway"
+        "Norway",
+        "Russia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
@@ -4148,6 +4395,7 @@
     },
     {
       "name": "Singapore",
+      "id": "Q334",
       "population": 5866139,
       "code": "SG",
       "headsOfState": [
@@ -4175,6 +4423,7 @@
     },
     {
       "name": "Sweden",
+      "id": "Q34",
       "population": 10587710,
       "code": "SE",
       "headsOfState": [
@@ -4221,6 +4470,7 @@
     },
     {
       "name": "Liechtenstein",
+      "id": "Q347",
       "population": 37922,
       "code": "LI",
       "headsOfState": [
@@ -4256,7 +4506,39 @@
       }
     },
     {
+      "name": "Somaliland",
+      "id": "Q34754",
+      "population": 4171898,
+      "code": null,
+      "headsOfState": [
+        "Muse Bihi Abdi"
+      ],
+      "capitals": [
+        "Hargeisa"
+      ],
+      "divisions": [
+        "Sahil",
+        "Sanaag Region",
+        "Awdal Region",
+        "Sool",
+        "Togdheer Region",
+        "Maroodi Jeeh"
+      ],
+      "borderCountries": [
+        "Ethiopia"
+      ],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somaliland.svg",
+        "localUri": "/static/239d6a7.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Somaliland.map",
+        "localUri": "/static/c51edae.json"
+      }
+    },
+    {
       "name": "Denmark",
+      "id": "Q35",
       "population": 5827463,
       "code": "DK",
       "headsOfState": [
@@ -4295,7 +4577,8 @@
     },
     {
       "name": "Poland",
-      "population": 38382576,
+      "id": "Q36",
+      "population": 37563071,
       "code": "PL",
       "headsOfState": [
         "Andrzej Duda"
@@ -4323,12 +4606,12 @@
       ],
       "borderCountries": [
         "Germany",
-        "Russia",
         "Slovakia",
         "Czech Republic",
         "Lithuania",
         "Belarus",
-        "Ukraine"
+        "Ukraine",
+        "Russia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
@@ -4341,6 +4624,7 @@
     },
     {
       "name": "Lithuania",
+      "id": "Q37",
       "population": 2860002,
       "code": "LT",
       "headsOfState": [
@@ -4350,16 +4634,16 @@
         "Vilnius"
       ],
       "divisions": [
-        "Šiauliai County",
-        "Vilnius County",
-        "Panevėžys County",
-        "Utena County",
-        "Tauragė County",
         "Telšiai County",
         "Klaipėda County",
         "Alytus County",
         "Kaunas County",
-        "Marijampolė County"
+        "Marijampolė County",
+        "Šiauliai County",
+        "Vilnius County",
+        "Panevėžys County",
+        "Utena County",
+        "Tauragė County"
       ],
       "borderCountries": [
         "Russia",
@@ -4378,6 +4662,7 @@
     },
     {
       "name": "Italy",
+      "id": "Q38",
       "population": 58850717,
       "code": "IT",
       "headsOfState": [
@@ -4409,12 +4694,12 @@
         "Sardinia"
       ],
       "borderCountries": [
-        "Slovenia",
-        "Switzerland",
         "San Marino",
         "France",
         "Austria",
-        "Vatican City"
+        "Vatican City",
+        "Slovenia",
+        "Switzerland"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
@@ -4427,6 +4712,7 @@
     },
     {
       "name": "Switzerland",
+      "id": "Q39",
       "population": 8902308,
       "code": "CH",
       "headsOfState": [
@@ -4464,11 +4750,11 @@
         "canton Vaud"
       ],
       "borderCountries": [
-        "Italy",
         "Austria",
         "France",
         "Germany",
-        "Liechtenstein"
+        "Liechtenstein",
+        "Italy"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
@@ -4481,6 +4767,7 @@
     },
     {
       "name": "Bahrain",
+      "id": "Q398",
       "population": 1569666,
       "code": "BH",
       "headsOfState": [
@@ -4508,6 +4795,7 @@
     },
     {
       "name": "Armenia",
+      "id": "Q399",
       "population": 2930450,
       "code": "AM",
       "headsOfState": [
@@ -4546,6 +4834,7 @@
     },
     {
       "name": "Austria",
+      "id": "Q40",
       "population": 8979894,
       "code": "AT",
       "headsOfState": [
@@ -4586,6 +4875,7 @@
     },
     {
       "name": "Serbia",
+      "id": "Q403",
       "population": 6647003,
       "code": "RS",
       "headsOfState": [
@@ -4627,11 +4917,11 @@
         "Peć District"
       ],
       "borderCountries": [
-        "Albania",
         "Hungary",
         "North Macedonia",
         "Romania",
         "Montenegro",
+        "Albania",
         "Bosnia and Herzegovina",
         "Bulgaria",
         "Kosovo",
@@ -4647,7 +4937,31 @@
       }
     },
     {
+      "name": "Sahrawi Arab Democratic Republic",
+      "id": "Q40362",
+      "population": 607292,
+      "code": null,
+      "headsOfState": [
+        "Brahim Ghali"
+      ],
+      "capitals": [
+        "Tifariti",
+        "Laayoune"
+      ],
+      "divisions": [],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg",
+        "localUri": "/static/99485e9.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Sahrawi+Arab+Democratic+Republic.map",
+        "localUri": "/static/a3cac2c.json"
+      }
+    },
+    {
       "name": "Australia",
+      "id": "Q408",
       "population": 26473055,
       "code": "AU",
       "headsOfState": [
@@ -4686,6 +5000,7 @@
     },
     {
       "name": "Greece",
+      "id": "Q41",
       "population": 10482487,
       "code": "GR",
       "headsOfState": [
@@ -4711,10 +5026,10 @@
         "Thessaly Region"
       ],
       "borderCountries": [
-        "North Macedonia",
-        "Turkey",
         "Albania",
-        "Bulgaria"
+        "Bulgaria",
+        "North Macedonia",
+        "Turkey"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
@@ -4727,6 +5042,7 @@
     },
     {
       "name": "Argentina",
+      "id": "Q414",
       "population": 47327407,
       "code": "AR",
       "headsOfState": [
@@ -4762,10 +5078,10 @@
       ],
       "borderCountries": [
         "Bolivia",
-        "Uruguay",
         "Chile",
         "Brazil",
-        "Paraguay"
+        "Paraguay",
+        "Uruguay"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
@@ -4778,6 +5094,7 @@
     },
     {
       "name": "Peru",
+      "id": "Q419",
       "population": 33726000,
       "code": "PE",
       "headsOfState": [
@@ -4815,8 +5132,8 @@
       ],
       "borderCountries": [
         "Bolivia",
-        "Colombia",
         "Brazil",
+        "Colombia",
         "Ecuador",
         "Chile"
       ],
@@ -4831,6 +5148,7 @@
     },
     {
       "name": "North Korea",
+      "id": "Q423",
       "population": 26418204,
       "code": "KP",
       "headsOfState": [
@@ -4869,6 +5187,7 @@
     },
     {
       "name": "Cambodia",
+      "id": "Q424",
       "population": 17423880,
       "code": "KH",
       "headsOfState": [
@@ -4919,6 +5238,7 @@
     },
     {
       "name": "Turkey",
+      "id": "Q43",
       "population": 85372377,
       "code": "TR",
       "headsOfState": [
@@ -5011,14 +5331,14 @@
         "Ankara Province"
       ],
       "borderCountries": [
+        "Armenia",
+        "Azerbaijan",
         "Iran",
         "Iraq",
         "Bulgaria",
         "Greece",
         "Georgia",
-        "Syria",
-        "Armenia",
-        "Azerbaijan"
+        "Syria"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
@@ -5031,6 +5351,7 @@
     },
     {
       "name": "Portugal",
+      "id": "Q45",
       "population": 10347892,
       "code": "PT",
       "headsOfState": [
@@ -5075,6 +5396,7 @@
     },
     {
       "name": "Faroe Islands",
+      "id": "Q4628",
       "population": 54149,
       "code": "FO",
       "headsOfState": [
@@ -5096,6 +5418,7 @@
     },
     {
       "name": "Timor-Leste",
+      "id": "Q574",
       "population": 1243235,
       "code": "TL",
       "headsOfState": [
@@ -5134,6 +5457,7 @@
     },
     {
       "name": "Chad",
+      "id": "Q657",
       "population": 19319064,
       "code": "TD",
       "headsOfState": [
@@ -5185,6 +5509,7 @@
     },
     {
       "name": "New Zealand",
+      "id": "Q664",
       "population": 5118700,
       "code": "NZ",
       "headsOfState": [
@@ -5224,6 +5549,7 @@
     },
     {
       "name": "India",
+      "id": "Q668",
       "population": 1326093247,
       "code": "IN",
       "headsOfState": [
@@ -5291,6 +5617,7 @@
     },
     {
       "name": "Tuvalu",
+      "id": "Q672",
       "population": 11792,
       "code": "TV",
       "headsOfState": [
@@ -5312,6 +5639,7 @@
     },
     {
       "name": "Tonga",
+      "id": "Q678",
       "population": 108020,
       "code": "TO",
       "headsOfState": [
@@ -5339,6 +5667,7 @@
     },
     {
       "name": "Samoa",
+      "id": "Q683",
       "population": 200010,
       "code": "WS",
       "headsOfState": [
@@ -5371,6 +5700,7 @@
     },
     {
       "name": "Solomon Islands",
+      "id": "Q685",
       "population": 611343,
       "code": "SB",
       "headsOfState": [
@@ -5403,6 +5733,7 @@
     },
     {
       "name": "Vanuatu",
+      "id": "Q686",
       "population": 300019,
       "code": "VU",
       "headsOfState": [
@@ -5431,6 +5762,7 @@
     },
     {
       "name": "Papua New Guinea",
+      "id": "Q691",
       "population": 8935000,
       "code": "PG",
       "headsOfState": [
@@ -5440,6 +5772,10 @@
         "Port Moresby"
       ],
       "divisions": [
+        "Gulf Province",
+        "National Capital District",
+        "Hela Province",
+        "Jiwaka Province",
         "Autonomous Region of Bougainville",
         "Madang Province",
         "Chimbu Province",
@@ -5457,11 +5793,7 @@
         "Enga Province",
         "Manus Province",
         "Central Province",
-        "Milne Bay Province",
-        "Gulf Province",
-        "National Capital District",
-        "Hela Province",
-        "Jiwaka Province"
+        "Milne Bay Province"
       ],
       "borderCountries": [
         "Indonesia"
@@ -5477,6 +5809,7 @@
     },
     {
       "name": "Palau",
+      "id": "Q695",
       "population": 21729,
       "code": "PW",
       "headsOfState": [
@@ -5515,6 +5848,7 @@
     },
     {
       "name": "Nauru",
+      "id": "Q697",
       "population": 13650,
       "code": "NR",
       "headsOfState": [
@@ -5551,6 +5885,7 @@
     },
     {
       "name": "Federated States of Micronesia",
+      "id": "Q702",
       "population": 105544,
       "code": "FM",
       "headsOfState": [
@@ -5577,6 +5912,7 @@
     },
     {
       "name": "Marshall Islands",
+      "id": "Q709",
       "population": 53127,
       "code": "MH",
       "headsOfState": [
@@ -5632,6 +5968,7 @@
     },
     {
       "name": "Kiribati",
+      "id": "Q710",
       "population": 119438,
       "code": "KI",
       "headsOfState": [
@@ -5654,6 +5991,7 @@
     },
     {
       "name": "Mongolia",
+      "id": "Q711",
       "population": 3409939,
       "code": "MN",
       "headsOfState": [
@@ -5701,6 +6039,7 @@
     },
     {
       "name": "Fiji",
+      "id": "Q712",
       "population": 926276,
       "code": "FJ",
       "headsOfState": [
@@ -5728,6 +6067,7 @@
     },
     {
       "name": "Venezuela",
+      "id": "Q717",
       "population": 28515829,
       "code": "VE",
       "headsOfState": [
@@ -5780,6 +6120,7 @@
     },
     {
       "name": "Suriname",
+      "id": "Q730",
       "population": 563402,
       "code": "SR",
       "headsOfState": [
@@ -5816,6 +6157,7 @@
     },
     {
       "name": "Paraguay",
+      "id": "Q733",
       "population": 6811297,
       "code": "PY",
       "headsOfState": [
@@ -5860,6 +6202,7 @@
     },
     {
       "name": "Guyana",
+      "id": "Q734",
       "population": 777859,
       "code": "GY",
       "headsOfState": [
@@ -5896,6 +6239,7 @@
     },
     {
       "name": "Ecuador",
+      "id": "Q736",
       "population": 16938986,
       "code": "EC",
       "headsOfState": [
@@ -5945,6 +6289,7 @@
     },
     {
       "name": "Colombia",
+      "id": "Q739",
       "population": 52321152,
       "code": "CO",
       "headsOfState": [
@@ -5990,9 +6335,9 @@
       ],
       "borderCountries": [
         "Venezuela",
+        "Brazil",
         "Peru",
-        "Ecuador",
-        "Brazil"
+        "Ecuador"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
@@ -6005,6 +6350,7 @@
     },
     {
       "name": "Bolivia",
+      "id": "Q750",
       "population": 12244159,
       "code": "BO",
       "headsOfState": [
@@ -6043,6 +6389,7 @@
     },
     {
       "name": "Trinidad and Tobago",
+      "id": "Q754",
       "population": 1369125,
       "code": "TT",
       "headsOfState": [
@@ -6079,6 +6426,7 @@
     },
     {
       "name": "Saint Vincent and the Grenadines",
+      "id": "Q757",
       "population": 109897,
       "code": "VC",
       "headsOfState": [
@@ -6107,6 +6455,7 @@
     },
     {
       "name": "Saint Lucia",
+      "id": "Q760",
       "population": 167591,
       "code": "LC",
       "headsOfState": [
@@ -6140,6 +6489,7 @@
     },
     {
       "name": "Saint Kitts and Nevis",
+      "id": "Q763",
       "population": 55345,
       "code": "KN",
       "headsOfState": [
@@ -6176,6 +6526,7 @@
     },
     {
       "name": "Jamaica",
+      "id": "Q766",
       "population": 2697983,
       "code": "JM",
       "headsOfState": [
@@ -6201,6 +6552,7 @@
     },
     {
       "name": "Grenada",
+      "id": "Q769",
       "population": 114299,
       "code": "GD",
       "headsOfState": [
@@ -6231,6 +6583,7 @@
     },
     {
       "name": "Uruguay",
+      "id": "Q77",
       "population": 3444263,
       "code": "UY",
       "headsOfState": [
@@ -6275,6 +6628,7 @@
     },
     {
       "name": "Guatemala",
+      "id": "Q774",
       "population": 17263239,
       "code": "GT",
       "headsOfState": [
@@ -6324,6 +6678,7 @@
     },
     {
       "name": "The Bahamas",
+      "id": "Q778",
       "population": 399440,
       "code": "BS",
       "headsOfState": [
@@ -6378,6 +6733,7 @@
     },
     {
       "name": "Antigua and Barbuda",
+      "id": "Q781",
       "population": 101489,
       "code": "AG",
       "headsOfState": [
@@ -6408,6 +6764,7 @@
     },
     {
       "name": "Honduras",
+      "id": "Q783",
       "population": 10062994,
       "code": "HN",
       "headsOfState": [
@@ -6452,6 +6809,7 @@
     },
     {
       "name": "Dominica",
+      "id": "Q784",
       "population": 74656,
       "code": "DM",
       "headsOfState": [
@@ -6484,6 +6842,7 @@
     },
     {
       "name": "Dominican Republic",
+      "id": "Q786",
       "population": 10760028,
       "code": "DO",
       "headsOfState": [
@@ -6493,11 +6852,6 @@
         "Santo Domingo"
       ],
       "divisions": [
-        "Sánchez Ramírez Province",
-        "María Trinidad Sánchez Province",
-        "San Juan Province",
-        "Santiago Rodríguez Province",
-        "Distrito Nacional",
         "Espaillat Province",
         "Hermanas Mirabal Province",
         "Monte Cristi Province",
@@ -6524,7 +6878,12 @@
         "Monte Plata Province",
         "Santiago Province",
         "El Seibo Province",
-        "Valverde Province"
+        "Valverde Province",
+        "Sánchez Ramírez Province",
+        "María Trinidad Sánchez Province",
+        "San Juan Province",
+        "Santiago Rodríguez Province",
+        "Distrito Nacional"
       ],
       "borderCountries": [
         "Haiti"
@@ -6540,6 +6899,7 @@
     },
     {
       "name": "Egypt",
+      "id": "Q79",
       "population": 114535772,
       "code": "EG",
       "headsOfState": [
@@ -6594,6 +6954,7 @@
     },
     {
       "name": "Haiti",
+      "id": "Q790",
       "population": 10981229,
       "code": "HT",
       "headsOfState": [
@@ -6628,6 +6989,7 @@
     },
     {
       "name": "El Salvador",
+      "id": "Q792",
       "population": 6029976,
       "code": "SV",
       "headsOfState": [
@@ -6667,6 +7029,7 @@
     },
     {
       "name": "Iran",
+      "id": "Q794",
       "population": 86758304,
       "code": "IR",
       "headsOfState": [
@@ -6727,6 +7090,7 @@
     },
     {
       "name": "Iraq",
+      "id": "Q796",
       "population": 38274618,
       "code": "IQ",
       "headsOfState": [
@@ -6773,6 +7137,7 @@
     },
     {
       "name": "Costa Rica",
+      "id": "Q800",
       "population": 5044197,
       "code": "CR",
       "headsOfState": [
@@ -6805,6 +7170,7 @@
     },
     {
       "name": "Israel",
+      "id": "Q801",
       "population": 9840000,
       "code": "IL",
       "headsOfState": [
@@ -6839,6 +7205,7 @@
     },
     {
       "name": "Panama",
+      "id": "Q804",
       "population": 4098587,
       "code": "PA",
       "headsOfState": [
@@ -6878,6 +7245,7 @@
     },
     {
       "name": "Yemen",
+      "id": "Q805",
       "population": 28250420,
       "code": "YE",
       "headsOfState": [
@@ -6925,6 +7293,7 @@
     },
     {
       "name": "Jordan",
+      "id": "Q810",
       "population": 10428241,
       "code": "JO",
       "headsOfState": [
@@ -6964,6 +7333,7 @@
     },
     {
       "name": "Nicaragua",
+      "id": "Q811",
       "population": 6676948,
       "code": "NI",
       "headsOfState": [
@@ -7006,6 +7376,7 @@
     },
     {
       "name": "Kyrgyzstan",
+      "id": "Q813",
       "population": 6694200,
       "code": "KG",
       "headsOfState": [
@@ -7034,6 +7405,7 @@
     },
     {
       "name": "Kuwait",
+      "id": "Q817",
       "population": 4464000,
       "code": "KW",
       "headsOfState": [
@@ -7065,6 +7437,7 @@
     },
     {
       "name": "Laos",
+      "id": "Q819",
       "population": 6858160,
       "code": "LA",
       "headsOfState": [
@@ -7093,10 +7466,10 @@
         "Bolikhamsai Province"
       ],
       "borderCountries": [
+        "Myanmar",
+        "Cambodia",
         "People's Republic of China",
         "Vietnam",
-        "Cambodia",
-        "Myanmar",
         "Thailand"
       ],
       "flagImage": {
@@ -7110,6 +7483,7 @@
     },
     {
       "name": "Lebanon",
+      "id": "Q822",
       "population": 6100075,
       "code": "LB",
       "headsOfState": [
@@ -7141,6 +7515,7 @@
     },
     {
       "name": "Maldives",
+      "id": "Q826",
       "population": 436330,
       "code": "MV",
       "headsOfState": [
@@ -7150,6 +7525,14 @@
         "Malé"
       ],
       "divisions": [
+        "Alif Dhaal Atoll",
+        "Haa Dhaalu Atoll",
+        "Haa Alif Atoll",
+        "Noonu Atoll",
+        "Faafu Atoll",
+        "Gaafu Dhaalu Atoll",
+        "Vaavu Atoll",
+        "Thaa Atoll",
         "Addu Atoll",
         "Alif Alif Atoll",
         "Baa Atoll",
@@ -7161,15 +7544,7 @@
         "Laamu Atoll",
         "Shaviyani Atoll",
         "Meemu Atoll",
-        "Dhaalu Atoll",
-        "Alif Dhaal Atoll",
-        "Haa Dhaalu Atoll",
-        "Haa Alif Atoll",
-        "Noonu Atoll",
-        "Faafu Atoll",
-        "Gaafu Dhaalu Atoll",
-        "Vaavu Atoll",
-        "Thaa Atoll"
+        "Dhaalu Atoll"
       ],
       "borderCountries": [],
       "flagImage": {
@@ -7183,6 +7558,7 @@
     },
     {
       "name": "Malaysia",
+      "id": "Q833",
       "population": 32447385,
       "code": "MY",
       "headsOfState": [
@@ -7210,9 +7586,9 @@
         "Labuan"
       ],
       "borderCountries": [
-        "Indonesia",
         "Thailand",
-        "Brunei"
+        "Brunei",
+        "Indonesia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
@@ -7225,6 +7601,7 @@
     },
     {
       "name": "Myanmar",
+      "id": "Q836",
       "population": 53370609,
       "code": "MM",
       "headsOfState": [
@@ -7260,8 +7637,8 @@
         "Thailand",
         "Laos",
         "People's Republic of China",
-        "Bangladesh",
-        "India"
+        "India",
+        "Bangladesh"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
@@ -7274,6 +7651,7 @@
     },
     {
       "name": "Nepal",
+      "id": "Q837",
       "population": 29164578,
       "code": "NP",
       "headsOfState": [
@@ -7306,6 +7684,7 @@
     },
     {
       "name": "Oman",
+      "id": "Q842",
       "population": 4829480,
       "code": "OM",
       "headsOfState": [
@@ -7343,6 +7722,7 @@
     },
     {
       "name": "Pakistan",
+      "id": "Q843",
       "population": 223773700,
       "code": "PK",
       "headsOfState": [
@@ -7362,10 +7742,10 @@
         "Junagadh and Manavadar"
       ],
       "borderCountries": [
-        "Afghanistan",
         "Iran",
-        "People's Republic of China",
-        "India"
+        "Afghanistan",
+        "India",
+        "People's Republic of China"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
@@ -7378,6 +7758,7 @@
     },
     {
       "name": "Qatar",
+      "id": "Q846",
       "population": 2639211,
       "code": "QA",
       "headsOfState": [
@@ -7412,6 +7793,7 @@
     },
     {
       "name": "Saudi Arabia",
+      "id": "Q851",
       "population": 33000000,
       "code": "SA",
       "headsOfState": [
@@ -7421,20 +7803,20 @@
         "Riyadh"
       ],
       "divisions": [
-        "Al-Baha Province",
-        "'Asir Province",
-        "Mecca Province",
-        "Riyadh Province",
-        "Medina Province",
-        "Al-Qassim",
-        "Al-Jowf Province",
         "Ḥaʼil Province",
+        "Medina Province",
+        "Al-Jowf Province",
+        "Al-Baha Province",
+        "Najran Province",
         "Northern Borders Province",
-        "Eastern Province",
-        "Jazan Province",
+        "'Asir Province",
+        "Riyadh Province",
+        "Al-Qassim",
         "Tabuk Province",
+        "Jazan Province",
         "Al-Qurayyat (province)",
-        "Najran Province"
+        "Mecca Province",
+        "Eastern Province"
       ],
       "borderCountries": [
         "Oman",
@@ -7456,6 +7838,7 @@
     },
     {
       "name": "Sri Lanka",
+      "id": "Q854",
       "population": 21444000,
       "code": "LK",
       "headsOfState": [
@@ -7488,6 +7871,7 @@
     },
     {
       "name": "Syria",
+      "id": "Q858",
       "population": 23865423,
       "code": "SY",
       "headsOfState": [],
@@ -7511,9 +7895,9 @@
         "Damascus Governorate"
       ],
       "borderCountries": [
-        "Iraq",
         "Turkey",
         "Lebanon",
+        "Iraq",
         "Israel",
         "Jordan"
       ],
@@ -7528,6 +7912,7 @@
     },
     {
       "name": "Tajikistan",
+      "id": "Q863",
       "population": 9504000,
       "code": "TJ",
       "headsOfState": [
@@ -7543,10 +7928,10 @@
         "Khatlon Province"
       ],
       "borderCountries": [
-        "Afghanistan",
+        "Uzbekistan",
         "People's Republic of China",
         "Kyrgyzstan",
-        "Uzbekistan"
+        "Afghanistan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg",
@@ -7559,6 +7944,7 @@
     },
     {
       "name": "Taiwan",
+      "id": "Q865",
       "population": 23409323,
       "code": "TW",
       "headsOfState": [
@@ -7589,6 +7975,7 @@
     },
     {
       "name": "Thailand",
+      "id": "Q869",
       "population": 66188503,
       "code": "TH",
       "headsOfState": [
@@ -7645,7 +8032,7 @@
         "Phitsanulok",
         "Prachin Buri",
         "Buri Ram",
-        "Khon Kaen",
+        "Nakhon-Ratchasima",
         "Chanthaburi",
         "Nong Khai",
         "Samut Sakhon",
@@ -7677,8 +8064,8 @@
         "Bueng Kan"
       ],
       "borderCountries": [
-        "Myanmar",
         "Malaysia",
+        "Myanmar",
         "Cambodia",
         "Laos"
       ],
@@ -7693,6 +8080,7 @@
     },
     {
       "name": "Turkmenistan",
+      "id": "Q874",
       "population": 6117933,
       "code": "TM",
       "headsOfState": [
@@ -7710,10 +8098,10 @@
         "Mary Region"
       ],
       "borderCountries": [
-        "Afghanistan",
-        "Uzbekistan",
+        "Iran",
         "Kazakhstan",
-        "Iran"
+        "Afghanistan",
+        "Uzbekistan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg",
@@ -7726,6 +8114,7 @@
     },
     {
       "name": "United Arab Emirates",
+      "id": "Q878",
       "population": 9890400,
       "code": "AE",
       "headsOfState": [
@@ -7760,6 +8149,7 @@
     },
     {
       "name": "Vietnam",
+      "id": "Q881",
       "population": 96208984,
       "code": "VN",
       "headsOfState": [
@@ -7834,9 +8224,9 @@
         "Vĩnh Long"
       ],
       "borderCountries": [
-        "Cambodia",
         "People's Republic of China",
-        "Laos"
+        "Laos",
+        "Cambodia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
@@ -7849,6 +8239,7 @@
     },
     {
       "name": "South Korea",
+      "id": "Q884",
       "population": 51466201,
       "code": "KR",
       "headsOfState": [
@@ -7890,6 +8281,7 @@
     },
     {
       "name": "Afghanistan",
+      "id": "Q889",
       "population": 41454761,
       "code": "AF",
       "headsOfState": [
@@ -7952,6 +8344,7 @@
     },
     {
       "name": "Bangladesh",
+      "id": "Q902",
       "population": 171466990,
       "code": "BD",
       "headsOfState": [
@@ -7971,8 +8364,8 @@
         "Mymensingh Division"
       ],
       "borderCountries": [
-        "Myanmar",
-        "India"
+        "India",
+        "Myanmar"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
@@ -7984,7 +8377,38 @@
       }
     },
     {
+      "name": "Transnistria",
+      "id": "Q907112",
+      "population": 469000,
+      "code": null,
+      "headsOfState": [
+        "Vadim Krasnoselsky"
+      ],
+      "capitals": [
+        "Tiraspol"
+      ],
+      "divisions": [
+        "Tiraspol",
+        "Bender",
+        "Slobozia District",
+        "Rîbnița District",
+        "Camenca District",
+        "Grigoriopol District",
+        "Dubăsari District"
+      ],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Transnistria%20%28variant%29.svg",
+        "localUri": "/static/fac8671.svg"
+      },
+      "geo": {
+        "uri": null,
+        "localUri": null
+      }
+    },
+    {
       "name": "Mali",
+      "id": "Q912",
       "population": 20250833,
       "code": "ML",
       "headsOfState": [
@@ -8005,11 +8429,11 @@
         "Ségou Region"
       ],
       "borderCountries": [
-        "Ivory Coast",
-        "Burkina Faso",
         "Guinea",
         "Niger",
         "Mauritania",
+        "Ivory Coast",
+        "Burkina Faso",
         "Algeria",
         "Senegal"
       ],
@@ -8024,6 +8448,7 @@
     },
     {
       "name": "Angola",
+      "id": "Q916",
       "population": 36749906,
       "code": "AO",
       "headsOfState": [
@@ -8053,9 +8478,9 @@
         "Lunda Sul Province"
       ],
       "borderCountries": [
+        "Democratic Republic of the Congo",
         "Namibia",
         "Republic of the Congo",
-        "Democratic Republic of the Congo",
         "Zambia"
       ],
       "flagImage": {
@@ -8069,6 +8494,7 @@
     },
     {
       "name": "Bhutan",
+      "id": "Q917",
       "population": 787424,
       "code": "BT",
       "headsOfState": [
@@ -8114,6 +8540,7 @@
     },
     {
       "name": "Brunei",
+      "id": "Q921",
       "population": 458949,
       "code": "BN",
       "headsOfState": [
@@ -8142,6 +8569,7 @@
     },
     {
       "name": "Tanzania",
+      "id": "Q924",
       "population": 57310019,
       "code": "TZ",
       "headsOfState": [
@@ -8151,6 +8579,23 @@
         "Dodoma"
       ],
       "divisions": [
+        "Mbeya",
+        "Tanga Region",
+        "Mbeya Region",
+        "Morogoro Region",
+        "Mara Region",
+        "Pwani Region",
+        "South Pemba Region",
+        "North Pemba Region",
+        "Mtwara Region",
+        "Dar es Salaam Region",
+        "Tabora",
+        "Unguja South Region",
+        "Mtwara",
+        "Iringa",
+        "Kigoma Region",
+        "Shinyanga",
+        "Lindi",
         "Dar es Salaam",
         "Mount Kilimanjaro",
         "Mwanza",
@@ -8170,34 +8615,17 @@
         "Kilimanjaro Region",
         "Arusha Region",
         "Manyara Region",
-        "Mwanza Region",
-        "Mbeya",
-        "Tanga Region",
-        "Mbeya Region",
-        "Morogoro Region",
-        "Mara Region",
-        "Pwani Region",
-        "South Pemba Region",
-        "North Pemba Region",
-        "Mtwara Region",
-        "Dar es Salaam Region",
-        "Tabora",
-        "Unguja South Region",
-        "Mtwara",
-        "Iringa",
-        "Kigoma Region",
-        "Shinyanga",
-        "Lindi"
+        "Mwanza Region"
       ],
       "borderCountries": [
-        "Uganda",
-        "Zambia",
         "Democratic Republic of the Congo",
         "Burundi",
         "Kenya",
         "Malawi",
         "Mozambique",
-        "Rwanda"
+        "Rwanda",
+        "Uganda",
+        "Zambia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
@@ -8210,6 +8638,7 @@
     },
     {
       "name": "Philippines",
+      "id": "Q928",
       "population": 109035343,
       "code": "PH",
       "headsOfState": [
@@ -8250,6 +8679,7 @@
     },
     {
       "name": "Central African Republic",
+      "id": "Q929",
       "population": 5152421,
       "code": "CF",
       "headsOfState": [
@@ -8277,11 +8707,11 @@
         "Sangha-Mbaéré"
       ],
       "borderCountries": [
+        "Republic of the Congo",
         "Chad",
         "Sudan",
         "South Sudan",
         "Democratic Republic of the Congo",
-        "Republic of the Congo",
         "Cameroon"
       ],
       "flagImage": {
@@ -8295,6 +8725,7 @@
     },
     {
       "name": "Togo",
+      "id": "Q945",
       "population": 7797694,
       "code": "TG",
       "headsOfState": [
@@ -8326,6 +8757,7 @@
     },
     {
       "name": "Tunisia",
+      "id": "Q948",
       "population": 11565204,
       "code": "TN",
       "headsOfState": [
@@ -8361,8 +8793,8 @@
         "Manouba Governorate"
       ],
       "borderCountries": [
-        "Algeria",
-        "Libya"
+        "Libya",
+        "Algeria"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg",
@@ -8375,6 +8807,7 @@
     },
     {
       "name": "Zambia",
+      "id": "Q953",
       "population": 19610769,
       "code": "ZM",
       "headsOfState": [
@@ -8396,14 +8829,14 @@
         "Muchinga Province"
       ],
       "borderCountries": [
+        "Angola",
+        "Namibia",
+        "Malawi",
+        "Mozambique",
         "Democratic Republic of the Congo",
         "Tanzania",
         "Zimbabwe",
-        "Namibia",
-        "Botswana",
-        "Malawi",
-        "Mozambique",
-        "Angola"
+        "Botswana"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg",
@@ -8416,6 +8849,7 @@
     },
     {
       "name": "Zimbabwe",
+      "id": "Q954",
       "population": 15178979,
       "code": "ZW",
       "headsOfState": [
@@ -8437,10 +8871,10 @@
         "Bulawayo Province"
       ],
       "borderCountries": [
+        "Mozambique",
         "South Africa",
         "Zambia",
-        "Botswana",
-        "Mozambique"
+        "Botswana"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg",
@@ -8453,6 +8887,7 @@
     },
     {
       "name": "South Sudan",
+      "id": "Q958",
       "population": 12575714,
       "code": "SS",
       "headsOfState": [
@@ -8462,6 +8897,16 @@
         "Juba"
       ],
       "divisions": [
+        "Abyei",
+        "Jonglei",
+        "Lol State",
+        "Imatong State",
+        "Kapoeta State",
+        "Gbudwe State",
+        "Amadi State",
+        "Maridi State",
+        "Yei River State",
+        "Jubek State",
         "Aweil State",
         "Wau State",
         "Twic",
@@ -8480,24 +8925,14 @@
         "Southern Liech State",
         "Fashoda State",
         "Fangak State",
-        "Aweil East State",
-        "Abyei",
-        "Jonglei",
-        "Lol State",
-        "Imatong State",
-        "Kapoeta State",
-        "Gbudwe State",
-        "Amadi State",
-        "Maridi State",
-        "Yei River State",
-        "Jubek State"
+        "Aweil East State"
       ],
       "borderCountries": [
+        "Kenya",
         "Uganda",
         "Ethiopia",
         "Central African Republic",
         "Democratic Republic of the Congo",
-        "Kenya",
         "Sudan"
       ],
       "flagImage": {
@@ -8511,6 +8946,7 @@
     },
     {
       "name": "Mexico",
+      "id": "Q96",
       "population": 124777324,
       "code": "MX",
       "headsOfState": [
@@ -8554,9 +8990,9 @@
         "Tlaxcala"
       ],
       "borderCountries": [
-        "Belize",
         "Guatemala",
-        "United States"
+        "United States",
+        "Belize"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
@@ -8569,6 +9005,7 @@
     },
     {
       "name": "Benin",
+      "id": "Q962",
       "population": 14111034,
       "code": "BJ",
       "headsOfState": [
@@ -8578,18 +9015,18 @@
         "Porto-Novo"
       ],
       "divisions": [
-        "Mono Department",
-        "Borgou Department",
-        "Collines department",
-        "Atlantique Department",
-        "Atakora Department",
-        "Littoral",
         "Donga Department",
         "Alibori Department",
         "Ouémé Department",
         "Zou Department",
         "Kouffo Department",
-        "Plateau Department"
+        "Plateau Department",
+        "Mono Department",
+        "Borgou Department",
+        "Collines department",
+        "Atlantique Department",
+        "Atakora Department",
+        "Littoral"
       ],
       "borderCountries": [
         "Burkina Faso",
@@ -8608,6 +9045,7 @@
     },
     {
       "name": "Botswana",
+      "id": "Q963",
       "population": 2480244,
       "code": "BW",
       "headsOfState": [
@@ -8628,10 +9066,10 @@
         "South-East District"
       ],
       "borderCountries": [
+        "South Africa",
         "Namibia",
         "Zambia",
-        "Zimbabwe",
-        "South Africa"
+        "Zimbabwe"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg",
@@ -8644,6 +9082,7 @@
     },
     {
       "name": "Burkina Faso",
+      "id": "Q965",
       "population": 23025776,
       "code": "BF",
       "headsOfState": [
@@ -8653,10 +9092,6 @@
         "Ouagadougou"
       ],
       "divisions": [
-        "Sud-Ouest Region",
-        "Nord Region",
-        "Centre",
-        "Boucle du Mouhoun Region",
         "Centre-Est Region",
         "Sahel Region",
         "Hauts-Bassins Region",
@@ -8665,7 +9100,11 @@
         "Centre-Ouest Region",
         "Est Region",
         "Centre-Sud Region",
-        "Plateau-Central Region"
+        "Plateau-Central Region",
+        "Sud-Ouest Region",
+        "Nord Region",
+        "Centre",
+        "Boucle du Mouhoun Region"
       ],
       "borderCountries": [
         "Ivory Coast",
@@ -8686,6 +9125,7 @@
     },
     {
       "name": "Burundi",
+      "id": "Q967",
       "population": 13689450,
       "code": "BI",
       "headsOfState": [
@@ -8695,6 +9135,10 @@
         "Gitega"
       ],
       "divisions": [
+        "Ruyigi Province",
+        "Makamba Province",
+        "Mwaro Province",
+        "Bujumbura Mairie",
         "Bururi Province",
         "Bubanza Province",
         "Cibitoke Province",
@@ -8707,11 +9151,7 @@
         "Ngozi Province",
         "Karuzi Province",
         "Rutana Province",
-        "Muyinga Province",
-        "Ruyigi Province",
-        "Makamba Province",
-        "Mwaro Province",
-        "Bujumbura Mairie"
+        "Muyinga Province"
       ],
       "borderCountries": [
         "Democratic Republic of the Congo",
@@ -8729,6 +9169,7 @@
     },
     {
       "name": "Comoros",
+      "id": "Q970",
       "population": 902348,
       "code": "KM",
       "headsOfState": [
@@ -8754,6 +9195,7 @@
     },
     {
       "name": "Republic of the Congo",
+      "id": "Q971",
       "population": 6142180,
       "code": "CG",
       "headsOfState": [
@@ -8777,11 +9219,11 @@
         "Niari Department"
       ],
       "borderCountries": [
+        "Angola",
         "Democratic Republic of the Congo",
         "Cameroon",
         "Central African Republic",
-        "Gabon",
-        "Angola"
+        "Gabon"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg",
@@ -8794,6 +9236,7 @@
     },
     {
       "name": "Democratic Republic of the Congo",
+      "id": "Q974",
       "population": 105789731,
       "code": "CD",
       "headsOfState": [
@@ -8836,15 +9279,15 @@
         "Ituri Province"
       ],
       "borderCountries": [
-        "Angola",
-        "Uganda",
         "Central African Republic",
         "Republic of the Congo",
         "Tanzania",
         "Zambia",
         "Rwanda",
         "South Sudan",
-        "Burundi"
+        "Burundi",
+        "Angola",
+        "Uganda"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg",
@@ -8857,6 +9300,7 @@
     },
     {
       "name": "Djibouti",
+      "id": "Q977",
       "population": 1152944,
       "code": "DJ",
       "headsOfState": [
@@ -8889,6 +9333,7 @@
     },
     {
       "name": "Equatorial Guinea",
+      "id": "Q983",
       "population": 1847549,
       "code": "GQ",
       "headsOfState": [
@@ -8922,6 +9367,7 @@
     },
     {
       "name": "Eritrea",
+      "id": "Q986",
       "population": 3497000,
       "code": "ER",
       "headsOfState": [

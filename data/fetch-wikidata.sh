@@ -16,8 +16,8 @@ jq \
 
 jq 'import "data/wikidata" as fetch; { countries: . | fetch::process }' data/wikidata-query-full.json >data/countries.json
 
-for code in $(jq -r '.countries[] | .code' data/countries.json); do
-	data=$(jq -r ".countries[] | select(.code == \"$code\")" data/countries.json)
+for id in $(jq -r '.countries[] | .id' data/countries.json); do
+	data=$(jq -r ".countries[] | select(.id == \"$id\")" data/countries.json)
 	flag_uri=$(echo $data | jq -r ".flagImage.uri")
 	flag_name_hash=$(echo $flag_uri | sha256sum | cut -c1-7)
 
@@ -27,7 +27,7 @@ for code in $(jq -r '.countries[] | .code' data/countries.json); do
 		echo Done: $flag_uri
 	}
 
-	[ ! -f public/static/$flag_name_hash.svg ] && fetch_image
+	[ $flag_uri != "null" ] && [ ! -f public/static/$flag_name_hash.svg ] && fetch_image
 
 	geoshape_uri=$(echo $data | jq -r ".geo.uri")
 	geoshape_uri_hash=$(echo $geoshape_uri | sha256sum | cut -c1-7)
@@ -44,10 +44,13 @@ for code in $(jq -r '.countries[] | .code' data/countries.json); do
 		fi
 	}
 
-	[ ! -f public/static/$geoshape_uri_hash.json ] && fetch_geoshape
+	[ $geoshape_uri != "null" ] && [ ! -f public/static/$geoshape_uri_hash.json ] && fetch_geoshape
+
+	geoshape_file=$(if [ $geoshape_uri != "null" ]; then echo \"/static/$geoshape_uri_hash.json\"; else echo null; fi)
+	flag_file=$(if [ $flag_uri != "null" ]; then echo \"/static/$flag_name_hash.svg\"; else echo null; fi)
 	
-	cat <<<$(jq ".countries |= map(select(.code == \"$code\") *= {
-		flagImage: { localUri: \"/static/$flag_name_hash.svg\" },
-		geo: { localUri: \"/static/$geoshape_uri_hash.json\" },
+	cat <<<$(jq ".countries |= map(select(.id == \"$id\") *= {
+		flagImage: { localUri: $flag_file },
+		geo: { localUri: $geoshape_file },
 	})" data/countries.json) >data/countries.json
 done

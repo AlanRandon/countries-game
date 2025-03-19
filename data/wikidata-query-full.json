@@ -128,7 +128,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Ivory Coast$DIVIDE$Sierra Leone$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Senegal$DIVIDE$Guinea-Bissau"
+      "value": "Liberia$DIVIDE$Mali$DIVIDE$Senegal$DIVIDE$Ivory Coast$DIVIDE$Sierra Leone$DIVIDE$Guinea-Bissau"
     }
   },
   {
@@ -216,7 +216,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Guinea$DIVIDE$Ghana$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Burkina Faso"
+      "value": "Burkina Faso$DIVIDE$Guinea$DIVIDE$Ghana$DIVIDE$Liberia$DIVIDE$Mali"
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Ivory Coast$DIVIDE$Guinea$DIVIDE$Sierra Leone"
+      "value": "Sierra Leone$DIVIDE$Ivory Coast$DIVIDE$Guinea"
     }
   },
   {
@@ -432,11 +432,11 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Wadi al Hayaa District$DIVIDE$Ghat District$DIVIDE$Murzuq District$DIVIDE$Jufra$DIVIDE$Misrata$DIVIDE$Nalut$DIVIDE$Ghat$DIVIDE$Murqub$DIVIDE$Zawiya$DIVIDE$Jafara$DIVIDE$Tripoli$DIVIDE$Jabal al Gharbi District$DIVIDE$Butnan District$DIVIDE$Al Wahat District$DIVIDE$Marj District$DIVIDE$Derna District$DIVIDE$Sabha District$DIVIDE$Zawiya District$DIVIDE$Nuqat al Khams District$DIVIDE$Sirte District$DIVIDE$Nalut District$DIVIDE$Tripoli District$DIVIDE$Jabal al Akhdar$DIVIDE$Misrata District$DIVIDE$Benghazi$DIVIDE$Kufra District$DIVIDE$Wadi al Shatii District"
+      "value": "Tripoli$DIVIDE$Jabal al Gharbi District$DIVIDE$Butnan District$DIVIDE$Al Wahat District$DIVIDE$Marj District$DIVIDE$Derna District$DIVIDE$Sabha District$DIVIDE$Zawiya District$DIVIDE$Nuqat al Khams District$DIVIDE$Sirte District$DIVIDE$Nalut District$DIVIDE$Tripoli District$DIVIDE$Jabal al Akhdar$DIVIDE$Misrata District$DIVIDE$Benghazi$DIVIDE$Kufra District$DIVIDE$Wadi al Shatii District$DIVIDE$Wadi al Hayaa District$DIVIDE$Ghat District$DIVIDE$Murzuq District$DIVIDE$Jufra$DIVIDE$Misrata$DIVIDE$Nalut$DIVIDE$Ghat$DIVIDE$Murqub$DIVIDE$Zawiya$DIVIDE$Jafara"
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Tunisia$DIVIDE$Chad$DIVIDE$Sudan$DIVIDE$Niger$DIVIDE$Algeria$DIVIDE$Egypt"
+      "value": "Algeria$DIVIDE$Chad$DIVIDE$Sudan$DIVIDE$Egypt$DIVIDE$Tunisia$DIVIDE$Niger"
     }
   },
   {
@@ -828,7 +828,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Plateau State$DIVIDE$Niger State$DIVIDE$Bauchi State$DIVIDE$Sokoto State$DIVIDE$Ebonyi State$DIVIDE$Federal Capital Territory$DIVIDE$Bayelsa State$DIVIDE$Ekiti State$DIVIDE$Katsina State$DIVIDE$Kano State$DIVIDE$Jigawa State$DIVIDE$Edo State$DIVIDE$Osun State$DIVIDE$Yobe State$DIVIDE$Cross River State$DIVIDE$Kebbi State$DIVIDE$Lagos State$DIVIDE$Nasarawa State$DIVIDE$Ondo State$DIVIDE$Ogun State$DIVIDE$Imo State$DIVIDE$Kaduna State$DIVIDE$Enugu State$DIVIDE$Anambra State$DIVIDE$Borno State$DIVIDE$Zamfara State$DIVIDE$Abia State$DIVIDE$Adamawa State$DIVIDE$Gombe State$DIVIDE$Kogi State$DIVIDE$Akwa Ibom State$DIVIDE$Benue State$DIVIDE$Taraba State$DIVIDE$Kwara State$DIVIDE$Oyo State$DIVIDE$Delta State$DIVIDE$Rivers State"
+      "value": "Anambra State$DIVIDE$Borno State$DIVIDE$Zamfara State$DIVIDE$Abia State$DIVIDE$Adamawa State$DIVIDE$Gombe State$DIVIDE$Kogi State$DIVIDE$Akwa Ibom State$DIVIDE$Benue State$DIVIDE$Taraba State$DIVIDE$Kwara State$DIVIDE$Oyo State$DIVIDE$Delta State$DIVIDE$Rivers State$DIVIDE$Plateau State$DIVIDE$Niger State$DIVIDE$Bauchi State$DIVIDE$Sokoto State$DIVIDE$Ebonyi State$DIVIDE$Federal Capital Territory$DIVIDE$Bayelsa State$DIVIDE$Ekiti State$DIVIDE$Katsina State$DIVIDE$Kano State$DIVIDE$Jigawa State$DIVIDE$Edo State$DIVIDE$Osun State$DIVIDE$Yobe State$DIVIDE$Cross River State$DIVIDE$Kebbi State$DIVIDE$Lagos State$DIVIDE$Nasarawa State$DIVIDE$Ondo State$DIVIDE$Ogun State$DIVIDE$Imo State$DIVIDE$Kaduna State$DIVIDE$Enugu State"
     },
     "borderCountries": {
       "type": "literal",
@@ -872,7 +872,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Kabarole District$DIVIDE$Kasese District$DIVIDE$Kapchorwa District$DIVIDE$Katakwi District$DIVIDE$Mityana District$DIVIDE$Pader District$DIVIDE$Kamwenge District$DIVIDE$Kyenjojo District$DIVIDE$Amolatar District$DIVIDE$Oyam District$DIVIDE$Kotido District$DIVIDE$Koboko District$DIVIDE$Kiruhura District$DIVIDE$Dokolo District$DIVIDE$Ibanda$DIVIDE$Isingiro District$DIVIDE$Budaka District$DIVIDE$Mpigi District$DIVIDE$Bundibugyo District$DIVIDE$Yumbe District$DIVIDE$Luwero District$DIVIDE$Mayuge District$DIVIDE$Bududa District$DIVIDE$Butaleja District$DIVIDE$Amuria District$DIVIDE$Amuru District$DIVIDE$Abim District$DIVIDE$Manafwa District$DIVIDE$Bukedea District$DIVIDE$Namutumba District$DIVIDE$Nebbi District$DIVIDE$Sironko District$DIVIDE$Pallisa District$DIVIDE$Moroto District$DIVIDE$Nakapiripirit District$DIVIDE$Kaliro District$DIVIDE$Bukwo District$DIVIDE$Lyantonde District$DIVIDE$Moyo District$DIVIDE$Bukomansimbi District$DIVIDE$Buvuma District$DIVIDE$Kalungu District$DIVIDE$Butambala District$DIVIDE$Buikwe District$DIVIDE$Gomba District$DIVIDE$Kween District$DIVIDE$Kabale District$DIVIDE$Agago District$DIVIDE$Alebtong District$DIVIDE$Amudat District$DIVIDE$Buhweju District$DIVIDE$Kiryandongo District$DIVIDE$Kole District$DIVIDE$Kyegegwa District$DIVIDE$Lamwo District$DIVIDE$Mitooma District$DIVIDE$Napak District$DIVIDE$Ntoroko District$DIVIDE$Nwoya District$DIVIDE$Otuke District$DIVIDE$Rubirizi District$DIVIDE$Sheema District$DIVIDE$Zombo District$DIVIDE$Kakumiro District$DIVIDE$Kagadi District$DIVIDE$Kyotera District$DIVIDE$Pakwach District$DIVIDE$Omoro District$DIVIDE$Rubanda District$DIVIDE$Rukiga District$DIVIDE$Bunyangabu District$DIVIDE$Butebo District$DIVIDE$Namisindwa District$DIVIDE$Nabilatuk District$DIVIDE$Bugweri District$DIVIDE$Kassanda District$DIVIDE$Kapelebyong District$DIVIDE$Kwania District$DIVIDE$Kikuube District$DIVIDE$Kitagwenda District$DIVIDE$Rwampara district$DIVIDE$Obongi District$DIVIDE$Karenga District$DIVIDE$Kazo District$DIVIDE$Madi-Okollo District$DIVIDE$Kalaki District$DIVIDE$Kamuli District$DIVIDE$Ntungamo District$DIVIDE$Lira District$DIVIDE$Rukungiri District$DIVIDE$Nakaseke District$DIVIDE$Kitgum District$DIVIDE$Kyankwanzi District$DIVIDE$Kisoro District$DIVIDE$Mbale District$DIVIDE$Maracha District$DIVIDE$Kibaale District$DIVIDE$Kalangala District$DIVIDE$Mubende District$DIVIDE$Kiboga District$DIVIDE$Kampala District$DIVIDE$Wakiso District$DIVIDE$Nakasongola District$DIVIDE$Rakai District$DIVIDE$Sembabule District$DIVIDE$Jinja District$DIVIDE$Gulu District$DIVIDE$Masaka District$DIVIDE$Masindi District$DIVIDE$Kanungu District$DIVIDE$Soroti District$DIVIDE$Mbarara District$DIVIDE$Bulambuli District$DIVIDE$Kibuku District$DIVIDE$Ngora District$DIVIDE$Namayingo District$DIVIDE$Serere District$DIVIDE$Buyende District$DIVIDE$Lwengo District$DIVIDE$Luuka District$DIVIDE$Kumi District$DIVIDE$Mukono District$DIVIDE$Hoima city$DIVIDE$Tororo District$DIVIDE$Kayunga District$DIVIDE$Adjumani District$DIVIDE$Apac District$DIVIDE$Arua District$DIVIDE$Buliisa District$DIVIDE$Bushenyi District$DIVIDE$Bugiri District$DIVIDE$Busia District$DIVIDE$Iganga District$DIVIDE$Kaabong District$DIVIDE$Kaberamaido District"
+      "value": "Kamuli District$DIVIDE$Ntungamo District$DIVIDE$Lira District$DIVIDE$Rukungiri District$DIVIDE$Nakaseke District$DIVIDE$Kitgum District$DIVIDE$Kyankwanzi District$DIVIDE$Kisoro District$DIVIDE$Mbale District$DIVIDE$Maracha District$DIVIDE$Kibaale District$DIVIDE$Kalangala District$DIVIDE$Mubende District$DIVIDE$Kiboga District$DIVIDE$Kampala District$DIVIDE$Wakiso District$DIVIDE$Nakasongola District$DIVIDE$Rakai District$DIVIDE$Sembabule District$DIVIDE$Jinja District$DIVIDE$Gulu District$DIVIDE$Masaka District$DIVIDE$Masindi District$DIVIDE$Kanungu District$DIVIDE$Soroti District$DIVIDE$Mbarara District$DIVIDE$Bulambuli District$DIVIDE$Kibuku District$DIVIDE$Ngora District$DIVIDE$Namayingo District$DIVIDE$Serere District$DIVIDE$Buyende District$DIVIDE$Lwengo District$DIVIDE$Luuka District$DIVIDE$Kumi District$DIVIDE$Mukono District$DIVIDE$Hoima city$DIVIDE$Tororo District$DIVIDE$Kayunga District$DIVIDE$Adjumani District$DIVIDE$Apac District$DIVIDE$Arua District$DIVIDE$Buliisa District$DIVIDE$Bushenyi District$DIVIDE$Bugiri District$DIVIDE$Busia District$DIVIDE$Iganga District$DIVIDE$Kaabong District$DIVIDE$Kaberamaido District$DIVIDE$Kabarole District$DIVIDE$Kasese District$DIVIDE$Kapchorwa District$DIVIDE$Katakwi District$DIVIDE$Mityana District$DIVIDE$Pader District$DIVIDE$Kamwenge District$DIVIDE$Kyenjojo District$DIVIDE$Amolatar District$DIVIDE$Oyam District$DIVIDE$Kotido District$DIVIDE$Koboko District$DIVIDE$Kiruhura District$DIVIDE$Dokolo District$DIVIDE$Ibanda$DIVIDE$Isingiro District$DIVIDE$Budaka District$DIVIDE$Mpigi District$DIVIDE$Bundibugyo District$DIVIDE$Yumbe District$DIVIDE$Luwero District$DIVIDE$Mayuge District$DIVIDE$Bududa District$DIVIDE$Butaleja District$DIVIDE$Amuria District$DIVIDE$Amuru District$DIVIDE$Abim District$DIVIDE$Manafwa District$DIVIDE$Bukedea District$DIVIDE$Namutumba District$DIVIDE$Nebbi District$DIVIDE$Sironko District$DIVIDE$Pallisa District$DIVIDE$Moroto District$DIVIDE$Nakapiripirit District$DIVIDE$Kaliro District$DIVIDE$Bukwo District$DIVIDE$Lyantonde District$DIVIDE$Moyo District$DIVIDE$Bukomansimbi District$DIVIDE$Buvuma District$DIVIDE$Kalungu District$DIVIDE$Butambala District$DIVIDE$Buikwe District$DIVIDE$Gomba District$DIVIDE$Kween District$DIVIDE$Kabale District$DIVIDE$Agago District$DIVIDE$Alebtong District$DIVIDE$Amudat District$DIVIDE$Buhweju District$DIVIDE$Kiryandongo District$DIVIDE$Kole District$DIVIDE$Kyegegwa District$DIVIDE$Lamwo District$DIVIDE$Mitooma District$DIVIDE$Napak District$DIVIDE$Ntoroko District$DIVIDE$Nwoya District$DIVIDE$Otuke District$DIVIDE$Rubirizi District$DIVIDE$Sheema District$DIVIDE$Zombo District$DIVIDE$Kakumiro District$DIVIDE$Kagadi District$DIVIDE$Kyotera District$DIVIDE$Pakwach District$DIVIDE$Omoro District$DIVIDE$Rubanda District$DIVIDE$Rukiga District$DIVIDE$Bunyangabu District$DIVIDE$Butebo District$DIVIDE$Namisindwa District$DIVIDE$Nabilatuk District$DIVIDE$Bugweri District$DIVIDE$Kassanda District$DIVIDE$Kapelebyong District$DIVIDE$Kwania District$DIVIDE$Kikuube District$DIVIDE$Kitagwenda District$DIVIDE$Rwampara district$DIVIDE$Obongi District$DIVIDE$Karenga District$DIVIDE$Kazo District$DIVIDE$Madi-Okollo District$DIVIDE$Kalaki District"
     },
     "borderCountries": {
       "type": "literal",
@@ -1008,7 +1008,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mauritania$DIVIDE$Mali"
+      "value": "The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mali$DIVIDE$Mauritania"
     }
   },
   {
@@ -1048,7 +1048,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Les Mamelles$DIVIDE$Takamaka$DIVIDE$Baie Lazare$DIVIDE$Au Cap$DIVIDE$Roche Caiman$DIVIDE$Pointe La Rue$DIVIDE$Anse Royale$DIVIDE$Mont Buxton$DIVIDE$Grand'Anse Mahé$DIVIDE$Glacis$DIVIDE$Bel Ombre$DIVIDE$Beau Vallon$DIVIDE$Ile Perseverance I$DIVIDE$Ile Perseverance II$DIVIDE$Anse Etoile$DIVIDE$Anse Boileau$DIVIDE$Anse-aux-Pins$DIVIDE$Baie Sainte Anne$DIVIDE$Bel Air$DIVIDE$La Digue and Inner Islands$DIVIDE$Grand'Anse Praslin$DIVIDE$Port Glaud$DIVIDE$La Rivière Anglaise$DIVIDE$Cascade$DIVIDE$Mont Fleuri$DIVIDE$Plaisance$DIVIDE$Saint Louis"
+      "value": "Anse Etoile$DIVIDE$Anse Boileau$DIVIDE$Anse-aux-Pins$DIVIDE$Baie Sainte Anne$DIVIDE$Bel Air$DIVIDE$La Digue and Inner Islands$DIVIDE$Grand'Anse Praslin$DIVIDE$Port Glaud$DIVIDE$La Rivière Anglaise$DIVIDE$Cascade$DIVIDE$Mont Fleuri$DIVIDE$Plaisance$DIVIDE$Saint Louis$DIVIDE$Les Mamelles$DIVIDE$Takamaka$DIVIDE$Baie Lazare$DIVIDE$Au Cap$DIVIDE$Roche Caiman$DIVIDE$Pointe La Rue$DIVIDE$Anse Royale$DIVIDE$Mont Buxton$DIVIDE$Grand'Anse Mahé$DIVIDE$Glacis$DIVIDE$Bel Ombre$DIVIDE$Beau Vallon$DIVIDE$Ile Perseverance I$DIVIDE$Ile Perseverance II"
     },
     "borderCountries": {
       "type": "literal",
@@ -1184,7 +1184,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Eritrea$DIVIDE$Egypt$DIVIDE$Ethiopia$DIVIDE$Libya$DIVIDE$Central African Republic$DIVIDE$South Sudan$DIVIDE$Chad$DIVIDE$Kenya$DIVIDE$Uganda"
+      "value": "Eritrea$DIVIDE$Kenya$DIVIDE$Uganda$DIVIDE$Egypt$DIVIDE$Ethiopia$DIVIDE$Libya$DIVIDE$Central African Republic$DIVIDE$South Sudan$DIVIDE$Chad"
     }
   },
   {
@@ -1272,7 +1272,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Ethiopia$DIVIDE$Uganda$DIVIDE$Somalia$DIVIDE$Tanzania$DIVIDE$South Sudan$DIVIDE$Sudan"
+      "value": "Sudan$DIVIDE$Ethiopia$DIVIDE$Uganda$DIVIDE$Somalia$DIVIDE$Tanzania$DIVIDE$South Sudan"
     }
   },
   {
@@ -1316,7 +1316,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Eritrea$DIVIDE$Kenya$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Somalia$DIVIDE$Somaliland$DIVIDE$Djibouti"
+      "value": "Somaliland$DIVIDE$Djibouti$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Eritrea$DIVIDE$Kenya$DIVIDE$Somalia"
     }
   },
   {
@@ -1361,6 +1361,50 @@
     "borderCountries": {
       "type": "literal",
       "value": "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Togo"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1246"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kosovo"
+    },
+    "isoCode": {
+      "type": "literal",
+      "value": "XK"
+    },
+    "geo": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/data/main/Data:Kosovo.map"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kosovo.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "1586659"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Pristina"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Vjosa Osmani"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": "Rahovec Municipality$DIVIDE$Suhareka Municipality$DIVIDE$Malishevë Municipality$DIVIDE$Junik Municipality$DIVIDE$Mamusha Municipality$DIVIDE$Deçan Municipality$DIVIDE$Klina Municipality$DIVIDE$Viti Municipality$DIVIDE$Drenas Municipality$DIVIDE$Podujeva Municipality$DIVIDE$Istog Municipality$DIVIDE$Kaçanik Municipality$DIVIDE$Kamenica Municipality$DIVIDE$Štrpce Municipality$DIVIDE$Leposavić Municipality$DIVIDE$Ferizaj Municipality$DIVIDE$Elez Han Municipality$DIVIDE$Fushë Kosovë Municipality$DIVIDE$Zubin Potok Municipality$DIVIDE$Prizren Municipality$DIVIDE$Peja Municipality$DIVIDE$Gjilan Municipality$DIVIDE$Dragash Municipality$DIVIDE$Prishtina City$DIVIDE$Gračanica Municipality$DIVIDE$Gjakova Municipality$DIVIDE$Mitrovica Municipality$DIVIDE$Vushtrri Municipality$DIVIDE$Obiliq Municipality$DIVIDE$Ranilug Municipality$DIVIDE$Lipjan Municipality"
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": "North Macedonia$DIVIDE$Serbia$DIVIDE$Montenegro$DIVIDE$Albania"
     }
   },
   {
@@ -1484,7 +1528,7 @@
     },
     "headsOfState": {
       "type": "literal",
-      "value": "Xi Jinping"
+      "value": "Q15031"
     },
     "divisions": {
       "type": "literal",
@@ -1492,7 +1536,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Myanmar$DIVIDE$Tajikistan$DIVIDE$Vietnam$DIVIDE$Bhutan$DIVIDE$Kazakhstan$DIVIDE$Mongolia$DIVIDE$Pakistan$DIVIDE$North Korea$DIVIDE$India$DIVIDE$Russia$DIVIDE$Afghanistan$DIVIDE$Kyrgyzstan$DIVIDE$Laos$DIVIDE$Nepal"
+      "value": "Myanmar$DIVIDE$Tajikistan$DIVIDE$Vietnam$DIVIDE$Bhutan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan$DIVIDE$Laos$DIVIDE$Nepal$DIVIDE$Mongolia$DIVIDE$Pakistan$DIVIDE$North Korea$DIVIDE$India$DIVIDE$Russia$DIVIDE$Afghanistan"
     }
   },
   {
@@ -1536,7 +1580,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Argentina$DIVIDE$Peru$DIVIDE$Paraguay$DIVIDE$Uruguay$DIVIDE$France$DIVIDE$Colombia$DIVIDE$Guyana$DIVIDE$Suriname$DIVIDE$Venezuela"
+      "value": "Suriname$DIVIDE$Venezuela$DIVIDE$Bolivia$DIVIDE$Argentina$DIVIDE$Peru$DIVIDE$Paraguay$DIVIDE$Uruguay$DIVIDE$France$DIVIDE$Colombia$DIVIDE$Guyana"
     }
   },
   {
@@ -1564,7 +1608,7 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "145975300"
+      "value": "146119928"
     },
     "capitals": {
       "type": "literal",
@@ -1576,11 +1620,11 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Belgorod Oblast$DIVIDE$Voronezh Oblast$DIVIDE$Lipetsk Oblast$DIVIDE$Tambov Oblast$DIVIDE$Rostov Oblast$DIVIDE$Krasnodar Krai$DIVIDE$Adygea$DIVIDE$Volgograd Oblast$DIVIDE$Astrakhan Oblast$DIVIDE$Kalmykia$DIVIDE$Primorsky Krai$DIVIDE$Dagestan$DIVIDE$Chechnya$DIVIDE$Stavropol Krai$DIVIDE$Ingushetia$DIVIDE$North Ossetia–Alania$DIVIDE$Kabardino-Balkaria$DIVIDE$Karachay-Cherkessia$DIVIDE$Saratov Oblast$DIVIDE$Orenburg Oblast$DIVIDE$Mordovia$DIVIDE$Kirov Oblast$DIVIDE$Perm Krai$DIVIDE$Udmurtia$DIVIDE$Mari El$DIVIDE$Sverdlovsk Oblast$DIVIDE$Chuvashia$DIVIDE$Tatarstan$DIVIDE$Penza Oblast$DIVIDE$Ulyanovsk Oblast$DIVIDE$Bashkortostan$DIVIDE$Chelyabinsk Oblast$DIVIDE$Kurgan Oblast$DIVIDE$Tyumen Oblast$DIVIDE$Omsk Oblast$DIVIDE$Novosibirsk Oblast$DIVIDE$Tomsk Oblast$DIVIDE$Altai Krai$DIVIDE$Altai Republic$DIVIDE$Kemerovo Oblast$DIVIDE$Khanty-Mansi Autonomous Okrug$DIVIDE$Yamalo-Nenets Autonomous Okrug$DIVIDE$Khakassia$DIVIDE$Krasnoyarsk Krai$DIVIDE$Irkutsk Oblast$DIVIDE$Sakha$DIVIDE$Buryatia$DIVIDE$Zabaykalsky Krai$DIVIDE$Amur Oblast$DIVIDE$Sevastopol$DIVIDE$Jewish Autonomous Oblast$DIVIDE$Khabarovsk Krai$DIVIDE$Sakhalin Oblast$DIVIDE$Kamchatka Krai$DIVIDE$Magadan Oblast$DIVIDE$Chukotka Autonomous Okrug$DIVIDE$Republic of Crimea$DIVIDE$Moscow$DIVIDE$Saint Petersburg$DIVIDE$Tuva$DIVIDE$Moscow Oblast$DIVIDE$Samara Oblast$DIVIDE$Kaliningrad Oblast$DIVIDE$Murmansk Oblast$DIVIDE$Arkhangelsk Oblast$DIVIDE$Karelia$DIVIDE$Vologda Oblast$DIVIDE$Komi Republic$DIVIDE$Nenets Autonomous Okrug$DIVIDE$Leningrad Oblast$DIVIDE$Pskov Oblast$DIVIDE$Novgorod Oblast$DIVIDE$Nizhny Novgorod Oblast$DIVIDE$Tver Oblast$DIVIDE$Smolensk Oblast$DIVIDE$Yaroslavl Oblast$DIVIDE$Kostroma Oblast$DIVIDE$Ivanovo Oblast$DIVIDE$Vladimir Oblast$DIVIDE$Ryazan Oblast$DIVIDE$Tula Oblast$DIVIDE$Bryansk Oblast$DIVIDE$Kaluga Oblast$DIVIDE$Oryol Oblast$DIVIDE$Kursk Oblast"
+      "value": "Moscow$DIVIDE$Saint Petersburg$DIVIDE$Tuva$DIVIDE$Moscow Oblast$DIVIDE$Samara Oblast$DIVIDE$Kaliningrad Oblast$DIVIDE$Murmansk Oblast$DIVIDE$Arkhangelsk Oblast$DIVIDE$Karelia$DIVIDE$Vologda Oblast$DIVIDE$Komi Republic$DIVIDE$Nenets Autonomous Okrug$DIVIDE$Leningrad Oblast$DIVIDE$Pskov Oblast$DIVIDE$Novgorod Oblast$DIVIDE$Nizhny Novgorod Oblast$DIVIDE$Tver Oblast$DIVIDE$Smolensk Oblast$DIVIDE$Yaroslavl Oblast$DIVIDE$Kostroma Oblast$DIVIDE$Ivanovo Oblast$DIVIDE$Vladimir Oblast$DIVIDE$Ryazan Oblast$DIVIDE$Tula Oblast$DIVIDE$Bryansk Oblast$DIVIDE$Kaluga Oblast$DIVIDE$Oryol Oblast$DIVIDE$Kursk Oblast$DIVIDE$Belgorod Oblast$DIVIDE$Voronezh Oblast$DIVIDE$Lipetsk Oblast$DIVIDE$Tambov Oblast$DIVIDE$Rostov Oblast$DIVIDE$Krasnodar Krai$DIVIDE$Adygea$DIVIDE$Volgograd Oblast$DIVIDE$Astrakhan Oblast$DIVIDE$Kalmykia$DIVIDE$Primorsky Krai$DIVIDE$Dagestan$DIVIDE$Chechnya$DIVIDE$Stavropol Krai$DIVIDE$Ingushetia$DIVIDE$North Ossetia–Alania$DIVIDE$Kabardino-Balkaria$DIVIDE$Karachay-Cherkessia$DIVIDE$Saratov Oblast$DIVIDE$Orenburg Oblast$DIVIDE$Mordovia$DIVIDE$Kirov Oblast$DIVIDE$Perm Krai$DIVIDE$Udmurtia$DIVIDE$Mari El$DIVIDE$Sverdlovsk Oblast$DIVIDE$Chuvashia$DIVIDE$Tatarstan$DIVIDE$Penza Oblast$DIVIDE$Ulyanovsk Oblast$DIVIDE$Bashkortostan$DIVIDE$Chelyabinsk Oblast$DIVIDE$Kurgan Oblast$DIVIDE$Tyumen Oblast$DIVIDE$Omsk Oblast$DIVIDE$Novosibirsk Oblast$DIVIDE$Tomsk Oblast$DIVIDE$Altai Krai$DIVIDE$Altai Republic$DIVIDE$Kemerovo Oblast$DIVIDE$Khanty-Mansi Autonomous Okrug$DIVIDE$Yamalo-Nenets Autonomous Okrug$DIVIDE$Khakassia$DIVIDE$Krasnoyarsk Krai$DIVIDE$Irkutsk Oblast$DIVIDE$Sakha$DIVIDE$Buryatia$DIVIDE$Zabaykalsky Krai$DIVIDE$Amur Oblast$DIVIDE$Sevastopol$DIVIDE$Jewish Autonomous Oblast$DIVIDE$Khabarovsk Krai$DIVIDE$Sakhalin Oblast$DIVIDE$Kamchatka Krai$DIVIDE$Magadan Oblast$DIVIDE$Chukotka Autonomous Okrug$DIVIDE$Republic of Crimea"
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Finland$DIVIDE$Estonia$DIVIDE$North Korea$DIVIDE$Mongolia$DIVIDE$Poland$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$People's Republic of China$DIVIDE$Kazakhstan$DIVIDE$Latvia$DIVIDE$Ukraine$DIVIDE$Norway$DIVIDE$Azerbaijan$DIVIDE$Georgia"
+      "value": "Georgia$DIVIDE$Finland$DIVIDE$Estonia$DIVIDE$North Korea$DIVIDE$Mongolia$DIVIDE$Poland$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$People's Republic of China$DIVIDE$Kazakhstan$DIVIDE$Latvia$DIVIDE$Ukraine$DIVIDE$Norway$DIVIDE$Azerbaijan"
     }
   },
   {
@@ -1712,7 +1756,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "France$DIVIDE$Switzerland$DIVIDE$Austria$DIVIDE$Denmark$DIVIDE$Czech Republic$DIVIDE$Belgium$DIVIDE$Kingdom of the Netherlands$DIVIDE$Luxembourg$DIVIDE$Poland"
+      "value": "Luxembourg$DIVIDE$Poland$DIVIDE$France$DIVIDE$Switzerland$DIVIDE$Austria$DIVIDE$Denmark$DIVIDE$Czech Republic$DIVIDE$Belgium$DIVIDE$Kingdom of the Netherlands"
     }
   },
   {
@@ -2108,7 +2152,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Italy$DIVIDE$Croatia$DIVIDE$Austria$DIVIDE$Hungary"
+      "value": "Hungary$DIVIDE$Italy$DIVIDE$Croatia$DIVIDE$Austria"
     }
   },
   {
@@ -2140,7 +2184,7 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Chişinău"
+      "value": "Chișinău"
     },
     "headsOfState": {
       "type": "literal",
@@ -2196,7 +2240,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Hungary$DIVIDE$Ukraine$DIVIDE$Moldova$DIVIDE$Bulgaria$DIVIDE$Serbia"
+      "value": "Serbia$DIVIDE$Hungary$DIVIDE$Ukraine$DIVIDE$Moldova$DIVIDE$Bulgaria"
     }
   },
   {
@@ -2240,7 +2284,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Romania$DIVIDE$Greece$DIVIDE$North Macedonia$DIVIDE$Serbia$DIVIDE$Turkey"
+      "value": "Greece$DIVIDE$North Macedonia$DIVIDE$Serbia$DIVIDE$Turkey$DIVIDE$Romania"
     }
   },
   {
@@ -2460,7 +2504,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bosnia and Herzegovina$DIVIDE$Serbia$DIVIDE$Slovenia$DIVIDE$Hungary$DIVIDE$Montenegro"
+      "value": "Hungary$DIVIDE$Montenegro$DIVIDE$Bosnia and Herzegovina$DIVIDE$Serbia$DIVIDE$Slovenia"
     }
   },
   {
@@ -2504,7 +2548,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Croatia$DIVIDE$Montenegro$DIVIDE$Serbia"
+      "value": "Montenegro$DIVIDE$Serbia$DIVIDE$Croatia"
     }
   },
   {
@@ -2680,7 +2724,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Armenia$DIVIDE$Azerbaijan$DIVIDE$Turkey$DIVIDE$Russia"
+      "value": "Turkey$DIVIDE$Russia$DIVIDE$Armenia$DIVIDE$Azerbaijan"
     }
   },
   {
@@ -2724,7 +2768,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Russia$DIVIDE$Uzbekistan$DIVIDE$Turkmenistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan"
+      "value": "Uzbekistan$DIVIDE$Turkmenistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Russia"
     }
   },
   {
@@ -2765,6 +2809,42 @@
     "divisions": {
       "type": "literal",
       "value": "Gozo Region (Ghawdex)$DIVIDE$Northern Region (Tramuntana)$DIVIDE$Southern Region (Nofsinhar)$DIVIDE$Port Region (Port)$DIVIDE$Western Region (Punent)$DIVIDE$Eastern Region (Lvant)"
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q23427"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Ossetia"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Ossetia.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "53532"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Tskhinvali"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Alan Gagloyev"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": "Tskhinvali$DIVIDE$Leningor District$DIVIDE$Znaur District$DIVIDE$Dzau District$DIVIDE$Tskhinvali District"
     },
     "borderCountries": {
       "type": "literal",
@@ -2856,7 +2936,47 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Albania$DIVIDE$Bosnia and Herzegovina$DIVIDE$Croatia$DIVIDE$Serbia$DIVIDE$Kosovo"
+      "value": "Bosnia and Herzegovina$DIVIDE$Croatia$DIVIDE$Serbia$DIVIDE$Kosovo$DIVIDE$Albania"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q23681"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Northern Cyprus"
+    },
+    "geo": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/data/main/Data:Northern+Cyprus.map"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Turkish%20Republic%20of%20Northern%20Cyprus.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "390745"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "North Nicosia"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Ersin Tatar"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": ""
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
     }
   },
   {
@@ -3340,7 +3460,43 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Serbia$DIVIDE$Slovenia$DIVIDE$Austria$DIVIDE$Ukraine$DIVIDE$Slovakia$DIVIDE$Romania$DIVIDE$Croatia"
+      "value": "Austria$DIVIDE$Ukraine$DIVIDE$Slovakia$DIVIDE$Romania$DIVIDE$Croatia$DIVIDE$Serbia$DIVIDE$Slovenia"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2842000"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ambazonia"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federal%20Republic%20of%20Southern%20Cameroons.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "8000000"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Buea"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Chris Anu$DIVIDE$Marianta Njomia$DIVIDE$Samuel Ikome Sako$DIVIDE$Sisiku Julius Ayuk Tabe"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": ""
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
     }
   },
   {
@@ -3472,7 +3628,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Germany$DIVIDE$Belgium$DIVIDE$France"
+      "value": "France$DIVIDE$Germany$DIVIDE$Belgium"
     }
   },
   {
@@ -3560,7 +3716,43 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Luxembourg$DIVIDE$Kingdom of the Netherlands$DIVIDE$France$DIVIDE$Germany"
+      "value": "France$DIVIDE$Germany$DIVIDE$Luxembourg$DIVIDE$Kingdom of the Netherlands"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q31354462"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Republic of Abkhazia"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20Abkhazia.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "245246"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Sukhumi"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Badra Gunba"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": "Gagra District$DIVIDE$Tkvarcheli District$DIVIDE$Gudauta District$DIVIDE$Gulripsh District$DIVIDE$Sukhumi District$DIVIDE$Gali District$DIVIDE$Ochamchira District"
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
     }
   },
   {
@@ -3604,7 +3796,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Belgium$DIVIDE$France$DIVIDE$Germany"
+      "value": "Germany$DIVIDE$Belgium$DIVIDE$France"
     }
   },
   {
@@ -3648,7 +3840,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Russia$DIVIDE$Sweden$DIVIDE$Norway"
+      "value": "Sweden$DIVIDE$Norway$DIVIDE$Russia"
     }
   },
   {
@@ -3786,6 +3978,46 @@
   {
     "country": {
       "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34754"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Somaliland"
+    },
+    "geo": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/data/main/Data:Somaliland.map"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somaliland.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "4171898"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Hargeisa"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Muse Bihi Abdi"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": "Sahil$DIVIDE$Sanaag Region$DIVIDE$Awdal Region$DIVIDE$Sool$DIVIDE$Togdheer Region$DIVIDE$Maroodi Jeeh"
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": "Ethiopia"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
       "value": "http://www.wikidata.org/entity/Q35"
     },
     "countryLabel": {
@@ -3852,7 +4084,7 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "38382576"
+      "value": "37563071"
     },
     "capitals": {
       "type": "literal",
@@ -3868,7 +4100,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Germany$DIVIDE$Russia$DIVIDE$Slovakia$DIVIDE$Czech Republic$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$Ukraine"
+      "value": "Germany$DIVIDE$Slovakia$DIVIDE$Czech Republic$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$Ukraine$DIVIDE$Russia"
     }
   },
   {
@@ -3908,7 +4140,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Šiauliai County$DIVIDE$Vilnius County$DIVIDE$Panevėžys County$DIVIDE$Utena County$DIVIDE$Tauragė County$DIVIDE$Telšiai County$DIVIDE$Klaipėda County$DIVIDE$Alytus County$DIVIDE$Kaunas County$DIVIDE$Marijampolė County"
+      "value": "Telšiai County$DIVIDE$Klaipėda County$DIVIDE$Alytus County$DIVIDE$Kaunas County$DIVIDE$Marijampolė County$DIVIDE$Šiauliai County$DIVIDE$Vilnius County$DIVIDE$Panevėžys County$DIVIDE$Utena County$DIVIDE$Tauragė County"
     },
     "borderCountries": {
       "type": "literal",
@@ -3956,7 +4188,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Slovenia$DIVIDE$Switzerland$DIVIDE$San Marino$DIVIDE$France$DIVIDE$Austria$DIVIDE$Vatican City"
+      "value": "San Marino$DIVIDE$France$DIVIDE$Austria$DIVIDE$Vatican City$DIVIDE$Slovenia$DIVIDE$Switzerland"
     }
   },
   {
@@ -4000,7 +4232,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Italy$DIVIDE$Austria$DIVIDE$France$DIVIDE$Germany$DIVIDE$Liechtenstein"
+      "value": "Austria$DIVIDE$France$DIVIDE$Germany$DIVIDE$Liechtenstein$DIVIDE$Italy"
     }
   },
   {
@@ -4176,7 +4408,47 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Albania$DIVIDE$Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro$DIVIDE$Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Croatia"
+      "value": "Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro$DIVIDE$Albania$DIVIDE$Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Croatia"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q40362"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sahrawi Arab Democratic Republic"
+    },
+    "geo": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/data/main/Data:Sahrawi+Arab+Democratic+Republic.map"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "607292"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Tifariti$DIVIDE$Laayoune"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Brahim Ghali"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": ""
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
     }
   },
   {
@@ -4264,7 +4536,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "North Macedonia$DIVIDE$Turkey$DIVIDE$Albania$DIVIDE$Bulgaria"
+      "value": "Albania$DIVIDE$Bulgaria$DIVIDE$North Macedonia$DIVIDE$Turkey"
     }
   },
   {
@@ -4308,7 +4580,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Uruguay$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay"
+      "value": "Bolivia$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay$DIVIDE$Uruguay"
     }
   },
   {
@@ -4352,7 +4624,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Colombia$DIVIDE$Brazil$DIVIDE$Ecuador$DIVIDE$Chile"
+      "value": "Bolivia$DIVIDE$Brazil$DIVIDE$Colombia$DIVIDE$Ecuador$DIVIDE$Chile"
     }
   },
   {
@@ -4484,7 +4756,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Iran$DIVIDE$Iraq$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Georgia$DIVIDE$Syria$DIVIDE$Armenia$DIVIDE$Azerbaijan"
+      "value": "Armenia$DIVIDE$Azerbaijan$DIVIDE$Iran$DIVIDE$Iraq$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Georgia$DIVIDE$Syria"
     }
   },
   {
@@ -5008,7 +5280,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Autonomous Region of Bougainville$DIVIDE$Madang Province$DIVIDE$Chimbu Province$DIVIDE$West New Britain Province$DIVIDE$East Sepik Province$DIVIDE$Oro Province$DIVIDE$Sandaun Province$DIVIDE$East New Britain Province$DIVIDE$New Ireland Province$DIVIDE$Western Province$DIVIDE$Southern Highlands Province$DIVIDE$Western Highlands Province$DIVIDE$Eastern Highlands Province$DIVIDE$Morobe Province$DIVIDE$Enga Province$DIVIDE$Manus Province$DIVIDE$Central Province$DIVIDE$Milne Bay Province$DIVIDE$Gulf Province$DIVIDE$National Capital District$DIVIDE$Hela Province$DIVIDE$Jiwaka Province"
+      "value": "Gulf Province$DIVIDE$National Capital District$DIVIDE$Hela Province$DIVIDE$Jiwaka Province$DIVIDE$Autonomous Region of Bougainville$DIVIDE$Madang Province$DIVIDE$Chimbu Province$DIVIDE$West New Britain Province$DIVIDE$East Sepik Province$DIVIDE$Oro Province$DIVIDE$Sandaun Province$DIVIDE$East New Britain Province$DIVIDE$New Ireland Province$DIVIDE$Western Province$DIVIDE$Southern Highlands Province$DIVIDE$Western Highlands Province$DIVIDE$Eastern Highlands Province$DIVIDE$Morobe Province$DIVIDE$Enga Province$DIVIDE$Manus Province$DIVIDE$Central Province$DIVIDE$Milne Bay Province"
     },
     "borderCountries": {
       "type": "literal",
@@ -5584,7 +5856,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Venezuela$DIVIDE$Peru$DIVIDE$Ecuador$DIVIDE$Brazil"
+      "value": "Venezuela$DIVIDE$Brazil$DIVIDE$Peru$DIVIDE$Ecuador"
     }
   },
   {
@@ -6196,7 +6468,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Sánchez Ramírez Province$DIVIDE$María Trinidad Sánchez Province$DIVIDE$San Juan Province$DIVIDE$Santiago Rodríguez Province$DIVIDE$Distrito Nacional$DIVIDE$Espaillat Province$DIVIDE$Hermanas Mirabal Province$DIVIDE$Monte Cristi Province$DIVIDE$La Vega Province$DIVIDE$Puerto Plata Province$DIVIDE$Azua Province$DIVIDE$Baoruco Province$DIVIDE$Hato Mayor Province$DIVIDE$Elías Piña Province$DIVIDE$Barahona Province$DIVIDE$Dajabón Province$DIVIDE$La Romana$DIVIDE$Samaná Province$DIVIDE$Duarte Province$DIVIDE$Monseñor Nouel Province$DIVIDE$La Altagracia Province$DIVIDE$Peravia Province$DIVIDE$Pedernales Province$DIVIDE$Santo Domingo Province$DIVIDE$San Cristóbal Province$DIVIDE$San Pedro de Macorís$DIVIDE$San José de Ocoa Province$DIVIDE$Independencia$DIVIDE$Monte Plata Province$DIVIDE$Santiago Province$DIVIDE$El Seibo Province$DIVIDE$Valverde Province"
+      "value": "Espaillat Province$DIVIDE$Hermanas Mirabal Province$DIVIDE$Monte Cristi Province$DIVIDE$La Vega Province$DIVIDE$Puerto Plata Province$DIVIDE$Azua Province$DIVIDE$Baoruco Province$DIVIDE$Hato Mayor Province$DIVIDE$Elías Piña Province$DIVIDE$Barahona Province$DIVIDE$Dajabón Province$DIVIDE$La Romana$DIVIDE$Samaná Province$DIVIDE$Duarte Province$DIVIDE$Monseñor Nouel Province$DIVIDE$La Altagracia Province$DIVIDE$Peravia Province$DIVIDE$Pedernales Province$DIVIDE$Santo Domingo Province$DIVIDE$San Cristóbal Province$DIVIDE$San Pedro de Macorís$DIVIDE$San José de Ocoa Province$DIVIDE$Independencia$DIVIDE$Monte Plata Province$DIVIDE$Santiago Province$DIVIDE$El Seibo Province$DIVIDE$Valverde Province$DIVIDE$Sánchez Ramírez Province$DIVIDE$María Trinidad Sánchez Province$DIVIDE$San Juan Province$DIVIDE$Santiago Rodríguez Province$DIVIDE$Distrito Nacional"
     },
     "borderCountries": {
       "type": "literal",
@@ -6816,7 +7088,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "People's Republic of China$DIVIDE$Vietnam$DIVIDE$Cambodia$DIVIDE$Myanmar$DIVIDE$Thailand"
+      "value": "Myanmar$DIVIDE$Cambodia$DIVIDE$People's Republic of China$DIVIDE$Vietnam$DIVIDE$Thailand"
     }
   },
   {
@@ -6900,7 +7172,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Addu Atoll$DIVIDE$Alif Alif Atoll$DIVIDE$Baa Atoll$DIVIDE$Gaafu Alif Atoll$DIVIDE$Lhaviyani Atoll$DIVIDE$Raa Atoll$DIVIDE$Kaafu Atoll$DIVIDE$Gnaviyani Atoll$DIVIDE$Laamu Atoll$DIVIDE$Shaviyani Atoll$DIVIDE$Meemu Atoll$DIVIDE$Dhaalu Atoll$DIVIDE$Alif Dhaal Atoll$DIVIDE$Haa Dhaalu Atoll$DIVIDE$Haa Alif Atoll$DIVIDE$Noonu Atoll$DIVIDE$Faafu Atoll$DIVIDE$Gaafu Dhaalu Atoll$DIVIDE$Vaavu Atoll$DIVIDE$Thaa Atoll"
+      "value": "Alif Dhaal Atoll$DIVIDE$Haa Dhaalu Atoll$DIVIDE$Haa Alif Atoll$DIVIDE$Noonu Atoll$DIVIDE$Faafu Atoll$DIVIDE$Gaafu Dhaalu Atoll$DIVIDE$Vaavu Atoll$DIVIDE$Thaa Atoll$DIVIDE$Addu Atoll$DIVIDE$Alif Alif Atoll$DIVIDE$Baa Atoll$DIVIDE$Gaafu Alif Atoll$DIVIDE$Lhaviyani Atoll$DIVIDE$Raa Atoll$DIVIDE$Kaafu Atoll$DIVIDE$Gnaviyani Atoll$DIVIDE$Laamu Atoll$DIVIDE$Shaviyani Atoll$DIVIDE$Meemu Atoll$DIVIDE$Dhaalu Atoll"
     },
     "borderCountries": {
       "type": "literal",
@@ -6948,7 +7220,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Indonesia$DIVIDE$Thailand$DIVIDE$Brunei"
+      "value": "Thailand$DIVIDE$Brunei$DIVIDE$Indonesia"
     }
   },
   {
@@ -6992,7 +7264,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Thailand$DIVIDE$Laos$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$India"
+      "value": "Thailand$DIVIDE$Laos$DIVIDE$People's Republic of China$DIVIDE$India$DIVIDE$Bangladesh"
     }
   },
   {
@@ -7124,7 +7396,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Afghanistan$DIVIDE$Iran$DIVIDE$People's Republic of China$DIVIDE$India"
+      "value": "Iran$DIVIDE$Afghanistan$DIVIDE$India$DIVIDE$People's Republic of China"
     }
   },
   {
@@ -7208,7 +7480,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Al-Baha Province$DIVIDE$'Asir Province$DIVIDE$Mecca Province$DIVIDE$Riyadh Province$DIVIDE$Medina Province$DIVIDE$Al-Qassim$DIVIDE$Al-Jowf Province$DIVIDE$Ḥaʼil Province$DIVIDE$Northern Borders Province$DIVIDE$Eastern Province$DIVIDE$Jazan Province$DIVIDE$Tabuk Province$DIVIDE$Al-Qurayyat (province)$DIVIDE$Najran Province"
+      "value": "Ḥaʼil Province$DIVIDE$Medina Province$DIVIDE$Al-Jowf Province$DIVIDE$Al-Baha Province$DIVIDE$Najran Province$DIVIDE$Northern Borders Province$DIVIDE$'Asir Province$DIVIDE$Riyadh Province$DIVIDE$Al-Qassim$DIVIDE$Tabuk Province$DIVIDE$Jazan Province$DIVIDE$Al-Qurayyat (province)$DIVIDE$Mecca Province$DIVIDE$Eastern Province"
     },
     "borderCountries": {
       "type": "literal",
@@ -7300,7 +7572,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Iraq$DIVIDE$Turkey$DIVIDE$Lebanon$DIVIDE$Israel$DIVIDE$Jordan"
+      "value": "Turkey$DIVIDE$Lebanon$DIVIDE$Iraq$DIVIDE$Israel$DIVIDE$Jordan"
     }
   },
   {
@@ -7344,7 +7616,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Afghanistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Uzbekistan"
+      "value": "Uzbekistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan"
     }
   },
   {
@@ -7428,11 +7700,11 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Bangkok$DIVIDE$Phuket$DIVIDE$Chon Buri$DIVIDE$Chiang Mai$DIVIDE$Songkhla$DIVIDE$Satun$DIVIDE$Chiang Rai$DIVIDE$Krabi$DIVIDE$Pattani$DIVIDE$Ranong province$DIVIDE$Phichit$DIVIDE$Nakhon Sawan$DIVIDE$Surat Thani$DIVIDE$Lampang$DIVIDE$Phetchabun$DIVIDE$Lamphun$DIVIDE$Trat$DIVIDE$Nonthaburi$DIVIDE$Yala$DIVIDE$Amnat Charoen$DIVIDE$Ang Thong$DIVIDE$Trang$DIVIDE$Phatthalung$DIVIDE$Phayao$DIVIDE$Prachuap Khiri Khan$DIVIDE$Uthai Thani$DIVIDE$Phrae$DIVIDE$Nakhon Si Thammarat$DIVIDE$Chumphon$DIVIDE$Nan$DIVIDE$Phetchaburi$DIVIDE$Nong Bua Lamphu$DIVIDE$Mae Hong Son$DIVIDE$Narathiwat$DIVIDE$Samut Prakan$DIVIDE$Nakhon Ratchasima$DIVIDE$Suphan Buri$DIVIDE$Phang Nga$DIVIDE$Uttaradit$DIVIDE$Kamphaeng Phet$DIVIDE$Chaiyaphum$DIVIDE$Loei province$DIVIDE$Kanchanaburi$DIVIDE$Tak$DIVIDE$Phitsanulok$DIVIDE$Prachin Buri$DIVIDE$Buri Ram$DIVIDE$Khon Kaen$DIVIDE$Chanthaburi$DIVIDE$Nong Khai$DIVIDE$Samut Sakhon$DIVIDE$Sing Buri$DIVIDE$Nakhon Pathom$DIVIDE$Chachoengsao$DIVIDE$Mukdahan$DIVIDE$Rayong$DIVIDE$Ratchaburi$DIVIDE$Lopburi$DIVIDE$Saraburi$DIVIDE$Udon Thani$DIVIDE$Surin$DIVIDE$Si Sa Ket$DIVIDE$Sukhothai$DIVIDE$Sa Kaeo$DIVIDE$Sakon Nakhon$DIVIDE$Kalasin$DIVIDE$Samut Songkhram$DIVIDE$Pathum Thani$DIVIDE$Chai Nat$DIVIDE$Nakhon Nayok$DIVIDE$Nakhon Phanom$DIVIDE$Maha Sarakham$DIVIDE$Phra Nakhon Si Ayutthaya$DIVIDE$Yasothon$DIVIDE$Roi Et$DIVIDE$Ubon Ratchathani$DIVIDE$Bueng Kan"
+      "value": "Bangkok$DIVIDE$Phuket$DIVIDE$Chon Buri$DIVIDE$Chiang Mai$DIVIDE$Songkhla$DIVIDE$Satun$DIVIDE$Chiang Rai$DIVIDE$Krabi$DIVIDE$Pattani$DIVIDE$Ranong province$DIVIDE$Phichit$DIVIDE$Nakhon Sawan$DIVIDE$Surat Thani$DIVIDE$Lampang$DIVIDE$Phetchabun$DIVIDE$Lamphun$DIVIDE$Trat$DIVIDE$Nonthaburi$DIVIDE$Yala$DIVIDE$Amnat Charoen$DIVIDE$Ang Thong$DIVIDE$Trang$DIVIDE$Phatthalung$DIVIDE$Phayao$DIVIDE$Prachuap Khiri Khan$DIVIDE$Uthai Thani$DIVIDE$Phrae$DIVIDE$Nakhon Si Thammarat$DIVIDE$Chumphon$DIVIDE$Nan$DIVIDE$Phetchaburi$DIVIDE$Nong Bua Lamphu$DIVIDE$Mae Hong Son$DIVIDE$Narathiwat$DIVIDE$Samut Prakan$DIVIDE$Nakhon Ratchasima$DIVIDE$Suphan Buri$DIVIDE$Phang Nga$DIVIDE$Uttaradit$DIVIDE$Kamphaeng Phet$DIVIDE$Chaiyaphum$DIVIDE$Loei province$DIVIDE$Kanchanaburi$DIVIDE$Tak$DIVIDE$Phitsanulok$DIVIDE$Prachin Buri$DIVIDE$Buri Ram$DIVIDE$Nakhon-Ratchasima$DIVIDE$Chanthaburi$DIVIDE$Nong Khai$DIVIDE$Samut Sakhon$DIVIDE$Sing Buri$DIVIDE$Nakhon Pathom$DIVIDE$Chachoengsao$DIVIDE$Mukdahan$DIVIDE$Rayong$DIVIDE$Ratchaburi$DIVIDE$Lopburi$DIVIDE$Saraburi$DIVIDE$Udon Thani$DIVIDE$Surin$DIVIDE$Si Sa Ket$DIVIDE$Sukhothai$DIVIDE$Sa Kaeo$DIVIDE$Sakon Nakhon$DIVIDE$Kalasin$DIVIDE$Samut Songkhram$DIVIDE$Pathum Thani$DIVIDE$Chai Nat$DIVIDE$Nakhon Nayok$DIVIDE$Nakhon Phanom$DIVIDE$Maha Sarakham$DIVIDE$Phra Nakhon Si Ayutthaya$DIVIDE$Yasothon$DIVIDE$Roi Et$DIVIDE$Ubon Ratchathani$DIVIDE$Bueng Kan"
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Myanmar$DIVIDE$Malaysia$DIVIDE$Cambodia$DIVIDE$Laos"
+      "value": "Malaysia$DIVIDE$Myanmar$DIVIDE$Cambodia$DIVIDE$Laos"
     }
   },
   {
@@ -7476,7 +7748,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Afghanistan$DIVIDE$Uzbekistan$DIVIDE$Kazakhstan$DIVIDE$Iran"
+      "value": "Iran$DIVIDE$Kazakhstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan"
     }
   },
   {
@@ -7564,7 +7836,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Cambodia$DIVIDE$People's Republic of China$DIVIDE$Laos"
+      "value": "People's Republic of China$DIVIDE$Laos$DIVIDE$Cambodia"
     }
   },
   {
@@ -7696,7 +7968,43 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Myanmar$DIVIDE$India"
+      "value": "India$DIVIDE$Myanmar"
+    }
+  },
+  {
+    "country": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q907112"
+    },
+    "countryLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Transnistria"
+    },
+    "flagImage": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Transnistria%20%28variant%29.svg"
+    },
+    "population": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+      "type": "literal",
+      "value": "469000"
+    },
+    "capitals": {
+      "type": "literal",
+      "value": "Tiraspol"
+    },
+    "headsOfState": {
+      "type": "literal",
+      "value": "Vadim Krasnoselsky"
+    },
+    "divisions": {
+      "type": "literal",
+      "value": "Tiraspol$DIVIDE$Bender$DIVIDE$Slobozia District$DIVIDE$Rîbnița District$DIVIDE$Camenca District$DIVIDE$Grigoriopol District$DIVIDE$Dubăsari District"
+    },
+    "borderCountries": {
+      "type": "literal",
+      "value": ""
     }
   },
   {
@@ -7740,7 +8048,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Guinea$DIVIDE$Niger$DIVIDE$Mauritania$DIVIDE$Algeria$DIVIDE$Senegal"
+      "value": "Guinea$DIVIDE$Niger$DIVIDE$Mauritania$DIVIDE$Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Algeria$DIVIDE$Senegal"
     }
   },
   {
@@ -7784,7 +8092,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Namibia$DIVIDE$Republic of the Congo$DIVIDE$Democratic Republic of the Congo$DIVIDE$Zambia"
+      "value": "Democratic Republic of the Congo$DIVIDE$Namibia$DIVIDE$Republic of the Congo$DIVIDE$Zambia"
     }
   },
   {
@@ -7912,11 +8220,11 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Dar es Salaam$DIVIDE$Mount Kilimanjaro$DIVIDE$Mwanza$DIVIDE$Ruvuma Region$DIVIDE$Unguja North Region$DIVIDE$Singida Region$DIVIDE$Rukwa Region$DIVIDE$Tabora Region$DIVIDE$Shinyanga Region$DIVIDE$Mjini Magharibi Region$DIVIDE$Dodoma Region$DIVIDE$Morogoro$DIVIDE$Kigoma$DIVIDE$Kagera Region$DIVIDE$Lindi Region$DIVIDE$Iringa Region$DIVIDE$Kilimanjaro Region$DIVIDE$Arusha Region$DIVIDE$Manyara Region$DIVIDE$Mwanza Region$DIVIDE$Mbeya$DIVIDE$Tanga Region$DIVIDE$Mbeya Region$DIVIDE$Morogoro Region$DIVIDE$Mara Region$DIVIDE$Pwani Region$DIVIDE$South Pemba Region$DIVIDE$North Pemba Region$DIVIDE$Mtwara Region$DIVIDE$Dar es Salaam Region$DIVIDE$Tabora$DIVIDE$Unguja South Region$DIVIDE$Mtwara$DIVIDE$Iringa$DIVIDE$Kigoma Region$DIVIDE$Shinyanga$DIVIDE$Lindi"
+      "value": "Mbeya$DIVIDE$Tanga Region$DIVIDE$Mbeya Region$DIVIDE$Morogoro Region$DIVIDE$Mara Region$DIVIDE$Pwani Region$DIVIDE$South Pemba Region$DIVIDE$North Pemba Region$DIVIDE$Mtwara Region$DIVIDE$Dar es Salaam Region$DIVIDE$Tabora$DIVIDE$Unguja South Region$DIVIDE$Mtwara$DIVIDE$Iringa$DIVIDE$Kigoma Region$DIVIDE$Shinyanga$DIVIDE$Lindi$DIVIDE$Dar es Salaam$DIVIDE$Mount Kilimanjaro$DIVIDE$Mwanza$DIVIDE$Ruvuma Region$DIVIDE$Unguja North Region$DIVIDE$Singida Region$DIVIDE$Rukwa Region$DIVIDE$Tabora Region$DIVIDE$Shinyanga Region$DIVIDE$Mjini Magharibi Region$DIVIDE$Dodoma Region$DIVIDE$Morogoro$DIVIDE$Kigoma$DIVIDE$Kagera Region$DIVIDE$Lindi Region$DIVIDE$Iringa Region$DIVIDE$Kilimanjaro Region$DIVIDE$Arusha Region$DIVIDE$Manyara Region$DIVIDE$Mwanza Region"
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Uganda$DIVIDE$Zambia$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Kenya$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Rwanda"
+      "value": "Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Kenya$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Rwanda$DIVIDE$Uganda$DIVIDE$Zambia"
     }
   },
   {
@@ -8004,7 +8312,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Chad$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Republic of the Congo$DIVIDE$Cameroon"
+      "value": "Republic of the Congo$DIVIDE$Chad$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon"
     }
   },
   {
@@ -8092,7 +8400,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Algeria$DIVIDE$Libya"
+      "value": "Libya$DIVIDE$Algeria"
     }
   },
   {
@@ -8136,7 +8444,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Namibia$DIVIDE$Botswana$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Angola"
+      "value": "Angola$DIVIDE$Namibia$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana"
     }
   },
   {
@@ -8180,7 +8488,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "South Africa$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$Mozambique"
+      "value": "Mozambique$DIVIDE$South Africa$DIVIDE$Zambia$DIVIDE$Botswana"
     }
   },
   {
@@ -8220,11 +8528,11 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Aweil State$DIVIDE$Wau State$DIVIDE$Twic$DIVIDE$Tonj State$DIVIDE$Gogrial State$DIVIDE$Eastern Lakes State$DIVIDE$Gok State$DIVIDE$Latjoor State$DIVIDE$Terekeka State$DIVIDE$Western Lakes State$DIVIDE$Boma State$DIVIDE$Bieh State$DIVIDE$Northern Liech State$DIVIDE$Eastern Nile State$DIVIDE$Ruweng Administrative Area$DIVIDE$Southern Liech State$DIVIDE$Fashoda State$DIVIDE$Fangak State$DIVIDE$Aweil East State$DIVIDE$Abyei$DIVIDE$Jonglei$DIVIDE$Lol State$DIVIDE$Imatong State$DIVIDE$Kapoeta State$DIVIDE$Gbudwe State$DIVIDE$Amadi State$DIVIDE$Maridi State$DIVIDE$Yei River State$DIVIDE$Jubek State"
+      "value": "Abyei$DIVIDE$Jonglei$DIVIDE$Lol State$DIVIDE$Imatong State$DIVIDE$Kapoeta State$DIVIDE$Gbudwe State$DIVIDE$Amadi State$DIVIDE$Maridi State$DIVIDE$Yei River State$DIVIDE$Jubek State$DIVIDE$Aweil State$DIVIDE$Wau State$DIVIDE$Twic$DIVIDE$Tonj State$DIVIDE$Gogrial State$DIVIDE$Eastern Lakes State$DIVIDE$Gok State$DIVIDE$Latjoor State$DIVIDE$Terekeka State$DIVIDE$Western Lakes State$DIVIDE$Boma State$DIVIDE$Bieh State$DIVIDE$Northern Liech State$DIVIDE$Eastern Nile State$DIVIDE$Ruweng Administrative Area$DIVIDE$Southern Liech State$DIVIDE$Fashoda State$DIVIDE$Fangak State$DIVIDE$Aweil East State"
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Uganda$DIVIDE$Ethiopia$DIVIDE$Central African Republic$DIVIDE$Democratic Republic of the Congo$DIVIDE$Kenya$DIVIDE$Sudan"
+      "value": "Kenya$DIVIDE$Uganda$DIVIDE$Ethiopia$DIVIDE$Central African Republic$DIVIDE$Democratic Republic of the Congo$DIVIDE$Sudan"
     }
   },
   {
@@ -8268,7 +8576,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Belize$DIVIDE$Guatemala$DIVIDE$United States"
+      "value": "Guatemala$DIVIDE$United States$DIVIDE$Belize"
     }
   },
   {
@@ -8308,7 +8616,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Mono Department$DIVIDE$Borgou Department$DIVIDE$Collines department$DIVIDE$Atlantique Department$DIVIDE$Atakora Department$DIVIDE$Littoral$DIVIDE$Donga Department$DIVIDE$Alibori Department$DIVIDE$Ouémé Department$DIVIDE$Zou Department$DIVIDE$Kouffo Department$DIVIDE$Plateau Department"
+      "value": "Donga Department$DIVIDE$Alibori Department$DIVIDE$Ouémé Department$DIVIDE$Zou Department$DIVIDE$Kouffo Department$DIVIDE$Plateau Department$DIVIDE$Mono Department$DIVIDE$Borgou Department$DIVIDE$Collines department$DIVIDE$Atlantique Department$DIVIDE$Atakora Department$DIVIDE$Littoral"
     },
     "borderCountries": {
       "type": "literal",
@@ -8356,7 +8664,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe$DIVIDE$South Africa"
+      "value": "South Africa$DIVIDE$Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe"
     }
   },
   {
@@ -8396,7 +8704,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Sud-Ouest Region$DIVIDE$Nord Region$DIVIDE$Centre$DIVIDE$Boucle du Mouhoun Region$DIVIDE$Centre-Est Region$DIVIDE$Sahel Region$DIVIDE$Hauts-Bassins Region$DIVIDE$Cascades Region$DIVIDE$Centre-Nord Region$DIVIDE$Centre-Ouest Region$DIVIDE$Est Region$DIVIDE$Centre-Sud Region$DIVIDE$Plateau-Central Region"
+      "value": "Centre-Est Region$DIVIDE$Sahel Region$DIVIDE$Hauts-Bassins Region$DIVIDE$Cascades Region$DIVIDE$Centre-Nord Region$DIVIDE$Centre-Ouest Region$DIVIDE$Est Region$DIVIDE$Centre-Sud Region$DIVIDE$Plateau-Central Region$DIVIDE$Sud-Ouest Region$DIVIDE$Nord Region$DIVIDE$Centre$DIVIDE$Boucle du Mouhoun Region"
     },
     "borderCountries": {
       "type": "literal",
@@ -8440,7 +8748,7 @@
     },
     "divisions": {
       "type": "literal",
-      "value": "Bururi Province$DIVIDE$Bubanza Province$DIVIDE$Cibitoke Province$DIVIDE$Kirundo Province$DIVIDE$Cankuzo Province$DIVIDE$Bujumbura Rural Province$DIVIDE$Muramvya Province$DIVIDE$Gitega Province$DIVIDE$Kayanza Province$DIVIDE$Ngozi Province$DIVIDE$Karuzi Province$DIVIDE$Rutana Province$DIVIDE$Muyinga Province$DIVIDE$Ruyigi Province$DIVIDE$Makamba Province$DIVIDE$Mwaro Province$DIVIDE$Bujumbura Mairie"
+      "value": "Ruyigi Province$DIVIDE$Makamba Province$DIVIDE$Mwaro Province$DIVIDE$Bujumbura Mairie$DIVIDE$Bururi Province$DIVIDE$Bubanza Province$DIVIDE$Cibitoke Province$DIVIDE$Kirundo Province$DIVIDE$Cankuzo Province$DIVIDE$Bujumbura Rural Province$DIVIDE$Muramvya Province$DIVIDE$Gitega Province$DIVIDE$Kayanza Province$DIVIDE$Ngozi Province$DIVIDE$Karuzi Province$DIVIDE$Rutana Province$DIVIDE$Muyinga Province"
     },
     "borderCountries": {
       "type": "literal",
@@ -8532,7 +8840,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Gabon$DIVIDE$Angola"
+      "value": "Angola$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Gabon"
     }
   },
   {
@@ -8576,7 +8884,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Angola$DIVIDE$Uganda$DIVIDE$Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Rwanda$DIVIDE$South Sudan$DIVIDE$Burundi"
+      "value": "Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Rwanda$DIVIDE$South Sudan$DIVIDE$Burundi$DIVIDE$Angola$DIVIDE$Uganda"
     }
   },
   {
