@@ -4,7 +4,7 @@ def process :
 		id: .country.value | sub("http://www.wikidata.org/entity/"; ""),
 		population: .population.value | tonumber,
 		code: .isoCode.value,
-		headsOfState: .headsOfState.value | split("$DIVIDE$"),
+		headsOfGovernment: .headsOfGov.value | split("$DIVIDE$"),
 		capitals: .capitals.value | split("$DIVIDE$"),
 		divisions: .divisions.value | split("$DIVIDE$"),
 		borderCountries: .borderCountries.value | split("$DIVIDE$"),

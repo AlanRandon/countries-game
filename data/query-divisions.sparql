@@ -4,10 +4,7 @@ SELECT
 	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisions)
 WHERE {
 	SERVICE wikibase:label {
-		bd:serviceParam wikibase:language "en".
-		?capital rdfs:label ?capitalLabel.
-		?headOfState rdfs:label ?headOfStateLabel.
-		?division rdfs:label ?divisionLabel.
+		bd:serviceParam wikibase:language "en,mul".
 		?country rdfs:label ?countryLabel.
 		?borderCountry rdfs:label ?borderCountryLabel.
 	}.
@@ -18,8 +15,8 @@ WHERE {
 	} UNION {
 		?country wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
 	} UNION {
-		# (partially) unrecognised states
 		VALUES (?country) {
+			# (partially) unrecognised states
 			(wd:Q1246) # Kosovo
 			(wd:Q34754) # Somaliland
 			(wd:Q907112) # Transnistria
@@ -28,6 +25,9 @@ WHERE {
 			(wd:Q23427) # South Ossetia
 			(wd:Q23681) # Northern Cyprus
 			(wd:Q40362) # Western Sahara
+			# dependent countries of New Zealand
+			(wd:Q34020) # Niue
+			(wd:Q26988) # Cook Islands
 		}
 	}
 

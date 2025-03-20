@@ -5,8 +5,8 @@
       "id": "Q1000",
       "population": 2025137,
       "code": "GA",
-      "headsOfState": [
-        "Ali Bongo Ondimba"
+      "headsOfGovernment": [
+        "Raymond Ndong Sima"
       ],
       "capitals": [
         "Libreville"
@@ -23,9 +23,9 @@
         "Nyanga Province"
       ],
       "borderCountries": [
+        "Equatorial Guinea",
         "Cameroon",
-        "Republic of the Congo",
-        "Equatorial Guinea"
+        "Republic of the Congo"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg",
@@ -41,7 +41,7 @@
       "id": "Q1005",
       "population": 2639916,
       "code": "GM",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Adama Barrow"
       ],
       "capitals": [
@@ -72,8 +72,8 @@
       "id": "Q1006",
       "population": 12717176,
       "code": "GN",
-      "headsOfState": [
-        "Mamady Doumbouya"
+      "headsOfGovernment": [
+        "Bah Oury"
       ],
       "capitals": [
         "Conakry"
@@ -89,12 +89,12 @@
         "Mamou Region"
       ],
       "borderCountries": [
-        "Liberia",
-        "Mali",
-        "Senegal",
         "Ivory Coast",
         "Sierra Leone",
-        "Guinea-Bissau"
+        "Guinea-Bissau",
+        "Liberia",
+        "Mali",
+        "Senegal"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg",
@@ -110,8 +110,8 @@
       "id": "Q1007",
       "population": 1861283,
       "code": "GW",
-      "headsOfState": [
-        "Umaro Sissoco Embaló"
+      "headsOfGovernment": [
+        "Nuno Nabiam"
       ],
       "capitals": [
         "Bissau"
@@ -145,8 +145,8 @@
       "id": "Q1008",
       "population": 31165654,
       "code": "CI",
-      "headsOfState": [
-        "Alassane Ouattara"
+      "headsOfGovernment": [
+        "Robert Beugré Mambé"
       ],
       "capitals": [
         "Yamoussoukro"
@@ -173,11 +173,11 @@
         "Savanes Region"
       ],
       "borderCountries": [
-        "Burkina Faso",
         "Guinea",
         "Ghana",
         "Liberia",
-        "Mali"
+        "Mali",
+        "Burkina Faso"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg",
@@ -193,8 +193,8 @@
       "id": "Q1009",
       "population": 28372687,
       "code": "CM",
-      "headsOfState": [
-        "Paul Biya"
+      "headsOfGovernment": [
+        "Joseph Ngute"
       ],
       "capitals": [
         "Yaoundé"
@@ -212,12 +212,12 @@
         "South"
       ],
       "borderCountries": [
+        "Central African Republic",
         "Republic of the Congo",
         "Equatorial Guinea",
         "Gabon",
         "Nigeria",
-        "Chad",
-        "Central African Republic"
+        "Chad"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg",
@@ -233,8 +233,8 @@
       "id": "Q1011",
       "population": 555988,
       "code": "CV",
-      "headsOfState": [
-        "José Maria Neves"
+      "headsOfGovernment": [
+        "Ulisses Correia e Silva"
       ],
       "capitals": [
         "Praia"
@@ -278,8 +278,8 @@
       "id": "Q1013",
       "population": 2007201,
       "code": "LS",
-      "headsOfState": [
-        "Letsie III of Lesotho"
+      "headsOfGovernment": [
+        "Sam Matekane"
       ],
       "capitals": [
         "Maseru"
@@ -313,9 +313,8 @@
       "id": "Q1014",
       "population": 5214030,
       "code": "LR",
-      "headsOfState": [
-        "Joseph Boakai",
-        "George Weah"
+      "headsOfGovernment": [
+        "Joseph Boakai"
       ],
       "capitals": [
         "Monrovia"
@@ -338,9 +337,9 @@
         "Margibi County"
       ],
       "borderCountries": [
-        "Sierra Leone",
         "Ivory Coast",
-        "Guinea"
+        "Guinea",
+        "Sierra Leone"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg",
@@ -356,8 +355,8 @@
       "id": "Q1016",
       "population": 6678567,
       "code": "LY",
-      "headsOfState": [
-        "Mohamed al-Menfi"
+      "headsOfGovernment": [
+        "Abdulhamid Dbeibeh"
       ],
       "capitals": [
         "Tripoli"
@@ -392,12 +391,12 @@
         "Jafara"
       ],
       "borderCountries": [
-        "Algeria",
-        "Chad",
-        "Sudan",
         "Egypt",
         "Tunisia",
-        "Niger"
+        "Algeria",
+        "Niger",
+        "Chad",
+        "Sudan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg",
@@ -413,8 +412,8 @@
       "id": "Q1019",
       "population": 25570895,
       "code": "MG",
-      "headsOfState": [
-        "Andry Rajoelina"
+      "headsOfGovernment": [
+        "Christian Ntsay"
       ],
       "capitals": [
         "Antananarivo"
@@ -442,7 +441,7 @@
       "id": "Q1020",
       "population": 18622104,
       "code": "MW",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Lazarus Chakwera"
       ],
       "capitals": [
@@ -472,8 +471,8 @@
       "id": "Q1025",
       "population": 4736139,
       "code": "MR",
-      "headsOfState": [
-        "Mohamed Ould Ghazouani"
+      "headsOfGovernment": [
+        "Moctar Ould Djay"
       ],
       "capitals": [
         "Nouakchott"
@@ -513,8 +512,8 @@
       "id": "Q1027",
       "population": 1264613,
       "code": "MU",
-      "headsOfState": [
-        "Prithvirajsing Roopun"
+      "headsOfGovernment": [
+        "Pravind Jugnauth"
       ],
       "capitals": [
         "Port Louis"
@@ -545,8 +544,8 @@
       "id": "Q1028",
       "population": 37076584,
       "code": "MA",
-      "headsOfState": [
-        "Mohammed VI of Morocco"
+      "headsOfGovernment": [
+        "Aziz Akhannouch"
       ],
       "capitals": [
         "Rabat"
@@ -586,8 +585,8 @@
       "id": "Q1029",
       "population": 29668834,
       "code": "MZ",
-      "headsOfState": [
-        "Filipe Nyusi"
+      "headsOfGovernment": [
+        "Adriano Maleiane"
       ],
       "capitals": [
         "Maputo"
@@ -627,8 +626,8 @@
       "id": "Q1030",
       "population": 2533794,
       "code": "NA",
-      "headsOfState": [
-        "Nangolo Mbumba"
+      "headsOfGovernment": [
+        "Saara Kuugongelwa"
       ],
       "capitals": [
         "Windhoek"
@@ -669,12 +668,16 @@
       "id": "Q1032",
       "population": 21477348,
       "code": "NE",
-      "headsOfState": [
-        "Abdourahamane Tchiani",
-        "Mohamed Bazoum",
-        "Salou Djibo",
-        "Mamadou Tandja",
-        "Mahamadou Issoufou"
+      "headsOfGovernment": [
+        "Ouhoumoudou Mahamadou",
+        "Albadé Abouba",
+        "Ali Lamine Zeine",
+        "Ali Badjo Gamatié",
+        "Ibrahim Assane Mayaki",
+        "Seyni Oumarou",
+        "Hama Amadou",
+        "Mahamadou Danda",
+        "Brigi Rafini"
       ],
       "capitals": [
         "Niamey"
@@ -712,31 +715,13 @@
       "id": "Q1033",
       "population": 211400708,
       "code": "NG",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Bola Ahmed Tinubu"
       ],
       "capitals": [
         "Abuja"
       ],
       "divisions": [
-        "Anambra State",
-        "Borno State",
-        "Zamfara State",
-        "Abia State",
-        "Adamawa State",
-        "Gombe State",
-        "Kogi State",
-        "Akwa Ibom State",
-        "Benue State",
-        "Taraba State",
-        "Kwara State",
-        "Oyo State",
-        "Delta State",
-        "Rivers State",
-        "Plateau State",
-        "Niger State",
-        "Bauchi State",
-        "Sokoto State",
         "Ebonyi State",
         "Federal Capital Territory",
         "Bayelsa State",
@@ -755,7 +740,25 @@
         "Ogun State",
         "Imo State",
         "Kaduna State",
-        "Enugu State"
+        "Enugu State",
+        "Anambra State",
+        "Borno State",
+        "Zamfara State",
+        "Abia State",
+        "Adamawa State",
+        "Gombe State",
+        "Kogi State",
+        "Akwa Ibom State",
+        "Benue State",
+        "Taraba State",
+        "Kwara State",
+        "Oyo State",
+        "Delta State",
+        "Rivers State",
+        "Plateau State",
+        "Niger State",
+        "Bauchi State",
+        "Sokoto State"
       ],
       "borderCountries": [
         "Benin",
@@ -777,13 +780,35 @@
       "id": "Q1036",
       "population": 47123531,
       "code": "UG",
-      "headsOfState": [
-        "Yoweri Museveni"
+      "headsOfGovernment": [
+        "Robinah Nabbanja"
       ],
       "capitals": [
         "Kampala"
       ],
       "divisions": [
+        "Kotido District",
+        "Koboko District",
+        "Kiruhura District",
+        "Dokolo District",
+        "Ibanda",
+        "Isingiro District",
+        "Budaka District",
+        "Mpigi District",
+        "Bundibugyo District",
+        "Yumbe District",
+        "Luwero District",
+        "Mayuge District",
+        "Bududa District",
+        "Butaleja District",
+        "Amuria District",
+        "Amuru District",
+        "Abim District",
+        "Manafwa District",
+        "Bukedea District",
+        "Namutumba District",
+        "Nebbi District",
+        "Sironko District",
         "Kamuli District",
         "Ntungamo District",
         "Lira District",
@@ -843,28 +868,6 @@
         "Kyenjojo District",
         "Amolatar District",
         "Oyam District",
-        "Kotido District",
-        "Koboko District",
-        "Kiruhura District",
-        "Dokolo District",
-        "Ibanda",
-        "Isingiro District",
-        "Budaka District",
-        "Mpigi District",
-        "Bundibugyo District",
-        "Yumbe District",
-        "Luwero District",
-        "Mayuge District",
-        "Bududa District",
-        "Butaleja District",
-        "Amuria District",
-        "Amuru District",
-        "Abim District",
-        "Manafwa District",
-        "Bukedea District",
-        "Namutumba District",
-        "Nebbi District",
-        "Sironko District",
         "Pallisa District",
         "Moroto District",
         "Nakapiripirit District",
@@ -921,12 +924,12 @@
         "Kalaki District"
       ],
       "borderCountries": [
+        "Sudan",
         "Democratic Republic of the Congo",
         "Rwanda",
         "Tanzania",
         "South Sudan",
-        "Kenya",
-        "Sudan"
+        "Kenya"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
@@ -942,8 +945,8 @@
       "id": "Q1037",
       "population": 13246394,
       "code": "RW",
-      "headsOfState": [
-        "Paul Kagame"
+      "headsOfGovernment": [
+        "Édouard Ngirente"
       ],
       "capitals": [
         "Kigali"
@@ -975,8 +978,8 @@
       "id": "Q1039",
       "population": 204327,
       "code": "ST",
-      "headsOfState": [
-        "Carlos Vila Nova"
+      "headsOfGovernment": [
+        "Patrice Trovoada"
       ],
       "capitals": [
         "São Tomé"
@@ -1006,13 +1009,16 @@
       "id": "Q1041",
       "population": 16876720,
       "code": "SN",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Bassirou Diomaye Diakhar Faye"
       ],
       "capitals": [
         "Dakar"
       ],
       "divisions": [
+        "Fatick",
+        "Kedougou Region",
+        "Kaffrine",
         "Saint-Louis",
         "Sédhiou",
         "Louga",
@@ -1023,17 +1029,14 @@
         "Tambacounda Region",
         "Diourbel Region",
         "Dakar",
-        "Matam",
-        "Fatick",
-        "Kedougou Region",
-        "Kaffrine"
+        "Matam"
       ],
       "borderCountries": [
         "The Gambia",
         "Guinea-Bissau",
         "Guinea",
-        "Mali",
-        "Mauritania"
+        "Mauritania",
+        "Mali"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg",
@@ -1049,7 +1052,7 @@
       "id": "Q1042",
       "population": 119773,
       "code": "SC",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Wavel Ramkalawan"
       ],
       "capitals": [
@@ -1099,8 +1102,8 @@
       "id": "Q1044",
       "population": 7557212,
       "code": "SL",
-      "headsOfState": [
-        "Julius Maada Bio"
+      "headsOfGovernment": [
+        "David Sengeh"
       ],
       "capitals": [
         "Freetown"
@@ -1130,8 +1133,8 @@
       "id": "Q1045",
       "population": 11031386,
       "code": "SO",
-      "headsOfState": [
-        "Hassan Sheikh Mohamud"
+      "headsOfGovernment": [
+        "Mohamed Hussein Roble"
       ],
       "capitals": [
         "Mogadishu"
@@ -1171,20 +1174,13 @@
       "id": "Q1049",
       "population": 40533330,
       "code": "SD",
-      "headsOfState": [
-        "Abdel Fattah al-Burhan"
+      "headsOfGovernment": [
+        "Abdalla Hamdok"
       ],
       "capitals": [
         "Khartoum"
       ],
       "divisions": [
-        "Gezira",
-        "Al Qadarif",
-        "Blue Nile State",
-        "Northern State",
-        "Red Sea",
-        "Khartoum",
-        "White Nile",
         "South Kordofan",
         "North Darfur",
         "South Darfur",
@@ -1192,12 +1188,19 @@
         "River Nile",
         "North Kordofan",
         "Sennar",
-        "Kassala"
+        "Kassala",
+        "Gezira",
+        "Al Qadarif",
+        "Blue Nile State",
+        "Northern State",
+        "Red Sea",
+        "Khartoum",
+        "White Nile"
       ],
       "borderCountries": [
-        "Eritrea",
         "Kenya",
         "Uganda",
+        "Eritrea",
         "Egypt",
         "Ethiopia",
         "Libya",
@@ -1219,8 +1222,8 @@
       "id": "Q1050",
       "population": 1230506,
       "code": "SZ",
-      "headsOfState": [
-        "Mswati III"
+      "headsOfGovernment": [
+        "Russell Dlamini"
       ],
       "capitals": [
         "Lobamba",
@@ -1250,7 +1253,7 @@
       "id": "Q114",
       "population": 48468138,
       "code": "KE",
-      "headsOfState": [
+      "headsOfGovernment": [
         "William Ruto"
       ],
       "capitals": [
@@ -1287,8 +1290,8 @@
       "id": "Q115",
       "population": 128691692,
       "code": "ET",
-      "headsOfState": [
-        "Taye Atske Selassie"
+      "headsOfGovernment": [
+        "Abiy Ahmed Ali"
       ],
       "capitals": [
         "Addis Ababa"
@@ -1308,12 +1311,12 @@
       ],
       "borderCountries": [
         "Somaliland",
-        "Djibouti",
-        "Sudan",
-        "South Sudan",
         "Eritrea",
         "Kenya",
-        "Somalia"
+        "Somalia",
+        "Djibouti",
+        "Sudan",
+        "South Sudan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg",
@@ -1329,7 +1332,7 @@
       "id": "Q117",
       "population": 32833031,
       "code": "GH",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Nana Akufo-Addo"
       ],
       "capitals": [
@@ -1366,8 +1369,8 @@
       "id": "Q1246",
       "population": 1586659,
       "code": "XK",
-      "headsOfState": [
-        "Vjosa Osmani"
+      "headsOfGovernment": [
+        "Albin Kurti"
       ],
       "capitals": [
         "Pristina"
@@ -1425,8 +1428,8 @@
       "id": "Q142",
       "population": 68373433,
       "code": "FR",
-      "headsOfState": [
-        "Emmanuel Macron"
+      "headsOfGovernment": [
+        "François Bayrou"
       ],
       "capitals": [
         "Paris"
@@ -1487,8 +1490,8 @@
       "id": "Q145",
       "population": 67326569,
       "code": "GB",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Keir Starmer"
       ],
       "capitals": [
         "London"
@@ -1518,8 +1521,8 @@
       "id": "Q148",
       "population": 1442965000,
       "code": "CN",
-      "headsOfState": [
-        "Q15031"
+      "headsOfGovernment": [
+        "Li Qiang"
       ],
       "capitals": [
         "Beijing"
@@ -1589,7 +1592,7 @@
       "id": "Q155",
       "population": 203062512,
       "code": "BR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Luiz Inácio Lula da Silva"
       ],
       "capitals": [
@@ -1650,41 +1653,13 @@
       "id": "Q159",
       "population": 146119928,
       "code": "RU",
-      "headsOfState": [
-        "Vladimir Putin"
+      "headsOfGovernment": [
+        "Mikhail Mishustin"
       ],
       "capitals": [
         "Moscow"
       ],
       "divisions": [
-        "Moscow",
-        "Saint Petersburg",
-        "Tuva",
-        "Moscow Oblast",
-        "Samara Oblast",
-        "Kaliningrad Oblast",
-        "Murmansk Oblast",
-        "Arkhangelsk Oblast",
-        "Karelia",
-        "Vologda Oblast",
-        "Komi Republic",
-        "Nenets Autonomous Okrug",
-        "Leningrad Oblast",
-        "Pskov Oblast",
-        "Novgorod Oblast",
-        "Nizhny Novgorod Oblast",
-        "Tver Oblast",
-        "Smolensk Oblast",
-        "Yaroslavl Oblast",
-        "Kostroma Oblast",
-        "Ivanovo Oblast",
-        "Vladimir Oblast",
-        "Ryazan Oblast",
-        "Tula Oblast",
-        "Bryansk Oblast",
-        "Kaluga Oblast",
-        "Oryol Oblast",
-        "Kursk Oblast",
         "Belgorod Oblast",
         "Voronezh Oblast",
         "Lipetsk Oblast",
@@ -1741,7 +1716,35 @@
         "Kamchatka Krai",
         "Magadan Oblast",
         "Chukotka Autonomous Okrug",
-        "Republic of Crimea"
+        "Republic of Crimea",
+        "Moscow",
+        "Saint Petersburg",
+        "Tuva",
+        "Moscow Oblast",
+        "Samara Oblast",
+        "Kaliningrad Oblast",
+        "Murmansk Oblast",
+        "Arkhangelsk Oblast",
+        "Karelia",
+        "Vologda Oblast",
+        "Komi Republic",
+        "Nenets Autonomous Okrug",
+        "Leningrad Oblast",
+        "Pskov Oblast",
+        "Novgorod Oblast",
+        "Nizhny Novgorod Oblast",
+        "Tver Oblast",
+        "Smolensk Oblast",
+        "Yaroslavl Oblast",
+        "Kostroma Oblast",
+        "Ivanovo Oblast",
+        "Vladimir Oblast",
+        "Ryazan Oblast",
+        "Tula Oblast",
+        "Bryansk Oblast",
+        "Kaluga Oblast",
+        "Oryol Oblast",
+        "Kursk Oblast"
       ],
       "borderCountries": [
         "Georgia",
@@ -1773,8 +1776,8 @@
       "id": "Q16",
       "population": 36991981,
       "code": "CA",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Mark Carney"
       ],
       "capitals": [
         "Ottawa"
@@ -1812,8 +1815,8 @@
       "id": "Q17",
       "population": 125440000,
       "code": "JP",
-      "headsOfState": [
-        "Naruhito"
+      "headsOfGovernment": [
+        "Shigeru Ishiba"
       ],
       "capitals": [
         "Tokyo"
@@ -1882,8 +1885,8 @@
       "id": "Q183",
       "population": 84358845,
       "code": "DE",
-      "headsOfState": [
-        "Frank-Walter Steinmeier"
+      "headsOfGovernment": [
+        "Olaf Scholz"
       ],
       "capitals": [
         "Berlin"
@@ -1931,8 +1934,8 @@
       "id": "Q184",
       "population": 9155978,
       "code": "BY",
-      "headsOfState": [
-        "Alexander Lukashenko"
+      "headsOfGovernment": [
+        "Raman Halouchanka"
       ],
       "capitals": [
         "Minsk"
@@ -1967,8 +1970,8 @@
       "id": "Q189",
       "population": 364260,
       "code": "IS",
-      "headsOfState": [
-        "Halla Tómasdóttir"
+      "headsOfGovernment": [
+        "Bjarni Benediktsson"
       ],
       "capitals": [
         "Reykjavík"
@@ -1996,8 +1999,8 @@
       "id": "Q191",
       "population": 1374687,
       "code": "EE",
-      "headsOfState": [
-        "Alar Karis"
+      "headsOfGovernment": [
+        "Kristen Michal"
       ],
       "capitals": [
         "Tallinn"
@@ -2037,8 +2040,8 @@
       "id": "Q20",
       "population": 5594340,
       "code": "NO",
-      "headsOfState": [
-        "Harald V of Norway"
+      "headsOfGovernment": [
+        "Jonas Gahr Støre"
       ],
       "capitals": [
         "Oslo"
@@ -2082,8 +2085,8 @@
       "id": "Q211",
       "population": 1871882,
       "code": "LV",
-      "headsOfState": [
-        "Edgars Rinkēvičs"
+      "headsOfGovernment": [
+        "Evika Siliņa"
       ],
       "capitals": [
         "Riga"
@@ -2229,8 +2232,8 @@
       "id": "Q212",
       "population": 41167335,
       "code": "UA",
-      "headsOfState": [
-        "Volodymyr Zelenskyy"
+      "headsOfGovernment": [
+        "Denys Shmyhal"
       ],
       "capitals": [
         "Kyiv"
@@ -2287,8 +2290,8 @@
       "id": "Q213",
       "population": 10900555,
       "code": "CZ",
-      "headsOfState": [
-        "Petr Pavel"
+      "headsOfGovernment": [
+        "Petr Fiala"
       ],
       "capitals": [
         "Prague"
@@ -2329,8 +2332,8 @@
       "id": "Q214",
       "population": 5449270,
       "code": "SK",
-      "headsOfState": [
-        "Peter Pellegrini"
+      "headsOfGovernment": [
+        "Robert Fico"
       ],
       "capitals": [
         "Bratislava"
@@ -2366,13 +2369,113 @@
       "id": "Q215",
       "population": 2066880,
       "code": "SI",
-      "headsOfState": [
-        "Nataša Pirc Musar"
+      "headsOfGovernment": [
+        "Robert Golob"
       ],
       "capitals": [
         "Ljubljana"
       ],
       "divisions": [
+        "Municipality of Škocjan",
+        "Municipality of Škofljica",
+        "Municipality of Šmarje pri Jelšah",
+        "Municipality of Šmartno ob Paki",
+        "Municipality of Štore",
+        "Municipality of Žetale",
+        "Municipality of Žiri",
+        "Municipality of Žirovnica",
+        "City Municipality of Novo Mesto",
+        "Municipality of Kranjska Gora",
+        "Municipality of Preddvor",
+        "Municipality of Sežana",
+        "City Municipality of Koper",
+        "Municipality of Hrpelje-Kozina",
+        "Municipality of Divača",
+        "Piran Municipality",
+        "Municipality of Gornja Radgona",
+        "Municipality of Destrnik",
+        "Municipality of Lendava",
+        "Municipality of Poljčane",
+        "Municipality of Rogašovci",
+        "Municipality of Renče–Vogrsko",
+        "Municipality of Gorišnica",
+        "Municipality of Bled",
+        "Municipality of Prevalje",
+        "Miren–Kostanjevica Municipality",
+        "Municipality of Luče",
+        "Municipality of Mozirje",
+        "Municipality of Mežica",
+        "Kobarid Municipality",
+        "Municipality of Gornji Grad",
+        "Municipality of Rače–Fram",
+        "Municipality of Brda",
+        "Municipality of Trzin",
+        "Municipality of Ljubno",
+        "Municipality of Kidričevo",
+        "Municipality of Osilnica",
+        "Municipality of Beltinci",
+        "Municipality of Benedikt",
+        "Municipality of Brezovica",
+        "Municipality of Cerklje na Gorenjskem",
+        "Municipality of Kuzma",
+        "Municipality of Brežice",
+        "Ig Municipality",
+        "Municipality of Selnica ob Dravi",
+        "Municipality of Sveti Jurij ob Ščavnici",
+        "Municipality of Puconci",
+        "Municipality of Odranci",
+        "Municipality of Sveti Andraž v Slovenskih Goricah",
+        "Municipality of Kobilje",
+        "Municipality of Polzela",
+        "Municipality of Lukovica",
+        "Municipality of Nazarje",
+        "Komenda Municipality",
+        "Sveta Ana Municipality",
+        "Municipality of Pesnica",
+        "Municipality of Hajdina",
+        "Municipality of Velika Polana",
+        "Municipality of Dol pri Ljubljani",
+        "Municipality of Kungota",
+        "Loška Dolina Municipality",
+        "Municipality of Tabor",
+        "Municipality of Podčetrtek",
+        "Municipality of Loški Potok",
+        "Municipality of Trnovska Vas",
+        "Municipality of Križevci",
+        "Municipality of Dobrna",
+        "Mislinja Municipality",
+        "Municipality of Duplek",
+        "Municipality of Vipava",
+        "Municipality of Podlehnik",
+        "Municipality of Majšperk",
+        "municipality of Videm",
+        "Municipality of Dornava",
+        "Municipality of Juršinci",
+        "Municipality of Miklavž na Dravskem Polju",
+        "Municipality of Horjul",
+        "Municipality of Dobrova–Polhov Gradec",
+        "Municipality of Gorenja Vas-Poljane",
+        "Municipality of Radlje ob Dravi",
+        "Municipality of Ivančna Gorica",
+        "Municipality of Sodražica",
+        "Municipality of Veržej",
+        "Municipality of Markovci",
+        "Municipality of Hoče-Slivnica",
+        "Municipality of Sveti Jurij v Slovenskih Goricah",
+        "Municipality of Dobje",
+        "Municipality of Dobrepolje",
+        "Municipality of Ribnica na Pohorju",
+        "Municipality of Kozje",
+        "Municipality of Moravče",
+        "Municipality of Prebold",
+        "Municipality of Podvelka",
+        "Mirna Peč Municipality",
+        "Municipality of Šentjernej",
+        "Municipality of Sveta Trojica v Slovenskih Goricah",
+        "Municipality of Starše",
+        "Municipality of Sveti Tomaž",
+        "Municipality of Dolenjske Toplice",
+        "Municipality of Grad",
         "Municipality of Gorje",
         "Mokronog-Trebelno Municipality",
         "Municipality of Log–Dragomer",
@@ -2484,107 +2587,7 @@
         "Municipality of Črenšovci",
         "Municipality of Vuzenica",
         "Municipality of Šempeter–Vrtojba",
-        "Municipality of Šentilj",
-        "Municipality of Škocjan",
-        "Municipality of Škofljica",
-        "Municipality of Šmarje pri Jelšah",
-        "Municipality of Šmartno ob Paki",
-        "Municipality of Štore",
-        "Municipality of Žetale",
-        "Municipality of Žiri",
-        "Municipality of Žirovnica",
-        "City Municipality of Novo Mesto",
-        "Municipality of Kranjska Gora",
-        "Municipality of Preddvor",
-        "Municipality of Sežana",
-        "City Municipality of Koper",
-        "Municipality of Hrpelje-Kozina",
-        "Municipality of Divača",
-        "Piran Municipality",
-        "Municipality of Gornja Radgona",
-        "Municipality of Destrnik",
-        "Municipality of Lendava",
-        "Municipality of Poljčane",
-        "Municipality of Rogašovci",
-        "Municipality of Renče–Vogrsko",
-        "Municipality of Gorišnica",
-        "Municipality of Bled",
-        "Municipality of Prevalje",
-        "Miren–Kostanjevica Municipality",
-        "Municipality of Luče",
-        "Municipality of Mozirje",
-        "Municipality of Mežica",
-        "Kobarid Municipality",
-        "Municipality of Gornji Grad",
-        "Municipality of Rače–Fram",
-        "Municipality of Brda",
-        "Municipality of Trzin",
-        "Municipality of Ljubno",
-        "Municipality of Kidričevo",
-        "Municipality of Osilnica",
-        "Municipality of Beltinci",
-        "Municipality of Benedikt",
-        "Municipality of Brezovica",
-        "Municipality of Cerklje na Gorenjskem",
-        "Municipality of Kuzma",
-        "Municipality of Brežice",
-        "Ig Municipality",
-        "Municipality of Selnica ob Dravi",
-        "Municipality of Sveti Jurij ob Ščavnici",
-        "Municipality of Puconci",
-        "Municipality of Odranci",
-        "Municipality of Sveti Andraž v Slovenskih Goricah",
-        "Municipality of Kobilje",
-        "Municipality of Polzela",
-        "Municipality of Lukovica",
-        "Municipality of Nazarje",
-        "Komenda Municipality",
-        "Sveta Ana Municipality",
-        "Municipality of Pesnica",
-        "Municipality of Hajdina",
-        "Municipality of Velika Polana",
-        "Municipality of Dol pri Ljubljani",
-        "Municipality of Kungota",
-        "Loška Dolina Municipality",
-        "Municipality of Tabor",
-        "Municipality of Podčetrtek",
-        "Municipality of Loški Potok",
-        "Municipality of Trnovska Vas",
-        "Municipality of Križevci",
-        "Municipality of Dobrna",
-        "Mislinja Municipality",
-        "Municipality of Duplek",
-        "Municipality of Vipava",
-        "Municipality of Podlehnik",
-        "Municipality of Majšperk",
-        "municipality of Videm",
-        "Municipality of Dornava",
-        "Municipality of Juršinci",
-        "Municipality of Miklavž na Dravskem Polju",
-        "Municipality of Horjul",
-        "Municipality of Dobrova–Polhov Gradec",
-        "Municipality of Gorenja Vas-Poljane",
-        "Municipality of Radlje ob Dravi",
-        "Municipality of Ivančna Gorica",
-        "Municipality of Sodražica",
-        "Municipality of Veržej",
-        "Municipality of Markovci",
-        "Municipality of Hoče-Slivnica",
-        "Municipality of Sveti Jurij v Slovenskih Goricah",
-        "Municipality of Dobje",
-        "Municipality of Dobrepolje",
-        "Municipality of Ribnica na Pohorju",
-        "Municipality of Kozje",
-        "Municipality of Moravče",
-        "Municipality of Prebold",
-        "Municipality of Podvelka",
-        "Mirna Peč Municipality",
-        "Municipality of Šentjernej",
-        "Municipality of Sveta Trojica v Slovenskih Goricah",
-        "Municipality of Starše",
-        "Municipality of Sveti Tomaž",
-        "Municipality of Dolenjske Toplice",
-        "Municipality of Grad"
+        "Municipality of Šentilj"
       ],
       "borderCountries": [
         "Hungary",
@@ -2606,8 +2609,8 @@
       "id": "Q217",
       "population": 2603813,
       "code": "MD",
-      "headsOfState": [
-        "Maia Sandu"
+      "headsOfGovernment": [
+        "Dorin Recean"
       ],
       "capitals": [
         "Chișinău"
@@ -2669,8 +2672,8 @@
       "id": "Q218",
       "population": 19053815,
       "code": "RO",
-      "headsOfState": [
-        "Ilie Bolojan"
+      "headsOfGovernment": [
+        "Marcel Ciolacu"
       ],
       "capitals": [
         "Bucharest"
@@ -2740,8 +2743,8 @@
       "id": "Q219",
       "population": 6795803,
       "code": "BG",
-      "headsOfState": [
-        "Rumen Radev"
+      "headsOfGovernment": [
+        "Rosen Zhelyazkov"
       ],
       "capitals": [
         "Sofia"
@@ -2797,15 +2800,19 @@
       "id": "Q219060",
       "population": 5227193,
       "code": "PS",
-      "headsOfState": [
-        "Mahmoud Abbas",
-        "Yasser Arafat"
+      "headsOfGovernment": [
+        "Mohammad Shtayyeh"
       ],
       "capitals": [
         "Ramallah",
         "Jerusalem"
       ],
       "divisions": [
+        "Nablus Governorate",
+        "Rafah Governorate",
+        "Qalqilya Governorate",
+        "Tulkarm Governorate",
+        "Ramallah and al-Bireh Governorate",
         "West Bank",
         "Gaza Strip",
         "North Gaza Governorate",
@@ -2818,12 +2825,7 @@
         "Salfit Governorate",
         "Quds Governorate",
         "Khan Yunis Governorate",
-        "Tubas Governorate",
-        "Nablus Governorate",
-        "Rafah Governorate",
-        "Qalqilya Governorate",
-        "Tulkarm Governorate",
-        "Ramallah and al-Bireh Governorate"
+        "Tubas Governorate"
       ],
       "borderCountries": [],
       "flagImage": {
@@ -2840,25 +2842,13 @@
       "id": "Q221",
       "population": 1836713,
       "code": "MK",
-      "headsOfState": [
-        "Gordana Siljanovska-Davkova"
+      "headsOfGovernment": [
+        "Hristijan Mickoski"
       ],
       "capitals": [
         "Skopje"
       ],
       "divisions": [
-        "Bitola Municipality",
-        "Češinovo-Obleševo Municipality",
-        "Pehčevo Municipality",
-        "Jegunovce Municipality",
-        "Gostivar Municipality",
-        "Aračinovo Municipality",
-        "Čučer-Sandevo Municipality",
-        "Ilinden Municipality",
-        "Resen Municipality",
-        "Struga Municipality",
-        "Berovo Municipality",
-        "Demir Hisar Municipality",
         "Ǵorče Petrov Municipality",
         "Butel Municipality",
         "Zrnovci Municipality",
@@ -2927,7 +2917,19 @@
         "Negotino Municipality",
         "Prilep Municipality",
         "Bogovinje Municipality",
-        "Zelenikovo Municipality"
+        "Zelenikovo Municipality",
+        "Bitola Municipality",
+        "Češinovo-Obleševo Municipality",
+        "Pehčevo Municipality",
+        "Jegunovce Municipality",
+        "Gostivar Municipality",
+        "Aračinovo Municipality",
+        "Čučer-Sandevo Municipality",
+        "Ilinden Municipality",
+        "Resen Municipality",
+        "Struga Municipality",
+        "Berovo Municipality",
+        "Demir Hisar Municipality"
       ],
       "borderCountries": [
         "Albania",
@@ -2950,8 +2952,8 @@
       "id": "Q222",
       "population": 2811655,
       "code": "AL",
-      "headsOfState": [
-        "Bajram Begaj"
+      "headsOfGovernment": [
+        "Edi Rama"
       ],
       "capitals": [
         "Tirana"
@@ -2991,8 +2993,8 @@
       "id": "Q223",
       "population": 56609,
       "code": "GL",
-      "headsOfState": [
-        "Frederik X of Denmark"
+      "headsOfGovernment": [
+        "Múte Bourup Egede"
       ],
       "capitals": [
         "Nuuk"
@@ -3020,8 +3022,8 @@
       "id": "Q224",
       "population": 3871833,
       "code": "HR",
-      "headsOfState": [
-        "Zoran Milanović"
+      "headsOfGovernment": [
+        "Andrej Plenković"
       ],
       "capitals": [
         "Zagreb"
@@ -3070,10 +3072,8 @@
       "id": "Q225",
       "population": 3816459,
       "code": "BA",
-      "headsOfState": [
-        "Denis Bećirović",
-        "Željka Cvijanović",
-        "Željko Komšić"
+      "headsOfGovernment": [
+        "Borjana Krišto"
       ],
       "capitals": [
         "Sarajevo"
@@ -3102,8 +3102,8 @@
       "id": "Q227",
       "population": 10145212,
       "code": "AZ",
-      "headsOfState": [
-        "Ilham Aliyev"
+      "headsOfGovernment": [
+        "Ali Asadov"
       ],
       "capitals": [
         "Shusha",
@@ -3202,9 +3202,8 @@
       "id": "Q228",
       "population": 87097,
       "code": "AD",
-      "headsOfState": [
-        "Emmanuel Macron",
-        "Joan Enric Vives Sicília"
+      "headsOfGovernment": [
+        "Xavier Espot Zamora"
       ],
       "capitals": [
         "Andorra la Vella"
@@ -3236,7 +3235,7 @@
       "id": "Q229",
       "population": 1344976,
       "code": "CY",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Nicos Christodoulides"
       ],
       "capitals": [
@@ -3267,8 +3266,8 @@
       "id": "Q230",
       "population": 3717100,
       "code": "GE",
-      "headsOfState": [
-        "Salome Zourabichvili"
+      "headsOfGovernment": [
+        "Irakli Kobakhidze"
       ],
       "capitals": [
         "Tbilisi"
@@ -3307,8 +3306,8 @@
       "id": "Q232",
       "population": 20139914,
       "code": "KZ",
-      "headsOfState": [
-        "Kassym-Jomart Tokayev"
+      "headsOfGovernment": [
+        "Älihan Smaiylov"
       ],
       "capitals": [
         "Astana"
@@ -3354,8 +3353,8 @@
       "id": "Q233",
       "population": 553214,
       "code": "MT",
-      "headsOfState": [
-        "Myriam Spiteri Debono"
+      "headsOfGovernment": [
+        "Robert Abela"
       ],
       "capitals": [
         "Valletta"
@@ -3383,8 +3382,8 @@
       "id": "Q23427",
       "population": 53532,
       "code": null,
-      "headsOfState": [
-        "Alan Gagloyev"
+      "headsOfGovernment": [
+        "Constantine Dzhussoev"
       ],
       "capitals": [
         "Tskhinvali"
@@ -3411,8 +3410,8 @@
       "id": "Q235",
       "population": 38350,
       "code": "MC",
-      "headsOfState": [
-        "Albert II, Prince of Monaco"
+      "headsOfGovernment": [
+        "Isabelle Berro-Amadeï"
       ],
       "capitals": [],
       "divisions": [
@@ -3435,8 +3434,8 @@
       "id": "Q236",
       "population": 617213,
       "code": "ME",
-      "headsOfState": [
-        "Jakov Milatović"
+      "headsOfGovernment": [
+        "Milojko Spajić"
       ],
       "capitals": [
         "Podgorica"
@@ -3489,8 +3488,8 @@
       "id": "Q23681",
       "population": 390745,
       "code": null,
-      "headsOfState": [
-        "Ersin Tatar"
+      "headsOfGovernment": [
+        "Ünal Üstel"
       ],
       "capitals": [
         "North Nicosia"
@@ -3511,8 +3510,8 @@
       "id": "Q237",
       "population": 764,
       "code": "VA",
-      "headsOfState": [
-        "Pope Francis"
+      "headsOfGovernment": [
+        "Raffaella Petrini"
       ],
       "capitals": [],
       "divisions": [],
@@ -3533,9 +3532,7 @@
       "id": "Q238",
       "population": 33607,
       "code": "SM",
-      "headsOfState": [
-        "Francesca Civerchia"
-      ],
+      "headsOfGovernment": [],
       "capitals": [
         "San Marino"
       ],
@@ -3567,8 +3564,8 @@
       "id": "Q241",
       "population": 10985974,
       "code": "CU",
-      "headsOfState": [
-        "Miguel Díaz-Canel"
+      "headsOfGovernment": [
+        "Manuel Marrero Cruz"
       ],
       "capitals": [
         "Havana"
@@ -3606,8 +3603,8 @@
       "id": "Q242",
       "population": 411106,
       "code": "BZ",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Johnny Briceño"
       ],
       "capitals": [
         "Belmopan"
@@ -3638,8 +3635,8 @@
       "id": "Q244",
       "population": 303431,
       "code": "BB",
-      "headsOfState": [
-        "Sandra Mason"
+      "headsOfGovernment": [
+        "Mia Mottley"
       ],
       "capitals": [
         "Bridgetown"
@@ -3672,7 +3669,7 @@
       "id": "Q252",
       "population": 275439000,
       "code": "ID",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Prabowo Subianto"
       ],
       "capitals": [
@@ -3737,7 +3734,7 @@
       "id": "Q258",
       "population": 62027503,
       "code": "ZA",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Cyril Ramaphosa"
       ],
       "capitals": [
@@ -3778,8 +3775,8 @@
       "id": "Q262",
       "population": 46164219,
       "code": "DZ",
-      "headsOfState": [
-        "Abdelmadjid Tebboune"
+      "headsOfGovernment": [
+        "Nadir Larbaoui"
       ],
       "capitals": [
         "Algiers"
@@ -3867,8 +3864,8 @@
       "id": "Q265",
       "population": 34915100,
       "code": "UZ",
-      "headsOfState": [
-        "Shavkat Mirziyoyev"
+      "headsOfGovernment": [
+        "Abdulla Nigmatovich Aripov"
       ],
       "capitals": [
         "Tashkent"
@@ -3890,10 +3887,10 @@
         "Jizzakh Region"
       ],
       "borderCountries": [
-        "Kazakhstan",
-        "Kyrgyzstan",
         "Tajikistan",
         "Turkmenistan",
+        "Kazakhstan",
+        "Kyrgyzstan",
         "Afghanistan"
       ],
       "flagImage": {
@@ -3906,12 +3903,34 @@
       }
     },
     {
+      "name": "Cook Islands",
+      "id": "Q26988",
+      "population": 14222,
+      "code": "CK",
+      "headsOfGovernment": [
+        "Henry Puna"
+      ],
+      "capitals": [
+        "Avarua"
+      ],
+      "divisions": [],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cook%20Islands.svg",
+        "localUri": "/static/8f6a974.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Cook+Islands.map",
+        "localUri": "/static/c25b98f.json"
+      }
+    },
+    {
       "name": "Ireland",
       "id": "Q27",
       "population": 5149139,
       "code": "IE",
-      "headsOfState": [
-        "Michael D. Higgins"
+      "headsOfGovernment": [
+        "Micheál Martin"
       ],
       "capitals": [
         "Dublin"
@@ -3965,8 +3984,8 @@
       "id": "Q28",
       "population": 9599744,
       "code": "HU",
-      "headsOfState": [
-        "Tamás Sulyok"
+      "headsOfGovernment": [
+        "Viktor Orbán"
       ],
       "capitals": [
         "Budapest"
@@ -3994,13 +4013,13 @@
         "Nógrád County"
       ],
       "borderCountries": [
+        "Serbia",
+        "Slovenia",
         "Austria",
         "Ukraine",
         "Slovakia",
         "Romania",
-        "Croatia",
-        "Serbia",
-        "Slovenia"
+        "Croatia"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
@@ -4016,11 +4035,11 @@
       "id": "Q2842000",
       "population": 8000000,
       "code": null,
-      "headsOfState": [
-        "Chris Anu",
-        "Marianta Njomia",
-        "Samuel Ikome Sako",
-        "Sisiku Julius Ayuk Tabe"
+      "headsOfGovernment": [
+        "Rev Njini",
+        "Hariscine Abongwa",
+        "Eric Ateh",
+        "Dabney Yerima"
       ],
       "capitals": [
         "Buea"
@@ -4041,8 +4060,8 @@
       "id": "Q29",
       "population": 47415750,
       "code": "ES",
-      "headsOfState": [
-        "Felipe VI of Spain"
+      "headsOfGovernment": [
+        "Pedro Sánchez"
       ],
       "capitals": [
         "Madrid"
@@ -4090,7 +4109,7 @@
       "id": "Q298",
       "population": 19458000,
       "code": "CL",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Gabriel Boric"
       ],
       "capitals": [
@@ -4116,8 +4135,8 @@
       ],
       "borderCountries": [
         "Bolivia",
-        "Argentina",
-        "Peru"
+        "Peru",
+        "Argentina"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
@@ -4133,8 +4152,8 @@
       "id": "Q29999",
       "population": 17100715,
       "code": "NL",
-      "headsOfState": [
-        "William Alexander of the Netherlands"
+      "headsOfGovernment": [
+        "Mark Rutte"
       ],
       "capitals": [
         "Amsterdam"
@@ -4146,9 +4165,9 @@
         "Sint Maarten"
       ],
       "borderCountries": [
-        "France",
         "Germany",
-        "Belgium"
+        "Belgium",
+        "France"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
@@ -4164,7 +4183,7 @@
       "id": "Q30",
       "population": 340110988,
       "code": "US",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Donald Trump"
       ],
       "capitals": [
@@ -4246,8 +4265,8 @@
       "id": "Q31",
       "population": 11584008,
       "code": "BE",
-      "headsOfState": [
-        "Philippe of Belgium"
+      "headsOfGovernment": [
+        "Bart De Wever"
       ],
       "capitals": [
         "City of Brussels"
@@ -4280,8 +4299,8 @@
       "id": "Q31354462",
       "population": 245246,
       "code": null,
-      "headsOfState": [
-        "Badra Gunba"
+      "headsOfGovernment": [
+        "Alexander Ankvab"
       ],
       "capitals": [
         "Sukhumi"
@@ -4310,8 +4329,8 @@
       "id": "Q32",
       "population": 672050,
       "code": "LU",
-      "headsOfState": [
-        "Henri, Grand Duke of Luxembourg"
+      "headsOfGovernment": [
+        "Luc Frieden"
       ],
       "capitals": [
         "Luxembourg"
@@ -4334,9 +4353,9 @@
         "Canton of Vianden"
       ],
       "borderCountries": [
+        "France",
         "Germany",
-        "Belgium",
-        "France"
+        "Belgium"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg",
@@ -4352,8 +4371,8 @@
       "id": "Q33",
       "population": 5608218,
       "code": "FI",
-      "headsOfState": [
-        "Alexander Stubb"
+      "headsOfGovernment": [
+        "Petteri Orpo"
       ],
       "capitals": [
         "Helsinki"
@@ -4380,9 +4399,9 @@
         "Southwest Finland"
       ],
       "borderCountries": [
+        "Russia",
         "Sweden",
-        "Norway",
-        "Russia"
+        "Norway"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
@@ -4398,8 +4417,8 @@
       "id": "Q334",
       "population": 5866139,
       "code": "SG",
-      "headsOfState": [
-        "Tharman Shanmugaratnam"
+      "headsOfGovernment": [
+        "Lawrence Wong"
       ],
       "capitals": [
         "Singapore"
@@ -4426,8 +4445,8 @@
       "id": "Q34",
       "population": 10587710,
       "code": "SE",
-      "headsOfState": [
-        "Carl XVI Gustaf of Sweden"
+      "headsOfGovernment": [
+        "Ulf Kristersson"
       ],
       "capitals": [
         "Stockholm"
@@ -4469,12 +4488,34 @@
       }
     },
     {
+      "name": "Niue",
+      "id": "Q34020",
+      "population": 1933,
+      "code": "NU",
+      "headsOfGovernment": [
+        "Dalton Tagelagi"
+      ],
+      "capitals": [
+        "Alofi"
+      ],
+      "divisions": [],
+      "borderCountries": [],
+      "flagImage": {
+        "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niue.svg",
+        "localUri": "/static/67ff981.svg"
+      },
+      "geo": {
+        "uri": "http://commons.wikimedia.org/data/main/Data:Niue.map",
+        "localUri": "/static/3d43f3c.json"
+      }
+    },
+    {
       "name": "Liechtenstein",
       "id": "Q347",
       "population": 37922,
       "code": "LI",
-      "headsOfState": [
-        "Hans-Adam II, Prince of Liechtenstein"
+      "headsOfGovernment": [
+        "Daniel Risch"
       ],
       "capitals": [
         "Vaduz"
@@ -4510,9 +4551,7 @@
       "id": "Q34754",
       "population": 4171898,
       "code": null,
-      "headsOfState": [
-        "Muse Bihi Abdi"
-      ],
+      "headsOfGovernment": [],
       "capitals": [
         "Hargeisa"
       ],
@@ -4541,8 +4580,8 @@
       "id": "Q35",
       "population": 5827463,
       "code": "DK",
-      "headsOfState": [
-        "Frederik X of Denmark"
+      "headsOfGovernment": [
+        "Mette Frederiksen"
       ],
       "capitals": [
         "Copenhagen"
@@ -4580,8 +4619,8 @@
       "id": "Q36",
       "population": 37563071,
       "code": "PL",
-      "headsOfState": [
-        "Andrzej Duda"
+      "headsOfGovernment": [
+        "Donald Tusk"
       ],
       "capitals": [
         "Warsaw"
@@ -4606,12 +4645,12 @@
       ],
       "borderCountries": [
         "Germany",
+        "Russia",
         "Slovakia",
         "Czech Republic",
         "Lithuania",
         "Belarus",
-        "Ukraine",
-        "Russia"
+        "Ukraine"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
@@ -4627,23 +4666,23 @@
       "id": "Q37",
       "population": 2860002,
       "code": "LT",
-      "headsOfState": [
-        "Gitanas Nausėda"
+      "headsOfGovernment": [
+        "Gintautas Paluckas"
       ],
       "capitals": [
         "Vilnius"
       ],
       "divisions": [
-        "Telšiai County",
-        "Klaipėda County",
-        "Alytus County",
-        "Kaunas County",
-        "Marijampolė County",
         "Šiauliai County",
         "Vilnius County",
         "Panevėžys County",
         "Utena County",
-        "Tauragė County"
+        "Tauragė County",
+        "Telšiai County",
+        "Klaipėda County",
+        "Alytus County",
+        "Kaunas County",
+        "Marijampolė County"
       ],
       "borderCountries": [
         "Russia",
@@ -4665,8 +4704,8 @@
       "id": "Q38",
       "population": 58850717,
       "code": "IT",
-      "headsOfState": [
-        "Sergio Mattarella"
+      "headsOfGovernment": [
+        "Giorgia Meloni"
       ],
       "capitals": [
         "Rome"
@@ -4694,12 +4733,12 @@
         "Sardinia"
       ],
       "borderCountries": [
+        "Slovenia",
+        "Switzerland",
         "San Marino",
         "France",
         "Austria",
-        "Vatican City",
-        "Slovenia",
-        "Switzerland"
+        "Vatican City"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
@@ -4715,7 +4754,7 @@
       "id": "Q39",
       "population": 8902308,
       "code": "CH",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Swiss Federal Council"
       ],
       "capitals": [
@@ -4750,11 +4789,11 @@
         "canton Vaud"
       ],
       "borderCountries": [
+        "Italy",
         "Austria",
         "France",
         "Germany",
-        "Liechtenstein",
-        "Italy"
+        "Liechtenstein"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
@@ -4770,8 +4809,8 @@
       "id": "Q398",
       "population": 1569666,
       "code": "BH",
-      "headsOfState": [
-        "Hamad II of Bahrain"
+      "headsOfGovernment": [
+        "Salman bin Hamad, Crown Prince of Bahrain"
       ],
       "capitals": [
         "Manama"
@@ -4798,8 +4837,8 @@
       "id": "Q399",
       "population": 2930450,
       "code": "AM",
-      "headsOfState": [
-        "Vahagn Khachatryan"
+      "headsOfGovernment": [
+        "Nikol Pashinyan"
       ],
       "capitals": [
         "Yerevan"
@@ -4837,8 +4876,8 @@
       "id": "Q40",
       "population": 8979894,
       "code": "AT",
-      "headsOfState": [
-        "Alexander Van der Bellen"
+      "headsOfGovernment": [
+        "Alexander Schallenberg"
       ],
       "capitals": [
         "Vienna"
@@ -4878,8 +4917,8 @@
       "id": "Q403",
       "population": 6647003,
       "code": "RS",
-      "headsOfState": [
-        "Aleksandar Vučić"
+      "headsOfGovernment": [
+        "Miloš Vučević"
       ],
       "capitals": [
         "Belgrade"
@@ -4917,14 +4956,14 @@
         "Peć District"
       ],
       "borderCountries": [
-        "Hungary",
-        "North Macedonia",
-        "Romania",
-        "Montenegro",
         "Albania",
         "Bosnia and Herzegovina",
         "Bulgaria",
         "Kosovo",
+        "Hungary",
+        "North Macedonia",
+        "Romania",
+        "Montenegro",
         "Croatia"
       ],
       "flagImage": {
@@ -4941,8 +4980,8 @@
       "id": "Q40362",
       "population": 607292,
       "code": null,
-      "headsOfState": [
-        "Brahim Ghali"
+      "headsOfGovernment": [
+        "Bouchraya Hammoudi Bayoun"
       ],
       "capitals": [
         "Tifariti",
@@ -4964,8 +5003,8 @@
       "id": "Q408",
       "population": 26473055,
       "code": "AU",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Anthony Albanese"
       ],
       "capitals": [
         "Canberra"
@@ -5003,8 +5042,8 @@
       "id": "Q41",
       "population": 10482487,
       "code": "GR",
-      "headsOfState": [
-        "Konstantinos Tasoulas"
+      "headsOfGovernment": [
+        "Kyriakos Mitsotakis"
       ],
       "capitals": [
         "Athens"
@@ -5026,10 +5065,10 @@
         "Thessaly Region"
       ],
       "borderCountries": [
-        "Albania",
-        "Bulgaria",
         "North Macedonia",
-        "Turkey"
+        "Turkey",
+        "Albania",
+        "Bulgaria"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
@@ -5045,7 +5084,7 @@
       "id": "Q414",
       "population": 47327407,
       "code": "AR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Javier Milei"
       ],
       "capitals": [
@@ -5078,10 +5117,10 @@
       ],
       "borderCountries": [
         "Bolivia",
+        "Uruguay",
         "Chile",
         "Brazil",
-        "Paraguay",
-        "Uruguay"
+        "Paraguay"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
@@ -5097,7 +5136,7 @@
       "id": "Q419",
       "population": 33726000,
       "code": "PE",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Dina Boluarte"
       ],
       "capitals": [
@@ -5132,10 +5171,10 @@
       ],
       "borderCountries": [
         "Bolivia",
-        "Brazil",
         "Colombia",
         "Ecuador",
-        "Chile"
+        "Chile",
+        "Brazil"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
@@ -5151,8 +5190,8 @@
       "id": "Q423",
       "population": 26418204,
       "code": "KP",
-      "headsOfState": [
-        "Kim Jong-un"
+      "headsOfGovernment": [
+        "Kim Jae-ryong"
       ],
       "capitals": [
         "Pyongyang"
@@ -5190,8 +5229,8 @@
       "id": "Q424",
       "population": 17423880,
       "code": "KH",
-      "headsOfState": [
-        "Norodom Sihamoni"
+      "headsOfGovernment": [
+        "Hun Manet"
       ],
       "capitals": [
         "Phnom Penh"
@@ -5223,9 +5262,9 @@
         "Kampong Chhnang Province"
       ],
       "borderCountries": [
+        "Thailand",
         "Laos",
-        "Vietnam",
-        "Thailand"
+        "Vietnam"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
@@ -5241,7 +5280,7 @@
       "id": "Q43",
       "population": 85372377,
       "code": "TR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Recep Tayyip Erdoğan"
       ],
       "capitals": [
@@ -5331,14 +5370,14 @@
         "Ankara Province"
       ],
       "borderCountries": [
-        "Armenia",
-        "Azerbaijan",
         "Iran",
         "Iraq",
         "Bulgaria",
         "Greece",
         "Georgia",
-        "Syria"
+        "Syria",
+        "Armenia",
+        "Azerbaijan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
@@ -5354,8 +5393,8 @@
       "id": "Q45",
       "population": 10347892,
       "code": "PT",
-      "headsOfState": [
-        "Marcelo Rebelo de Sousa"
+      "headsOfGovernment": [
+        "Luís Montenegro"
       ],
       "capitals": [
         "Lisbon"
@@ -5399,8 +5438,8 @@
       "id": "Q4628",
       "population": 54149,
       "code": "FO",
-      "headsOfState": [
-        "Frederik X of Denmark"
+      "headsOfGovernment": [
+        "Aksel V. Johannesen"
       ],
       "capitals": [
         "Tórshavn"
@@ -5421,8 +5460,8 @@
       "id": "Q574",
       "population": 1243235,
       "code": "TL",
-      "headsOfState": [
-        "José Ramos-Horta"
+      "headsOfGovernment": [
+        "Xanana Gusmão"
       ],
       "capitals": [
         "Dili"
@@ -5460,8 +5499,8 @@
       "id": "Q657",
       "population": 19319064,
       "code": "TD",
-      "headsOfState": [
-        "Mahamat Déby Itno"
+      "headsOfGovernment": [
+        "Idriss Déby"
       ],
       "capitals": [
         "N'Djamena"
@@ -5512,8 +5551,8 @@
       "id": "Q664",
       "population": 5118700,
       "code": "NZ",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Christopher Luxon"
       ],
       "capitals": [
         "Wellington"
@@ -5552,8 +5591,8 @@
       "id": "Q668",
       "population": 1326093247,
       "code": "IN",
-      "headsOfState": [
-        "Droupadi Murmu"
+      "headsOfGovernment": [
+        "Narendra Modi"
       ],
       "capitals": [
         "New Delhi"
@@ -5620,8 +5659,8 @@
       "id": "Q672",
       "population": 11792,
       "code": "TV",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Feleti Teo"
       ],
       "capitals": [
         "Funafuti"
@@ -5642,8 +5681,8 @@
       "id": "Q678",
       "population": 108020,
       "code": "TO",
-      "headsOfState": [
-        "Tupou VI of Tonga"
+      "headsOfGovernment": [
+        "ʻAisake Eke"
       ],
       "capitals": [
         "Nukuʻalofa"
@@ -5670,8 +5709,9 @@
       "id": "Q683",
       "population": 200010,
       "code": "WS",
-      "headsOfState": [
-        "Va'aletoa Sualauvi II"
+      "headsOfGovernment": [
+        "Fiamē Naomi Mataʻafa",
+        "Tuila'epa Sa'ilele Malielegaoi"
       ],
       "capitals": [
         "Apia"
@@ -5703,8 +5743,8 @@
       "id": "Q685",
       "population": 611343,
       "code": "SB",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Jeremiah Manele"
       ],
       "capitals": [
         "Honiara"
@@ -5736,8 +5776,8 @@
       "id": "Q686",
       "population": 300019,
       "code": "VU",
-      "headsOfState": [
-        "Nikenike Vurobaravu"
+      "headsOfGovernment": [
+        "Bob Loughman"
       ],
       "capitals": [
         "Port Vila"
@@ -5765,17 +5805,13 @@
       "id": "Q691",
       "population": 8935000,
       "code": "PG",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "James Marape"
       ],
       "capitals": [
         "Port Moresby"
       ],
       "divisions": [
-        "Gulf Province",
-        "National Capital District",
-        "Hela Province",
-        "Jiwaka Province",
         "Autonomous Region of Bougainville",
         "Madang Province",
         "Chimbu Province",
@@ -5793,7 +5829,11 @@
         "Enga Province",
         "Manus Province",
         "Central Province",
-        "Milne Bay Province"
+        "Milne Bay Province",
+        "Gulf Province",
+        "National Capital District",
+        "Hela Province",
+        "Jiwaka Province"
       ],
       "borderCountries": [
         "Indonesia"
@@ -5812,7 +5852,7 @@
       "id": "Q695",
       "population": 21729,
       "code": "PW",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Surangel Whipps Jr."
       ],
       "capitals": [
@@ -5851,8 +5891,8 @@
       "id": "Q697",
       "population": 13650,
       "code": "NR",
-      "headsOfState": [
-        "David Adeang"
+      "headsOfGovernment": [
+        "Russ J Kun"
       ],
       "capitals": [
         "Yaren District"
@@ -5888,7 +5928,7 @@
       "id": "Q702",
       "population": 105544,
       "code": "FM",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Wesley Simina"
       ],
       "capitals": [
@@ -5915,7 +5955,7 @@
       "id": "Q709",
       "population": 53127,
       "code": "MH",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Hilda Heine"
       ],
       "capitals": [
@@ -5971,7 +6011,7 @@
       "id": "Q710",
       "population": 119438,
       "code": "KI",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Taneti Maamau"
       ],
       "capitals": [
@@ -5994,8 +6034,8 @@
       "id": "Q711",
       "population": 3409939,
       "code": "MN",
-      "headsOfState": [
-        "Khurelsukh Ukhnaa"
+      "headsOfGovernment": [
+        "Oyunerdene Luvsannamsrai"
       ],
       "capitals": [
         "Ulaanbaatar"
@@ -6042,8 +6082,8 @@
       "id": "Q712",
       "population": 926276,
       "code": "FJ",
-      "headsOfState": [
-        "Wiliame Katonivere"
+      "headsOfGovernment": [
+        "Sitiveni Rabuka"
       ],
       "capitals": [
         "Suva"
@@ -6070,8 +6110,7 @@
       "id": "Q717",
       "population": 28515829,
       "code": "VE",
-      "headsOfState": [
-        "Juan Guaidó",
+      "headsOfGovernment": [
         "Nicolás Maduro"
       ],
       "capitals": [
@@ -6123,7 +6162,7 @@
       "id": "Q730",
       "population": 563402,
       "code": "SR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Chan Santokhi"
       ],
       "capitals": [
@@ -6160,7 +6199,7 @@
       "id": "Q733",
       "population": 6811297,
       "code": "PY",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Santiago Peña Palacios"
       ],
       "capitals": [
@@ -6188,8 +6227,8 @@
       ],
       "borderCountries": [
         "Bolivia",
-        "Argentina",
-        "Brazil"
+        "Brazil",
+        "Argentina"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg",
@@ -6205,8 +6244,8 @@
       "id": "Q734",
       "population": 777859,
       "code": "GY",
-      "headsOfState": [
-        "Irfaan Ali"
+      "headsOfGovernment": [
+        "Mark Phillips"
       ],
       "capitals": [
         "Georgetown"
@@ -6242,7 +6281,7 @@
       "id": "Q736",
       "population": 16938986,
       "code": "EC",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Daniel Noboa"
       ],
       "capitals": [
@@ -6292,7 +6331,7 @@
       "id": "Q739",
       "population": 52321152,
       "code": "CO",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Gustavo Petro"
       ],
       "capitals": [
@@ -6335,9 +6374,9 @@
       ],
       "borderCountries": [
         "Venezuela",
-        "Brazil",
         "Peru",
-        "Ecuador"
+        "Ecuador",
+        "Brazil"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
@@ -6353,7 +6392,7 @@
       "id": "Q750",
       "population": 12244159,
       "code": "BO",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Luis Arce"
       ],
       "capitals": [
@@ -6392,8 +6431,8 @@
       "id": "Q754",
       "population": 1369125,
       "code": "TT",
-      "headsOfState": [
-        "Christine Kangaloo"
+      "headsOfGovernment": [
+        "Keith Rowley"
       ],
       "capitals": [
         "Port of Spain"
@@ -6429,8 +6468,8 @@
       "id": "Q757",
       "population": 109897,
       "code": "VC",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Ralph Gonsalves"
       ],
       "capitals": [
         "Kingstown"
@@ -6458,8 +6497,8 @@
       "id": "Q760",
       "population": 167591,
       "code": "LC",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Allen Chastanet"
       ],
       "capitals": [
         "Castries"
@@ -6492,8 +6531,8 @@
       "id": "Q763",
       "population": 55345,
       "code": "KN",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Terrance Drew"
       ],
       "capitals": [
         "Basseterre"
@@ -6529,8 +6568,8 @@
       "id": "Q766",
       "population": 2697983,
       "code": "JM",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Andrew Holness"
       ],
       "capitals": [
         "Kingston"
@@ -6555,8 +6594,8 @@
       "id": "Q769",
       "population": 114299,
       "code": "GD",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Dickon Mitchell"
       ],
       "capitals": [
         "St. George's"
@@ -6586,7 +6625,7 @@
       "id": "Q77",
       "population": 3444263,
       "code": "UY",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Yamandú Orsi"
       ],
       "capitals": [
@@ -6631,13 +6670,18 @@
       "id": "Q774",
       "population": 17263239,
       "code": "GT",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Bernardo Arévalo de León"
       ],
       "capitals": [
         "Guatemala City"
       ],
       "divisions": [
+        "Suchitepéquez Department",
+        "San Marcos Department",
+        "Totonicapán Department",
+        "Santa Rosa Department",
+        "Retalhuleu Department",
         "Sololá Department",
         "Petén Department",
         "Alta Verapaz Department",
@@ -6654,12 +6698,7 @@
         "Escuintla Department",
         "El Progreso Department",
         "Huehuetenango Department",
-        "Quetzaltenango Department",
-        "Suchitepéquez Department",
-        "San Marcos Department",
-        "Totonicapán Department",
-        "Santa Rosa Department",
-        "Retalhuleu Department"
+        "Quetzaltenango Department"
       ],
       "borderCountries": [
         "Belize",
@@ -6681,8 +6720,11 @@
       "id": "Q778",
       "population": 399440,
       "code": "BS",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Hubert Minnis",
+        "Philip \"Brave\" Davis",
+        "Hubert Ingraham",
+        "Perry Christie"
       ],
       "capitals": [
         "Nassau"
@@ -6736,8 +6778,8 @@
       "id": "Q781",
       "population": 101489,
       "code": "AG",
-      "headsOfState": [
-        "Charles III"
+      "headsOfGovernment": [
+        "Gaston Browne"
       ],
       "capitals": [
         "Saint John's"
@@ -6767,8 +6809,14 @@
       "id": "Q783",
       "population": 10062994,
       "code": "HN",
-      "headsOfState": [
-        "Xiomara Castro"
+      "headsOfGovernment": [
+        "Xiomara Castro",
+        "Juan Orlando Hernández",
+        "Carlos Roberto Flores",
+        "Ricardo Maduro",
+        "Roberto Micheletti",
+        "Manuel Zelaya",
+        "Porfirio Lobo Sosa"
       ],
       "capitals": [
         "Tegucigalpa"
@@ -6812,8 +6860,8 @@
       "id": "Q784",
       "population": 74656,
       "code": "DM",
-      "headsOfState": [
-        "Charles Savarin"
+      "headsOfGovernment": [
+        "Roosevelt Skerrit"
       ],
       "capitals": [
         "Roseau"
@@ -6845,13 +6893,18 @@
       "id": "Q786",
       "population": 10760028,
       "code": "DO",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Luis Abinader"
       ],
       "capitals": [
         "Santo Domingo"
       ],
       "divisions": [
+        "Sánchez Ramírez Province",
+        "María Trinidad Sánchez Province",
+        "San Juan Province",
+        "Santiago Rodríguez Province",
+        "Distrito Nacional",
         "Espaillat Province",
         "Hermanas Mirabal Province",
         "Monte Cristi Province",
@@ -6878,12 +6931,7 @@
         "Monte Plata Province",
         "Santiago Province",
         "El Seibo Province",
-        "Valverde Province",
-        "Sánchez Ramírez Province",
-        "María Trinidad Sánchez Province",
-        "San Juan Province",
-        "Santiago Rodríguez Province",
-        "Distrito Nacional"
+        "Valverde Province"
       ],
       "borderCountries": [
         "Haiti"
@@ -6902,8 +6950,8 @@
       "id": "Q79",
       "population": 114535772,
       "code": "EG",
-      "headsOfState": [
-        "Abdel Fattah el-Sisi"
+      "headsOfGovernment": [
+        "Mostafa Madbouly"
       ],
       "capitals": [
         "Cairo"
@@ -6957,8 +7005,8 @@
       "id": "Q790",
       "population": 10981229,
       "code": "HT",
-      "headsOfState": [
-        "Transitional Presidential Council"
+      "headsOfGovernment": [
+        "Alix Didier Fils-Aimé"
       ],
       "capitals": [
         "Port-au-Prince"
@@ -6992,8 +7040,12 @@
       "id": "Q792",
       "population": 6029976,
       "code": "SV",
-      "headsOfState": [
-        "Nayib Bukele"
+      "headsOfGovernment": [
+        "Nayib Bukele",
+        "Salvador Sánchez Cerén",
+        "Francisco Flores",
+        "Antonio Saca",
+        "Mauricio Funes"
       ],
       "capitals": [
         "San Salvador"
@@ -7032,8 +7084,8 @@
       "id": "Q794",
       "population": 86758304,
       "code": "IR",
-      "headsOfState": [
-        "Ali Khamenei"
+      "headsOfGovernment": [
+        "Masoud Pezeshkian"
       ],
       "capitals": [
         "Tehran"
@@ -7093,8 +7145,8 @@
       "id": "Q796",
       "population": 38274618,
       "code": "IQ",
-      "headsOfState": [
-        "Abdul Latif Rashid"
+      "headsOfGovernment": [
+        "Mohammed Shia' Al Sudani"
       ],
       "capitals": [
         "Baghdad"
@@ -7140,7 +7192,7 @@
       "id": "Q800",
       "population": 5044197,
       "code": "CR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Rodrigo Chaves"
       ],
       "capitals": [
@@ -7173,8 +7225,8 @@
       "id": "Q801",
       "population": 9840000,
       "code": "IL",
-      "headsOfState": [
-        "Isaac Herzog"
+      "headsOfGovernment": [
+        "Benjamin Netanyahu"
       ],
       "capitals": [
         "Jerusalem"
@@ -7208,13 +7260,25 @@
       "id": "Q804",
       "population": 4098587,
       "code": "PA",
-      "headsOfState": [
-        "José Raúl Mulino"
+      "headsOfGovernment": [
+        "José Raúl Mulino",
+        "Laurentino Cortizo",
+        "Juan Carlos Varela",
+        "Martín Torrijos",
+        "Mireya Moscoso",
+        "Ricardo Martinelli"
       ],
       "capitals": [
         "Panama City"
       ],
       "divisions": [
+        "Los Santos Province",
+        "Guna Yala",
+        "Ngöbe-Buglé Comarca",
+        "Emberá-Wounaan Comarca",
+        "Kuna de Wargandí",
+        "Madugandí",
+        "Panamá Oeste Province",
         "Bocas del Toro Province",
         "Panamá Province",
         "Veraguas Province",
@@ -7222,14 +7286,7 @@
         "Chiriquí Province",
         "Colón Province",
         "Coclé Province",
-        "Herrera Province",
-        "Los Santos Province",
-        "Guna Yala",
-        "Ngöbe-Buglé Comarca",
-        "Emberá-Wounaan Comarca",
-        "Kuna de Wargandí",
-        "Madugandí",
-        "Panamá Oeste Province"
+        "Herrera Province"
       ],
       "borderCountries": [
         "Costa Rica"
@@ -7248,8 +7305,8 @@
       "id": "Q805",
       "population": 28250420,
       "code": "YE",
-      "headsOfState": [
-        "Rashad al-Alimi"
+      "headsOfGovernment": [
+        "Maeen Abdulmalik Saeed"
       ],
       "capitals": [
         "Aden",
@@ -7296,8 +7353,8 @@
       "id": "Q810",
       "population": 10428241,
       "code": "JO",
-      "headsOfState": [
-        "Q57464"
+      "headsOfGovernment": [
+        "Bisher Al-Khasawneh"
       ],
       "capitals": [
         "Amman"
@@ -7336,7 +7393,10 @@
       "id": "Q811",
       "population": 6676948,
       "code": "NI",
-      "headsOfState": [
+      "headsOfGovernment": [
+        "Arnoldo Alemán",
+        "Enrique Bolaños",
+        "Violeta Barrios",
         "Daniel Ortega"
       ],
       "capitals": [
@@ -7379,8 +7439,16 @@
       "id": "Q813",
       "population": 6694200,
       "code": "KG",
-      "headsOfState": [
-        "Sadyr Zhaparov"
+      "headsOfGovernment": [
+        "Adylbek Kasymaliev",
+        "Ulukbek Maripov",
+        "Artjom Nowikow",
+        "Kubatbek Boronov",
+        "Muhammetkaliy Abulgaziyev",
+        "Sapar Isakov",
+        "Sadyr Zhaparov",
+        "Sooronbay Jeenbekov",
+        "Akylbek Japarov"
       ],
       "capitals": [
         "Bishkek"
@@ -7408,8 +7476,8 @@
       "id": "Q817",
       "population": 4464000,
       "code": "KW",
-      "headsOfState": [
-        "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+      "headsOfGovernment": [
+        "Sabah Al-Khalid Al-Sabah"
       ],
       "capitals": [
         "Kuwait City"
@@ -7440,8 +7508,8 @@
       "id": "Q819",
       "population": 6858160,
       "code": "LA",
-      "headsOfState": [
-        "Thongloun Sisoulith"
+      "headsOfGovernment": [
+        "Phankham Viphavan"
       ],
       "capitals": [
         "Vientiane"
@@ -7466,10 +7534,10 @@
         "Bolikhamsai Province"
       ],
       "borderCountries": [
-        "Myanmar",
         "Cambodia",
         "People's Republic of China",
         "Vietnam",
+        "Myanmar",
         "Thailand"
       ],
       "flagImage": {
@@ -7486,8 +7554,8 @@
       "id": "Q822",
       "population": 6100075,
       "code": "LB",
-      "headsOfState": [
-        "Joseph Aoun"
+      "headsOfGovernment": [
+        "Nawaf Salam"
       ],
       "capitals": [
         "Beirut"
@@ -7518,21 +7586,13 @@
       "id": "Q826",
       "population": 436330,
       "code": "MV",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Mohamed Muizzu"
       ],
       "capitals": [
         "Malé"
       ],
       "divisions": [
-        "Alif Dhaal Atoll",
-        "Haa Dhaalu Atoll",
-        "Haa Alif Atoll",
-        "Noonu Atoll",
-        "Faafu Atoll",
-        "Gaafu Dhaalu Atoll",
-        "Vaavu Atoll",
-        "Thaa Atoll",
         "Addu Atoll",
         "Alif Alif Atoll",
         "Baa Atoll",
@@ -7544,7 +7604,15 @@
         "Laamu Atoll",
         "Shaviyani Atoll",
         "Meemu Atoll",
-        "Dhaalu Atoll"
+        "Dhaalu Atoll",
+        "Alif Dhaal Atoll",
+        "Haa Dhaalu Atoll",
+        "Haa Alif Atoll",
+        "Noonu Atoll",
+        "Faafu Atoll",
+        "Gaafu Dhaalu Atoll",
+        "Vaavu Atoll",
+        "Thaa Atoll"
       ],
       "borderCountries": [],
       "flagImage": {
@@ -7561,8 +7629,8 @@
       "id": "Q833",
       "population": 32447385,
       "code": "MY",
-      "headsOfState": [
-        "Ibrahim Iskandar of Johor"
+      "headsOfGovernment": [
+        "Anwar Ibrahim"
       ],
       "capitals": [
         "Kuala Lumpur"
@@ -7604,8 +7672,8 @@
       "id": "Q836",
       "population": 53370609,
       "code": "MM",
-      "headsOfState": [
-        "Myint Swe"
+      "headsOfGovernment": [
+        "Min Aung Hlaing"
       ],
       "capitals": [
         "Naypyidaw"
@@ -7637,8 +7705,8 @@
         "Thailand",
         "Laos",
         "People's Republic of China",
-        "India",
-        "Bangladesh"
+        "Bangladesh",
+        "India"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
@@ -7654,8 +7722,8 @@
       "id": "Q837",
       "population": 29164578,
       "code": "NP",
-      "headsOfState": [
-        "Ram Chandra Poudel"
+      "headsOfGovernment": [
+        "Pushpa Kamal Dahal"
       ],
       "capitals": [
         "Kathmandu"
@@ -7687,7 +7755,7 @@
       "id": "Q842",
       "population": 4829480,
       "code": "OM",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Haitham bin Tarik Al Said"
       ],
       "capitals": [
@@ -7725,8 +7793,8 @@
       "id": "Q843",
       "population": 223773700,
       "code": "PK",
-      "headsOfState": [
-        "Asif Ali Zardari"
+      "headsOfGovernment": [
+        "Shehbaz Sharif"
       ],
       "capitals": [
         "Islamabad"
@@ -7742,10 +7810,10 @@
         "Junagadh and Manavadar"
       ],
       "borderCountries": [
-        "Iran",
         "Afghanistan",
-        "India",
-        "People's Republic of China"
+        "Iran",
+        "People's Republic of China",
+        "India"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
@@ -7761,8 +7829,8 @@
       "id": "Q846",
       "population": 2639211,
       "code": "QA",
-      "headsOfState": [
-        "Tamim bin Hamad Al"
+      "headsOfGovernment": [
+        "Mohammed bin Abdulrahman Al Thani"
       ],
       "capitals": [
         "Doha"
@@ -7796,27 +7864,27 @@
       "id": "Q851",
       "population": 33000000,
       "code": "SA",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Salman bin Abdulaziz Al Saud"
       ],
       "capitals": [
         "Riyadh"
       ],
       "divisions": [
-        "Ḥaʼil Province",
-        "Medina Province",
-        "Al-Jowf Province",
-        "Al-Baha Province",
-        "Najran Province",
+        "Jazan Province",
         "Northern Borders Province",
-        "'Asir Province",
-        "Riyadh Province",
+        "Medina Province",
+        "Mecca Province",
+        "Ḥaʼil Province",
+        "Eastern Province",
+        "Al-Baha Province",
         "Al-Qassim",
         "Tabuk Province",
-        "Jazan Province",
+        "'Asir Province",
+        "Najran Province",
+        "Al-Jowf Province",
         "Al-Qurayyat (province)",
-        "Mecca Province",
-        "Eastern Province"
+        "Riyadh Province"
       ],
       "borderCountries": [
         "Oman",
@@ -7841,8 +7909,8 @@
       "id": "Q854",
       "population": 21444000,
       "code": "LK",
-      "headsOfState": [
-        "Anura Kumara Dissanayake"
+      "headsOfGovernment": [
+        "Harini Amarasuriya"
       ],
       "capitals": [
         "Sri Jayawardenepura Kotte",
@@ -7874,11 +7942,18 @@
       "id": "Q858",
       "population": 23865423,
       "code": "SY",
-      "headsOfState": [],
+      "headsOfGovernment": [
+        "Mohammed al-Bashir"
+      ],
       "capitals": [
         "Damascus"
       ],
       "divisions": [
+        "Al-Hasakah Governorate",
+        "Al-Raqqah Governorate",
+        "As-Suwayda Governorate",
+        "Daraa Governorate",
+        "Damascus Governorate",
         "Aleppo Governorate",
         "Homs Governorate",
         "Quneitra Governorate",
@@ -7887,12 +7962,7 @@
         "Deir ez-Zor Governorate",
         "Rif Dimashq Governorate",
         "Idlib Governorate",
-        "Latakia Governorate",
-        "Al-Hasakah Governorate",
-        "Al-Raqqah Governorate",
-        "As-Suwayda Governorate",
-        "Daraa Governorate",
-        "Damascus Governorate"
+        "Latakia Governorate"
       ],
       "borderCountries": [
         "Turkey",
@@ -7915,8 +7985,8 @@
       "id": "Q863",
       "population": 9504000,
       "code": "TJ",
-      "headsOfState": [
-        "Emomali Rahmon"
+      "headsOfGovernment": [
+        "Kokhir Rasulzoda"
       ],
       "capitals": [
         "Dushanbe"
@@ -7928,10 +7998,10 @@
         "Khatlon Province"
       ],
       "borderCountries": [
-        "Uzbekistan",
         "People's Republic of China",
         "Kyrgyzstan",
-        "Afghanistan"
+        "Afghanistan",
+        "Uzbekistan"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg",
@@ -7947,8 +8017,8 @@
       "id": "Q865",
       "population": 23409323,
       "code": "TW",
-      "headsOfState": [
-        "Lai Ching-te"
+      "headsOfGovernment": [
+        "Cho Jung-tai"
       ],
       "capitals": [
         "Taipei"
@@ -7978,8 +8048,8 @@
       "id": "Q869",
       "population": 66188503,
       "code": "TH",
-      "headsOfState": [
-        "Vajiralongkorn"
+      "headsOfGovernment": [
+        "Paetongtarn Shinawatra"
       ],
       "capitals": [
         "Bangkok"
@@ -8083,7 +8153,7 @@
       "id": "Q874",
       "population": 6117933,
       "code": "TM",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Serdar Berdimuhamedow"
       ],
       "capitals": [
@@ -8098,10 +8168,10 @@
         "Mary Region"
       ],
       "borderCountries": [
-        "Iran",
         "Kazakhstan",
         "Afghanistan",
-        "Uzbekistan"
+        "Uzbekistan",
+        "Iran"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg",
@@ -8117,10 +8187,8 @@
       "id": "Q878",
       "population": 9890400,
       "code": "AE",
-      "headsOfState": [
-        "Mohammed Bin Zayed Al Nahyan",
-        "Khalifa bin Zayed Al Nahyan",
-        "Zayed bin Sultan Al Nahyan"
+      "headsOfGovernment": [
+        "Mohammed bin Rashid Al Maktoum"
       ],
       "capitals": [
         "Abu Dhabi"
@@ -8152,8 +8220,8 @@
       "id": "Q881",
       "population": 96208984,
       "code": "VN",
-      "headsOfState": [
-        "Tô Lâm"
+      "headsOfGovernment": [
+        "Phạm Minh Chính"
       ],
       "capitals": [
         "Hanoi"
@@ -8242,7 +8310,7 @@
       "id": "Q884",
       "population": 51466201,
       "code": "KR",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Yoon Suk Yeol"
       ],
       "capitals": [
@@ -8284,8 +8352,8 @@
       "id": "Q889",
       "population": 41454761,
       "code": "AF",
-      "headsOfState": [
-        "Hibatullah Akhundzada"
+      "headsOfGovernment": [
+        "Mohammad Hasan Akhund"
       ],
       "capitals": [
         "Kabul"
@@ -8347,8 +8415,8 @@
       "id": "Q902",
       "population": 171466990,
       "code": "BD",
-      "headsOfState": [
-        "Mohammad Shahabuddin"
+      "headsOfGovernment": [
+        "Muhammad Yunus"
       ],
       "capitals": [
         "Dhaka"
@@ -8364,8 +8432,8 @@
         "Mymensingh Division"
       ],
       "borderCountries": [
-        "India",
-        "Myanmar"
+        "Myanmar",
+        "India"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
@@ -8381,8 +8449,8 @@
       "id": "Q907112",
       "population": 469000,
       "code": null,
-      "headsOfState": [
-        "Vadim Krasnoselsky"
+      "headsOfGovernment": [
+        "Alexander Rosenberg"
       ],
       "capitals": [
         "Tiraspol"
@@ -8411,8 +8479,8 @@
       "id": "Q912",
       "population": 20250833,
       "code": "ML",
-      "headsOfState": [
-        "Assimi Goïta"
+      "headsOfGovernment": [
+        "Choguel Kokalla Maïga"
       ],
       "capitals": [
         "Bamako"
@@ -8451,7 +8519,7 @@
       "id": "Q916",
       "population": 36749906,
       "code": "AO",
-      "headsOfState": [
+      "headsOfGovernment": [
         "João Lourenço"
       ],
       "capitals": [
@@ -8478,10 +8546,10 @@
         "Lunda Sul Province"
       ],
       "borderCountries": [
-        "Democratic Republic of the Congo",
         "Namibia",
         "Republic of the Congo",
-        "Zambia"
+        "Zambia",
+        "Democratic Republic of the Congo"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg",
@@ -8497,8 +8565,8 @@
       "id": "Q917",
       "population": 787424,
       "code": "BT",
-      "headsOfState": [
-        "Jigme Khesar Namgyel Wangchuck"
+      "headsOfGovernment": [
+        "Lotay Tshering"
       ],
       "capitals": [
         "Thimphu"
@@ -8543,7 +8611,7 @@
       "id": "Q921",
       "population": 458949,
       "code": "BN",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Hassanal Bolkiah I of Brunei"
       ],
       "capitals": [
@@ -8572,30 +8640,13 @@
       "id": "Q924",
       "population": 57310019,
       "code": "TZ",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Samia Hassan Suluhu"
       ],
       "capitals": [
         "Dodoma"
       ],
       "divisions": [
-        "Mbeya",
-        "Tanga Region",
-        "Mbeya Region",
-        "Morogoro Region",
-        "Mara Region",
-        "Pwani Region",
-        "South Pemba Region",
-        "North Pemba Region",
-        "Mtwara Region",
-        "Dar es Salaam Region",
-        "Tabora",
-        "Unguja South Region",
-        "Mtwara",
-        "Iringa",
-        "Kigoma Region",
-        "Shinyanga",
-        "Lindi",
         "Dar es Salaam",
         "Mount Kilimanjaro",
         "Mwanza",
@@ -8615,7 +8666,24 @@
         "Kilimanjaro Region",
         "Arusha Region",
         "Manyara Region",
-        "Mwanza Region"
+        "Mwanza Region",
+        "Mbeya",
+        "Tanga Region",
+        "Mbeya Region",
+        "Morogoro Region",
+        "Mara Region",
+        "Pwani Region",
+        "South Pemba Region",
+        "North Pemba Region",
+        "Mtwara Region",
+        "Dar es Salaam Region",
+        "Tabora",
+        "Unguja South Region",
+        "Mtwara",
+        "Iringa",
+        "Kigoma Region",
+        "Shinyanga",
+        "Lindi"
       ],
       "borderCountries": [
         "Democratic Republic of the Congo",
@@ -8641,7 +8709,7 @@
       "id": "Q928",
       "population": 109035343,
       "code": "PH",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Bongbong Marcos"
       ],
       "capitals": [
@@ -8682,8 +8750,8 @@
       "id": "Q929",
       "population": 5152421,
       "code": "CF",
-      "headsOfState": [
-        "Faustin-Archange Touadéra"
+      "headsOfGovernment": [
+        "Félix Moloua"
       ],
       "capitals": [
         "Bangui"
@@ -8728,8 +8796,8 @@
       "id": "Q945",
       "population": 7797694,
       "code": "TG",
-      "headsOfState": [
-        "Faure Essozimna Gnassingbé"
+      "headsOfGovernment": [
+        "Victoire Dogbé Tomegah"
       ],
       "capitals": [
         "Lomé"
@@ -8760,8 +8828,8 @@
       "id": "Q948",
       "population": 11565204,
       "code": "TN",
-      "headsOfState": [
-        "Kais Saied"
+      "headsOfGovernment": [
+        "Ahmed Hachani"
       ],
       "capitals": [
         "Tunis"
@@ -8810,8 +8878,8 @@
       "id": "Q953",
       "population": 19610769,
       "code": "ZM",
-      "headsOfState": [
-        "Hakainde Hichilema"
+      "headsOfGovernment": [
+        "Edgar Lungu"
       ],
       "capitals": [
         "Lusaka"
@@ -8829,14 +8897,14 @@
         "Muchinga Province"
       ],
       "borderCountries": [
-        "Angola",
         "Namibia",
         "Malawi",
         "Mozambique",
         "Democratic Republic of the Congo",
         "Tanzania",
         "Zimbabwe",
-        "Botswana"
+        "Botswana",
+        "Angola"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg",
@@ -8852,7 +8920,7 @@
       "id": "Q954",
       "population": 15178979,
       "code": "ZW",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Emmerson Mnangagwa"
       ],
       "capitals": [
@@ -8890,7 +8958,7 @@
       "id": "Q958",
       "population": 12575714,
       "code": "SS",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Salva Kiir Mayardit"
       ],
       "capitals": [
@@ -8949,7 +9017,7 @@
       "id": "Q96",
       "population": 124777324,
       "code": "MX",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Claudia Sheinbaum"
       ],
       "capitals": [
@@ -8990,9 +9058,9 @@
         "Tlaxcala"
       ],
       "borderCountries": [
+        "Belize",
         "Guatemala",
-        "United States",
-        "Belize"
+        "United States"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
@@ -9008,25 +9076,25 @@
       "id": "Q962",
       "population": 14111034,
       "code": "BJ",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Patrice Talon"
       ],
       "capitals": [
         "Porto-Novo"
       ],
       "divisions": [
-        "Donga Department",
-        "Alibori Department",
-        "Ouémé Department",
-        "Zou Department",
-        "Kouffo Department",
-        "Plateau Department",
         "Mono Department",
         "Borgou Department",
         "Collines department",
         "Atlantique Department",
         "Atakora Department",
-        "Littoral"
+        "Littoral",
+        "Donga Department",
+        "Alibori Department",
+        "Ouémé Department",
+        "Zou Department",
+        "Kouffo Department",
+        "Plateau Department"
       ],
       "borderCountries": [
         "Burkina Faso",
@@ -9048,8 +9116,8 @@
       "id": "Q963",
       "population": 2480244,
       "code": "BW",
-      "headsOfState": [
-        "Duma Boko"
+      "headsOfGovernment": [
+        "Mokgweetsi Masisi"
       ],
       "capitals": [
         "Gaborone"
@@ -9066,10 +9134,10 @@
         "South-East District"
       ],
       "borderCountries": [
-        "South Africa",
         "Namibia",
         "Zambia",
-        "Zimbabwe"
+        "Zimbabwe",
+        "South Africa"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg",
@@ -9085,13 +9153,17 @@
       "id": "Q965",
       "population": 23025776,
       "code": "BF",
-      "headsOfState": [
-        "Ibrahim Traoré"
+      "headsOfGovernment": [
+        "Apollinaire Joachim Kyélem de Tambèla"
       ],
       "capitals": [
         "Ouagadougou"
       ],
       "divisions": [
+        "Sud-Ouest Region",
+        "Nord Region",
+        "Centre",
+        "Boucle du Mouhoun Region",
         "Centre-Est Region",
         "Sahel Region",
         "Hauts-Bassins Region",
@@ -9100,11 +9172,7 @@
         "Centre-Ouest Region",
         "Est Region",
         "Centre-Sud Region",
-        "Plateau-Central Region",
-        "Sud-Ouest Region",
-        "Nord Region",
-        "Centre",
-        "Boucle du Mouhoun Region"
+        "Plateau-Central Region"
       ],
       "borderCountries": [
         "Ivory Coast",
@@ -9128,17 +9196,13 @@
       "id": "Q967",
       "population": 13689450,
       "code": "BI",
-      "headsOfState": [
-        "Évariste Ndayishimiye"
+      "headsOfGovernment": [
+        "Gervais Ndirakobuca"
       ],
       "capitals": [
         "Gitega"
       ],
       "divisions": [
-        "Ruyigi Province",
-        "Makamba Province",
-        "Mwaro Province",
-        "Bujumbura Mairie",
         "Bururi Province",
         "Bubanza Province",
         "Cibitoke Province",
@@ -9151,7 +9215,11 @@
         "Ngozi Province",
         "Karuzi Province",
         "Rutana Province",
-        "Muyinga Province"
+        "Muyinga Province",
+        "Ruyigi Province",
+        "Makamba Province",
+        "Mwaro Province",
+        "Bujumbura Mairie"
       ],
       "borderCountries": [
         "Democratic Republic of the Congo",
@@ -9172,7 +9240,7 @@
       "id": "Q970",
       "population": 902348,
       "code": "KM",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Azali Assoumani"
       ],
       "capitals": [
@@ -9198,8 +9266,8 @@
       "id": "Q971",
       "population": 6142180,
       "code": "CG",
-      "headsOfState": [
-        "Denis Sassou-Nguesso"
+      "headsOfGovernment": [
+        "Clément Mouamba"
       ],
       "capitals": [
         "Brazzaville"
@@ -9239,8 +9307,8 @@
       "id": "Q974",
       "population": 105789731,
       "code": "CD",
-      "headsOfState": [
-        "Félix Tshisekedi"
+      "headsOfGovernment": [
+        "Ilunga Ilunkamba Sylvestre"
       ],
       "capitals": [
         "Kinshasa"
@@ -9279,15 +9347,15 @@
         "Ituri Province"
       ],
       "borderCountries": [
+        "Angola",
+        "Uganda",
         "Central African Republic",
         "Republic of the Congo",
         "Tanzania",
         "Zambia",
         "Rwanda",
         "South Sudan",
-        "Burundi",
-        "Angola",
-        "Uganda"
+        "Burundi"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg",
@@ -9303,8 +9371,9 @@
       "id": "Q977",
       "population": 1152944,
       "code": "DJ",
-      "headsOfState": [
-        "Ismail Omar Guelleh"
+      "headsOfGovernment": [
+        "Abdoulkader Kamil Mohamed",
+        "Dileita Mohamed Dileita"
       ],
       "capitals": [
         "Djibouti"
@@ -9336,8 +9405,8 @@
       "id": "Q983",
       "population": 1847549,
       "code": "GQ",
-      "headsOfState": [
-        "Teodoro Obiang"
+      "headsOfGovernment": [
+        "Manuela Roka"
       ],
       "capitals": [
         "Malabo"
@@ -9353,8 +9422,8 @@
         "Djibloho"
       ],
       "borderCountries": [
-        "Cameroon",
-        "Gabon"
+        "Gabon",
+        "Cameroon"
       ],
       "flagImage": {
         "uri": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg",
@@ -9370,7 +9439,7 @@
       "id": "Q986",
       "population": 3497000,
       "code": "ER",
-      "headsOfState": [
+      "headsOfGovernment": [
         "Isaias Afwerki"
       ],
       "capitals": [

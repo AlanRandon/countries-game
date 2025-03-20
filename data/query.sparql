@@ -6,16 +6,15 @@ SELECT
 	(SAMPLE(?flagImageValue) AS ?flagImage)
 	(SAMPLE(?populationValue) AS ?population)
 	(GROUP_CONCAT(DISTINCT ?capitalLabel; separator="$DIVIDE$") AS ?capitals)
-	(GROUP_CONCAT(DISTINCT ?headOfStateLabel; separator="$DIVIDE$") AS ?headsOfState)
+	(GROUP_CONCAT(DISTINCT ?headOfGovLabel; separator="$DIVIDE$") AS ?headsOfGov)
 	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisions)
 	(GROUP_CONCAT(DISTINCT ?borderCountryLabel; separator="$DIVIDE$") AS ?borderCountries)
 WHERE {
 	SERVICE wikibase:label {
-		bd:serviceParam wikibase:language "en".
-		?capital rdfs:label ?capitalLabel.
-		?headOfState rdfs:label ?headOfStateLabel.
-		?division rdfs:label ?divisionLabel.
+		bd:serviceParam wikibase:language "en,mul".
 		?country rdfs:label ?countryLabel.
+		?capital rdfs:label ?capitalLabel.
+		?headOfGov rdfs:label ?headOfGovLabel.
 		?borderCountry rdfs:label ?borderCountryLabel.
 	}.
 
@@ -25,8 +24,8 @@ WHERE {
 	} UNION {
 		?country wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
 	} UNION {
-		# (partially) unrecognised states
 		VALUES (?country) {
+			# (partially) unrecognised states
 			(wd:Q1246) # Kosovo
 			(wd:Q34754) # Somaliland
 			(wd:Q907112) # Transnistria
@@ -35,6 +34,9 @@ WHERE {
 			(wd:Q23427) # South Ossetia
 			(wd:Q23681) # Northern Cyprus
 			(wd:Q40362) # Western Sahara
+			# dependent countries of New Zealand
+			(wd:Q34020) # Niue
+			(wd:Q26988) # Cook Islands
 		}
 	}
 
@@ -42,7 +44,7 @@ WHERE {
 	FILTER NOT EXISTS{ ?country wdt:P576 ?date }
 
 	OPTIONAL { ?country wdt:P36 ?capital }.
-	OPTIONAL { ?country wdt:P35 ?headOfState }.
+      	OPTIONAL { ?country wdt:P6 ?headOfGov }.
 	OPTIONAL { ?country wdt:P1082 ?populationValue }.
 	OPTIONAL { ?country wdt:P41 ?flagImageValue }.
 	OPTIONAL { ?country wdt:P3896 ?geoshapeValue }.

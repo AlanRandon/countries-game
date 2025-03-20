@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "country", "countryLabel", "isoCode", "geo", "flagImage", "population", "capitals", "headsOfState", "divisions", "borderCountries" ]
+    "vars" : [ "country", "countryLabel", "isoCode", "geo", "flagImage", "population", "capitals", "headsOfGov", "divisions", "borderCountries" ]
   },
   "results" : {
     "bindings" : [ {
@@ -34,9 +34,9 @@
         "type" : "literal",
         "value" : "Tashkent"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Shavkat Mirziyoyev"
+        "value" : "Abdulla Nigmatovich Aripov"
       },
       "divisions" : {
         "type" : "literal",
@@ -44,1297 +44,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Kazakhstan$DIVIDE$Kyrgyzstan$DIVIDE$Tajikistan$DIVIDE$Turkmenistan$DIVIDE$Afghanistan"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q403"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Serbia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "RS"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Serbia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6647003"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Belgrade"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Aleksandar Vučić"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro$DIVIDE$Albania$DIVIDE$Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Croatia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q424"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cambodia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "KH"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Cambodia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "17423880"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Phnom Penh"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Norodom Sihamoni"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Laos$DIVIDE$Vietnam$DIVIDE$Thailand"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Timor-Leste"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "TL"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:East+Timor.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "1243235"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Dili"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "José Ramos-Horta"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Indonesia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q668"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "India"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "IN"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:India+outline.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "1326093247"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "New Delhi"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Droupadi Murmu"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Nepal$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$Pakistan$DIVIDE$Bhutan$DIVIDE$Myanmar"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q691"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Papua New Guinea"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "PG"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Papua+New+Guinea.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "8935000"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Port Moresby"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Charles III"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Indonesia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q733"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paraguay"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "PY"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Paraguay.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6811297"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Asunción"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Santiago Peña Palacios"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Bolivia$DIVIDE$Argentina$DIVIDE$Brazil"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q750"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bolivia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "BO"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Bolivia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "12244159"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Sucre$DIVIDE$La Paz"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Luis Arce"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Argentina$DIVIDE$Chile$DIVIDE$Paraguay$DIVIDE$Peru$DIVIDE$Brazil"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q819"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laos"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "LA"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Laos.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6858160"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Vientiane"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Thongloun Sisoulith"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Myanmar$DIVIDE$Cambodia$DIVIDE$People's Republic of China$DIVIDE$Vietnam$DIVIDE$Thailand"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "PK"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Pakistan.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "223773700"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Islamabad"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Asif Ali Zardari"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Iran$DIVIDE$Afghanistan$DIVIDE$India$DIVIDE$People's Republic of China"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q863"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tajikistan"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "TJ"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Tajikistan.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "9504000"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Dushanbe"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Emomali Rahmon"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Uzbekistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q874"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Turkmenistan"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "TM"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Turkmenistan.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6117933"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Ashgabat"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Serdar Berdimuhamedow"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Iran$DIVIDE$Kazakhstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q916"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angola"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "AO"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Angola.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "36749906"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Luanda"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "João Lourenço"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Democratic Republic of the Congo$DIVIDE$Namibia$DIVIDE$Republic of the Congo$DIVIDE$Zambia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q953"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zambia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "ZM"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Zambia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "19610769"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Lusaka"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Hakainde Hichilema"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Angola$DIVIDE$Namibia$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q963"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Botswana"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "BW"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Botswana.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "2480244"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Gaborone"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Duma Boko"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "South Africa$DIVIDE$Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q971"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Republic of the Congo"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "CG"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6142180"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Brazzaville"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Denis Sassou-Nguesso"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Angola$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Gabon"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q977"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Djibouti"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "DJ"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Djibouti.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "1152944"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Djibouti"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Ismail Omar Guelleh"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Eritrea$DIVIDE$Ethiopia$DIVIDE$Somalia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1016"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Libya"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "LY"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Libya.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "6678567"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Tripoli"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Mohamed al-Menfi"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Algeria$DIVIDE$Chad$DIVIDE$Sudan$DIVIDE$Egypt$DIVIDE$Tunisia$DIVIDE$Niger"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1025"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mauritania"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "MR"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Mauritania.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "4736139"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Nouakchott"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Mohamed Ould Ghazouani"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Algeria$DIVIDE$Western Sahara$DIVIDE$Mali$DIVIDE$Senegal"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1030"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Namibia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "NA"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Namibia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "2533794"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Windhoek"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Nangolo Mbumba"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Angola$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$South Africa"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1028"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Morocco"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "MA"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Morocco.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "37076584"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Rabat"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Mohammed VI of Morocco"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Western Sahara$DIVIDE$Ceuta$DIVIDE$Algeria$DIVIDE$Spain$DIVIDE$Melilla"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1029"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mozambique"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "MZ"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Mozambique.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "29668834"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Maputo"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Filipe Nyusi"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "South Africa$DIVIDE$Malawi$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Eswatini$DIVIDE$Zimbabwe"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1032"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Niger"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "NE"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Niger.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "21477348"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Niamey"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Abdourahamane Tchiani$DIVIDE$Mohamed Bazoum$DIVIDE$Salou Djibo$DIVIDE$Mamadou Tandja$DIVIDE$Mahamadou Issoufou"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Algeria$DIVIDE$Burkina Faso$DIVIDE$Benin$DIVIDE$Mali$DIVIDE$Nigeria$DIVIDE$Chad$DIVIDE$Libya"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1033"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nigeria"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "NG"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Nigeria.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "211400708"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Abuja"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Bola Ahmed Tinubu"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Benin$DIVIDE$Cameroon$DIVIDE$Niger$DIVIDE$Chad"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1036"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Uganda"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "UG"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Uganda.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "47123531"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Kampala"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Yoweri Museveni"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Democratic Republic of the Congo$DIVIDE$Rwanda$DIVIDE$Tanzania$DIVIDE$South Sudan$DIVIDE$Kenya$DIVIDE$Sudan"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1037"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rwanda"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "RW"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Rwanda.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "13246394"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Kigali"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Paul Kagame"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Uganda$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Tanzania"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1041"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senegal"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SN"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Senegal.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "16876720"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Dakar"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Bassirou Diomaye Diakhar Faye"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mali$DIVIDE$Mauritania"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1044"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sierra Leone"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SL"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "7557212"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Freetown"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Julius Maada Bio"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Guinea$DIVIDE$Liberia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1045"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Somalia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SO"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Somalia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "11031386"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Mogadishu"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Hassan Sheikh Mohamud"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Ethiopia$DIVIDE$Kenya$DIVIDE$Djibouti"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1050"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eswatini"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SZ"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Eswatini.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "1230506"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Lobamba$DIVIDE$Mbabane"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Mswati III"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "South Africa$DIVIDE$Mozambique"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1049"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sudan"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SD"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Sudan.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "40533330"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Khartoum"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Abdel Fattah al-Burhan"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Eritrea$DIVIDE$Kenya$DIVIDE$Uganda$DIVIDE$Egypt$DIVIDE$Ethiopia$DIVIDE$Libya$DIVIDE$Central African Republic$DIVIDE$South Sudan$DIVIDE$Chad"
+        "value" : "Tajikistan$DIVIDE$Turkmenistan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan"
       }
     }, {
       "country" : {
@@ -1367,7 +77,7 @@
         "type" : "literal",
         "value" : "Santiago"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Gabriel Boric"
       },
@@ -1377,7 +87,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Bolivia$DIVIDE$Argentina$DIVIDE$Peru"
+        "value" : "Bolivia$DIVIDE$Peru$DIVIDE$Argentina"
       }
     }, {
       "country" : {
@@ -1410,9 +120,9 @@
         "type" : "literal",
         "value" : "Yerevan"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Vahagn Khachatryan"
+        "value" : "Nikol Pashinyan"
       },
       "divisions" : {
         "type" : "literal",
@@ -1421,6 +131,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Turkey$DIVIDE$Azerbaijan$DIVIDE$Iran$DIVIDE$Georgia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "RS"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Serbia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6647003"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Belgrade"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Miloš Vučević"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Albania$DIVIDE$Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro$DIVIDE$Croatia"
       }
     }, {
       "country" : {
@@ -1453,7 +206,7 @@
         "type" : "literal",
         "value" : "Buenos Aires"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Javier Milei"
       },
@@ -1463,7 +216,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Bolivia$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay$DIVIDE$Uruguay"
+        "value" : "Bolivia$DIVIDE$Uruguay$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay"
       }
     }, {
       "country" : {
@@ -1496,9 +249,9 @@
         "type" : "literal",
         "value" : "N'Djamena"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Mahamat Déby Itno"
+        "value" : "Idriss Déby"
       },
       "divisions" : {
         "type" : "literal",
@@ -1539,9 +292,9 @@
         "type" : "literal",
         "value" : "Caracas"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Juan Guaidó$DIVIDE$Nicolás Maduro"
+        "value" : "Nicolás Maduro"
       },
       "divisions" : {
         "type" : "literal",
@@ -1582,7 +335,7 @@
         "type" : "literal",
         "value" : "Paramaribo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Chan Santokhi"
       },
@@ -1625,7 +378,7 @@
         "type" : "literal",
         "value" : "Guatemala City"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Bernardo Arévalo de León"
       },
@@ -1668,9 +421,9 @@
         "type" : "literal",
         "value" : "Tegucigalpa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Xiomara Castro"
+        "value" : "Xiomara Castro$DIVIDE$Juan Orlando Hernández$DIVIDE$Carlos Roberto Flores$DIVIDE$Ricardo Maduro$DIVIDE$Roberto Micheletti$DIVIDE$Manuel Zelaya$DIVIDE$Porfirio Lobo Sosa"
       },
       "divisions" : {
         "type" : "literal",
@@ -1711,9 +464,9 @@
         "type" : "literal",
         "value" : "San Salvador"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Nayib Bukele"
+        "value" : "Nayib Bukele$DIVIDE$Salvador Sánchez Cerén$DIVIDE$Francisco Flores$DIVIDE$Antonio Saca$DIVIDE$Mauricio Funes"
       },
       "divisions" : {
         "type" : "literal",
@@ -1754,7 +507,7 @@
         "type" : "literal",
         "value" : "San José"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Rodrigo Chaves"
       },
@@ -1797,9 +550,9 @@
         "type" : "literal",
         "value" : "Panama City"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "José Raúl Mulino"
+        "value" : "José Raúl Mulino$DIVIDE$Laurentino Cortizo$DIVIDE$Juan Carlos Varela$DIVIDE$Martín Torrijos$DIVIDE$Mireya Moscoso$DIVIDE$Ricardo Martinelli"
       },
       "divisions" : {
         "type" : "literal",
@@ -1840,9 +593,9 @@
         "type" : "literal",
         "value" : "Managua"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Daniel Ortega"
+        "value" : "Arnoldo Alemán$DIVIDE$Enrique Bolaños$DIVIDE$Violeta Barrios$DIVIDE$Daniel Ortega"
       },
       "divisions" : {
         "type" : "literal",
@@ -1851,6 +604,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Costa Rica$DIVIDE$Honduras"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q819"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LA"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Laos.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6858160"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Vientiane"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Phankham Viphavan"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Cambodia$DIVIDE$People's Republic of China$DIVIDE$Vietnam$DIVIDE$Myanmar$DIVIDE$Thailand"
       }
     }, {
       "country" : {
@@ -1883,9 +679,9 @@
         "type" : "literal",
         "value" : "Kuala Lumpur"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ibrahim Iskandar of Johor"
+        "value" : "Anwar Ibrahim"
       },
       "divisions" : {
         "type" : "literal",
@@ -1926,9 +722,9 @@
         "type" : "literal",
         "value" : "Damascus"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : ""
+        "value" : "Mohammed al-Bashir"
       },
       "divisions" : {
         "type" : "literal",
@@ -1937,6 +733,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Turkey$DIVIDE$Lebanon$DIVIDE$Iraq$DIVIDE$Israel$DIVIDE$Jordan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q863"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tajikistan"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "TJ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Tajikistan.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "9504000"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Dushanbe"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Kokhir Rasulzoda"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan"
       }
     }, {
       "country" : {
@@ -1969,9 +808,9 @@
         "type" : "literal",
         "value" : "Bangkok"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Vajiralongkorn"
+        "value" : "Paetongtarn Shinawatra"
       },
       "divisions" : {
         "type" : "literal",
@@ -1980,6 +819,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Malaysia$DIVIDE$Myanmar$DIVIDE$Cambodia$DIVIDE$Laos"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q874"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkmenistan"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "TM"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Turkmenistan.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6117933"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Ashgabat"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Serdar Berdimuhamedow"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Kazakhstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan$DIVIDE$Iran"
       }
     }, {
       "country" : {
@@ -2012,9 +894,9 @@
         "type" : "literal",
         "value" : "Hanoi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Tô Lâm"
+        "value" : "Phạm Minh Chính"
       },
       "divisions" : {
         "type" : "literal",
@@ -2055,9 +937,9 @@
         "type" : "literal",
         "value" : "Bamako"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Assimi Goïta"
+        "value" : "Choguel Kokalla Maïga"
       },
       "divisions" : {
         "type" : "literal",
@@ -2098,7 +980,7 @@
         "type" : "literal",
         "value" : "Dodoma"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Samia Hassan Suluhu"
       },
@@ -2141,9 +1023,9 @@
         "type" : "literal",
         "value" : "Bangui"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Faustin-Archange Touadéra"
+        "value" : "Félix Moloua"
       },
       "divisions" : {
         "type" : "literal",
@@ -2184,9 +1066,9 @@
         "type" : "literal",
         "value" : "Lomé"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Faure Essozimna Gnassingbé"
+        "value" : "Victoire Dogbé Tomegah"
       },
       "divisions" : {
         "type" : "literal",
@@ -2227,9 +1109,9 @@
         "type" : "literal",
         "value" : "Tunis"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Kais Saied"
+        "value" : "Ahmed Hachani"
       },
       "divisions" : {
         "type" : "literal",
@@ -2270,7 +1152,7 @@
         "type" : "literal",
         "value" : "Harare"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Emmerson Mnangagwa"
       },
@@ -2281,6 +1163,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Mozambique$DIVIDE$South Africa$DIVIDE$Zambia$DIVIDE$Botswana"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q953"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "ZM"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Zambia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19610769"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Lusaka"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Edgar Lungu"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Namibia$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana$DIVIDE$Angola"
       }
     }, {
       "country" : {
@@ -2313,7 +1238,7 @@
         "type" : "literal",
         "value" : "Juba"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Salva Kiir Mayardit"
       },
@@ -2356,7 +1281,7 @@
         "type" : "literal",
         "value" : "Porto-Novo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Patrice Talon"
       },
@@ -2367,6 +1292,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Burkina Faso$DIVIDE$Niger$DIVIDE$Nigeria$DIVIDE$Togo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Botswana"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "BW"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Botswana.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2480244"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Gaborone"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Mokgweetsi Masisi"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe$DIVIDE$South Africa"
       }
     }, {
       "country" : {
@@ -2399,9 +1367,9 @@
         "type" : "literal",
         "value" : "Gitega"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Évariste Ndayishimiye"
+        "value" : "Gervais Ndirakobuca"
       },
       "divisions" : {
         "type" : "literal",
@@ -2442,9 +1410,9 @@
         "type" : "literal",
         "value" : "Ouagadougou"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ibrahim Traoré"
+        "value" : "Apollinaire Joachim Kyélem de Tambèla"
       },
       "divisions" : {
         "type" : "literal",
@@ -2453,350 +1421,6 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Ivory Coast$DIVIDE$Ghana$DIVIDE$Mali$DIVIDE$Niger$DIVIDE$Togo$DIVIDE$Benin"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q974"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Republic of the Congo"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "CD"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:DR+Congo.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "105789731"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Kinshasa"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Félix Tshisekedi"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Rwanda$DIVIDE$South Sudan$DIVIDE$Burundi$DIVIDE$Angola$DIVIDE$Uganda"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q983"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Equatorial Guinea"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "GQ"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Equatorial+Guinea.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "1847549"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Malabo"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Teodoro Obiang"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Cameroon$DIVIDE$Gabon"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1000"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gabon"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "GA"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Gabon.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "2025137"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Libreville"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Ali Bongo Ondimba"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Cameroon$DIVIDE$Republic of the Congo$DIVIDE$Equatorial Guinea"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1006"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Guinea"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "GN"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Guinea.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "12717176"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Conakry"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Mamady Doumbouya"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Liberia$DIVIDE$Mali$DIVIDE$Senegal$DIVIDE$Ivory Coast$DIVIDE$Sierra Leone$DIVIDE$Guinea-Bissau"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1008"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ivory Coast"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "CI"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "31165654"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Yamoussoukro"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Alassane Ouattara"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Burkina Faso$DIVIDE$Guinea$DIVIDE$Ghana$DIVIDE$Liberia$DIVIDE$Mali"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1009"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cameroon"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "CM"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Cameroon.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "28372687"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Yaoundé"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Paul Biya"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Republic of the Congo$DIVIDE$Equatorial Guinea$DIVIDE$Gabon$DIVIDE$Nigeria$DIVIDE$Chad$DIVIDE$Central African Republic"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1014"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberia"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "LR"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Liberia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "5214030"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Monrovia"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Joseph Boakai$DIVIDE$George Weah"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Sierra Leone$DIVIDE$Ivory Coast$DIVIDE$Guinea"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1020"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Malawi"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "MW"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Malawi.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "18622104"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Lilongwe"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Lazarus Chakwera"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Zambia$DIVIDE$Tanzania$DIVIDE$Mozambique"
       }
     }, {
       "country" : {
@@ -2829,7 +1453,7 @@
         "type" : "literal",
         "value" : "Santo Domingo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Luis Abinader"
       },
@@ -2872,9 +1496,9 @@
         "type" : "literal",
         "value" : "Port-au-Prince"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Transitional Presidential Council"
+        "value" : "Alix Didier Fils-Aimé"
       },
       "divisions" : {
         "type" : "literal",
@@ -2915,9 +1539,9 @@
         "type" : "literal",
         "value" : "Tehran"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ali Khamenei"
+        "value" : "Masoud Pezeshkian"
       },
       "divisions" : {
         "type" : "literal",
@@ -2958,9 +1582,9 @@
         "type" : "literal",
         "value" : "Baghdad"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Abdul Latif Rashid"
+        "value" : "Mohammed Shia' Al Sudani"
       },
       "divisions" : {
         "type" : "literal",
@@ -3001,9 +1625,9 @@
         "type" : "literal",
         "value" : "Jerusalem"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Isaac Herzog"
+        "value" : "Benjamin Netanyahu"
       },
       "divisions" : {
         "type" : "literal",
@@ -3044,9 +1668,9 @@
         "type" : "literal",
         "value" : "Aden$DIVIDE$Sanaa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Rashad al-Alimi"
+        "value" : "Maeen Abdulmalik Saeed"
       },
       "divisions" : {
         "type" : "literal",
@@ -3087,9 +1711,9 @@
         "type" : "literal",
         "value" : "Amman"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Q57464"
+        "value" : "Bisher Al-Khasawneh"
       },
       "divisions" : {
         "type" : "literal",
@@ -3130,9 +1754,9 @@
         "type" : "literal",
         "value" : "Bishkek"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Sadyr Zhaparov"
+        "value" : "Adylbek Kasymaliev$DIVIDE$Ulukbek Maripov$DIVIDE$Artjom Nowikow$DIVIDE$Kubatbek Boronov$DIVIDE$Muhammetkaliy Abulgaziyev$DIVIDE$Sapar Isakov$DIVIDE$Sadyr Zhaparov$DIVIDE$Sooronbay Jeenbekov$DIVIDE$Akylbek Japarov"
       },
       "divisions" : {
         "type" : "literal",
@@ -3173,9 +1797,9 @@
         "type" : "literal",
         "value" : "Kuwait City"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+        "value" : "Sabah Al-Khalid Al-Sabah"
       },
       "divisions" : {
         "type" : "literal",
@@ -3216,9 +1840,9 @@
         "type" : "literal",
         "value" : "Beirut"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Joseph Aoun"
+        "value" : "Nawaf Salam"
       },
       "divisions" : {
         "type" : "literal",
@@ -3259,9 +1883,9 @@
         "type" : "literal",
         "value" : "Naypyidaw"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Myint Swe"
+        "value" : "Min Aung Hlaing"
       },
       "divisions" : {
         "type" : "literal",
@@ -3269,7 +1893,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Thailand$DIVIDE$Laos$DIVIDE$People's Republic of China$DIVIDE$India$DIVIDE$Bangladesh"
+        "value" : "Thailand$DIVIDE$Laos$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$India"
       }
     }, {
       "country" : {
@@ -3302,9 +1926,9 @@
         "type" : "literal",
         "value" : "Kathmandu"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ram Chandra Poudel"
+        "value" : "Pushpa Kamal Dahal"
       },
       "divisions" : {
         "type" : "literal",
@@ -3345,7 +1969,7 @@
         "type" : "literal",
         "value" : "Muscat"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Haitham bin Tarik Al Said"
       },
@@ -3356,6 +1980,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Yemen$DIVIDE$Saudi Arabia$DIVIDE$United Arab Emirates"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "PK"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Pakistan.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "223773700"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Islamabad"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Shehbaz Sharif"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Afghanistan$DIVIDE$Iran$DIVIDE$People's Republic of China$DIVIDE$India"
       }
     }, {
       "country" : {
@@ -3388,9 +2055,9 @@
         "type" : "literal",
         "value" : "Doha"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Tamim bin Hamad Al"
+        "value" : "Mohammed bin Abdulrahman Al Thani"
       },
       "divisions" : {
         "type" : "literal",
@@ -3431,7 +2098,7 @@
         "type" : "literal",
         "value" : "Riyadh"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Salman bin Abdulaziz Al Saud"
       },
@@ -3474,9 +2141,9 @@
         "type" : "literal",
         "value" : "Abu Dhabi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Mohammed Bin Zayed Al Nahyan$DIVIDE$Khalifa bin Zayed Al Nahyan$DIVIDE$Zayed bin Sultan Al Nahyan"
+        "value" : "Mohammed bin Rashid Al Maktoum"
       },
       "divisions" : {
         "type" : "literal",
@@ -3517,7 +2184,7 @@
         "type" : "literal",
         "value" : "Seoul"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Yoon Suk Yeol"
       },
@@ -3560,9 +2227,9 @@
         "type" : "literal",
         "value" : "Kabul"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Hibatullah Akhundzada"
+        "value" : "Mohammad Hasan Akhund"
       },
       "divisions" : {
         "type" : "literal",
@@ -3571,6 +2238,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "People's Republic of China$DIVIDE$Tajikistan$DIVIDE$Pakistan$DIVIDE$Turkmenistan$DIVIDE$Uzbekistan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "AO"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Angola.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36749906"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Luanda"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "João Lourenço"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Namibia$DIVIDE$Republic of the Congo$DIVIDE$Zambia$DIVIDE$Democratic Republic of the Congo"
       }
     }, {
       "country" : {
@@ -3603,9 +2313,9 @@
         "type" : "literal",
         "value" : "Thimphu"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Jigme Khesar Namgyel Wangchuck"
+        "value" : "Lotay Tshering"
       },
       "divisions" : {
         "type" : "literal",
@@ -3646,7 +2356,7 @@
         "type" : "literal",
         "value" : "Bandar Seri Begawan"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Hassanal Bolkiah I of Brunei"
       },
@@ -3657,6 +2367,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Malaysia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CD"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:DR+Congo.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "105789731"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Kinshasa"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Ilunga Ilunkamba Sylvestre"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Uganda$DIVIDE$Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Rwanda$DIVIDE$South Sudan$DIVIDE$Burundi"
       }
     }, {
       "country" : {
@@ -3689,7 +2442,7 @@
         "type" : "literal",
         "value" : "Asmara"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Isaias Afwerki"
       },
@@ -3700,6 +2453,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Djibouti$DIVIDE$Ethiopia$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1006"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "GN"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Guinea.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "12717176"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Conakry"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Bah Oury"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Sierra Leone$DIVIDE$Guinea-Bissau$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Senegal"
       }
     }, {
       "country" : {
@@ -3732,9 +2528,9 @@
         "type" : "literal",
         "value" : "Bissau"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Umaro Sissoco Embaló"
+        "value" : "Nuno Nabiam"
       },
       "divisions" : {
         "type" : "literal",
@@ -3775,7 +2571,7 @@
         "type" : "literal",
         "value" : "Banjul"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Adama Barrow"
       },
@@ -3786,6 +2582,135 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Senegal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivory Coast"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CI"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "31165654"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Yamoussoukro"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Robert Beugré Mambé"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guinea$DIVIDE$Ghana$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Burkina Faso"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LR"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Liberia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "5214030"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Monrovia"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Joseph Boakai"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Guinea$DIVIDE$Sierra Leone"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1016"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libya"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LY"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Libya.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6678567"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Tripoli"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Abdulhamid Dbeibeh"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Egypt$DIVIDE$Tunisia$DIVIDE$Algeria$DIVIDE$Niger$DIVIDE$Chad$DIVIDE$Sudan"
       }
     }, {
       "country" : {
@@ -3818,7 +2743,7 @@
         "type" : "literal",
         "value" : "Bloemfontein$DIVIDE$Cape Town$DIVIDE$Pretoria"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
@@ -3861,9 +2786,9 @@
         "type" : "literal",
         "value" : "Algiers"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Abdelmadjid Tebboune"
+        "value" : "Nadir Larbaoui"
       },
       "divisions" : {
         "type" : "literal",
@@ -3904,7 +2829,7 @@
         "type" : "literal",
         "value" : "Lima"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Dina Boluarte"
       },
@@ -3914,7 +2839,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Bolivia$DIVIDE$Brazil$DIVIDE$Colombia$DIVIDE$Ecuador$DIVIDE$Chile"
+        "value" : "Bolivia$DIVIDE$Colombia$DIVIDE$Ecuador$DIVIDE$Chile$DIVIDE$Brazil"
       }
     }, {
       "country" : {
@@ -3947,9 +2872,9 @@
         "type" : "literal",
         "value" : "Pyongyang"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Kim Jong-un"
+        "value" : "Kim Jae-ryong"
       },
       "divisions" : {
         "type" : "literal",
@@ -3958,6 +2883,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "South Korea$DIVIDE$Russia$DIVIDE$People's Republic of China"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q424"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "KH"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cambodia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17423880"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Phnom Penh"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Hun Manet"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Thailand$DIVIDE$Laos$DIVIDE$Vietnam"
       }
     }, {
       "country" : {
@@ -3990,9 +2958,9 @@
         "type" : "literal",
         "value" : "Georgetown"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Irfaan Ali"
+        "value" : "Mark Phillips"
       },
       "divisions" : {
         "type" : "literal",
@@ -4033,7 +3001,7 @@
         "type" : "literal",
         "value" : "Bogotá"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Gustavo Petro"
       },
@@ -4043,7 +3011,136 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Venezuela$DIVIDE$Brazil$DIVIDE$Peru$DIVIDE$Ecuador"
+        "value" : "Venezuela$DIVIDE$Peru$DIVIDE$Ecuador$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1009"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cameroon"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CM"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cameroon.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28372687"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Yaoundé"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Joseph Ngute"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Equatorial Guinea$DIVIDE$Gabon$DIVIDE$Nigeria$DIVIDE$Chad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1036"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "UG"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Uganda.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "47123531"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Kampala"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Robinah Nabbanja"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Rwanda$DIVIDE$Tanzania$DIVIDE$South Sudan$DIVIDE$Kenya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1049"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sudan"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SD"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Sudan.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40533330"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Khartoum"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Abdalla Hamdok"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Kenya$DIVIDE$Uganda$DIVIDE$Eritrea$DIVIDE$Egypt$DIVIDE$Ethiopia$DIVIDE$Libya$DIVIDE$Central African Republic$DIVIDE$South Sudan$DIVIDE$Chad"
       }
     }, {
       "country" : {
@@ -4076,9 +3173,9 @@
         "type" : "literal",
         "value" : "Pristina"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Vjosa Osmani"
+        "value" : "Albin Kurti"
       },
       "divisions" : {
         "type" : "literal",
@@ -4119,9 +3216,9 @@
         "type" : "literal",
         "value" : "Ottawa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Mark Carney"
       },
       "divisions" : {
         "type" : "literal",
@@ -4162,9 +3259,9 @@
         "type" : "literal",
         "value" : "Warsaw"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Andrzej Duda"
+        "value" : "Donald Tusk"
       },
       "divisions" : {
         "type" : "literal",
@@ -4172,7 +3269,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Germany$DIVIDE$Slovakia$DIVIDE$Czech Republic$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$Ukraine$DIVIDE$Russia"
+        "value" : "Germany$DIVIDE$Russia$DIVIDE$Slovakia$DIVIDE$Czech Republic$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$Ukraine"
       }
     }, {
       "country" : {
@@ -4205,7 +3302,7 @@
         "type" : "literal",
         "value" : "Nairobi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "William Ruto"
       },
@@ -4248,9 +3345,9 @@
         "type" : "literal",
         "value" : "Addis Ababa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Taye Atske Selassie"
+        "value" : "Abiy Ahmed Ali"
       },
       "divisions" : {
         "type" : "literal",
@@ -4258,7 +3355,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Somaliland$DIVIDE$Djibouti$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Eritrea$DIVIDE$Kenya$DIVIDE$Somalia"
+        "value" : "Somaliland$DIVIDE$Eritrea$DIVIDE$Kenya$DIVIDE$Somalia$DIVIDE$Djibouti$DIVIDE$Sudan$DIVIDE$South Sudan"
       }
     }, {
       "country" : {
@@ -4291,9 +3388,9 @@
         "type" : "literal",
         "value" : "Paris"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Emmanuel Macron"
+        "value" : "François Bayrou"
       },
       "divisions" : {
         "type" : "literal",
@@ -4334,9 +3431,9 @@
         "type" : "literal",
         "value" : "London"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Keir Starmer"
       },
       "divisions" : {
         "type" : "literal",
@@ -4377,9 +3474,9 @@
         "type" : "literal",
         "value" : "Beijing"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Q15031"
+        "value" : "Li Qiang"
       },
       "divisions" : {
         "type" : "literal",
@@ -4420,7 +3517,7 @@
         "type" : "literal",
         "value" : "Brasília"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Luiz Inácio Lula da Silva"
       },
@@ -4463,9 +3560,9 @@
         "type" : "literal",
         "value" : "Moscow"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Vladimir Putin"
+        "value" : "Mikhail Mishustin"
       },
       "divisions" : {
         "type" : "literal",
@@ -4506,9 +3603,9 @@
         "type" : "literal",
         "value" : "Berlin"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Frank-Walter Steinmeier"
+        "value" : "Olaf Scholz"
       },
       "divisions" : {
         "type" : "literal",
@@ -4549,9 +3646,9 @@
         "type" : "literal",
         "value" : "Ljubljana"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Nataša Pirc Musar"
+        "value" : "Robert Golob"
       },
       "divisions" : {
         "type" : "literal",
@@ -4592,9 +3689,9 @@
         "type" : "literal",
         "value" : "Bucharest"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ilie Bolojan"
+        "value" : "Marcel Ciolacu"
       },
       "divisions" : {
         "type" : "literal",
@@ -4635,9 +3732,9 @@
         "type" : "literal",
         "value" : "Sofia"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Rumen Radev"
+        "value" : "Rosen Zhelyazkov"
       },
       "divisions" : {
         "type" : "literal",
@@ -4678,9 +3775,9 @@
         "type" : "literal",
         "value" : "Tirana"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Bajram Begaj"
+        "value" : "Edi Rama"
       },
       "divisions" : {
         "type" : "literal",
@@ -4721,9 +3818,9 @@
         "type" : "literal",
         "value" : "Skopje"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Gordana Siljanovska-Davkova"
+        "value" : "Hristijan Mickoski"
       },
       "divisions" : {
         "type" : "literal",
@@ -4764,9 +3861,9 @@
         "type" : "literal",
         "value" : "Zagreb"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Zoran Milanović"
+        "value" : "Andrej Plenković"
       },
       "divisions" : {
         "type" : "literal",
@@ -4807,9 +3904,9 @@
         "type" : "literal",
         "value" : "Sarajevo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Denis Bećirović$DIVIDE$Željka Cvijanović$DIVIDE$Željko Komšić"
+        "value" : "Borjana Krišto"
       },
       "divisions" : {
         "type" : "literal",
@@ -4850,9 +3947,9 @@
         "type" : "literal",
         "value" : "Tbilisi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Salome Zourabichvili"
+        "value" : "Irakli Kobakhidze"
       },
       "divisions" : {
         "type" : "literal",
@@ -4893,7 +3990,7 @@
         "type" : "literal",
         "value" : "Nicosia"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Nicos Christodoulides"
       },
@@ -4936,9 +4033,9 @@
         "type" : "literal",
         "value" : "Astana"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Kassym-Jomart Tokayev"
+        "value" : "Älihan Smaiylov"
       },
       "divisions" : {
         "type" : "literal",
@@ -4979,9 +4076,9 @@
         "type" : "literal",
         "value" : "Podgorica"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Jakov Milatović"
+        "value" : "Milojko Spajić"
       },
       "divisions" : {
         "type" : "literal",
@@ -5022,9 +4119,9 @@
         "type" : "literal",
         "value" : "Belmopan"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Johnny Briceño"
       },
       "divisions" : {
         "type" : "literal",
@@ -5065,7 +4162,7 @@
         "type" : "literal",
         "value" : "Jakarta"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Prabowo Subianto"
       },
@@ -5104,9 +4201,9 @@
         "type" : "literal",
         "value" : "Hargeisa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Muse Bihi Abdi"
+        "value" : ""
       },
       "divisions" : {
         "type" : "literal",
@@ -5147,9 +4244,9 @@
         "type" : "literal",
         "value" : "Minsk"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Alexander Lukashenko"
+        "value" : "Raman Halouchanka"
       },
       "divisions" : {
         "type" : "literal",
@@ -5190,9 +4287,9 @@
         "type" : "literal",
         "value" : "Tallinn"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Alar Karis"
+        "value" : "Kristen Michal"
       },
       "divisions" : {
         "type" : "literal",
@@ -5233,9 +4330,9 @@
         "type" : "literal",
         "value" : "Riga"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Edgars Rinkēvičs"
+        "value" : "Evika Siliņa"
       },
       "divisions" : {
         "type" : "literal",
@@ -5276,9 +4373,9 @@
         "type" : "literal",
         "value" : "Bratislava"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Peter Pellegrini"
+        "value" : "Robert Fico"
       },
       "divisions" : {
         "type" : "literal",
@@ -5291,37 +4388,37 @@
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q212"
+        "value" : "http://www.wikidata.org/entity/Q574"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ukraine"
+        "value" : "Timor-Leste"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "UA"
+        "value" : "TL"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Ukraine.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:East+Timor.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "41167335"
+        "value" : "1243235"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Kyiv"
+        "value" : "Dili"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Volodymyr Zelenskyy"
+        "value" : "Xanana Gusmão"
       },
       "divisions" : {
         "type" : "literal",
@@ -5329,42 +4426,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Hungary$DIVIDE$Moldova$DIVIDE$Romania$DIVIDE$Belarus$DIVIDE$Slovakia$DIVIDE$Russia$DIVIDE$Poland"
+        "value" : "Indonesia"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q213"
+        "value" : "http://www.wikidata.org/entity/Q668"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Czech Republic"
+        "value" : "India"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "CZ"
+        "value" : "IN"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Czechia.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:India+outline.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "10900555"
+        "value" : "1326093247"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Prague"
+        "value" : "New Delhi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Petr Pavel"
+        "value" : "Narendra Modi"
       },
       "divisions" : {
         "type" : "literal",
@@ -5372,42 +4469,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Poland$DIVIDE$Slovakia$DIVIDE$Germany$DIVIDE$Austria"
+        "value" : "Nepal$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$Pakistan$DIVIDE$Bhutan$DIVIDE$Myanmar"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q347"
+        "value" : "http://www.wikidata.org/entity/Q691"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liechtenstein"
+        "value" : "Papua New Guinea"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "LI"
+        "value" : "PG"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Liechtenstein.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Papua+New+Guinea.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "37922"
+        "value" : "8935000"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Vaduz"
+        "value" : "Port Moresby"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Hans-Adam II, Prince of Liechtenstein"
+        "value" : "James Marape"
       },
       "divisions" : {
         "type" : "literal",
@@ -5415,42 +4512,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Austria$DIVIDE$Switzerland"
+        "value" : "Indonesia"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q902"
+        "value" : "http://www.wikidata.org/entity/Q733"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bangladesh"
+        "value" : "Paraguay"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "BD"
+        "value" : "PY"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Bangladesh.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Paraguay.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "171466990"
+        "value" : "6811297"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Dhaka"
+        "value" : "Asunción"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Mohammad Shahabuddin"
+        "value" : "Santiago Peña Palacios"
       },
       "divisions" : {
         "type" : "literal",
@@ -5458,42 +4555,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "India$DIVIDE$Myanmar"
+        "value" : "Bolivia$DIVIDE$Brazil$DIVIDE$Argentina"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1013"
+        "value" : "http://www.wikidata.org/entity/Q750"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lesotho"
+        "value" : "Bolivia"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "LS"
+        "value" : "BO"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Lesotho.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Bolivia.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "2007201"
+        "value" : "12244159"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Maseru"
+        "value" : "Sucre$DIVIDE$La Paz"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Letsie III of Lesotho"
+        "value" : "Luis Arce"
       },
       "divisions" : {
         "type" : "literal",
@@ -5501,7 +4598,566 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "South Africa"
+        "value" : "Argentina$DIVIDE$Chile$DIVIDE$Paraguay$DIVIDE$Peru$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q971"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Republic of the Congo"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CG"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6142180"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Brazzaville"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Clément Mouamba"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Gabon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q977"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "DJ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Djibouti.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1152944"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Abdoulkader Kamil Mohamed$DIVIDE$Dileita Mohamed Dileita"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Eritrea$DIVIDE$Ethiopia$DIVIDE$Somalia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "MR"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Mauritania.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "4736139"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Nouakchott"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Moctar Ould Djay"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Algeria$DIVIDE$Western Sahara$DIVIDE$Mali$DIVIDE$Senegal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1030"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "NA"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Namibia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2533794"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Windhoek"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Saara Kuugongelwa"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$South Africa"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1028"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morocco"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "MA"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Morocco.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "37076584"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Rabat"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Aziz Akhannouch"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Western Sahara$DIVIDE$Ceuta$DIVIDE$Algeria$DIVIDE$Spain$DIVIDE$Melilla"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "MZ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Mozambique.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "29668834"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Maputo"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Adriano Maleiane"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Malawi$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Eswatini$DIVIDE$Zimbabwe"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1032"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niger"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "NE"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Niger.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "21477348"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Niamey"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Ouhoumoudou Mahamadou$DIVIDE$Albadé Abouba$DIVIDE$Ali Lamine Zeine$DIVIDE$Ali Badjo Gamatié$DIVIDE$Ibrahim Assane Mayaki$DIVIDE$Seyni Oumarou$DIVIDE$Hama Amadou$DIVIDE$Mahamadou Danda$DIVIDE$Brigi Rafini"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Algeria$DIVIDE$Burkina Faso$DIVIDE$Benin$DIVIDE$Mali$DIVIDE$Nigeria$DIVIDE$Chad$DIVIDE$Libya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1033"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "NG"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Nigeria.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "211400708"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Abuja"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Bola Ahmed Tinubu"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Benin$DIVIDE$Cameroon$DIVIDE$Niger$DIVIDE$Chad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1037"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rwanda"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "RW"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Rwanda.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13246394"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Kigali"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Édouard Ngirente"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uganda$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Tanzania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1041"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SN"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Senegal.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "16876720"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Dakar"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Bassirou Diomaye Diakhar Faye"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mauritania$DIVIDE$Mali"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1044"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sierra Leone"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SL"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "7557212"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Freetown"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "David Sengeh"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guinea$DIVIDE$Liberia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SO"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Somalia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "11031386"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Mogadishu"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Mohamed Hussein Roble"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ethiopia$DIVIDE$Kenya$DIVIDE$Djibouti"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1050"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eswatini"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SZ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Eswatini.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1230506"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Lobamba$DIVIDE$Mbabane"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Russell Dlamini"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Mozambique"
       }
     }, {
       "country" : {
@@ -5534,9 +5190,9 @@
         "type" : "literal",
         "value" : "Amsterdam"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "William Alexander of the Netherlands"
+        "value" : "Mark Rutte"
       },
       "divisions" : {
         "type" : "literal",
@@ -5544,93 +5200,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "France$DIVIDE$Germany$DIVIDE$Belgium"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Norway"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "NO"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Norway.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "5594340"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Oslo"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Harald V of Norway"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Russia$DIVIDE$Sweden$DIVIDE$Finland"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Belgium"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "BE"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Belgium.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "11584008"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "City of Brussels"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Philippe of Belgium"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "France$DIVIDE$Germany$DIVIDE$Luxembourg$DIVIDE$Kingdom of the Netherlands"
+        "value" : "Germany$DIVIDE$Belgium$DIVIDE$France"
       }
     }, {
       "country" : {
@@ -5663,9 +5233,9 @@
         "type" : "literal",
         "value" : "Budapest"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Tamás Sulyok"
+        "value" : "Viktor Orbán"
       },
       "divisions" : {
         "type" : "literal",
@@ -5673,136 +5243,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Austria$DIVIDE$Ukraine$DIVIDE$Slovakia$DIVIDE$Romania$DIVIDE$Croatia$DIVIDE$Serbia$DIVIDE$Slovenia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Spain"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "ES"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Spain.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "47415750"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Madrid"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Felipe VI of Spain"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Andorra$DIVIDE$Gibraltar$DIVIDE$France$DIVIDE$Portugal$DIVIDE$Morocco"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sweden"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "SE"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Sweden.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "10587710"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Stockholm"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Carl XVI Gustaf of Sweden"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Finland$DIVIDE$Norway"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Denmark"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "DK"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Denmark.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "5827463"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Copenhagen"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Frederik X of Denmark"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Germany"
+        "value" : "Serbia$DIVIDE$Slovenia$DIVIDE$Austria$DIVIDE$Ukraine$DIVIDE$Slovakia$DIVIDE$Romania$DIVIDE$Croatia"
       }
     }, {
       "country" : {
@@ -5835,9 +5276,9 @@
         "type" : "literal",
         "value" : "Luxembourg"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Henri, Grand Duke of Luxembourg"
+        "value" : "Luc Frieden"
       },
       "divisions" : {
         "type" : "literal",
@@ -5845,179 +5286,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Germany$DIVIDE$Belgium$DIVIDE$France"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q33"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Finland"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "FI"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Finland.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "5608218"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Helsinki"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Alexander Stubb"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Sweden$DIVIDE$Norway$DIVIDE$Russia"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Italy"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "IT"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Italia.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "58850717"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Rome"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Sergio Mattarella"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "San Marino$DIVIDE$France$DIVIDE$Austria$DIVIDE$Vatican City$DIVIDE$Slovenia$DIVIDE$Switzerland"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q39"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Switzerland"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "CH"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Switzerland.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "8902308"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Bern"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Swiss Federal Council"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Austria$DIVIDE$France$DIVIDE$Germany$DIVIDE$Liechtenstein$DIVIDE$Italy"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q37"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lithuania"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "LT"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Lithuania.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "2860002"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Vilnius"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Gitanas Nausėda"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Russia$DIVIDE$Poland$DIVIDE$Belarus$DIVIDE$Latvia"
+        "value" : "France$DIVIDE$Germany$DIVIDE$Belgium"
       }
     }, {
       "country" : {
@@ -6050,7 +5319,7 @@
         "type" : "literal",
         "value" : "Ankara"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Recep Tayyip Erdoğan"
       },
@@ -6060,50 +5329,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Armenia$DIVIDE$Azerbaijan$DIVIDE$Iran$DIVIDE$Iraq$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Georgia$DIVIDE$Syria"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q40"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Austria"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "AT"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Austria.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "8979894"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Vienna"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Alexander Van der Bellen"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Slovakia$DIVIDE$Liechtenstein$DIVIDE$Switzerland$DIVIDE$Hungary$DIVIDE$Italy$DIVIDE$Germany$DIVIDE$Czech Republic$DIVIDE$Slovenia"
+        "value" : "Iran$DIVIDE$Iraq$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Georgia$DIVIDE$Syria$DIVIDE$Armenia$DIVIDE$Azerbaijan"
       }
     }, {
       "country" : {
@@ -6136,9 +5362,9 @@
         "type" : "literal",
         "value" : "Athens"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Konstantinos Tasoulas"
+        "value" : "Kyriakos Mitsotakis"
       },
       "divisions" : {
         "type" : "literal",
@@ -6146,42 +5372,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Albania$DIVIDE$Bulgaria$DIVIDE$North Macedonia$DIVIDE$Turkey"
+        "value" : "North Macedonia$DIVIDE$Turkey$DIVIDE$Albania$DIVIDE$Bulgaria"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45"
+        "value" : "http://www.wikidata.org/entity/Q96"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Portugal"
+        "value" : "Mexico"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "PT"
+        "value" : "MX"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Portugal.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Mexico.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "10347892"
+        "value" : "124777324"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Lisbon"
+        "value" : "Mexico City"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Marcelo Rebelo de Sousa"
+        "value" : "Claudia Sheinbaum"
       },
       "divisions" : {
         "type" : "literal",
@@ -6189,42 +5415,42 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Spain"
+        "value" : "Belize$DIVIDE$Guatemala$DIVIDE$United States"
       }
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79"
+        "value" : "http://www.wikidata.org/entity/Q117"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Egypt"
+        "value" : "Ghana"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "EG"
+        "value" : "GH"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Egypt.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ghana.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "114535772"
+        "value" : "32833031"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Cairo"
+        "value" : "Accra"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Abdel Fattah el-Sisi"
+        "value" : "Nana Akufo-Addo"
       },
       "divisions" : {
         "type" : "literal",
@@ -6232,50 +5458,7 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Israel$DIVIDE$Libya$DIVIDE$Sudan"
-      }
-    }, {
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q77"
-      },
-      "countryLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Uruguay"
-      },
-      "isoCode" : {
-        "type" : "literal",
-        "value" : "UY"
-      },
-      "geo" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Uruguay.map"
-      },
-      "flagImage" : {
-        "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
-      },
-      "population" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "3444263"
-      },
-      "capitals" : {
-        "type" : "literal",
-        "value" : "Montevideo"
-      },
-      "headsOfState" : {
-        "type" : "literal",
-        "value" : "Yamandú Orsi"
-      },
-      "divisions" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "borderCountries" : {
-        "type" : "literal",
-        "value" : "Argentina$DIVIDE$Brazil"
+        "value" : "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Togo"
       }
     }, {
       "country" : {
@@ -6308,9 +5491,9 @@
         "type" : "literal",
         "value" : "Ulaanbaatar"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Khurelsukh Ukhnaa"
+        "value" : "Oyunerdene Luvsannamsrai"
       },
       "divisions" : {
         "type" : "literal",
@@ -6351,7 +5534,7 @@
         "type" : "literal",
         "value" : "Quito"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Daniel Noboa"
       },
@@ -6362,6 +5545,49 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Colombia$DIVIDE$Peru"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "BD"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Bangladesh.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "171466990"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Dhaka"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Muhammad Yunus"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Myanmar$DIVIDE$India"
       }
     }, {
       "country" : {
@@ -6394,9 +5620,9 @@
         "type" : "literal",
         "value" : "Dublin"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Michael D. Higgins"
+        "value" : "Micheál Martin"
       },
       "divisions" : {
         "type" : "literal",
@@ -6437,7 +5663,7 @@
         "type" : "literal",
         "value" : "Washington, D.C."
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Donald Trump"
       },
@@ -6452,37 +5678,37 @@
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q96"
+        "value" : "http://www.wikidata.org/entity/Q33"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mexico"
+        "value" : "Finland"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "MX"
+        "value" : "FI"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Mexico.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Finland.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "124777324"
+        "value" : "5608218"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Mexico City"
+        "value" : "Helsinki"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Claudia Sheinbaum"
+        "value" : "Petteri Orpo"
       },
       "divisions" : {
         "type" : "literal",
@@ -6490,7 +5716,523 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Guatemala$DIVIDE$United States$DIVIDE$Belize"
+        "value" : "Russia$DIVIDE$Sweden$DIVIDE$Norway"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "IT"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Italia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "58850717"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Giorgia Meloni"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Slovenia$DIVIDE$Switzerland$DIVIDE$San Marino$DIVIDE$France$DIVIDE$Austria$DIVIDE$Vatican City"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CH"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Switzerland.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "8902308"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Bern"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Swiss Federal Council"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Italy$DIVIDE$Austria$DIVIDE$France$DIVIDE$Germany$DIVIDE$Liechtenstein"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q347"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LI"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Liechtenstein.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "37922"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Vaduz"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Daniel Risch"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Austria$DIVIDE$Switzerland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q983"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Equatorial Guinea"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "GQ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Equatorial+Guinea.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1847549"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Malabo"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Manuela Roka"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Gabon$DIVIDE$Cameroon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1000"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabon"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "GA"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Gabon.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2025137"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Libreville"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Raymond Ndong Sima"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Equatorial Guinea$DIVIDE$Cameroon$DIVIDE$Republic of the Congo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1013"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lesotho"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LS"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Lesotho.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2007201"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Maseru"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Sam Matekane"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norway"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "NO"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Norway.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "5594340"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Oslo"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Jonas Gahr Støre"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Sweden$DIVIDE$Finland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "BE"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Belgium.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "11584008"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "City of Brussels"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Bart De Wever"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France$DIVIDE$Germany$DIVIDE$Luxembourg$DIVIDE$Kingdom of the Netherlands"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "ES"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Spain.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "47415750"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Madrid"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Pedro Sánchez"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Andorra$DIVIDE$Gibraltar$DIVIDE$France$DIVIDE$Portugal$DIVIDE$Morocco"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweden"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "SE"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Sweden.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10587710"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Stockholm"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Ulf Kristersson"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Finland$DIVIDE$Norway"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Denmark"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "DK"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Denmark.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "5827463"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Copenhagen"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Mette Frederiksen"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lithuania"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "LT"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Lithuania.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2860002"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Vilnius"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Gintautas Paluckas"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Poland$DIVIDE$Belarus$DIVIDE$Latvia"
       }
     }, {
       "country" : {
@@ -6523,9 +6265,9 @@
         "type" : "literal",
         "value" : "Ramallah$DIVIDE$Jerusalem"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Mahmoud Abbas$DIVIDE$Yasser Arafat"
+        "value" : "Mohammad Shtayyeh"
       },
       "divisions" : {
         "type" : "literal",
@@ -6558,9 +6300,9 @@
         "type" : "literal",
         "value" : "Tiraspol"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Vadim Krasnoselsky"
+        "value" : "Alexander Rosenberg"
       },
       "divisions" : {
         "type" : "literal",
@@ -6593,9 +6335,9 @@
         "type" : "literal",
         "value" : "Buea"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Chris Anu$DIVIDE$Marianta Njomia$DIVIDE$Samuel Ikome Sako$DIVIDE$Sisiku Julius Ayuk Tabe"
+        "value" : "Rev Njini$DIVIDE$Hariscine Abongwa$DIVIDE$Eric Ateh$DIVIDE$Dabney Yerima"
       },
       "divisions" : {
         "type" : "literal",
@@ -6628,9 +6370,9 @@
         "type" : "literal",
         "value" : "Sukhumi"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Badra Gunba"
+        "value" : "Alexander Ankvab"
       },
       "divisions" : {
         "type" : "literal",
@@ -6671,9 +6413,9 @@
         "type" : "literal",
         "value" : "Singapore"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Tharman Shanmugaratnam"
+        "value" : "Lawrence Wong"
       },
       "divisions" : {
         "type" : "literal",
@@ -6714,9 +6456,9 @@
         "type" : "literal",
         "value" : "Manama"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Hamad II of Bahrain"
+        "value" : "Salman bin Hamad, Crown Prince of Bahrain"
       },
       "divisions" : {
         "type" : "literal",
@@ -6757,9 +6499,9 @@
         "type" : "literal",
         "value" : "Canberra"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Anthony Albanese"
       },
       "divisions" : {
         "type" : "literal",
@@ -6800,9 +6542,9 @@
         "type" : "literal",
         "value" : "Wellington"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Christopher Luxon"
       },
       "divisions" : {
         "type" : "literal",
@@ -6843,9 +6585,9 @@
         "type" : "literal",
         "value" : "Funafuti"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Feleti Teo"
       },
       "divisions" : {
         "type" : "literal",
@@ -6886,9 +6628,9 @@
         "type" : "literal",
         "value" : "Nukuʻalofa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Tupou VI of Tonga"
+        "value" : "ʻAisake Eke"
       },
       "divisions" : {
         "type" : "literal",
@@ -6929,9 +6671,9 @@
         "type" : "literal",
         "value" : "Apia"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Va'aletoa Sualauvi II"
+        "value" : "Fiamē Naomi Mataʻafa$DIVIDE$Tuila'epa Sa'ilele Malielegaoi"
       },
       "divisions" : {
         "type" : "literal",
@@ -6972,9 +6714,9 @@
         "type" : "literal",
         "value" : "Port Vila"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Nikenike Vurobaravu"
+        "value" : "Bob Loughman"
       },
       "divisions" : {
         "type" : "literal",
@@ -7015,9 +6757,9 @@
         "type" : "literal",
         "value" : "Honiara"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Jeremiah Manele"
       },
       "divisions" : {
         "type" : "literal",
@@ -7058,7 +6800,7 @@
         "type" : "literal",
         "value" : "Ngerulmud"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Surangel Whipps Jr."
       },
@@ -7101,9 +6843,9 @@
         "type" : "literal",
         "value" : "Yaren District"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "David Adeang"
+        "value" : "Russ J Kun"
       },
       "divisions" : {
         "type" : "literal",
@@ -7144,7 +6886,7 @@
         "type" : "literal",
         "value" : "Palikir"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Wesley Simina"
       },
@@ -7187,7 +6929,7 @@
         "type" : "literal",
         "value" : "South Tarawa$DIVIDE$Tarawa"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Taneti Maamau"
       },
@@ -7230,7 +6972,7 @@
         "type" : "literal",
         "value" : "Majuro"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Hilda Heine"
       },
@@ -7273,9 +7015,9 @@
         "type" : "literal",
         "value" : "Suva"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Wiliame Katonivere"
+        "value" : "Sitiveni Rabuka"
       },
       "divisions" : {
         "type" : "literal",
@@ -7316,9 +7058,9 @@
         "type" : "literal",
         "value" : "Port of Spain"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Christine Kangaloo"
+        "value" : "Keith Rowley"
       },
       "divisions" : {
         "type" : "literal",
@@ -7359,9 +7101,9 @@
         "type" : "literal",
         "value" : "Kingstown"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Ralph Gonsalves"
       },
       "divisions" : {
         "type" : "literal",
@@ -7402,9 +7144,9 @@
         "type" : "literal",
         "value" : "Basseterre"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Terrance Drew"
       },
       "divisions" : {
         "type" : "literal",
@@ -7445,9 +7187,9 @@
         "type" : "literal",
         "value" : "Castries"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Allen Chastanet"
       },
       "divisions" : {
         "type" : "literal",
@@ -7488,9 +7230,9 @@
         "type" : "literal",
         "value" : "Kingston"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Andrew Holness"
       },
       "divisions" : {
         "type" : "literal",
@@ -7531,9 +7273,9 @@
         "type" : "literal",
         "value" : "St. George's"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Dickon Mitchell"
       },
       "divisions" : {
         "type" : "literal",
@@ -7574,9 +7316,9 @@
         "type" : "literal",
         "value" : "Nassau"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Hubert Minnis$DIVIDE$Philip \"Brave\" Davis$DIVIDE$Hubert Ingraham$DIVIDE$Perry Christie"
       },
       "divisions" : {
         "type" : "literal",
@@ -7617,9 +7359,9 @@
         "type" : "literal",
         "value" : "Saint John's"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles III"
+        "value" : "Gaston Browne"
       },
       "divisions" : {
         "type" : "literal",
@@ -7660,9 +7402,9 @@
         "type" : "literal",
         "value" : "Roseau"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Charles Savarin"
+        "value" : "Roosevelt Skerrit"
       },
       "divisions" : {
         "type" : "literal",
@@ -7703,7 +7445,7 @@
         "type" : "literal",
         "value" : "Malé"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Mohamed Muizzu"
       },
@@ -7746,9 +7488,9 @@
         "type" : "literal",
         "value" : "Sri Jayawardenepura Kotte$DIVIDE$Colombo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Anura Kumara Dissanayake"
+        "value" : "Harini Amarasuriya"
       },
       "divisions" : {
         "type" : "literal",
@@ -7789,9 +7531,9 @@
         "type" : "literal",
         "value" : "Taipei"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Lai Ching-te"
+        "value" : "Cho Jung-tai"
       },
       "divisions" : {
         "type" : "literal",
@@ -7832,7 +7574,7 @@
         "type" : "literal",
         "value" : "Manila"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Bongbong Marcos"
       },
@@ -7875,7 +7617,7 @@
         "type" : "literal",
         "value" : "Moroni"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Azali Assoumani"
       },
@@ -7918,9 +7660,9 @@
         "type" : "literal",
         "value" : "Praia"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "José Maria Neves"
+        "value" : "Ulisses Correia e Silva"
       },
       "divisions" : {
         "type" : "literal",
@@ -7961,9 +7703,9 @@
         "type" : "literal",
         "value" : "Antananarivo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Andry Rajoelina"
+        "value" : "Christian Ntsay"
       },
       "divisions" : {
         "type" : "literal",
@@ -8004,9 +7746,9 @@
         "type" : "literal",
         "value" : "Port Louis"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Prithvirajsing Roopun"
+        "value" : "Pravind Jugnauth"
       },
       "divisions" : {
         "type" : "literal",
@@ -8047,9 +7789,9 @@
         "type" : "literal",
         "value" : "São Tomé"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Carlos Vila Nova"
+        "value" : "Patrice Trovoada"
       },
       "divisions" : {
         "type" : "literal",
@@ -8090,7 +7832,7 @@
         "type" : "literal",
         "value" : "Victoria"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
         "value" : "Wavel Ramkalawan"
       },
@@ -8133,9 +7875,9 @@
         "type" : "literal",
         "value" : "Tórshavn"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Frederik X of Denmark"
+        "value" : "Aksel V. Johannesen"
       },
       "divisions" : {
         "type" : "literal",
@@ -8168,9 +7910,9 @@
         "type" : "literal",
         "value" : "Tskhinvali"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Alan Gagloyev"
+        "value" : "Constantine Dzhussoev"
       },
       "divisions" : {
         "type" : "literal",
@@ -8207,9 +7949,52 @@
         "type" : "literal",
         "value" : "North Nicosia"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ersin Tatar"
+        "value" : "Ünal Üstel"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26988"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cook Islands"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CK"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cook+Islands.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cook%20Islands.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "14222"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Avarua"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Henry Puna"
       },
       "divisions" : {
         "type" : "literal",
@@ -8250,9 +8035,9 @@
         "type" : "literal",
         "value" : "Tokyo"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Naruhito"
+        "value" : "Shigeru Ishiba"
       },
       "divisions" : {
         "type" : "literal",
@@ -8293,9 +8078,9 @@
         "type" : "literal",
         "value" : "Reykjavík"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Halla Tómasdóttir"
+        "value" : "Bjarni Benediktsson"
       },
       "divisions" : {
         "type" : "literal",
@@ -8336,9 +8121,9 @@
         "type" : "literal",
         "value" : "Nuuk"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Frederik X of Denmark"
+        "value" : "Múte Bourup Egede"
       },
       "divisions" : {
         "type" : "literal",
@@ -8379,9 +8164,9 @@
         "type" : "literal",
         "value" : "Valletta"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Myriam Spiteri Debono"
+        "value" : "Robert Abela"
       },
       "divisions" : {
         "type" : "literal",
@@ -8422,9 +8207,9 @@
         "type" : "literal",
         "value" : "Havana"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Miguel Díaz-Canel"
+        "value" : "Manuel Marrero Cruz"
       },
       "divisions" : {
         "type" : "literal",
@@ -8465,9 +8250,52 @@
         "type" : "literal",
         "value" : "Bridgetown"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Sandra Mason"
+        "value" : "Mia Mottley"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34020"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niue"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "NU"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Niue.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niue.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1933"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Alofi"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Dalton Tagelagi"
       },
       "divisions" : {
         "type" : "literal",
@@ -8504,9 +8332,9 @@
         "type" : "literal",
         "value" : "Tifariti$DIVIDE$Laayoune"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Brahim Ghali"
+        "value" : "Bouchraya Hammoudi Bayoun"
       },
       "divisions" : {
         "type" : "literal",
@@ -8519,37 +8347,37 @@
     }, {
       "country" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q117"
+        "value" : "http://www.wikidata.org/entity/Q1020"
       },
       "countryLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ghana"
+        "value" : "Malawi"
       },
       "isoCode" : {
         "type" : "literal",
-        "value" : "GH"
+        "value" : "MW"
       },
       "geo" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/data/main/Data:Ghana.map"
+        "value" : "http://commons.wikimedia.org/data/main/Data:Malawi.map"
       },
       "flagImage" : {
         "type" : "uri",
-        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg"
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg"
       },
       "population" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "32833031"
+        "value" : "18622104"
       },
       "capitals" : {
         "type" : "literal",
-        "value" : "Accra"
+        "value" : "Lilongwe"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Nana Akufo-Addo"
+        "value" : "Lazarus Chakwera"
       },
       "divisions" : {
         "type" : "literal",
@@ -8557,7 +8385,93 @@
       },
       "borderCountries" : {
         "type" : "literal",
-        "value" : "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Togo"
+        "value" : "Zambia$DIVIDE$Tanzania$DIVIDE$Mozambique"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ukraine"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "UA"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ukraine.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "41167335"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Kyiv"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Denys Shmyhal"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Hungary$DIVIDE$Moldova$DIVIDE$Romania$DIVIDE$Belarus$DIVIDE$Slovakia$DIVIDE$Russia$DIVIDE$Poland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czech Republic"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "CZ"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Czechia.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10900555"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Prague"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Petr Fiala"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Poland$DIVIDE$Slovakia$DIVIDE$Germany$DIVIDE$Austria"
       }
     }, {
       "country" : {
@@ -8590,9 +8504,9 @@
         "type" : "literal",
         "value" : "Chișinău"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Maia Sandu"
+        "value" : "Dorin Recean"
       },
       "divisions" : {
         "type" : "literal",
@@ -8633,9 +8547,9 @@
         "type" : "literal",
         "value" : "Shusha$DIVIDE$Baku"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Ilham Aliyev"
+        "value" : "Ali Asadov"
       },
       "divisions" : {
         "type" : "literal",
@@ -8676,9 +8590,9 @@
         "type" : "literal",
         "value" : "Andorra la Vella"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Emmanuel Macron$DIVIDE$Joan Enric Vives Sicília"
+        "value" : "Xavier Espot Zamora"
       },
       "divisions" : {
         "type" : "literal",
@@ -8719,9 +8633,9 @@
         "type" : "literal",
         "value" : ""
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Albert II, Prince of Monaco"
+        "value" : "Isabelle Berro-Amadeï"
       },
       "divisions" : {
         "type" : "literal",
@@ -8762,9 +8676,9 @@
         "type" : "literal",
         "value" : "San Marino"
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Francesca Civerchia"
+        "value" : ""
       },
       "divisions" : {
         "type" : "literal",
@@ -8805,9 +8719,9 @@
         "type" : "literal",
         "value" : ""
       },
-      "headsOfState" : {
+      "headsOfGov" : {
         "type" : "literal",
-        "value" : "Pope Francis"
+        "value" : "Raffaella Petrini"
       },
       "divisions" : {
         "type" : "literal",
@@ -8816,6 +8730,178 @@
       "borderCountries" : {
         "type" : "literal",
         "value" : "Italy"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "AT"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Austria.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "8979894"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Vienna"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Alexander Schallenberg"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Slovakia$DIVIDE$Liechtenstein$DIVIDE$Switzerland$DIVIDE$Hungary$DIVIDE$Italy$DIVIDE$Germany$DIVIDE$Czech Republic$DIVIDE$Slovenia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "PT"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Portugal.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10347892"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Lisbon"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Luís Montenegro"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egypt"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "EG"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Egypt.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "114535772"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Cairo"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Mostafa Madbouly"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Israel$DIVIDE$Libya$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "isoCode" : {
+        "type" : "literal",
+        "value" : "UY"
+      },
+      "geo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Uruguay.map"
+      },
+      "flagImage" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
+      },
+      "population" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "3444263"
+      },
+      "capitals" : {
+        "type" : "literal",
+        "value" : "Montevideo"
+      },
+      "headsOfGov" : {
+        "type" : "literal",
+        "value" : "Yamandú Orsi"
+      },
+      "divisions" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Argentina$DIVIDE$Brazil"
       }
     } ]
   }
