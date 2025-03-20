@@ -88,6 +88,10 @@ export class Quiz extends LitElementNoShadow {
       <div class="flex flex-col align-center justify-center gap-2 h-full p-2">
         <x-question lives=${this.lives}></x-question>
       </div>
+      <div class="text-center p-2 text-slate-500">
+        Powered by
+        <a class="font-bold" href="https://www.wikidata.org">Wikidata</a>
+      </div>
     </div>`;
   }
 }
