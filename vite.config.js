@@ -6,7 +6,12 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     process.env.NODE_ENV === "production"
-      ? vitePluginFaviconsInject("./assets/logo.png")
+      ? vitePluginFaviconsInject("./assets/logo.png", {
+          background: "#1e293b",
+          theme_color: "#1e293b",
+          appName: "Countries Game",
+          appShortName: "Countries Game",
+        })
       : false,
   ],
 });
