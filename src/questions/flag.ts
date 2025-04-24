@@ -28,17 +28,19 @@ export class CountryWhichFlagQuestion extends Question {
   render() {
     const correctButton = createRef<HTMLButtonElement>();
     const choices = this.choices.map((choice, i) => {
-      const { event, classes, button } =
+      const { event, classes, button, timeout } =
         i == this.correct
           ? {
               event: "answer-correct",
               classes: ["wiggle", "text-slate-900"],
               button: correctButton,
+              timeout: 500,
             }
           : {
               event: "answer-incorrect",
               classes: ["bg-red-600!", "border-red-600!", "text-slate-900!"],
               button: createRef<HTMLButtonElement>(),
+              timeout: 1500,
             };
 
       const src =
@@ -61,7 +63,7 @@ export class CountryWhichFlagQuestion extends Question {
                   detail: { fatal: true },
                 }),
               ),
-            500,
+            timeout,
           );
         }}
         ${ref(button)}

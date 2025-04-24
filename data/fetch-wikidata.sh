@@ -10,9 +10,14 @@
 	--data-urlencode query@data/query-divisions.sparql \
 	-o data/wikidata-query-divisions.json
 
+[ ! -f data/wikidata-query-borders.json ] && curl https://query.wikidata.org/sparql \
+	-H "Accept: application/sparql-results+json" \
+	--data-urlencode query@data/query-borders.sparql \
+	-o data/wikidata-query-borders.json
+
 jq \
-	-s '.[0].results.bindings + .[1].results.bindings | group_by(.country) | map(.[0]*(.[1]//{}))' \
-	./data/wikidata-query.json ./data/wikidata-query-divisions.json > ./data/wikidata-query-full.json
+	-s '.[0].results.bindings + .[1].results.bindings + .[2].results.bindings | group_by(.country) | map(.[0]*(.[1]//{})*(.[2]//{}))' \
+	./data/wikidata-query.json ./data/wikidata-query-divisions.json ./data/wikidata-query-borders.json > ./data/wikidata-query-full.json
 
 jq 'import "data/wikidata" as fetch; { countries: . | fetch::process }' data/wikidata-query-full.json >data/countries.json
 

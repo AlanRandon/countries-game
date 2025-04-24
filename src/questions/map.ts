@@ -117,7 +117,7 @@ export class MapElement extends LitElementNoShadow {
   }
 
   render() {
-    return html` <div class="map min-w-64 aspect-square rounded-xl"></div>`;
+    return html`<div class="map inset-0 w-full h-64 rounded-xl"></div>`;
   }
 }
 
@@ -147,6 +147,8 @@ export class MapIsWhichCountryQuestion extends Question {
         class="grid place-items-center text-wrap max-w-100 text-center gap-2"
       >
         <span>Which country is found here?</span>
+      </div>
+      <div class="grid place-items-stretch w-full h-full">
         <x-map src=${src} @fetch-error=${() => this.dispatchSkip()}></x-map>
       </div>
       <x-option-selection

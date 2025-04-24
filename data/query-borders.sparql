@@ -1,20 +1,12 @@
 SELECT
 	?country
 	?countryLabel
-	(SAMPLE(?isoCodeValue) AS ?isoCode)
-	(SAMPLE(?geoshapeValue) AS ?geo)
-	(SAMPLE(?flagImageValue) AS ?flagImage)
-	(SAMPLE(?populationValue) AS ?population)
-	(GROUP_CONCAT(DISTINCT ?capitalLabel; separator="$DIVIDE$") AS ?capitals)
-	(GROUP_CONCAT(DISTINCT ?continentLabel; separator="$DIVIDE$") AS ?continents)
-	(GROUP_CONCAT(DISTINCT ?headOfGovLabel; separator="$DIVIDE$") AS ?headsOfGov)
+	(GROUP_CONCAT(DISTINCT ?borderCountryLabel; separator="$DIVIDE$") AS ?borderCountries)
 WHERE {
 	SERVICE wikibase:label {
 		bd:serviceParam wikibase:language "en,mul".
 		?country rdfs:label ?countryLabel.
-		?capital rdfs:label ?capitalLabel.
-		?continent rdfs:label ?continentLabel.
-		?headOfGov rdfs:label ?headOfGovLabel.
+		?borderCountry rdfs:label ?borderCountryLabel.
 	}.
 
 	{
@@ -39,16 +31,14 @@ WHERE {
 		}
 	}
 
+
 	# no dissolved countries
 	FILTER NOT EXISTS{ ?country wdt:P576 ?date }
 
-	OPTIONAL { ?country wdt:P36 ?capital }.
-      	OPTIONAL { ?country wdt:P6 ?headOfGov }.
-	OPTIONAL { ?country wdt:P1082 ?populationValue }.
-	OPTIONAL { ?country wdt:P41 ?flagImageValue }.
-	OPTIONAL { ?country wdt:P3896 ?geoshapeValue }.
-	OPTIONAL { ?country wdt:P297 ?isoCodeValue }.
-	OPTIONAL { ?country wdt:P30 ?continent }.
-
+	OPTIONAL {
+		?border wdt:P31 wd:Q12413618; wdt:P1001 ?country, ?borderCountry.
+		FILTER(?borderCountry != ?country).
+		FILTER EXISTS { ?border wdt:P31 wd:Q15104814 } # only land borders
+	}
 }
 GROUP BY ?country ?countryLabel

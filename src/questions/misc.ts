@@ -1,62 +1,106 @@
 import { html } from "lit";
 import { customElement } from "lit/decorators.js";
-import { Country, countryCorrectMatchesFilter } from "../main.ts";
+import { Country, countryCorrectMatchesFilter, shuffle } from "../main.ts";
+import data from "../../data/countries.json";
 import { Question } from "./base.ts";
 
-@customElement("x-country-what-population")
-export class CountryHasWhatPopulationQuestion extends Question {
-  choices: Country[];
-  correct: number;
+const POPULATION_GREATER = 0 as const;
+const POPULATION_SMALLER = 1 as const;
+const POPULATION_WHICH_COUNTRY = 2 as const;
+
+type PopulationComparison =
+  | typeof POPULATION_GREATER
+  | typeof POPULATION_SMALLER
+  | typeof POPULATION_WHICH_COUNTRY;
+
+const numberFormatter = new Intl.NumberFormat("en", {
+  notation: "compact",
+  minimumSignificantDigits: 3,
+  maximumSignificantDigits: 3,
+  compactDisplay: "long",
+});
+
+@customElement("x-country-population-comparison")
+export class CountryPopulationComparison extends Question {
+  first: Country;
+  second: Country;
+  comparison: PopulationComparison;
 
   constructor(lives: number) {
     super(lives);
 
-    const question = countryCorrectMatchesFilter(
-      (_) => true,
-      (correct) => {
-        const correctPopulation = correct.population;
-        return (country) => {
-          const countryPopulation = country.population;
-          return (
-            Math.abs(correctPopulation - countryPopulation) /
-              correctPopulation >
-            0.1
-          );
-        };
-      },
-    );
+    let choices = shuffle(data.countries);
 
-    this.choices = question.choices;
-    this.correct = question.correct;
+    this.first = choices[0];
+    this.second = choices.find(
+      (country) =>
+        Math.abs(
+          Math.log10(country.population) - Math.log10(this.first.population),
+        ) > 0.1,
+    ) as Country;
+
+    this.comparison = shuffle([
+      POPULATION_GREATER,
+      POPULATION_SMALLER,
+      POPULATION_WHICH_COUNTRY,
+      POPULATION_WHICH_COUNTRY,
+      POPULATION_WHICH_COUNTRY,
+    ])[0];
   }
 
   render() {
-    const formatter = new Intl.NumberFormat("en", {
-      notation: "compact",
-      minimumSignificantDigits: 3,
-      maximumSignificantDigits: 3,
-      compactDisplay: "long",
-    });
-
-    return html`<div class="grid place-items-center">
-      <div
-        class="grid place-items-center text-wrap max-w-100 text-center gap-2"
-      >
-        <span>
-          What is the population of
-          <b>${this.choices[this.correct].name}</b>?
-        </span>
-      </div>
-      <x-option-selection
-        correct=${this.correct}
-        choices=${JSON.stringify(
-          this.choices
-            .map((country) => country.population)
-            .map(formatter.format),
-        )}
-      ></x-option-selection>
-      <x-fatality-indicator lives=${this.lives}></x-fatality-indicator>
-    </div>`;
+    switch (this.comparison) {
+      case POPULATION_GREATER: {
+        const correct = this.first.population > this.second.population ? 0 : 1;
+        return html`<div class="grid place-items-center">
+          <div
+            class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+          >
+            <span>Which country has the greater population?</span>
+          </div>
+          <x-option-selection
+            correct=${correct}
+            choices=${JSON.stringify([this.first.name, this.second.name])}
+          ></x-option-selection>
+          <x-fatality-indicator lives=${this.lives}></x-fatality-indicator>
+        </div>`;
+      }
+      case POPULATION_SMALLER: {
+        const correct = this.first.population < this.second.population ? 0 : 1;
+        return html`<div class="grid place-items-center">
+          <div
+            class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+          >
+            <span>Which country has the smaller population?</span>
+          </div>
+          <x-option-selection
+            correct=${correct}
+            choices=${JSON.stringify([this.first.name, this.second.name])}
+          ></x-option-selection>
+          <x-fatality-indicator lives=${this.lives}></x-fatality-indicator>
+        </div>`;
+      }
+      case POPULATION_WHICH_COUNTRY: {
+        const first = Math.random() > 0.5;
+        return html`<div class="grid place-items-center">
+          <div
+            class="grid place-items-center text-wrap max-w-100 text-center gap-2"
+          >
+            <span
+              >Which country has a population of
+              ${numberFormatter.format(
+                first ? this.first.population : this.second.population,
+              )}?</span
+            >
+          </div>
+          <x-option-selection
+            correct=${first ? 0 : 1}
+            choices=${JSON.stringify([this.first.name, this.second.name])}
+          ></x-option-selection>
+          <x-fatality-indicator lives=${this.lives}></x-fatality-indicator>
+        </div>`;
+      }
+    }
   }
 }
 

@@ -7,13 +7,15 @@ import {
   CaptialInWhichCountryQuestion,
   CountryHasWhichCapitalQuestion,
   RegionInWhichCountryQuestion,
+  CountryInWhichContinent,
+  ContinentNameCountry,
 } from "./questions/place.ts";
 import {
   CountryWhichFlagQuestion,
   FlagOfWhichCountryQuestion,
 } from "./questions/flag.ts";
 import {
-  CountryHasWhatPopulationQuestion,
+  CountryPopulationComparison,
   CountryWhichBordersQuestion,
   CountryWhichHeadOfGovernment,
 } from "./questions/misc.ts";
@@ -97,16 +99,18 @@ export class Quiz extends LitElementNoShadow {
 }
 
 type QuestionConstructor = new (lives: number) => Question;
-const questionKinds: QuestionConstructor[] = [
-  MapIsWhichCountryQuestion,
-  CountryWhichFlagQuestion,
-  FlagOfWhichCountryQuestion,
-  CountryHasWhichCapitalQuestion,
-  CaptialInWhichCountryQuestion,
-  RegionInWhichCountryQuestion,
-  CountryHasWhatPopulationQuestion,
-  CountryWhichBordersQuestion,
-  CountryWhichHeadOfGovernment,
+var questionKinds: QuestionConstructor[] = [
+  // MapIsWhichCountryQuestion,
+  // CountryWhichFlagQuestion,
+  // FlagOfWhichCountryQuestion,
+  // CountryHasWhichCapitalQuestion,
+  // CaptialInWhichCountryQuestion,
+  // RegionInWhichCountryQuestion,
+  // CountryPopulationComparison,
+  // CountryWhichBordersQuestion,
+  // CountryWhichHeadOfGovernment,
+  // CountryInWhichContinent,
+  ContinentNameCountry,
 ];
 
 @customElement("x-question")
@@ -158,17 +162,19 @@ export class OptionSelection extends LitElementNoShadow {
   render() {
     const correctButton = createRef<HTMLButtonElement>();
     const choices = this.choices.map((choice, i) => {
-      const { event, classes, button } =
+      const { event, classes, button, timeout } =
         i == this.correct
           ? {
               event: "answer-correct",
               classes: ["wiggle", "text-slate-900"],
               button: correctButton,
+              timeout: 500,
             }
           : {
               event: "answer-incorrect",
               classes: ["bg-red-600!", "border-red-600!", "text-slate-900!"],
               button: createRef<HTMLButtonElement>(),
+              timeout: 1500,
             };
 
       return html`<button
@@ -188,7 +194,7 @@ export class OptionSelection extends LitElementNoShadow {
                   detail: { fatal: this.fatal },
                 }),
               ),
-            500,
+            timeout,
           );
         }}
         ${ref(button)}

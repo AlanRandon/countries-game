@@ -30,6 +30,10 @@
       "type": "literal",
       "value": "Libreville"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Raymond Ndong Sima"
@@ -73,6 +77,10 @@
     "capitals": {
       "type": "literal",
       "value": "Banjul"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -118,6 +126,10 @@
       "type": "literal",
       "value": "Conakry"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bah Oury"
@@ -161,6 +173,10 @@
     "capitals": {
       "type": "literal",
       "value": "Bissau"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -206,6 +222,10 @@
       "type": "literal",
       "value": "Yamoussoukro"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Robert Beugré Mambé"
@@ -249,6 +269,10 @@
     "capitals": {
       "type": "literal",
       "value": "Yaoundé"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -294,6 +318,10 @@
       "type": "literal",
       "value": "Praia"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Ulisses Correia e Silva"
@@ -337,6 +365,10 @@
     "capitals": {
       "type": "literal",
       "value": "Maseru"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -382,6 +414,10 @@
       "type": "literal",
       "value": "Monrovia"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Joseph Boakai"
@@ -425,6 +461,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tripoli"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -470,6 +510,10 @@
       "type": "literal",
       "value": "Antananarivo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Christian Ntsay"
@@ -513,6 +557,10 @@
     "capitals": {
       "type": "literal",
       "value": "Lilongwe"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -558,6 +606,10 @@
       "type": "literal",
       "value": "Nouakchott"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Moctar Ould Djay"
@@ -568,7 +620,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Algeria$DIVIDE$Western Sahara$DIVIDE$Mali$DIVIDE$Senegal"
+      "value": "Senegal$DIVIDE$Algeria$DIVIDE$Western Sahara$DIVIDE$Mali"
     }
   },
   {
@@ -601,6 +653,10 @@
     "capitals": {
       "type": "literal",
       "value": "Port Louis"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -640,11 +696,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "37076584"
+      "value": "36828330"
     },
     "capitals": {
       "type": "literal",
       "value": "Rabat"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -690,6 +750,10 @@
       "type": "literal",
       "value": "Maputo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Adriano Maleiane"
@@ -734,9 +798,13 @@
       "type": "literal",
       "value": "Windhoek"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Saara Kuugongelwa"
+      "value": "Elijah Ngurare"
     },
     "divisions": {
       "type": "literal",
@@ -778,9 +846,13 @@
       "type": "literal",
       "value": "Niamey"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Ouhoumoudou Mahamadou$DIVIDE$Albadé Abouba$DIVIDE$Ali Lamine Zeine$DIVIDE$Ali Badjo Gamatié$DIVIDE$Ibrahim Assane Mayaki$DIVIDE$Seyni Oumarou$DIVIDE$Hama Amadou$DIVIDE$Mahamadou Danda$DIVIDE$Brigi Rafini"
+      "value": "Brigi Rafini$DIVIDE$Mahamadou Danda$DIVIDE$Hama Amadou$DIVIDE$Seyni Oumarou$DIVIDE$Ibrahim Assane Mayaki$DIVIDE$Ali Badjo Gamatié$DIVIDE$Ali Lamine Zeine$DIVIDE$Albadé Abouba$DIVIDE$Ouhoumoudou Mahamadou"
     },
     "divisions": {
       "type": "literal",
@@ -821,6 +893,10 @@
     "capitals": {
       "type": "literal",
       "value": "Abuja"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -866,6 +942,10 @@
       "type": "literal",
       "value": "Kampala"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Robinah Nabbanja"
@@ -904,11 +984,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "13246394"
+      "value": "14569341"
     },
     "capitals": {
       "type": "literal",
       "value": "Kigali"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -954,6 +1038,10 @@
       "type": "literal",
       "value": "São Tomé"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Patrice Trovoada"
@@ -998,6 +1086,10 @@
       "type": "literal",
       "value": "Dakar"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bassirou Diomaye Diakhar Faye"
@@ -1008,7 +1100,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mauritania$DIVIDE$Mali"
+      "value": "Mauritania$DIVIDE$The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mali"
     }
   },
   {
@@ -1041,6 +1133,10 @@
     "capitals": {
       "type": "literal",
       "value": "Victoria"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1086,6 +1182,10 @@
       "type": "literal",
       "value": "Freetown"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "David Sengeh"
@@ -1130,6 +1230,10 @@
       "type": "literal",
       "value": "Mogadishu"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mohamed Hussein Roble"
@@ -1140,7 +1244,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Ethiopia$DIVIDE$Kenya$DIVIDE$Djibouti"
+      "value": "Djibouti$DIVIDE$Ethiopia$DIVIDE$Kenya"
     }
   },
   {
@@ -1173,6 +1277,10 @@
     "capitals": {
       "type": "literal",
       "value": "Khartoum"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1216,7 +1324,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Lobamba$DIVIDE$Mbabane"
+      "value": "Mbabane$DIVIDE$Lobamba"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1262,6 +1374,10 @@
       "type": "literal",
       "value": "Nairobi"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "William Ruto"
@@ -1306,9 +1422,13 @@
       "type": "literal",
       "value": "Addis Ababa"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Abiy Ahmed Ali"
+      "value": "Abiy Ahmed"
     },
     "divisions": {
       "type": "literal",
@@ -1349,6 +1469,10 @@
     "capitals": {
       "type": "literal",
       "value": "Accra"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1392,7 +1516,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Pristina"
+      "value": "Prishtina"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1438,6 +1566,10 @@
       "type": "literal",
       "value": "Paris"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "François Bayrou"
@@ -1481,6 +1613,10 @@
     "capitals": {
       "type": "literal",
       "value": "London"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1526,6 +1662,10 @@
       "type": "literal",
       "value": "Beijing"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Li Qiang"
@@ -1569,6 +1709,10 @@
     "capitals": {
       "type": "literal",
       "value": "Brasília"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1614,6 +1758,10 @@
       "type": "literal",
       "value": "Moscow"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mikhail Mishustin"
@@ -1657,6 +1805,10 @@
     "capitals": {
       "type": "literal",
       "value": "Ottawa"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1702,6 +1854,10 @@
       "type": "literal",
       "value": "Tokyo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Shigeru Ishiba"
@@ -1746,6 +1902,10 @@
       "type": "literal",
       "value": "Berlin"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Olaf Scholz"
@@ -1784,15 +1944,19 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "9155978"
+      "value": "9109280"
     },
     "capitals": {
       "type": "literal",
       "value": "Minsk"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Raman Halouchanka"
+      "value": "Alaksandar Turčyn"
     },
     "divisions": {
       "type": "literal",
@@ -1834,9 +1998,13 @@
       "type": "literal",
       "value": "Reykjavík"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Bjarni Benediktsson"
+      "value": "Kristrún Mjöll Frostadóttir"
     },
     "divisions": {
       "type": "literal",
@@ -1872,11 +2040,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "1374687"
+      "value": "1369995"
     },
     "capitals": {
       "type": "literal",
       "value": "Tallinn"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -1922,6 +2094,10 @@
       "type": "literal",
       "value": "Oslo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Jonas Gahr Støre"
@@ -1965,6 +2141,10 @@
     "capitals": {
       "type": "literal",
       "value": "Riga"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2010,6 +2190,10 @@
       "type": "literal",
       "value": "Kyiv"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Denys Shmyhal"
@@ -2053,6 +2237,10 @@
     "capitals": {
       "type": "literal",
       "value": "Prague"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2098,6 +2286,10 @@
       "type": "literal",
       "value": "Bratislava"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Robert Fico"
@@ -2141,6 +2333,10 @@
     "capitals": {
       "type": "literal",
       "value": "Ljubljana"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2186,6 +2382,10 @@
       "type": "literal",
       "value": "Chișinău"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Dorin Recean"
@@ -2229,6 +2429,10 @@
     "capitals": {
       "type": "literal",
       "value": "Bucharest"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2274,6 +2478,10 @@
       "type": "literal",
       "value": "Sofia"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Rosen Zhelyazkov"
@@ -2295,7 +2503,7 @@
     "countryLabel": {
       "xml:lang": "en",
       "type": "literal",
-      "value": "Palestine"
+      "value": "State of Palestine"
     },
     "isoCode": {
       "type": "literal",
@@ -2316,7 +2524,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Ramallah$DIVIDE$Jerusalem"
+      "value": "Jerusalem$DIVIDE$Ramallah"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2362,6 +2574,10 @@
       "type": "literal",
       "value": "Skopje"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Hristijan Mickoski"
@@ -2405,6 +2621,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tirana"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2450,9 +2670,13 @@
       "type": "literal",
       "value": "Nuuk"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Múte Bourup Egede"
+      "value": "Jens-Frederik Nielsen"
     },
     "divisions": {
       "type": "literal",
@@ -2493,6 +2717,10 @@
     "capitals": {
       "type": "literal",
       "value": "Zagreb"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2538,6 +2766,10 @@
       "type": "literal",
       "value": "Sarajevo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Borjana Krišto"
@@ -2580,7 +2812,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Shusha$DIVIDE$Baku"
+      "value": "Baku"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2620,11 +2856,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "87097"
+      "value": "87486"
     },
     "capitals": {
       "type": "literal",
       "value": "Andorra la Vella"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2670,6 +2910,10 @@
       "type": "literal",
       "value": "Nicosia"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Nicos Christodoulides"
@@ -2713,6 +2957,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tbilisi"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2758,6 +3006,10 @@
       "type": "literal",
       "value": "Astana"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Älihan Smaiylov"
@@ -2802,6 +3054,10 @@
       "type": "literal",
       "value": "Valletta"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Robert Abela"
@@ -2837,6 +3093,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tskhinvali"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2876,11 +3136,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "38350"
+      "value": "39050"
     },
     "capitals": {
       "type": "literal",
-      "value": ""
+      "value": "Commune of Monaco"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -2926,6 +3190,10 @@
       "type": "literal",
       "value": "Podgorica"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Milojko Spajić"
@@ -2960,11 +3228,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "390745"
+      "value": "476214"
     },
     "capitals": {
       "type": "literal",
       "value": "North Nicosia"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe$DIVIDE$Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3010,6 +3282,10 @@
       "type": "literal",
       "value": ""
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Raffaella Petrini"
@@ -3053,6 +3329,10 @@
     "capitals": {
       "type": "literal",
       "value": "San Marino"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3098,6 +3378,10 @@
       "type": "literal",
       "value": "Havana"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Manuel Marrero Cruz"
@@ -3141,6 +3425,10 @@
     "capitals": {
       "type": "literal",
       "value": "Belmopan"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3186,6 +3474,10 @@
       "type": "literal",
       "value": "Bridgetown"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mia Mottley"
@@ -3230,6 +3522,10 @@
       "type": "literal",
       "value": "Jakarta"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Prabowo Subianto"
@@ -3272,7 +3568,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Bloemfontein$DIVIDE$Cape Town$DIVIDE$Pretoria"
+      "value": "Pretoria$DIVIDE$Cape Town$DIVIDE$Bloemfontein"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3318,6 +3618,10 @@
       "type": "literal",
       "value": "Algiers"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Nadir Larbaoui"
@@ -3362,6 +3666,10 @@
       "type": "literal",
       "value": "Tashkent"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Abdulla Nigmatovich Aripov"
@@ -3372,7 +3680,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Tajikistan$DIVIDE$Turkmenistan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan"
+      "value": "Turkmenistan$DIVIDE$Afghanistan$DIVIDE$Tajikistan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan"
     }
   },
   {
@@ -3405,6 +3713,10 @@
     "capitals": {
       "type": "literal",
       "value": "Avarua"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3450,6 +3762,10 @@
       "type": "literal",
       "value": "Dublin"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Micheál Martin"
@@ -3494,6 +3810,10 @@
       "type": "literal",
       "value": "Budapest"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Viktor Orbán"
@@ -3530,9 +3850,13 @@
       "type": "literal",
       "value": "Buea"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Rev Njini$DIVIDE$Hariscine Abongwa$DIVIDE$Eric Ateh$DIVIDE$Dabney Yerima"
+      "value": "Dabney Yerima$DIVIDE$Eric Ateh$DIVIDE$Hariscine Abongwa$DIVIDE$Rev Njini"
     },
     "divisions": {
       "type": "literal",
@@ -3568,11 +3892,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "47415750"
+      "value": "48592909"
     },
     "capitals": {
       "type": "literal",
       "value": "Madrid"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3618,6 +3946,10 @@
       "type": "literal",
       "value": "Santiago"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Gabriel Boric"
@@ -3628,7 +3960,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Peru$DIVIDE$Argentina"
+      "value": "Peru$DIVIDE$Bolivia$DIVIDE$Argentina"
     }
   },
   {
@@ -3661,6 +3993,10 @@
     "capitals": {
       "type": "literal",
       "value": "Amsterdam"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3706,6 +4042,10 @@
       "type": "literal",
       "value": "Washington, D.C."
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Donald Trump"
@@ -3750,6 +4090,10 @@
       "type": "literal",
       "value": "City of Brussels"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bart De Wever"
@@ -3785,6 +4129,10 @@
     "capitals": {
       "type": "literal",
       "value": "Sukhumi"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3830,6 +4178,10 @@
       "type": "literal",
       "value": "Luxembourg"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Luc Frieden"
@@ -3873,6 +4225,10 @@
     "capitals": {
       "type": "literal",
       "value": "Helsinki"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -3918,6 +4274,10 @@
       "type": "literal",
       "value": "Singapore"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Lawrence Wong"
@@ -3961,6 +4321,10 @@
     "capitals": {
       "type": "literal",
       "value": "Stockholm"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4006,6 +4370,10 @@
       "type": "literal",
       "value": "Alofi"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Dalton Tagelagi"
@@ -4050,6 +4418,10 @@
       "type": "literal",
       "value": "Vaduz"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Daniel Risch"
@@ -4089,6 +4461,10 @@
     "capitals": {
       "type": "literal",
       "value": "Hargeisa"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4134,6 +4510,10 @@
       "type": "literal",
       "value": "Copenhagen"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mette Frederiksen"
@@ -4177,6 +4557,10 @@
     "capitals": {
       "type": "literal",
       "value": "Warsaw"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4222,6 +4606,10 @@
       "type": "literal",
       "value": "Vilnius"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Gintautas Paluckas"
@@ -4265,6 +4653,10 @@
     "capitals": {
       "type": "literal",
       "value": "Rome"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4310,6 +4702,10 @@
       "type": "literal",
       "value": "Bern"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Swiss Federal Council"
@@ -4353,6 +4749,10 @@
     "capitals": {
       "type": "literal",
       "value": "Manama"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4398,6 +4798,10 @@
       "type": "literal",
       "value": "Yerevan"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Nikol Pashinyan"
@@ -4441,6 +4845,10 @@
     "capitals": {
       "type": "literal",
       "value": "Vienna"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4486,9 +4894,13 @@
       "type": "literal",
       "value": "Belgrade"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Miloš Vučević"
+      "value": "Đuro Macut"
     },
     "divisions": {
       "type": "literal",
@@ -4496,7 +4908,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Albania$DIVIDE$Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro$DIVIDE$Croatia"
+      "value": "Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Croatia$DIVIDE$Albania$DIVIDE$Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro"
     }
   },
   {
@@ -4524,7 +4936,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Tifariti$DIVIDE$Laayoune"
+      "value": "Laayoune$DIVIDE$Tifariti"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4570,6 +4986,10 @@
       "type": "literal",
       "value": "Canberra"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Anthony Albanese"
@@ -4613,6 +5033,10 @@
     "capitals": {
       "type": "literal",
       "value": "Athens"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4658,6 +5082,10 @@
       "type": "literal",
       "value": "Buenos Aires"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Javier Milei"
@@ -4668,7 +5096,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Uruguay$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay"
+      "value": "Uruguay$DIVIDE$Bolivia$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay"
     }
   },
   {
@@ -4701,6 +5129,10 @@
     "capitals": {
       "type": "literal",
       "value": "Lima"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4746,6 +5178,10 @@
       "type": "literal",
       "value": "Pyongyang"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Kim Jae-ryong"
@@ -4789,6 +5225,10 @@
     "capitals": {
       "type": "literal",
       "value": "Phnom Penh"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4834,6 +5274,10 @@
       "type": "literal",
       "value": "Ankara"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Recep Tayyip Erdoğan"
@@ -4877,6 +5321,10 @@
     "capitals": {
       "type": "literal",
       "value": "Lisbon"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -4922,6 +5370,10 @@
       "type": "literal",
       "value": "Tórshavn"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Aksel V. Johannesen"
@@ -4965,6 +5417,10 @@
     "capitals": {
       "type": "literal",
       "value": "Dili"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5010,6 +5466,10 @@
       "type": "literal",
       "value": "N'Djamena"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Idriss Déby"
@@ -5020,7 +5480,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Central African Republic$DIVIDE$Niger$DIVIDE$Nigeria$DIVIDE$Sudan$DIVIDE$Libya$DIVIDE$Cameroon"
+      "value": "Libya$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Niger$DIVIDE$Nigeria$DIVIDE$Sudan"
     }
   },
   {
@@ -5054,6 +5514,10 @@
       "type": "literal",
       "value": "Wellington"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Australian continent$DIVIDE$Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Christopher Luxon"
@@ -5083,7 +5547,7 @@
     },
     "geo": {
       "type": "uri",
-      "value": "http://commons.wikimedia.org/data/main/Data:India+outline.map"
+      "value": "http://commons.wikimedia.org/data/main/Data:India.map"
     },
     "flagImage": {
       "type": "uri",
@@ -5097,6 +5561,10 @@
     "capitals": {
       "type": "literal",
       "value": "New Delhi"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5136,11 +5604,15 @@
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
       "type": "literal",
-      "value": "11792"
+      "value": "10643"
     },
     "capitals": {
       "type": "literal",
       "value": "Funafuti"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5186,6 +5658,10 @@
       "type": "literal",
       "value": "Nukuʻalofa"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "ʻAisake Eke"
@@ -5230,9 +5706,13 @@
       "type": "literal",
       "value": "Apia"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Fiamē Naomi Mataʻafa$DIVIDE$Tuila'epa Sa'ilele Malielegaoi"
+      "value": "Tuila'epa Sa'ilele Malielegaoi$DIVIDE$Fiamē Naomi Mataʻafa"
     },
     "divisions": {
       "type": "literal",
@@ -5273,6 +5753,10 @@
     "capitals": {
       "type": "literal",
       "value": "Honiara"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5318,6 +5802,10 @@
       "type": "literal",
       "value": "Port Vila"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bob Loughman"
@@ -5361,6 +5849,10 @@
     "capitals": {
       "type": "literal",
       "value": "Port Moresby"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5406,6 +5898,10 @@
       "type": "literal",
       "value": "Ngerulmud"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Surangel Whipps Jr."
@@ -5449,6 +5945,10 @@
     "capitals": {
       "type": "literal",
       "value": "Yaren District"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5494,6 +5994,10 @@
       "type": "literal",
       "value": "Palikir"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Wesley Simina"
@@ -5538,6 +6042,10 @@
       "type": "literal",
       "value": "Majuro"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Hilda Heine"
@@ -5580,7 +6088,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "South Tarawa$DIVIDE$Tarawa"
+      "value": "Tarawa$DIVIDE$South Tarawa"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania$DIVIDE$Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5626,6 +6138,10 @@
       "type": "literal",
       "value": "Ulaanbaatar"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Oyunerdene Luvsannamsrai"
@@ -5669,6 +6185,10 @@
     "capitals": {
       "type": "literal",
       "value": "Suva"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Insular Oceania"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5714,6 +6234,10 @@
       "type": "literal",
       "value": "Caracas"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Nicolás Maduro"
@@ -5724,7 +6248,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Brazil$DIVIDE$Guyana$DIVIDE$Colombia"
+      "value": "Guyana$DIVIDE$Colombia$DIVIDE$Brazil"
     }
   },
   {
@@ -5758,6 +6282,10 @@
       "type": "literal",
       "value": "Paramaribo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America$DIVIDE$North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Chan Santokhi"
@@ -5768,7 +6296,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "France$DIVIDE$Brazil$DIVIDE$Guyana"
+      "value": "Guyana$DIVIDE$France$DIVIDE$Brazil"
     }
   },
   {
@@ -5802,6 +6330,10 @@
       "type": "literal",
       "value": "Asunción"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Santiago Peña Palacios"
@@ -5812,7 +6344,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Bolivia$DIVIDE$Brazil$DIVIDE$Argentina"
+      "value": "Brazil$DIVIDE$Bolivia$DIVIDE$Argentina"
     }
   },
   {
@@ -5845,6 +6377,10 @@
     "capitals": {
       "type": "literal",
       "value": "Georgetown"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -5890,6 +6426,10 @@
       "type": "literal",
       "value": "Quito"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Daniel Noboa"
@@ -5934,6 +6474,10 @@
       "type": "literal",
       "value": "Bogotá"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Gustavo Petro"
@@ -5976,7 +6520,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Sucre$DIVIDE$La Paz"
+      "value": "La Paz$DIVIDE$Sucre"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6022,6 +6570,10 @@
       "type": "literal",
       "value": "Port of Spain"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Keith Rowley"
@@ -6065,6 +6617,10 @@
     "capitals": {
       "type": "literal",
       "value": "Kingstown"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6110,6 +6666,10 @@
       "type": "literal",
       "value": "Castries"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Allen Chastanet"
@@ -6153,6 +6713,10 @@
     "capitals": {
       "type": "literal",
       "value": "Basseterre"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6198,6 +6762,10 @@
       "type": "literal",
       "value": "Kingston"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Andrew Holness"
@@ -6241,6 +6809,10 @@
     "capitals": {
       "type": "literal",
       "value": "St. George's"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6286,6 +6858,10 @@
       "type": "literal",
       "value": "Montevideo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Yamandú Orsi"
@@ -6330,6 +6906,10 @@
       "type": "literal",
       "value": "Guatemala City"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bernardo Arévalo de León"
@@ -6340,7 +6920,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Belize$DIVIDE$Honduras$DIVIDE$El Salvador$DIVIDE$Mexico"
+      "value": "Mexico$DIVIDE$Belize$DIVIDE$Honduras$DIVIDE$El Salvador"
     }
   },
   {
@@ -6374,9 +6954,13 @@
       "type": "literal",
       "value": "Nassau"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Hubert Minnis$DIVIDE$Philip \"Brave\" Davis$DIVIDE$Hubert Ingraham$DIVIDE$Perry Christie"
+      "value": "Perry Christie$DIVIDE$Hubert Ingraham$DIVIDE$Philip \"Brave\" Davis$DIVIDE$Hubert Minnis"
     },
     "divisions": {
       "type": "literal",
@@ -6417,6 +7001,10 @@
     "capitals": {
       "type": "literal",
       "value": "Saint John's"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6462,9 +7050,13 @@
       "type": "literal",
       "value": "Tegucigalpa"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Xiomara Castro$DIVIDE$Juan Orlando Hernández$DIVIDE$Carlos Roberto Flores$DIVIDE$Ricardo Maduro$DIVIDE$Roberto Micheletti$DIVIDE$Manuel Zelaya$DIVIDE$Porfirio Lobo Sosa"
+      "value": "Porfirio Lobo Sosa$DIVIDE$Manuel Zelaya$DIVIDE$Roberto Micheletti$DIVIDE$Ricardo Maduro$DIVIDE$Carlos Roberto Flores$DIVIDE$Juan Orlando Hernández$DIVIDE$Xiomara Castro"
     },
     "divisions": {
       "type": "literal",
@@ -6505,6 +7097,10 @@
     "capitals": {
       "type": "literal",
       "value": "Roseau"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6550,6 +7146,10 @@
       "type": "literal",
       "value": "Santo Domingo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Luis Abinader"
@@ -6593,6 +7193,10 @@
     "capitals": {
       "type": "literal",
       "value": "Cairo"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6638,6 +7242,10 @@
       "type": "literal",
       "value": "Port-au-Prince"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Alix Didier Fils-Aimé"
@@ -6682,9 +7290,13 @@
       "type": "literal",
       "value": "San Salvador"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Nayib Bukele$DIVIDE$Salvador Sánchez Cerén$DIVIDE$Francisco Flores$DIVIDE$Antonio Saca$DIVIDE$Mauricio Funes"
+      "value": "Mauricio Funes$DIVIDE$Antonio Saca$DIVIDE$Francisco Flores$DIVIDE$Salvador Sánchez Cerén$DIVIDE$Nayib Bukele"
     },
     "divisions": {
       "type": "literal",
@@ -6692,7 +7304,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Guatemala$DIVIDE$Honduras"
+      "value": "Honduras$DIVIDE$Guatemala"
     }
   },
   {
@@ -6725,6 +7337,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tehran"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6770,6 +7386,10 @@
       "type": "literal",
       "value": "Baghdad"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mohammed Shia' Al Sudani"
@@ -6813,6 +7433,10 @@
     "capitals": {
       "type": "literal",
       "value": "San José"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6858,6 +7482,10 @@
       "type": "literal",
       "value": "Jerusalem"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Benjamin Netanyahu"
@@ -6902,9 +7530,13 @@
       "type": "literal",
       "value": "Panama City"
     },
+    "continents": {
+      "type": "literal",
+      "value": "South America$DIVIDE$North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "José Raúl Mulino$DIVIDE$Laurentino Cortizo$DIVIDE$Juan Carlos Varela$DIVIDE$Martín Torrijos$DIVIDE$Mireya Moscoso$DIVIDE$Ricardo Martinelli"
+      "value": "Ricardo Martinelli$DIVIDE$Mireya Moscoso$DIVIDE$Martín Torrijos$DIVIDE$Juan Carlos Varela$DIVIDE$Laurentino Cortizo$DIVIDE$José Raúl Mulino"
     },
     "divisions": {
       "type": "literal",
@@ -6944,7 +7576,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Aden$DIVIDE$Sanaa"
+      "value": "Sanaa$DIVIDE$Aden"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -6990,6 +7626,10 @@
       "type": "literal",
       "value": "Amman"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Bisher Al-Khasawneh"
@@ -7034,9 +7674,13 @@
       "type": "literal",
       "value": "Managua"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Arnoldo Alemán$DIVIDE$Enrique Bolaños$DIVIDE$Violeta Barrios$DIVIDE$Daniel Ortega"
+      "value": "Daniel Ortega$DIVIDE$Violeta Barrios$DIVIDE$Enrique Bolaños$DIVIDE$Arnoldo Alemán"
     },
     "divisions": {
       "type": "literal",
@@ -7078,9 +7722,13 @@
       "type": "literal",
       "value": "Bishkek"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Adylbek Kasymaliev$DIVIDE$Ulukbek Maripov$DIVIDE$Artjom Nowikow$DIVIDE$Kubatbek Boronov$DIVIDE$Muhammetkaliy Abulgaziyev$DIVIDE$Sapar Isakov$DIVIDE$Sadyr Zhaparov$DIVIDE$Sooronbay Jeenbekov$DIVIDE$Akylbek Japarov"
+      "value": "Akylbek Japarov$DIVIDE$Sooronbay Jeenbekov$DIVIDE$Sadyr Zhaparov$DIVIDE$Sapar Isakov$DIVIDE$Muhammetkaliy Abulgaziyev$DIVIDE$Kubatbek Boronov$DIVIDE$Artjom Nowikow$DIVIDE$Ulukbek Maripov$DIVIDE$Adylbek Kasymaliev"
     },
     "divisions": {
       "type": "literal",
@@ -7121,6 +7769,10 @@
     "capitals": {
       "type": "literal",
       "value": "Kuwait City"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7166,6 +7818,10 @@
       "type": "literal",
       "value": "Vientiane"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Phankham Viphavan"
@@ -7176,7 +7832,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Cambodia$DIVIDE$People's Republic of China$DIVIDE$Vietnam$DIVIDE$Myanmar$DIVIDE$Thailand"
+      "value": "People's Republic of China$DIVIDE$Vietnam$DIVIDE$Thailand$DIVIDE$Cambodia$DIVIDE$Myanmar"
     }
   },
   {
@@ -7209,6 +7865,10 @@
     "capitals": {
       "type": "literal",
       "value": "Beirut"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7254,9 +7914,13 @@
       "type": "literal",
       "value": "Malé"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Mohamed Muizzu"
+      "value": "Mohamed Muzoba"
     },
     "divisions": {
       "type": "literal",
@@ -7298,6 +7962,10 @@
       "type": "literal",
       "value": "Kuala Lumpur"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Anwar Ibrahim"
@@ -7308,7 +7976,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Thailand$DIVIDE$Brunei$DIVIDE$Indonesia"
+      "value": "Indonesia$DIVIDE$Thailand$DIVIDE$Brunei"
     }
   },
   {
@@ -7341,6 +8009,10 @@
     "capitals": {
       "type": "literal",
       "value": "Naypyidaw"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7386,6 +8058,10 @@
       "type": "literal",
       "value": "Kathmandu"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Pushpa Kamal Dahal"
@@ -7429,6 +8105,10 @@
     "capitals": {
       "type": "literal",
       "value": "Muscat"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7474,6 +8154,10 @@
       "type": "literal",
       "value": "Islamabad"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Shehbaz Sharif"
@@ -7484,7 +8168,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Afghanistan$DIVIDE$Iran$DIVIDE$People's Republic of China$DIVIDE$India"
+      "value": "Afghanistan$DIVIDE$People's Republic of China$DIVIDE$Iran$DIVIDE$India"
     }
   },
   {
@@ -7517,6 +8201,10 @@
     "capitals": {
       "type": "literal",
       "value": "Doha"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7562,6 +8250,10 @@
       "type": "literal",
       "value": "Riyadh"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Salman bin Abdulaziz Al Saud"
@@ -7572,7 +8264,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Oman$DIVIDE$Iraq$DIVIDE$Jordan$DIVIDE$Kuwait$DIVIDE$Houthi movement$DIVIDE$United Arab Emirates$DIVIDE$Qatar"
+      "value": "Oman$DIVIDE$Iraq$DIVIDE$Jordan$DIVIDE$Kuwait$DIVIDE$Houthis$DIVIDE$United Arab Emirates$DIVIDE$Qatar"
     }
   },
   {
@@ -7604,7 +8296,11 @@
     },
     "capitals": {
       "type": "literal",
-      "value": "Sri Jayawardenepura Kotte$DIVIDE$Colombo"
+      "value": "Colombo$DIVIDE$Sri Jayawardenepura Kotte"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7639,7 +8335,7 @@
     },
     "flagImage": {
       "type": "uri",
-      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg"
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Syria%20%282025-%29%20%28stars%20variant%29.svg"
     },
     "population": {
       "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
@@ -7650,9 +8346,13 @@
       "type": "literal",
       "value": "Damascus"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Mohammed al-Bashir"
+      "value": ""
     },
     "divisions": {
       "type": "literal",
@@ -7660,7 +8360,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Turkey$DIVIDE$Lebanon$DIVIDE$Iraq$DIVIDE$Israel$DIVIDE$Jordan"
+      "value": "Iraq$DIVIDE$Israel$DIVIDE$Jordan$DIVIDE$Turkey$DIVIDE$Lebanon"
     }
   },
   {
@@ -7694,6 +8394,10 @@
       "type": "literal",
       "value": "Dushanbe"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Kokhir Rasulzoda"
@@ -7704,7 +8408,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan"
+      "value": "Afghanistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Uzbekistan"
     }
   },
   {
@@ -7737,6 +8441,10 @@
     "capitals": {
       "type": "literal",
       "value": "Taipei"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7782,6 +8490,10 @@
       "type": "literal",
       "value": "Bangkok"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Paetongtarn Shinawatra"
@@ -7792,7 +8504,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Malaysia$DIVIDE$Myanmar$DIVIDE$Cambodia$DIVIDE$Laos"
+      "value": "Myanmar$DIVIDE$Cambodia$DIVIDE$Laos$DIVIDE$Malaysia"
     }
   },
   {
@@ -7826,6 +8538,10 @@
       "type": "literal",
       "value": "Ashgabat"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Serdar Berdimuhamedow"
@@ -7836,7 +8552,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Kazakhstan$DIVIDE$Afghanistan$DIVIDE$Uzbekistan$DIVIDE$Iran"
+      "value": "Afghanistan$DIVIDE$Uzbekistan$DIVIDE$Kazakhstan$DIVIDE$Iran"
     }
   },
   {
@@ -7869,6 +8585,10 @@
     "capitals": {
       "type": "literal",
       "value": "Abu Dhabi"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -7914,6 +8634,10 @@
       "type": "literal",
       "value": "Hanoi"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Phạm Minh Chính"
@@ -7924,7 +8648,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "People's Republic of China$DIVIDE$Laos$DIVIDE$Cambodia"
+      "value": "Cambodia$DIVIDE$People's Republic of China$DIVIDE$Laos"
     }
   },
   {
@@ -7958,9 +8682,13 @@
       "type": "literal",
       "value": "Seoul"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Yoon Suk Yeol"
+      "value": ""
     },
     "divisions": {
       "type": "literal",
@@ -8001,6 +8729,10 @@
     "capitals": {
       "type": "literal",
       "value": "Kabul"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8046,6 +8778,10 @@
       "type": "literal",
       "value": "Dhaka"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Muhammad Yunus"
@@ -8081,6 +8817,10 @@
     "capitals": {
       "type": "literal",
       "value": "Tiraspol"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Europe"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8126,6 +8866,10 @@
       "type": "literal",
       "value": "Bamako"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Choguel Kokalla Maïga"
@@ -8136,7 +8880,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Guinea$DIVIDE$Niger$DIVIDE$Mauritania$DIVIDE$Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Algeria$DIVIDE$Senegal"
+      "value": "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Algeria$DIVIDE$Guinea$DIVIDE$Niger$DIVIDE$Mauritania$DIVIDE$Senegal"
     }
   },
   {
@@ -8169,6 +8913,10 @@
     "capitals": {
       "type": "literal",
       "value": "Luanda"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8214,9 +8962,13 @@
       "type": "literal",
       "value": "Thimphu"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Lotay Tshering"
+      "value": "Tshering Tobgay"
     },
     "divisions": {
       "type": "literal",
@@ -8257,6 +9009,10 @@
     "capitals": {
       "type": "literal",
       "value": "Bandar Seri Begawan"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8302,6 +9058,10 @@
       "type": "literal",
       "value": "Dodoma"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Samia Hassan Suluhu"
@@ -8312,7 +9072,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Kenya$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Rwanda$DIVIDE$Uganda$DIVIDE$Zambia"
+      "value": "Uganda$DIVIDE$Zambia$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Kenya$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Rwanda"
     }
   },
   {
@@ -8345,6 +9105,10 @@
     "capitals": {
       "type": "literal",
       "value": "Manila"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Asia"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8390,6 +9154,10 @@
       "type": "literal",
       "value": "Bangui"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Félix Moloua"
@@ -8400,7 +9168,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Republic of the Congo$DIVIDE$Chad$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon"
+      "value": "Chad$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Republic of the Congo"
     }
   },
   {
@@ -8434,6 +9202,10 @@
       "type": "literal",
       "value": "Lomé"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Victoire Dogbé Tomegah"
@@ -8444,7 +9216,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Burkina Faso$DIVIDE$Ghana$DIVIDE$Benin"
+      "value": "Benin$DIVIDE$Burkina Faso$DIVIDE$Ghana"
     }
   },
   {
@@ -8478,9 +9250,13 @@
       "type": "literal",
       "value": "Tunis"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Ahmed Hachani"
+      "value": "Sarra Zaafrani"
     },
     "divisions": {
       "type": "literal",
@@ -8488,7 +9264,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Libya$DIVIDE$Algeria"
+      "value": "Algeria$DIVIDE$Libya"
     }
   },
   {
@@ -8522,6 +9298,10 @@
       "type": "literal",
       "value": "Lusaka"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Edgar Lungu"
@@ -8532,7 +9312,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Namibia$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana$DIVIDE$Angola"
+      "value": "Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana$DIVIDE$Namibia$DIVIDE$Malawi$DIVIDE$Angola$DIVIDE$Mozambique"
     }
   },
   {
@@ -8566,6 +9346,10 @@
       "type": "literal",
       "value": "Harare"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Emmerson Mnangagwa"
@@ -8576,7 +9360,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Mozambique$DIVIDE$South Africa$DIVIDE$Zambia$DIVIDE$Botswana"
+      "value": "South Africa$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$Mozambique"
     }
   },
   {
@@ -8610,6 +9394,10 @@
       "type": "literal",
       "value": "Juba"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Salva Kiir Mayardit"
@@ -8620,7 +9408,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Kenya$DIVIDE$Uganda$DIVIDE$Ethiopia$DIVIDE$Central African Republic$DIVIDE$Democratic Republic of the Congo$DIVIDE$Sudan"
+      "value": "Uganda$DIVIDE$Ethiopia$DIVIDE$Central African Republic$DIVIDE$Democratic Republic of the Congo$DIVIDE$Sudan$DIVIDE$Kenya"
     }
   },
   {
@@ -8654,6 +9442,10 @@
       "type": "literal",
       "value": "Mexico City"
     },
+    "continents": {
+      "type": "literal",
+      "value": "North America"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Claudia Sheinbaum"
@@ -8664,7 +9456,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Belize$DIVIDE$Guatemala$DIVIDE$United States"
+      "value": "Guatemala$DIVIDE$United States$DIVIDE$Belize"
     }
   },
   {
@@ -8698,6 +9490,10 @@
       "type": "literal",
       "value": "Porto-Novo"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Patrice Talon"
@@ -8708,7 +9504,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Burkina Faso$DIVIDE$Niger$DIVIDE$Nigeria$DIVIDE$Togo"
+      "value": "Togo$DIVIDE$Burkina Faso$DIVIDE$Niger$DIVIDE$Nigeria"
     }
   },
   {
@@ -8742,6 +9538,10 @@
       "type": "literal",
       "value": "Gaborone"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Mokgweetsi Masisi"
@@ -8752,7 +9552,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe$DIVIDE$South Africa"
+      "value": "South Africa$DIVIDE$Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe"
     }
   },
   {
@@ -8785,6 +9585,10 @@
     "capitals": {
       "type": "literal",
       "value": "Ouagadougou"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8830,6 +9634,10 @@
       "type": "literal",
       "value": "Gitega"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Gervais Ndirakobuca"
@@ -8873,6 +9681,10 @@
     "capitals": {
       "type": "literal",
       "value": "Moroni"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -8918,6 +9730,10 @@
       "type": "literal",
       "value": "Brazzaville"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
       "value": "Clément Mouamba"
@@ -8961,6 +9777,10 @@
     "capitals": {
       "type": "literal",
       "value": "Kinshasa"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -9006,9 +9826,13 @@
       "type": "literal",
       "value": "Djibouti"
     },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
+    },
     "headsOfGov": {
       "type": "literal",
-      "value": "Abdoulkader Kamil Mohamed$DIVIDE$Dileita Mohamed Dileita"
+      "value": "Dileita Mohamed Dileita$DIVIDE$Abdoulkader Kamil Mohamed"
     },
     "divisions": {
       "type": "literal",
@@ -9016,7 +9840,7 @@
     },
     "borderCountries": {
       "type": "literal",
-      "value": "Eritrea$DIVIDE$Ethiopia$DIVIDE$Somalia"
+      "value": "Somalia$DIVIDE$Eritrea$DIVIDE$Ethiopia"
     }
   },
   {
@@ -9049,6 +9873,10 @@
     "capitals": {
       "type": "literal",
       "value": "Malabo"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",
@@ -9093,6 +9921,10 @@
     "capitals": {
       "type": "literal",
       "value": "Asmara"
+    },
+    "continents": {
+      "type": "literal",
+      "value": "Africa"
     },
     "headsOfGov": {
       "type": "literal",

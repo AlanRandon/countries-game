@@ -1,0 +1,2920 @@
+{
+  "head" : {
+    "vars" : [ "country", "countryLabel", "borderCountries" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q786"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominican Republic"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Haiti"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q790"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haiti"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Dominican Republic"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q794"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iran"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Armenia$DIVIDE$Azerbaijan$DIVIDE$Turkey$DIVIDE$Pakistan$DIVIDE$Turkmenistan$DIVIDE$Iraq"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q792"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Salvador"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Honduras$DIVIDE$Guatemala"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q796"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iraq"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Saudi Arabia$DIVIDE$Syria$DIVIDE$Kuwait$DIVIDE$Jordan$DIVIDE$Turkey$DIVIDE$Iran"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q801"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Jordan$DIVIDE$Egypt$DIVIDE$Syria$DIVIDE$Lebanon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q805"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Oman"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q810"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jordan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Israel$DIVIDE$Saudi Arabia$DIVIDE$Iraq$DIVIDE$Syria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q813"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kyrgyzstan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Kazakhstan$DIVIDE$Uzbekistan$DIVIDE$Tajikistan$DIVIDE$People's Republic of China"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q819"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "People's Republic of China$DIVIDE$Vietnam$DIVIDE$Thailand$DIVIDE$Cambodia$DIVIDE$Myanmar"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q817"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuwait"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Saudi Arabia$DIVIDE$Iraq"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q822"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lebanon"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Syria$DIVIDE$Israel"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Indonesia$DIVIDE$Thailand$DIVIDE$Brunei"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q836"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Myanmar"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Thailand$DIVIDE$Laos$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$India"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "India$DIVIDE$People's Republic of China"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q842"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oman"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Yemen$DIVIDE$Saudi Arabia$DIVIDE$United Arab Emirates"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Afghanistan$DIVIDE$People's Republic of China$DIVIDE$Iran$DIVIDE$India"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qatar"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Saudi Arabia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saudi Arabia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Oman$DIVIDE$Iraq$DIVIDE$Jordan$DIVIDE$Kuwait$DIVIDE$Houthis$DIVIDE$United Arab Emirates$DIVIDE$Qatar"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Iraq$DIVIDE$Israel$DIVIDE$Jordan$DIVIDE$Turkey$DIVIDE$Lebanon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q863"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tajikistan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Afghanistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Uzbekistan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q869"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thailand"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Myanmar$DIVIDE$Cambodia$DIVIDE$Laos$DIVIDE$Malaysia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q874"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkmenistan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Afghanistan$DIVIDE$Uzbekistan$DIVIDE$Kazakhstan$DIVIDE$Iran"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q878"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Arab Emirates"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Saudi Arabia$DIVIDE$Oman"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q881"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vietnam"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Cambodia$DIVIDE$People's Republic of China$DIVIDE$Laos"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "North Korea"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q889"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Afghanistan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "People's Republic of China$DIVIDE$Tajikistan$DIVIDE$Pakistan$DIVIDE$Turkmenistan$DIVIDE$Uzbekistan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q912"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mali"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Algeria$DIVIDE$Guinea$DIVIDE$Niger$DIVIDE$Mauritania$DIVIDE$Senegal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Namibia$DIVIDE$Republic of the Congo$DIVIDE$Zambia$DIVIDE$Democratic Republic of the Congo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhutan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "People's Republic of China$DIVIDE$India"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q921"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brunei"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Malaysia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q924"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tanzania"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uganda$DIVIDE$Zambia$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Kenya$DIVIDE$Malawi$DIVIDE$Mozambique$DIVIDE$Rwanda"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q929"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Central African Republic"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Chad$DIVIDE$Sudan$DIVIDE$South Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Republic of the Congo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q948"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tunisia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Algeria$DIVIDE$Libya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q954"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zimbabwe"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$Mozambique"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q953"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zimbabwe$DIVIDE$Botswana$DIVIDE$Namibia$DIVIDE$Malawi$DIVIDE$Angola$DIVIDE$Mozambique"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q958"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Sudan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uganda$DIVIDE$Ethiopia$DIVIDE$Central African Republic$DIVIDE$Democratic Republic of the Congo$DIVIDE$Sudan$DIVIDE$Kenya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Uganda$DIVIDE$Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Rwanda$DIVIDE$South Sudan$DIVIDE$Burundi"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eritrea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Djibouti$DIVIDE$Ethiopia$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1006"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Sierra Leone$DIVIDE$Guinea-Bissau$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Senegal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1007"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea-Bissau"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Senegal$DIVIDE$Guinea"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1005"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Gambia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Senegal"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivory Coast"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guinea$DIVIDE$Ghana$DIVIDE$Liberia$DIVIDE$Mali$DIVIDE$Burkina Faso"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Guinea$DIVIDE$Sierra Leone"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1016"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libya"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Egypt$DIVIDE$Tunisia$DIVIDE$Algeria$DIVIDE$Niger$DIVIDE$Chad$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Botswana$DIVIDE$Mozambique$DIVIDE$Zimbabwe$DIVIDE$Eswatini$DIVIDE$Namibia$DIVIDE$Lesotho"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q262"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algeria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Libya$DIVIDE$Western Sahara$DIVIDE$Mauritania$DIVIDE$Tunisia$DIVIDE$Niger$DIVIDE$Mali$DIVIDE$Morocco"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uzbekistan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Turkmenistan$DIVIDE$Afghanistan$DIVIDE$Tajikistan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Bosnia and Herzegovina$DIVIDE$Bulgaria$DIVIDE$Kosovo$DIVIDE$Croatia$DIVIDE$Albania$DIVIDE$Hungary$DIVIDE$North Macedonia$DIVIDE$Romania$DIVIDE$Montenegro"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peru"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Bolivia$DIVIDE$Colombia$DIVIDE$Ecuador$DIVIDE$Chile$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q423"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Korea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Korea$DIVIDE$Russia$DIVIDE$People's Republic of China"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q424"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Thailand$DIVIDE$Laos$DIVIDE$Vietnam"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chad"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Libya$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Niger$DIVIDE$Nigeria$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q717"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venezuela"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guyana$DIVIDE$Colombia$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q730"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suriname"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guyana$DIVIDE$France$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q734"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guyana"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Suriname$DIVIDE$Venezuela$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q739"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Venezuela$DIVIDE$Peru$DIVIDE$Ecuador$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1009"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cameroon"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Central African Republic$DIVIDE$Republic of the Congo$DIVIDE$Equatorial Guinea$DIVIDE$Gabon$DIVIDE$Nigeria$DIVIDE$Chad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1036"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Sudan$DIVIDE$Democratic Republic of the Congo$DIVIDE$Rwanda$DIVIDE$Tanzania$DIVIDE$South Sudan$DIVIDE$Kenya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1049"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sudan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Kenya$DIVIDE$Uganda$DIVIDE$Eritrea$DIVIDE$Egypt$DIVIDE$Ethiopia$DIVIDE$Libya$DIVIDE$Central African Republic$DIVIDE$South Sudan$DIVIDE$Chad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1246"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kosovo"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "North Macedonia$DIVIDE$Serbia$DIVIDE$Montenegro$DIVIDE$Albania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canada"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Kingdom of Denmark$DIVIDE$United States"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Germany$DIVIDE$Russia$DIVIDE$Slovakia$DIVIDE$Czech Republic$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$Ukraine"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenya"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Sudan$DIVIDE$Ethiopia$DIVIDE$Uganda$DIVIDE$Somalia$DIVIDE$Tanzania$DIVIDE$South Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ethiopia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Somaliland$DIVIDE$Eritrea$DIVIDE$Kenya$DIVIDE$Somalia$DIVIDE$Djibouti$DIVIDE$Sudan$DIVIDE$South Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "United Kingdom$DIVIDE$Luxembourg$DIVIDE$Suriname$DIVIDE$Germany$DIVIDE$Italy$DIVIDE$Switzerland$DIVIDE$Kingdom of the Netherlands$DIVIDE$Monaco$DIVIDE$Andorra$DIVIDE$Belgium$DIVIDE$Brazil$DIVIDE$Spain"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France$DIVIDE$Ireland$DIVIDE$Cyprus"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q148"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People's Republic of China"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Myanmar$DIVIDE$Tajikistan$DIVIDE$Vietnam$DIVIDE$Bhutan$DIVIDE$Kazakhstan$DIVIDE$Kyrgyzstan$DIVIDE$Laos$DIVIDE$Nepal$DIVIDE$Mongolia$DIVIDE$Pakistan$DIVIDE$North Korea$DIVIDE$India$DIVIDE$Russia$DIVIDE$Afghanistan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Suriname$DIVIDE$Venezuela$DIVIDE$Bolivia$DIVIDE$Argentina$DIVIDE$Peru$DIVIDE$Paraguay$DIVIDE$Uruguay$DIVIDE$France$DIVIDE$Colombia$DIVIDE$Guyana"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q159"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Russia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Georgia$DIVIDE$Finland$DIVIDE$Estonia$DIVIDE$North Korea$DIVIDE$Mongolia$DIVIDE$Poland$DIVIDE$Lithuania$DIVIDE$Belarus$DIVIDE$People's Republic of China$DIVIDE$Kazakhstan$DIVIDE$Latvia$DIVIDE$Ukraine$DIVIDE$Norway$DIVIDE$Azerbaijan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Luxembourg$DIVIDE$Poland$DIVIDE$France$DIVIDE$Switzerland$DIVIDE$Austria$DIVIDE$Denmark$DIVIDE$Czech Republic$DIVIDE$Belgium$DIVIDE$Kingdom of the Netherlands"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovenia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Hungary$DIVIDE$Italy$DIVIDE$Croatia$DIVIDE$Austria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Serbia$DIVIDE$Hungary$DIVIDE$Ukraine$DIVIDE$Moldova$DIVIDE$Bulgaria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Greece$DIVIDE$North Macedonia$DIVIDE$Serbia$DIVIDE$Turkey$DIVIDE$Romania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albania"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "North Macedonia$DIVIDE$Montenegro$DIVIDE$Serbia$DIVIDE$Greece$DIVIDE$Kosovo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Macedonia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Albania$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Serbia$DIVIDE$Kosovo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q224"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Croatia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Hungary$DIVIDE$Montenegro$DIVIDE$Bosnia and Herzegovina$DIVIDE$Serbia$DIVIDE$Slovenia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q225"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bosnia and Herzegovina"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Montenegro$DIVIDE$Serbia$DIVIDE$Croatia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Turkey$DIVIDE$Russia$DIVIDE$Armenia$DIVIDE$Azerbaijan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyprus"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kazakhstan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uzbekistan$DIVIDE$Turkmenistan$DIVIDE$People's Republic of China$DIVIDE$Kyrgyzstan$DIVIDE$Russia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montenegro"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Bosnia and Herzegovina$DIVIDE$Croatia$DIVIDE$Serbia$DIVIDE$Kosovo$DIVIDE$Albania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q242"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belize"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guatemala$DIVIDE$Mexico"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q252"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Timor-Leste$DIVIDE$Papua New Guinea$DIVIDE$Malaysia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34754"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Somaliland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ethiopia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belarus"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Latvia$DIVIDE$Poland$DIVIDE$Ukraine$DIVIDE$Russia$DIVIDE$Lithuania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Latvia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Latvia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Belarus$DIVIDE$Russia$DIVIDE$Lithuania$DIVIDE$Estonia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovakia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Austria$DIVIDE$Poland$DIVIDE$Czech Republic$DIVIDE$Hungary$DIVIDE$Ukraine"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ukraine"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Hungary$DIVIDE$Moldova$DIVIDE$Romania$DIVIDE$Belarus$DIVIDE$Slovakia$DIVIDE$Russia$DIVIDE$Poland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czech Republic"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Poland$DIVIDE$Slovakia$DIVIDE$Germany$DIVIDE$Austria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moldova"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ukraine$DIVIDE$Romania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q227"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azerbaijan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Armenia$DIVIDE$Iran$DIVIDE$Georgia$DIVIDE$Turkey"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France$DIVIDE$Spain"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q235"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monaco"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q238"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vatican City"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Peru$DIVIDE$Bolivia$DIVIDE$Argentina"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q414"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uruguay$DIVIDE$Bolivia$DIVIDE$Chile$DIVIDE$Brazil$DIVIDE$Paraguay"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q711"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mongolia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "People's Republic of China$DIVIDE$Russia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q733"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraguay"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Brazil$DIVIDE$Bolivia$DIVIDE$Argentina"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecuador"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Colombia$DIVIDE$Peru"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guatemala"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Mexico$DIVIDE$Belize$DIVIDE$Honduras$DIVIDE$El Salvador"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Myanmar$DIVIDE$India"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q945"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Togo"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Benin$DIVIDE$Burkina Faso$DIVIDE$Ghana"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q962"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benin"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Togo$DIVIDE$Burkina Faso$DIVIDE$Niger$DIVIDE$Nigeria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q977"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Somalia$DIVIDE$Eritrea$DIVIDE$Ethiopia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Senegal$DIVIDE$Algeria$DIVIDE$Western Sahara$DIVIDE$Mali"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1041"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Mauritania$DIVIDE$The Gambia$DIVIDE$Guinea-Bissau$DIVIDE$Guinea$DIVIDE$Mali"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Djibouti$DIVIDE$Ethiopia$DIVIDE$Kenya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ireland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United States"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Canada$DIVIDE$Mexico"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Finland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Sweden$DIVIDE$Norway"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Slovenia$DIVIDE$Switzerland$DIVIDE$San Marino$DIVIDE$France$DIVIDE$Austria$DIVIDE$Vatican City"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Italy$DIVIDE$Austria$DIVIDE$France$DIVIDE$Germany$DIVIDE$Liechtenstein"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guatemala$DIVIDE$United States$DIVIDE$Belize"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q399"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armenia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Turkey$DIVIDE$Azerbaijan$DIVIDE$Iran$DIVIDE$Georgia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q783"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honduras"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guatemala$DIVIDE$Nicaragua$DIVIDE$El Salvador"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q800"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Costa Rica"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Nicaragua$DIVIDE$Panama"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q804"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panama"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Costa Rica"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q811"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicaragua"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Costa Rica$DIVIDE$Honduras"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timor-Leste"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Indonesia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "India"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Nepal$DIVIDE$People's Republic of China$DIVIDE$Bangladesh$DIVIDE$Pakistan$DIVIDE$Bhutan$DIVIDE$Myanmar"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papua New Guinea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Indonesia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Argentina$DIVIDE$Chile$DIVIDE$Paraguay$DIVIDE$Peru$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Botswana"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Namibia$DIVIDE$Zambia$DIVIDE$Zimbabwe"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q971"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Republic of the Congo"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Democratic Republic of the Congo$DIVIDE$Cameroon$DIVIDE$Central African Republic$DIVIDE$Gabon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1030"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Angola$DIVIDE$Zambia$DIVIDE$Botswana$DIVIDE$South Africa"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1028"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morocco"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Western Sahara$DIVIDE$Ceuta$DIVIDE$Algeria$DIVIDE$Spain$DIVIDE$Melilla"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Malawi$DIVIDE$Tanzania$DIVIDE$Zambia$DIVIDE$Eswatini$DIVIDE$Zimbabwe"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1032"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niger"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Algeria$DIVIDE$Burkina Faso$DIVIDE$Benin$DIVIDE$Mali$DIVIDE$Nigeria$DIVIDE$Chad$DIVIDE$Libya"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1033"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Benin$DIVIDE$Cameroon$DIVIDE$Niger$DIVIDE$Chad"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1037"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rwanda"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Uganda$DIVIDE$Democratic Republic of the Congo$DIVIDE$Burundi$DIVIDE$Tanzania"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1044"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sierra Leone"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Guinea$DIVIDE$Liberia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1050"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eswatini"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa$DIVIDE$Mozambique"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29999"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of the Netherlands"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Germany$DIVIDE$Belgium$DIVIDE$France"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Serbia$DIVIDE$Slovenia$DIVIDE$Austria$DIVIDE$Ukraine$DIVIDE$Slovakia$DIVIDE$Romania$DIVIDE$Croatia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France$DIVIDE$Germany$DIVIDE$Belgium"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkey"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Iran$DIVIDE$Iraq$DIVIDE$Bulgaria$DIVIDE$Greece$DIVIDE$Georgia$DIVIDE$Syria$DIVIDE$Armenia$DIVIDE$Azerbaijan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greece"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "North Macedonia$DIVIDE$Turkey$DIVIDE$Albania$DIVIDE$Bulgaria"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Burkina Faso$DIVIDE$Togo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q347"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Austria$DIVIDE$Switzerland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q983"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Equatorial Guinea"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Gabon$DIVIDE$Cameroon"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1000"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabon"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Equatorial Guinea$DIVIDE$Cameroon$DIVIDE$Republic of the Congo"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1013"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lesotho"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "South Africa"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norway"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Sweden$DIVIDE$Finland"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "France$DIVIDE$Germany$DIVIDE$Luxembourg$DIVIDE$Kingdom of the Netherlands"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Andorra$DIVIDE$Gibraltar$DIVIDE$France$DIVIDE$Portugal$DIVIDE$Morocco"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweden"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Finland$DIVIDE$Norway"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Denmark"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lithuania"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Russia$DIVIDE$Poland$DIVIDE$Belarus$DIVIDE$Latvia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Slovakia$DIVIDE$Liechtenstein$DIVIDE$Switzerland$DIVIDE$Hungary$DIVIDE$Italy$DIVIDE$Germany$DIVIDE$Czech Republic$DIVIDE$Slovenia"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egypt"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Israel$DIVIDE$Libya$DIVIDE$Sudan"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Argentina$DIVIDE$Brazil"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219060"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State of Palestine"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q907112"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Transnistria"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2842000"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ambazonia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31354462"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Republic of Abkhazia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q398"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahrain"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q408"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q664"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Zealand"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuvalu"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q678"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tonga"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q683"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samoa"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q686"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vanuatu"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q685"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Solomon Islands"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q695"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palau"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q697"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nauru"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federated States of Micronesia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q710"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kiribati"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q709"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marshall Islands"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q712"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiji"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q754"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trinidad and Tobago"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q757"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Vincent and the Grenadines"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q763"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Kitts and Nevis"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q760"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Lucia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q766"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jamaica"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q769"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grenada"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q778"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Bahamas"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q781"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antigua and Barbuda"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q784"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominica"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maldives"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q854"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippines"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q970"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Comoros"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1011"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Verde"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1019"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madagascar"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1027"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritius"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1039"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Tomé and Príncipe"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1042"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seychelles"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4628"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faroe Islands"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23427"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Ossetia"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23681"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Cyprus"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26988"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cook Islands"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iceland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q223"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greenland"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barbados"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34020"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niue"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40362"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sahrawi Arab Democratic Republic"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q967"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burundi"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo$DIVIDE$Tanzania$DIVIDE$Rwanda"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q965"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burkina Faso"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Ivory Coast$DIVIDE$Ghana$DIVIDE$Mali$DIVIDE$Niger$DIVIDE$Togo$DIVIDE$Benin"
+      }
+    }, {
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1020"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malawi"
+      },
+      "borderCountries" : {
+        "type" : "literal",
+        "value" : "Zambia$DIVIDE$Tanzania$DIVIDE$Mozambique"
+      }
+    } ]
+  }
+}
