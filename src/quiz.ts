@@ -100,16 +100,16 @@ export class Quiz extends LitElementNoShadow {
 
 type QuestionConstructor = new (lives: number) => Question;
 var questionKinds: QuestionConstructor[] = [
-  // MapIsWhichCountryQuestion,
-  // CountryWhichFlagQuestion,
-  // FlagOfWhichCountryQuestion,
-  // CountryHasWhichCapitalQuestion,
-  // CaptialInWhichCountryQuestion,
-  // RegionInWhichCountryQuestion,
-  // CountryPopulationComparison,
-  // CountryWhichBordersQuestion,
-  // CountryWhichHeadOfGovernment,
-  // CountryInWhichContinent,
+  MapIsWhichCountryQuestion,
+  CountryWhichFlagQuestion,
+  FlagOfWhichCountryQuestion,
+  CountryHasWhichCapitalQuestion,
+  CaptialInWhichCountryQuestion,
+  RegionInWhichCountryQuestion,
+  CountryPopulationComparison,
+  CountryWhichBordersQuestion,
+  CountryWhichHeadOfGovernment,
+  CountryInWhichContinent,
   ContinentNameCountry,
 ];
 
